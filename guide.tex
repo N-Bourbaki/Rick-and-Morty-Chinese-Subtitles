@@ -1,0 +1,43 @@
+\documentclass{ctexart}
+
+\title{出道指南}
+\author{fjn308}
+\date{}
+
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\begin{document}
+
+\maketitle
+
+\begin{itemize}
+    \item 前往 \href{https://github.com/join}{\texttt{github.com/join}} 注册账户，只需提供一枚邮箱
+    \item 登录GitHub，前往fjn308在GitHub的主页：
+    
+    \href{https://github.com/fjn308?tab=repositories}{\texttt{github.com/fjn308?tab=repositories}}
+    \item 点击你要参与改错的项目，即{\color{blue} \texttt{rm-chs-amzn}}，\texttt{amzn}指片源版本。进入后，可以看到页面顶端写着{\color{blue} \texttt{fjn308/rm-chs-amzn}}
+    \item 点击右上角的\texttt{Fork}按钮（这个单词，而不是它右边的数字），等待一会儿。这个动作的意思是把由fjn308上传的字幕文件们复制粘贴到你自己的账号中，因此，新的页面顶端写着{\color{blue} \texttt{yourID/rm-chs-amzn}}
+    \item 在页面中间，你能看到几行文件名，其中一行是{\color{blue} \texttt{README.md}}，它就是显示在项目{\color{blue} \texttt{rm-chs-amzn}}主页的说明；其他几行则相当的长，它们其实是字幕文件。这些行文件名的左上角有一个\texttt{Branch: master}按钮，点击之，随即出现一个文本框，仿佛让你输入什么。你输入\texttt{edit1}，下方浮现出一个选项：\texttt{Creat branch: edit1 from 'master'}，点击之
+    \item 尽管不懂细节，但你大概知道，你刚刚为自己的字幕文件副本创建了一个叫branch的东西，还给它取名叫\texttt{edit1}。因为你注意到，刚刚显示着\texttt{Branch: master}按钮的地方，现在是\texttt{Branch: edit1}，除此之外仿佛没有变化——你意识到刚刚的操作类似于在自己的账号下又对字幕文件做了一次复制粘贴
+    \item 先不要问这些都是什么！请继续按我说的做！到时候你自会理解！
+    \item 现在找到包含了错误翻译的字幕文件的文件名{\color{blue} \texttt{Rick.and.Morty.S\#\#E\#\#}}
+    
+    {\color{blue} \texttt{...}}，也就是你要改错的那集的字幕，点击它，进入新的页面
+    \item 新页面的主体是一行行纯文本，你可以认出来，这就是用文本编辑器打开字幕文件的样子。这个纯文本区域的右上角有三个图标：电脑、铅笔和垃圾桶，点击铅笔，你知道这就是要修改字幕文件了
+    \item 现在，你仿佛在使用一个网页版写字板。找到你认为翻译有语义错误的地方，把它替换成你认为正确的翻译。注意只修改一行或连续几行！如果你还有别处想要修改也先就此打住！其中的原因你很快会懂！
+    \item 修改中注意不要触及中文前面的\texttt{...,,0,0,0,,}和后面的\texttt{\textbackslash N\{\textbackslash rEng\}...}，注意保持翻译的格式，如用空格替代逗号等
+    \item 然后，到页面最底端，点击绿色按钮\colorbox{teal}{{\color{white} \texttt{Commit changes}}}——你修改了刚刚得到的所谓\texttt{edit1 branch}的字幕文件副本，但\texttt{master branch}的副本未受影响
+    \item 现在看页面顶端，写着：{\color{blue} \texttt{yourID/rm-chs-amzn}}，下接一行小字\texttt{forked from} {\color{blue} \texttt{fjn308/rm-chs-amzn}}，点击小字{\color{blue} \texttt{fjn308/rm-chs-amzn}}。是的，我们回到了最初的地方
+    \item 在这里，你将看到一个醒目的黄框：
+    
+    \colorbox{yellow}{\texttt{yourID:edit1(less than a minute ago)} \colorbox{teal}{{\color{white} \texttt{Compare \& pull request}}}}，
+    
+    点击绿色按钮\colorbox{teal}{{\color{white} \texttt{Compare \& pull request}}}
+    \item 在新的页面中，下拉到底，你会看到一个清晰展示你做了什么修改的酷炫界面。滚动鼠标滚轮回到上面，有两个文本框待输入。一个是标题，一个是内容，就像邮件的主题和正文。在这里，你需要对自己修改的理由做必要解释，然后点击\colorbox{teal}{{\color{white} \texttt{Create pull request}}}——至此，你向我提交了第一个修改建议。如果我觉得你的修改合理，就会把你的修改融合（merge）到项目中，感谢！
+    \item 现在你应该明白了为什么我要求只修改一行或连续几行，原因在于修改的地方越多，和其他人的修改产生冲突的可能性就越大，你在解释区的表达也会越凌乱；你还意识到，刚才使用的\texttt{edit1}这个名字只是我为了叙述方便瞎起的，你其实可以随意命名
+    \item 如果你还想提交第二处修改，就请回到自己的项目\texttt{github.com/your}
+    
+    \texttt{ID/rm-chs-amzn}中再\texttt{Creat branch}，重复刚才的操作吧！恭喜你！你已顺利出道！
+\end{itemize}
+\end{document}
