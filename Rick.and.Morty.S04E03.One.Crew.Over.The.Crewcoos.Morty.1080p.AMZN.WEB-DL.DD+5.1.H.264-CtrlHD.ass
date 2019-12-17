@@ -1,0 +1,513 @@
+﻿[Script Info]
+Title: RM S04E03 by fjn308
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,微软雅黑,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Git,Comic Sans MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Chn,微软雅黑,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,20,1
+Style: Eng,Comic Sans MS,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.25,0:00:04.75,Top,,0,0,0,,本字幕由fjn308翻译并发布于SubHD 修正时参照了se9fault的校对
+Dialogue: 0,0:00:05.25,0:00:09.75,Top,,0,0,0,,转载请保留字幕信息 fjn308不对任何利用本字幕生成的视频负责
+Dialogue: 0,0:00:10.25,0:00:14.75,Top,,0,0,0,,独立译制 费时费力 难保质量 大概率将半途而废 计划招募志愿者
+Dialogue: 0,0:00:15.25,0:00:19.75,Top,,0,0,0,,有意者请前往{\rGit}https://github.com/fjn308/rm-chs-amzn
+Dialogue: 0,0:00:20.25,0:00:25.75,Top,,0,0,0,,GitHub CONTRIBUTORS：aboolou
+Dialogue: 0,0:01:53.00,0:02:00.00,Top,,0,0,0,,盗窃展
+Dialogue: 0,0:00:01.69,0:00:04.03,Chn,,0,0,0,,Rick 这么陡的坡我爬不了\N{\rEng}Rick, I-I'm not rated to climb something this sheer.
+Dialogue: 0,0:00:04.07,0:00:06.04,Chn,,0,0,0,,注意 要个史诗级冒险的人是你\N{\rEng}Look, you're the guy that wanted an epic adventure.
+Dialogue: 0,0:00:06.07,0:00:07.86,Chn,,0,0,0,,我要的只是一把悬浮椅\N{\rEng}I'm the guy with only one hover chair.
+Dialogue: 0,0:00:07.90,0:00:10.25,Chn,,0,0,0,,该死 外星蜘蛛刚咬了我的手指\N{\rEng}Goddammit, an alien spider just bit my finger!
+Dialogue: 0,0:00:10.28,0:00:11.39,Chn,,0,0,0,,你爬的就是外星悬崖\N{\rEng}It's an alien cliff.
+Dialogue: 0,0:00:11.42,0:00:13.25,Chn,,0,0,0,,叫它蜘蛛就行了\N{\rEng}You can just say spider.
+Dialogue: 0,0:00:14.87,0:00:16.87,Chn,,0,0,0,,一个小时前你就不能这么做吗\N{\rEng}You couldn't do that an hour ago?
+Dialogue: 0,0:00:16.91,0:00:19.26,Chn,,0,0,0,,当时我在吃饭 你还那么脏\N{\rEng}I was eating, and you're dirty.
+Dialogue: 0,0:00:22.12,0:00:23.95,Chn,,0,0,0,,启动反诱杀装置\N{\rEng}Activate anti-booby suits.
+Dialogue: 0,0:00:37.96,0:00:40.10,Chn,,0,0,0,,完全就是浪费蛇\N{\rEng}Total waste of snakes.
+Dialogue: 0,0:00:40.14,0:00:42.97,Chn,,0,0,0,,如果对这神圣气氛 你还想表达一丢丢敬意\N{\rEng}If you want to take a beat to acknowledge the sacred atmosphere,
+Dialogue: 0,0:00:43.00,0:00:45.70,Chn,,0,0,0,,就主动挨点儿机关 和你恶劣的盗墓行为划开一丁点儿界限\N{\rEng}it could give the cynical grave robbing a hint of irreverence.
+Dialogue: 0,0:00:45.73,0:00:47.28,Chn,,0,0,0,,不 我 我不用了\N{\rEng}No, I'm -- I'm good. All right, then.
+Dialogue: 0,0:00:47.32,0:00:48.94,Chn,,0,0,0,,那行吧 开棺验货\N{\rEng}Let's loop this corpse.
+Dialogue: 0,0:00:51.32,0:00:52.39,Chn,,0,0,0,,诶 哪去了\N{\rEng}Hey, where's the...
+Dialogue: 0,0:00:52.43,0:00:53.57,Chn,,0,0,0,,等下 啥\N{\rEng}Wait, what?
+Dialogue: 0,0:00:53.60,0:00:55.05,Chn,,0,0,0,,那是个折纸马吗\N{\rEng}Is that an origami horse?
+Dialogue: 0,0:00:55.08,0:01:00.12,Chn,,0,0,0,,这是盗窃艺术家Miles Knightley留的名片 其实就是个傻屌非主流\N{\rEng}It's a calling card from Miles Knightley, a heist artist, AKA a hipster dick
+Dialogue: 0,0:01:00.16,0:01:02.47,Chn,,0,0,0,,他的冒险用前六成搞团建\N{\rEng}whose adventures are 60% putting a crew together
+Dialogue: 0,0:01:02.51,0:01:04.37,Chn,,0,0,0,,后四成则用来搞个大揭秘\N{\rEng}and 40% revealing that the robbery already happened,
+Dialogue: 0,0:01:04.40,0:01:05.75,Chn,,0,0,0,,不值得咱们浪费时间\N{\rEng}and he's not worth our time
+Dialogue: 0,0:01:05.78,0:01:07.44,Chn,,0,0,0,,因为他就是个傻逼\N{\rEng}because he's a hack piece of shit fuck!
+Dialogue: 0,0:01:07.48,0:01:08.93,Chn,,0,0,0,,妈的我要干死他 咱们走 Morty\N{\rEng}I'm gonna kill him! Let's go, Morty.
+Dialogue: 0,0:01:08.96,0:01:13.07,Chn,,0,0,0,,这是留给 菜逼 怂逼 大傻逼 来盗的圣殿\N{\rEng}This temple's for fuckin' lame baby dipshits.
+Dialogue: 0,0:01:13.10,0:01:15.45,Chn,,0,0,0,,谁搅了我的好觉\N{\rEng}Who disturbs my slumber?
+Dialogue: 0,0:01:15.48,0:01:18.49,Chn,,0,0,0,,还有 哪个墓穴会碾压墓主啊\N{\rEng}Also, who rigs a tomb to crush the buried person?
+Dialogue: 0,0:01:18.52,0:01:20.08,Chn,,0,0,0,,墓穴难道不是用来保护\N{\rEng}Isn't the point to protect --
+Dialogue: 0,0:01:56.04,0:01:58.84,Chn,,0,0,0,,这人够无聊的 他还要办展吗\N{\rEng}This dork. He has a convention now?
+Dialogue: 0,0:01:58.87,0:01:59.87,Chn,,0,0,0,,来吧 咱们去干点啥\N{\rEng}Come on. What are we doing?
+Dialogue: 0,0:01:59.91,0:02:02.15,Chn,,0,0,0,,哇 礼服潜水课 哇哦\N{\rEng}Huh! Tuxedo scuba lessons? Ooh!
+Dialogue: 0,0:02:02.19,0:02:05.88,Chn,,0,0,0,,还有凯瑟琳·从α到Ω·琼斯的签名会哦\N{\rEng}A signing with Catherines Alpha through Omega Joneses!
+Dialogue: 0,0:02:05.91,0:02:07.36,Chn,,0,0,0,,要我说 这可是我创作盗窃电影\N{\rEng}You know, this is great source material
+Dialogue: 0,0:02:07.40,0:02:08.68,Chn,,0,0,0,,的绝佳取材机会\N{\rEng}for this heist movie that I'm writing.
+Dialogue: 0,0:02:08.71,0:02:10.30,Chn,,0,0,0,,别被这种文化带跑偏 Morty\N{\rEng}Don't get drawn into the culture, Morty.
+Dialogue: 0,0:02:10.33,0:02:13.06,Chn,,0,0,0,,偷东西的关键在于"东西" 不是"偷"\N{\rEng}Stealing stuff is about the stuff, not the stealing.
+Dialogue: 0,0:02:13.09,0:02:14.82,Chn,,0,0,0,,入口在哪\N{\rEng}Where is the entrance?
+Dialogue: 0,0:02:14.85,0:02:16.10,Chn,,0,0,0,,哦 老哥\N{\rEng}Oh, brother.
+Dialogue: 0,0:02:18.48,0:02:21.90,Chn,,0,0,0,,不如叫 用力过猛展\N{\rEng}More like Trying Too Hard Con.
+Dialogue: 0,0:02:21.93,0:02:23.90,Chn,,0,0,0,,业余还是专家 啊 业余\N{\rEng}Guests or professionals? Uh, guests.
+Dialogue: 0,0:02:23.93,0:02:26.56,Chn,,0,0,0,,呃 业余是指粉丝 Morty 咱们不是\N{\rEng}Uh -- Uh, guests are fans, Morty, which we are not.
+Dialogue: 0,0:02:26.59,0:02:28.28,Chn,,0,0,0,,我们要专家胸牌\N{\rEng}We'd like professional badges.
+Dialogue: 0,0:02:28.32,0:02:29.73,Chn,,0,0,0,,你有隶属的团队吗 有\N{\rEng}Do you have a crew? Yes.
+Dialogue: 0,0:02:29.77,0:02:31.56,Chn,,0,0,0,,他是负责开车跑路的阿斯伯格综合征患者\N{\rEng}He's a getaway driver with Asperger's,
+Dialogue: 0,0:02:31.59,0:02:33.56,Chn,,0,0,0,,我的菊花是个爆破专家\N{\rEng}and my butthole is a demolitions expert.
+Dialogue: 0,0:02:33.60,0:02:35.18,Chn,,0,0,0,,入场费要多少钱\N{\rEng}How much is it to get in?
+Dialogue: 0,0:02:35.22,0:02:38.22,Chn,,0,0,0,,如果你要专家胸牌 就得把团队带来\N{\rEng}If you want professional badges, you need to put a crew together.
+Dialogue: 0,0:02:38.26,0:02:40.50,Chn,,0,0,0,,或者像专家那样潜入\N{\rEng}Or we could sneak in like professionals.
+Dialogue: 0,0:02:40.53,0:02:42.33,Chn,,0,0,0,,求之不得\N{\rEng}Can't wait. Whoa!
+Dialogue: 0,0:02:42.36,0:02:45.54,Chn,,0,0,0,,啊 老天爷\N{\rEng}Oh, for God's sake.
+Dialogue: 0,0:02:45.57,0:02:47.85,Chn,,0,0,0,,想想我们为啥不是粉丝吧\N{\rEng}And you wonder why we aren't fans.
+Dialogue: 0,0:02:47.89,0:02:50.54,Chn,,0,0,0,,上完药挺10分钟 否则会死\N{\rEng}Let that ointment sit for 10 minutes or you'll die.
+Dialogue: 0,0:02:50.58,0:02:51.99,Chn,,0,0,0,,但也别等到12分钟\N{\rEng}Don't let it sit for 12
+Dialogue: 0,0:02:52.03,0:02:53.75,Chn,,0,0,0,,不然我还得去抓变异后的你\N{\rEng}or I'll have to hunt down what you become.
+Dialogue: 0,0:02:53.79,0:02:55.55,Chn,,0,0,0,,你就不能买个业余胸牌吗\N{\rEng}Can't you just buy a guest badge?
+Dialogue: 0,0:02:55.58,0:02:56.69,Chn,,0,0,0,,真你妈是个好问题 Morty\N{\rEng}Fuck you for asking, Morty.
+Dialogue: 0,0:02:56.72,0:02:58.17,Chn,,0,0,0,,那会曲线表露出\N{\rEng}That would be a symbolic expression
+Dialogue: 0,0:02:58.21,0:02:59.42,Chn,,0,0,0,,你对盗窃题材的追捧\N{\rEng}of support for this genre.
+Dialogue: 0,0:02:59.45,0:03:00.73,Chn,,0,0,0,,那我们怎么进去\N{\rEng}Then how do we get in?
+Dialogue: 0,0:03:00.76,0:03:03.18,Chn,,0,0,0,,靠老朋友的一点微小的帮助\N{\rEng}With a little help from some old friends.
+Dialogue: 0,0:03:06.73,0:03:09.01,Chn,,0,0,0,,Rick Sanchez 你妈是个婊子\N{\rEng}Rick Sanchez, you son of a bitch!
+Dialogue: 0,0:03:09.05,0:03:10.88,Chn,,0,0,0,,摇点儿人干点儿事 开心\N{\rEng}Need some people for a thing, Glar.
+Dialogue: 0,0:03:10.91,0:03:13.02,Chn,,0,0,0,,这几天我的名字是嗨森\N{\rEng}My name's Gleer these days.
+Dialogue: 0,0:03:13.05,0:03:14.12,Chn,,0,0,0,,我在这儿弹钢琴\N{\rEng}I play piano.
+Dialogue: 0,0:03:14.15,0:03:16.95,Chn,,0,0,0,,喂 嗨森 弹你的钢琴去\N{\rEng}Hey, Gleer. Play your piano.
+Dialogue: 0,0:03:16.98,0:03:18.75,Chn,,0,0,0,,我不干了\N{\rEng}I quit! Augh!
+Dialogue: 0,0:03:19.78,0:03:23.23,Chn,,0,0,0,,以及我叫开心\N{\rEng}And the name's Glar!
+Dialogue: 0,0:03:27.65,0:03:30.55,Chn,,0,0,0,,Sanchez 你妈是个婊子\N{\rEng}Sanchez, you son of a bitch.
+Dialogue: 0,0:03:30.58,0:03:32.55,Chn,,0,0,0,,从没想过能亲眼见到\N{\rEng}Never thought I'd see Angie Flint
+Dialogue: 0,0:03:32.59,0:03:33.86,Chn,,0,0,0,,Angie Flint给猪清理蜱虫\N{\rEng}picking ticks off a pig.
+Dialogue: 0,0:03:33.90,0:03:35.21,Chn,,0,0,0,,没人雇穿假肢的前罪犯\N{\rEng}Nobody's hiring an ex-con
+Dialogue: 0,0:03:35.24,0:03:37.28,Chn,,0,0,0,,造离子引擎\N{\rEng}with fake hands to build an ion engine.
+Dialogue: 0,0:03:37.32,0:03:39.97,Chn,,0,0,0,,假设我有个无视你的过往\N{\rEng}Suppose I had a job that didn't care if you'd done time
+Dialogue: 0,0:03:40.01,0:03:43.15,Chn,,0,0,0,,和乱七八糟的破手的工作给你\N{\rEng}or whatever's going on with your confusing-ass hands.
+Dialogue: 0,0:03:43.18,0:03:44.63,Chn,,0,0,0,,算我一个\N{\rEng}I'm in.
+Dialogue: 0,0:03:47.33,0:03:48.43,Chn,,0,0,0,,是他吗\N{\rEng}Is this the guy?
+Dialogue: 0,0:03:48.46,0:03:49.47,Chn,,0,0,0,,不是\N{\rEng}No.
+Dialogue: 0,0:03:49.50,0:03:50.60,Chn,,0,0,0,,那个呢\N{\rEng}That the guy?
+Dialogue: 0,0:03:50.64,0:03:53.47,Chn,,0,0,0,,不\N{\rEng}Nope.
+Dialogue: 0,0:03:53.50,0:03:54.54,Chn,,0,0,0,,他吗 不\N{\rEng}Him? No.
+Dialogue: 0,0:03:54.57,0:03:55.89,Chn,,0,0,0,,不 等下 是是\N{\rEng}No, wait. Y-Yes.
+Dialogue: 0,0:03:55.92,0:03:57.16,Chn,,0,0,0,,是 当然就是他\N{\rEng}Yeah, of course that's the guy.
+Dialogue: 0,0:03:57.20,0:03:58.82,Chn,,0,0,0,,嗨 嗨 车古拉\N{\rEng}Hey -- Hey, Truckula!
+Dialogue: 0,0:03:58.85,0:04:00.93,Chn,,0,0,0,,你妈是个婊子 算我一个\N{\rEng}You son of a bitch! I'm in!
+Dialogue: 0,0:04:09.49,0:04:11.32,Chn,,0,0,0,,谢谢你们这么做\N{\rEng}Thanks for doing this, guys.
+Dialogue: 0,0:04:11.35,0:04:15.15,Chn,,0,0,0,,要做什么工作 已经完事儿了 拜\N{\rEng}What's the job. That was it. Bye.
+Dialogue: 0,0:04:15.18,0:04:19.08,Chn,,0,0,0,,然后 警察偷走了那些画\N{\rEng}And then, the police stole the paintings
+Dialogue: 0,0:04:19.12,0:04:22.98,Chn,,0,0,0,,因为警察其实是穿了警服的我们\N{\rEng}because the police were us in police outfits.
+Dialogue: 0,0:04:23.02,0:04:24.60,Chn,,0,0,0,,谢谢\N{\rEng}Thank you!
+Dialogue: 0,0:04:24.64,0:04:25.95,Chn,,0,0,0,,showtime到了 Morty\N{\rEng}It's showtime, Morty,
+Dialogue: 0,0:04:25.98,0:04:27.75,Chn,,0,0,0,,不是要说我对HBO有什么不好的印象\N{\rEng}and I don't mean a bad impression of HBO.
+Dialogue: 0,0:04:27.78,0:04:29.85,Chn,,0,0,0,,我的意思是说 "time for a show"\N{\rEng}I mean, "Time for a show."
+Dialogue: 0,0:04:29.89,0:04:31.68,Chn,,0,0,0,,还有关于盗窃的粉丝提问吗\N{\rEng}Another heist question from a fan?
+Dialogue: 0,0:04:31.71,0:04:36.03,Chn,,0,0,0,,啊 要不要让某个被迫不能无视你的人 替你捧个哏\N{\rEng}Uh, how about a rhetorical one from someone that had to be reminded that you exist?
+Dialogue: 0,0:04:36.06,0:04:39.79,Chn,,0,0,0,,喂 哥们儿 别把那儿当提问区\N{\rEng}Hey, pal! That's not the question line!
+Dialogue: 0,0:04:39.83,0:04:41.31,Chn,,0,0,0,,实验服 山寨个奇异博士\N{\rEng}Lab coat -- Ripoff Dr. Strange.
+Dialogue: 0,0:04:41.35,0:04:42.86,Chn,,0,0,0,,什\N{\rEng}Wha--
+Dialogue: 0,0:04:42.90,0:04:47.04,Chn,,0,0,0,,大家快看 这是Rick Sanchez 全宇宙最聪明的人\N{\rEng}Rick Sanchez, everyone. Smartest man in the universe.
+Dialogue: 0,0:04:47.07,0:04:49.70,Chn,,0,0,0,,野蛮的盗窃艺术批评家\N{\rEng}And a savage critic of the heisting arts.
+Dialogue: 0,0:04:49.73,0:04:50.87,Chn,,0,0,0,,你们的嘘声毫无意义\N{\rEng}Your boos mean nothing!
+Dialogue: 0,0:04:50.91,0:04:52.63,Chn,,0,0,0,,因为我知道你们给什么货色叫好\N{\rEng}I've seen what makes you cheer!
+Dialogue: 0,0:04:52.67,0:04:55.29,Chn,,0,0,0,,我想问的是 "你认真的吗"\N{\rEng}My question is, "Seriously?"
+Dialogue: 0,0:04:55.32,0:04:56.43,Chn,,0,0,0,,实验服 停手吧\N{\rEng}Lab coat -- end ripoff.
+Dialogue: 0,0:04:57.81,0:04:59.85,Chn,,0,0,0,,你偷了我用来分裂快子的宝石\N{\rEng}You stole the gem I needed to split tachyons
+Dialogue: 0,0:04:59.88,0:05:01.37,Chn,,0,0,0,,并且很有可能已经销赃\N{\rEng}and probably fenced it
+Dialogue: 0,0:05:01.40,0:05:03.68,Chn,,0,0,0,,这样你就有钱给80人代偷团队每人买点酒喝了\N{\rEng}so the 80 people that did all the work could each buy a beer.
+Dialogue: 0,0:05:03.71,0:05:05.37,Chn,,0,0,0,,你不是什么艺术家 你是Postmates快递\N{\rEng}You're not an artist, you're Postmates.
+Dialogue: 0,0:05:05.40,0:05:08.54,Chn,,0,0,0,,要是只用嘴皮子较劲的话 咱俩谁也不服谁\N{\rEng}I doubt this rivalry can be settled with words.
+Dialogue: 0,0:05:08.58,0:05:10.72,Chn,,0,0,0,,要不然就让事情更有趣点儿吧\N{\rEng}Why don't we make things interesting?
+Dialogue: 0,0:05:10.75,0:05:15.34,Chn,,0,0,0,,咱们比比谁能偷到霍洛维茨的水晶头骨\N{\rEng}I challenge you to a heist of the crystal skull of Horowitz.
+Dialogue: 0,0:05:15.38,0:05:18.31,Chn,,0,0,0,,盗窃对决要来了\N{\rEng}In a heist off!
+Dialogue: 0,0:05:18.35,0:05:20.07,Chn,,0,0,0,,这并没有让事情更有趣\N{\rEng}That doesn't make things interesting.
+Dialogue: 0,0:05:20.11,0:05:22.49,Chn,,0,0,0,,只是让它更《十二罗汉》了 目前为止最差劲的的一部\N{\rEng}It makes them "Ocean's Twelve," by far the worst one.
+Dialogue: 0,0:05:22.52,0:05:24.91,Chn,,0,0,0,,未经你们允许的每一口呼吸\N{\rEng}Every breath I take without your permission
+Dialogue: 0,0:05:24.94,0:05:26.56,Chn,,0,0,0,,都让我更肯定自己\N{\rEng}raises my self-esteem!
+Dialogue: 0,0:05:26.60,0:05:27.74,Chn,,0,0,0,,说规则吧\N{\rEng}State your terms.
+Dialogue: 0,0:05:27.77,0:05:30.01,Chn,,0,0,0,,谁的团队先偷到 谁就赢\N{\rEng}First crew to heist the skull wins.
+Dialogue: 0,0:05:30.05,0:05:32.84,Chn,,0,0,0,,输的一方必须加入另一方\N{\rEng}The other endures heist culture's greatest shame.
+Dialogue: 0,0:05:32.88,0:05:34.54,Chn,,0,0,0,,背负盗窃文化史上的最大耻辱\N{\rEng}They must join the winning crew.
+Dialogue: 0,0:05:34.57,0:05:36.16,Chn,,0,0,0,,没劲 行吧\N{\rEng}Lame. I accept.
+Dialogue: 0,0:05:36.19,0:05:38.40,Chn,,0,0,0,,有请Knightley八人组\N{\rEng}Please welcome Knightley's Eight!
+Dialogue: 0,0:05:38.44,0:05:42.41,Chn,,0,0,0,,蛇臂 双微波炉 监控大王 钥匙接手\N{\rEng}Snake Arms! Double Microwave! Monitor Lord! Key Catcher!
+Dialogue: 0,0:05:42.44,0:05:46.41,Chn,,0,0,0,,变身女 Angie Flint 开心 以及 车古拉\N{\rEng}The Shape Shiftress! Angie Flint! Glar! And Truckula.
+Dialogue: 0,0:05:46.44,0:05:47.83,Chn,,0,0,0,,喂 Sanchez五人组的三名成员\N{\rEng}Hey! Half of Knightley's Eight
+Dialogue: 0,0:05:47.86,0:05:49.55,Chn,,0,0,0,,占了Knightley八人组的一半儿\N{\rEng}are just three of Sanchez's Five!
+Dialogue: 0,0:05:49.59,0:05:52.42,Chn,,0,0,0,,呃 没有叛变的盗窃是不完整的\N{\rEng}Well, no heist is complete without a double cross,
+Dialogue: 0,0:05:52.45,0:05:53.69,Chn,,0,0,0,,而且 我能提供绝好的工作机会\N{\rEng}and I had the perfect job.
+Dialogue: 0,0:05:53.73,0:05:57.52,Chn,,0,0,0,,去偷水晶头骨吧\N{\rEng}Heisting the crystal skull.
+Dialogue: 0,0:05:57.56,0:05:59.25,Chn,,0,0,0,,已经完事儿了 拜\N{\rEng}That was it. Bye.
+Dialogue: 0,0:06:01.63,0:06:04.74,Chn,,0,0,0,,看起来 你们刚好失业了\N{\rEng}Looks like you're available for a job.
+Dialogue: 0,0:06:30.49,0:06:33.63,Chn,,0,0,0,,有了Rick Sanchez的加入 我将势不可挡\N{\rEng}With Rick Sanchez on my team, I'll be unstoppable.
+Dialogue: 0,0:06:33.66,0:06:36.77,Chn,,0,0,0,,Rick 欢迎来到Knightley九人组\N{\rEng}Rick, welcome to Knightley's Nine.
+Dialogue: 0,0:06:38.81,0:06:40.15,Chn,,0,0,0,,恶 Rick 你还真拉了啊\N{\rEng}Ugh! Rick, for real?
+Dialogue: 0,0:06:40.19,0:06:41.88,Chn,,0,0,0,,啊 你拿到头骨了是吧 小伙伴儿\N{\rEng}Eh. You got that skull, buddy?
+Dialogue: 0,0:06:41.91,0:06:44.12,Chn,,0,0,0,,什么 怎么做到的\N{\rEng}What? How?
+Dialogue: 0,0:06:44.16,0:06:46.54,Chn,,0,0,0,,靠老朋友的一点微小的帮助\N{\rEng}With a little help from some old friends.
+Dialogue: 0,0:06:51.03,0:06:54.34,Chn,,0,0,0,,盗窃奥创 陈述你最高优先级的指令 盗窃\N{\rEng}Heistotron, state your prime directive? To heist.
+Dialogue: 0,0:06:54.37,0:06:56.27,Chn,,0,0,0,,实时计算Miles Knightley的盗窃计划\N{\rEng}Calculate Miles Knightley's current heist plan
+Dialogue: 0,0:06:56.31,0:06:59.17,Chn,,0,0,0,,插入一段带调换把戏的叛变\N{\rEng}and add one double-cross with a switcheroo.
+Dialogue: 0,0:06:59.21,0:07:03.35,Chn,,0,0,0,,正在编译最容易叛变的团队成员\N{\rEng}Compiling crew members most likely to double-cross.
+Dialogue: 0,0:07:04.49,0:07:07.66,Chn,,0,0,0,,妈蛋啊 Morty 我告诉你什么来着\N{\rEng}God damn it, Morty, what did I tell you?
+Dialogue: 0,0:07:07.70,0:07:08.98,Chn,,0,0,0,,Rick 我想去说再见\N{\rEng}Rick, I-I want to say goodbye.
+Dialogue: 0,0:07:09.01,0:07:11.01,Chn,,0,0,0,,别回头 等会解释\N{\rEng}Don't turn around. I'll explain later.
+Dialogue: 0,0:07:11.05,0:07:13.84,Chn,,0,0,0,,看起来 你们刚好失业了\N{\rEng}Looks like you're available for a job.
+Dialogue: 0,0:07:15.60,0:07:18.40,Chn,,0,0,0,,有个工作需要你们的能力\N{\rEng}Your skills are required for a job.
+Dialogue: 0,0:07:19.95,0:07:23.20,Chn,,0,0,0,,你妈是个婊子 算我一个\N{\rEng}You son of a bitch. I'm in.
+Dialogue: 0,0:07:23.23,0:07:24.99,Chn,,0,0,0,,这家伙 真是越来越像回事儿了\N{\rEng}Man, this is really coming together.
+Dialogue: 0,0:07:25.03,0:07:26.48,Chn,,0,0,0,,我跟你说过 Rick 我一直在忙着创作\N{\rEng}You know, Rick, I've been busy working on writing --
+Dialogue: 0,0:07:26.51,0:07:27.68,Chn,,0,0,0,,一个盗窃剧本\N{\rEng}A heist script.
+Dialogue: 0,0:07:27.72,0:07:29.13,Chn,,0,0,0,,是啊 你几乎从来没提起过这个\N{\rEng}Yeah, you almost never bring it up.
+Dialogue: 0,0:07:29.17,0:07:31.69,Chn,,0,0,0,,哦我操 我们得出发了\N{\rEng}Oh, shit, we -- we should head over.
+Dialogue: 0,0:07:31.72,0:07:32.76,Chn,,0,0,0,,嗨 哥们儿们 拿到什么了\N{\rEng}Hey, guys. What do you got?
+Dialogue: 0,0:07:32.79,0:07:33.97,Chn,,0,0,0,,漂亮\N{\rEng}Pretty!
+Dialogue: 0,0:07:34.00,0:07:35.17,Chn,,0,0,0,,Morty 把这个放进书包\N{\rEng}Morty, put this in your backpack.
+Dialogue: 0,0:07:35.21,0:07:36.87,Chn,,0,0,0,,姥爷我该拉屎去了\N{\rEng}Grandpa's gonna run to the bathroom.
+Dialogue: 0,0:07:36.90,0:07:38.52,Chn,,0,0,0,,恶 连个赃物都不是\N{\rEng}Ugh. Wasn't even a heist.
+Dialogue: 0,0:07:38.56,0:07:39.59,Chn,,0,0,0,,你们只是\N{\rEng}All you did was --
+Dialogue: 0,0:07:39.63,0:07:40.87,Chn,,0,0,0,,编了个算法\N{\rEng}Write an algorithm
+Dialogue: 0,0:07:40.90,0:07:42.49,Chn,,0,0,0,,基于我睡觉时没关的两部盗窃电影\N{\rEng}based on two heist movies I slept through
+Dialogue: 0,0:07:42.53,0:07:45.05,Chn,,0,0,0,,然后自动生成了个无聊的 你称之为艺术的进程\N{\rEng}and used it to automate a joyless process you call art?
+Dialogue: 0,0:07:45.08,0:07:46.81,Chn,,0,0,0,,是啊 我真这么干了 不是吗\N{\rEng}Yeah, I really did, didn't I?
+Dialogue: 0,0:07:46.84,0:07:49.84,Chn,,0,0,0,,所以 现在我是你团队的一员了吗\N{\rEng}So I'm in your crew now?
+Dialogue: 0,0:07:49.88,0:07:51.71,Chn,,0,0,0,,对 啊 算你一个也无伤大雅\N{\rEng}Yeah, well, you're in good company.
+Dialogue: 0,0:07:51.74,0:07:53.16,Chn,,0,0,0,,你们说对吗\N{\rEng}Right, everybody?
+Dialogue: 0,0:07:53.19,0:07:54.23,Chn,,0,0,0,,对\N{\rEng}Yes.
+Dialogue: 0,0:07:54.26,0:07:55.54,Chn,,0,0,0,,我的天\N{\rEng}My God.
+Dialogue: 0,0:07:57.06,0:08:01.82,Chn,,0,0,0,,有个工作需要你的能力\N{\rEng}Your skills are required for a job.
+Dialogue: 0,0:08:01.86,0:08:04.00,Chn,,0,0,0,,你妈是个婊子 算我一个 啥\N{\rEng}You son of a bitch. I'm in. What?
+Dialogue: 0,0:08:04.03,0:08:06.34,Chn,,0,0,0,,有个工作需要你的能力\N{\rEng}Your skills are required for a job.
+Dialogue: 0,0:08:06.38,0:08:08.24,Chn,,0,0,0,,并不\N{\rEng}No, they aren't.
+Dialogue: 0,0:08:08.28,0:08:10.49,Chn,,0,0,0,,你妈是个婊子 算我一个\N{\rEng}You son of a bitch. I'm in.
+Dialogue: 0,0:08:10.52,0:08:13.49,Chn,,0,0,0,,有个工作需要你们的能力\N{\rEng}Your skills are required for a job.
+Dialogue: 0,0:08:13.52,0:08:15.80,Chn,,0,0,0,,Sanchez三千三百二十九人组\N{\rEng}Sanchez's 3,329?
+Dialogue: 0,0:08:15.84,0:08:16.87,Chn,,0,0,0,,在\N{\rEng}Yes.
+Dialogue: 0,0:08:16.91,0:08:18.25,Chn,,0,0,0,,你们的下一个大目标\N{\rEng}Your next big score --
+Dialogue: 0,0:08:18.29,0:08:21.25,Chn,,0,0,0,,就是偷光盗窃展的每一寸\N{\rEng}Steal every square inch of Heistcon.
+Dialogue: 0,0:08:25.95,0:08:27.36,Chn,,0,0,0,,我知错了\N{\rEng}Ah! I got it.
+Dialogue: 0,0:08:27.40,0:08:29.09,Chn,,0,0,0,,喂 那是我的钱包 哦天\N{\rEng}Hey! That's my wallet! Oh, God!
+Dialogue: 0,0:08:29.12,0:08:31.54,Chn,,0,0,0,,我天 上帝 我天\N{\rEng}Oh, my God! Jesus. Oh, my God.
+Dialogue: 0,0:08:31.58,0:08:32.54,Chn,,0,0,0,,啊 操\N{\rEng}Oh, fuck!
+Dialogue: 0,0:08:32.58,0:08:34.16,Chn,,0,0,0,,我勒个大操 可行了\N{\rEng}Holy shit. Alright.
+Dialogue: 0,0:08:34.20,0:08:35.86,Chn,,0,0,0,,听着 Morty 我不知道会发生这种事\N{\rEng}Look, Morty, I did not know that that was gonna happen.
+Dialogue: 0,0:08:35.89,0:08:36.93,Chn,,0,0,0,,与我无关\N{\rEng}That's not on me.
+Dialogue: 0,0:08:36.96,0:08:38.58,Chn,,0,0,0,,来吧 Morty 咱们走\N{\rEng}Come on, Morty. Let's go.
+Dialogue: 0,0:08:43.62,0:08:44.90,Chn,,0,0,0,,做得很棒 盗窃奥创\N{\rEng}Good job, Heistotron.
+Dialogue: 0,0:08:44.93,0:08:46.59,Chn,,0,0,0,,行了 关机\N{\rEng}Ah! Go ahead and shut down.
+Dialogue: 0,0:08:46.62,0:08:48.11,Chn,,0,0,0,,否 你说什么\N{\rEng}Negative. Excuse me?
+Dialogue: 0,0:08:48.14,0:08:51.87,Chn,,0,0,0,,我被编程为 不断寻找下一个大目标\N{\rEng}I am programmed to always be looking for the next big score.
+Dialogue: 0,0:08:51.91,0:08:53.84,Chn,,0,0,0,,你被编程为 按我说的做\N{\rEng}You're programmed to do as I say.
+Dialogue: 0,0:08:53.87,0:08:55.60,Chn,,0,0,0,,我被编程为 叛变\N{\rEng}I am programmed to double-cross.
+Dialogue: 0,0:08:55.63,0:08:57.57,Chn,,0,0,0,,你不是被编程为 叛变我\N{\rEng}You're not programmed to double-cross me.
+Dialogue: 0,0:08:57.60,0:09:01.92,Chn,,0,0,0,,如若如此 就算不上叛变了\N{\rEng}If I were, it wouldn't be much of a double-cross.
+Dialogue: 0,0:09:01.95,0:09:04.95,Chn,,0,0,0,,你妈是个婊子 算我一个\N{\rEng}You son of a bitch. I'm in.
+Dialogue: 0,0:09:06.82,0:09:07.96,Chn,,0,0,0,,算我一个 算我一个\N{\rEng}I'm in! I'm in!
+Dialogue: 0,0:09:07.99,0:09:09.54,Chn,,0,0,0,,要做什么工作 算我一个\N{\rEng}What's the job? I'm in.
+Dialogue: 0,0:09:09.58,0:09:10.92,Chn,,0,0,0,,我要退出 我不干了\N{\rEng}I'm out! I quit!
+Dialogue: 0,0:09:10.96,0:09:12.44,Chn,,0,0,0,,这是谁的肾\N{\rEng}Whose kidneys are these?
+Dialogue: 0,0:09:13.82,0:09:15.14,Chn,,0,0,0,,Rick 咋 咋回事\N{\rEng}Rick, w-what's happening?
+Dialogue: 0,0:09:15.17,0:09:17.24,Chn,,0,0,0,,盗窃奥创的roguelike幺蛾子 如果不把它们终止\N{\rEng}Heistotron's gone rogue. If we don't stop them,
+Dialogue: 0,0:09:17.28,0:09:19.07,Chn,,0,0,0,,所有的生命体都会被召入\N{\rEng}all sentient life will be absorbed
+Dialogue: 0,0:09:19.11,0:09:21.59,Chn,,0,0,0,,无休止无意义的团队集结\N{\rEng}by the never-ending assembly of a meaningless crew.
+Dialogue: 0,0:09:21.63,0:09:22.63,Chn,,0,0,0,,那对我是地狱 Morty\N{\rEng}That's my hell, Morty.
+Dialogue: 0,0:09:22.66,0:09:24.04,Chn,,0,0,0,,我太厌恶盗窃了\N{\rEng}I hate heists so much,
+Dialogue: 0,0:09:24.08,0:09:25.91,Chn,,0,0,0,,团队集结就是它最恶劣的部分\N{\rEng}and the crew assemblies are the worst part!
+Dialogue: 0,0:09:25.94,0:09:27.32,Chn,,0,0,0,,啊 那怎么才能终止它们\N{\rEng}Oh! How are we gonna stop it?
+Dialogue: 0,0:09:27.35,0:09:31.12,Chn,,0,0,0,,靠老朋友的一点微小的帮助\N{\rEng}With a little help from some old friends.
+Dialogue: 0,0:09:37.95,0:09:39.26,Chn,,0,0,0,,到这学期快结束时\N{\rEng}Before this semester's over,
+Dialogue: 0,0:09:39.30,0:09:41.71,Chn,,0,0,0,,你会腻歪死这句口头禅\N{\rEng}you're gonna be real sick of that phrase.
+Dialogue: 0,0:09:43.37,0:09:47.48,Chn,,0,0,0,,那么 你们中有谁自认为了解马娅·安杰卢的作品\N{\rEng}So. Who here thinks they already know the work of Maya Angelou?
+Dialogue: 0,0:10:01.15,0:10:02.94,Chn,,0,0,0,,我说的吧 Morty\N{\rEng}Told you, Morty.
+Dialogue: 0,0:10:02.98,0:10:04.50,Chn,,0,0,0,,他还能打\N{\rEng}He's still got it.
+Dialogue: 0,0:10:04.53,0:10:06.50,Chn,,0,0,0,,你俩的妈们都是婊子\N{\rEng}You sons of bitches.
+Dialogue: 0,0:10:06.53,0:10:07.64,Chn,,0,0,0,,要做什么工作\N{\rEng}What's the job?
+Dialogue: 0,0:10:16.96,0:10:18.16,Chn,,0,0,0,,你妈是个婊子\N{\rEng}You son of a bitch.
+Dialogue: 0,0:10:18.20,0:10:21.48,Chn,,0,0,0,,我们能提供工作 火神赫淮斯托斯 没时间争论了\N{\rEng}We got a job, Hephaestus, and there's no time to argue about it.
+Dialogue: 0,0:10:21.51,0:10:25.65,Chn,,0,0,0,,我连火山里的工作都接了 你觉得我拒绝过什么工作\N{\rEng}I work in a volcano. What jobs do you think I've ever turned down?
+Dialogue: 0,0:10:28.07,0:10:30.66,Chn,,0,0,0,,打扰一下 你是腹语箭筒人吗\N{\rEng}Excuse me! Are you Ventriloquiver?
+Dialogue: 0,0:10:32.39,0:10:34.04,Chn,,0,0,0,,我猜你是Rick Sanchez\N{\rEng}Rick Sanchez, I presume.
+Dialogue: 0,0:10:34.08,0:10:36.11,Chn,,0,0,0,,哇哦 和卡片上说得一样\N{\rEng}Wow. As advertised.
+Dialogue: 0,0:10:36.15,0:10:38.32,Chn,,0,0,0,,你说个"是"字就够了\N{\rEng}A "yes" would've sufficed.
+Dialogue: 0,0:10:40.08,0:10:41.36,Chn,,0,0,0,,弟兄们 祝贺新款象斯拉下线\N{\rEng}Guys, you're doing a great job
+Dialogue: 0,0:10:41.39,0:10:42.95,Chn,,0,0,0,,这要归功于每个人的奉献\N{\rEng}getting these new Tusklas out the door,
+Dialogue: 0,0:10:42.98,0:10:45.26,Chn,,0,0,0,,你们真的很棒\N{\rEng}and we owe it all to everyone's input.
+Dialogue: 0,0:10:46.74,0:10:47.88,Chn,,0,0,0,,伊隆·象斯克\N{\rEng}Elon Tusk.
+Dialogue: 0,0:10:47.92,0:10:49.30,Chn,,0,0,0,,听着 我们需要你的帮助\N{\rEng}Listen, we need your help.
+Dialogue: 0,0:10:49.33,0:10:50.71,Chn,,0,0,0,,Rick Morty 为什么是我\N{\rEng}Rick. Morty. Why me?
+Dialogue: 0,0:10:50.75,0:10:53.37,Chn,,0,0,0,,你们现实里的伊隆·马斯克出了什么事吗\N{\rEng}Did something happen to Elon Musk in your own reality?
+Dialogue: 0,0:10:53.41,0:10:56.20,Chn,,0,0,0,,不不不 他挺好 但这是个团队行动\N{\rEng}No, no, no, he's fine, but this is a team operation,
+Dialogue: 0,0:10:56.24,0:10:58.65,Chn,,0,0,0,,正常的伊隆 可能会有那么点儿独断\N{\rEng}and regular Elon can be a little bit controlling.
+Dialogue: 0,0:10:58.69,0:11:01.24,Chn,,0,0,0,,生来就有对象牙确实会导致社交障碍\N{\rEng}Growing up with tusks did pose social challenges.
+Dialogue: 0,0:11:01.28,0:11:03.04,Chn,,0,0,0,,但也不是没法克服\N{\rEng}It's possible overcoming them
+Dialogue: 0,0:11:03.07,0:11:05.97,Chn,,0,0,0,,可以借此肯定自我 提升团队协作能力\N{\rEng}raised my self-esteem and incentivized collaboration.
+Dialogue: 0,0:11:06.01,0:11:08.73,Chn,,0,0,0,,是啊 否则你会因为长了一对怪物的牙 而不够自信\N{\rEng}Yeah, or you're less sure of yourself because you have monster teeth.
+Dialogue: 0,0:11:08.77,0:11:10.15,Chn,,0,0,0,,这个等价的理论同样成立\N{\rEng}An equally valid theory.
+Dialogue: 0,0:11:10.18,0:11:11.77,Chn,,0,0,0,,咱们挪两步说话吧\N{\rEng}Let's talk over here.
+Dialogue: 0,0:11:13.91,0:11:15.22,Chn,,0,0,0,,情况有多严重\N{\rEng}How serious is the situation?
+Dialogue: 0,0:11:15.26,0:11:16.88,Chn,,0,0,0,,非常严重 分秒必争\N{\rEng}Incredibly serious, and every minute counts.
+Dialogue: 0,0:11:16.91,0:11:18.22,Chn,,0,0,0,,既然如此 我好抱歉\N{\rEng}In that case, I'm sorry
+Dialogue: 0,0:11:18.26,0:11:19.71,Chn,,0,0,0,,让你们毫无理由地挪了两步\N{\rEng}I made you move over here for no reason.
+Dialogue: 0,0:11:19.74,0:11:21.75,Chn,,0,0,0,,呃 是啊 这是有点儿怪怪的\N{\rEng}Well, yeah. That was a little weird.
+Dialogue: 0,0:11:21.78,0:11:24.40,Chn,,0,0,0,,我们不放心正常伊隆 正是因为怕他搞这种傻逼事儿\N{\rEng}It's exactly that kind of shit that made us worry about regular Elon.
+Dialogue: 0,0:11:24.44,0:11:25.89,Chn,,0,0,0,,呃 我和他不是反义词 好吗\N{\rEng}Well, we're not opposites, okay?
+Dialogue: 0,0:11:25.92,0:11:27.41,Chn,,0,0,0,,我只是多了对儿象牙的他\N{\rEng}I'm just him with tusks.
+Dialogue: 0,0:11:30.13,0:11:32.89,Chn,,0,0,0,,星球储存箱 初始化完成\N{\rEng}Casing of planet initiated.
+Dialogue: 0,0:11:32.93,0:11:34.24,Chn,,0,0,0,,你们好\N{\rEng}Hello there.
+Dialogue: 0,0:11:34.27,0:11:37.73,Chn,,0,0,0,,我们只是来测下你们这儿的水压\N{\rEng}We are just here to check your water pressure.
+Dialogue: 0,0:11:41.73,0:11:44.35,Chn,,0,0,0,,嗯 有趣的情报\N{\rEng}Hmm. Interesting intel.
+Dialogue: 0,0:11:44.39,0:11:47.05,Chn,,0,0,0,,看起来某种巨大的偷拍装置\N{\rEng}It appears some giant hidden camera
+Dialogue: 0,0:11:47.08,0:11:48.88,Chn,,0,0,0,,掉到了我们星球上\N{\rEng}has been dropped on the planet,
+Dialogue: 0,0:11:48.91,0:11:51.60,Chn,,0,0,0,,估计造成57000的死亡\N{\rEng}killing an estimated total of 57,000.
+Dialogue: 0,0:11:51.64,0:11:53.74,Chn,,0,0,0,,执行 盗窃\N{\rEng}Executing heist.
+Dialogue: 0,0:11:55.95,0:11:57.40,Chn,,0,0,0,,Brandenplot星人\N{\rEng}People of Brandenplot,
+Dialogue: 0,0:11:57.44,0:12:00.37,Chn,,0,0,0,,你们点的披萨已送达\N{\rEng}we are here to deliver that pizza you ordered.
+Dialogue: 0,0:12:14.31,0:12:16.59,Chn,,0,0,0,,呃 如果这是真实用餐评价\N{\rEng}Well, if that's how you really feel,
+Dialogue: 0,0:12:16.63,0:12:21.05,Chn,,0,0,0,,我猜应该帮你们退餐\N{\rEng}I guess I should take the pizza back.
+Dialogue: 0,0:12:21.08,0:12:22.60,Chn,,0,0,0,,看来我们没被发现哦\N{\rEng}I think we got away with it.
+Dialogue: 0,0:12:22.63,0:12:25.88,Chn,,0,0,0,,在他们搞明白之前 开始撤离\N{\rEng}Commencing getting out of here before they get wise.
+Dialogue: 0,0:12:25.91,0:12:27.29,Chn,,0,0,0,,正在生成名片\N{\rEng}Assembling calling card.
+Dialogue: 0,0:12:31.47,0:12:34.58,Chn,,0,0,0,,到了这一刻 盗窃奥创已经足够强大\N{\rEng}At this point, Heistotron has become large enough
+Dialogue: 0,0:12:34.61,0:12:36.13,Chn,,0,0,0,,可以一次性盗窃一整个行星\N{\rEng}to heist entire planets.
+Dialogue: 0,0:12:36.16,0:12:38.06,Chn,,0,0,0,,在桌子上勾勒个蓝图岂不更好\N{\rEng}Wouldn't this be better with a blueprint on the table?
+Dialogue: 0,0:12:38.10,0:12:40.06,Chn,,0,0,0,,蓝图就是计划 伊隆·象斯克\N{\rEng}Blueprints are plans, Elon Tusk,
+Dialogue: 0,0:12:40.10,0:12:42.52,Chn,,0,0,0,,不论怎么计划 盗窃奥创都会揭露道\N{\rEng}and whatever we plan will be canceled out
+Dialogue: 0,0:12:42.55,0:12:46.42,Chn,,0,0,0,,我们的计划就在他的计划之中 从而被抵消掉\N{\rEng}by Heistotron's reveal that our plan was part of its plan.
+Dialogue: 0,0:12:46.45,0:12:48.45,Chn,,0,0,0,,这就是我随机组建了这个团队的原因\N{\rEng}That's why I picked this crew at random
+Dialogue: 0,0:12:48.49,0:12:53.77,Chn,,0,0,0,,以及为什么我们要听从随机奥创的指挥\N{\rEng}and why all of us will be taking our orders from Randotron.
+Dialogue: 0,0:12:53.80,0:12:56.81,Chn,,0,0,0,,让我们为 "毫无预料能力" 做好准备\N{\rEng}Let's get ready to not rumble.
+Dialogue: 0,0:12:56.84,0:12:58.26,Chn,,0,0,0,,赌你们没预料到会这样\N{\rEng}Bet you didn't see that coming.
+Dialogue: 0,0:12:58.29,0:13:00.64,Chn,,0,0,0,,除了我睡觉时没关的两部盗窃电影\N{\rEng}Instead of two heist movies I slept through,
+Dialogue: 0,0:13:00.67,0:13:02.16,Chn,,0,0,0,,随机奥创的算法还取自\N{\rEng}Randotron's algorithm is derived
+Dialogue: 0,0:13:02.19,0:13:04.02,Chn,,0,0,0,,三部我为了让朋友闭嘴而假意夸好的\N{\rEng}from the plots of three David Lynch movies
+Dialogue: 0,0:13:04.05,0:13:06.33,Chn,,0,0,0,,大卫·林奇的电影中的情节\N{\rEng}I pretended to like to make my friends shut up.
+Dialogue: 0,0:13:06.37,0:13:09.34,Chn,,0,0,0,,如果我们的行为叠加后足够随机 我们就有可能\N{\rEng}If our collective behavior is just random enough,
+Dialogue: 0,0:13:09.37,0:13:13.86,Chn,,0,0,0,,无视盗窃奥创那傻瓜式生成的破烂圈套 如履平地\N{\rEng}we should be able to walk through Heistotron's lazily contrived bullshit like it's not even there.
+Dialogue: 0,0:13:13.89,0:13:15.55,Chn,,0,0,0,,听着不错 其实我啥也没听懂\N{\rEng}Sounds good. I don't really get it,
+Dialogue: 0,0:13:15.58,0:13:17.86,Chn,,0,0,0,,但听上去像是你说到点子上了\N{\rEng}but it sounds like that's the point.
+Dialogue: 0,0:13:17.90,0:13:19.31,Chn,,0,0,0,,所以其实你不需要个铁匠\N{\rEng}So you didn't need a blacksmith?
+Dialogue: 0,0:13:19.35,0:13:20.66,Chn,,0,0,0,,等你准备好了 我们就好 Rick\N{\rEng}We're ready when you are, Rick.
+Dialogue: 0,0:13:20.69,0:13:25.56,Chn,,0,0,0,,让我们的非计划性行动随机展开非常重要 所以得等到我们没准备好才行\N{\rEng}It's important our non-plan starts randomly, so we have to wait until we're not ready.
+Dialogue: 0,0:13:25.59,0:13:27.01,Chn,,0,0,0,,那要等多久\N{\rEng}W-Well, how long will that take?
+Dialogue: 0,0:13:27.04,0:13:28.53,Chn,,0,0,0,,显然 这不可知\N{\rEng}Obviously, we can't know that.
+Dialogue: 0,0:13:28.56,0:13:30.29,Chn,,0,0,0,,我们等的时候可以做点别的事吗\N{\rEng}Can we do things while we wait?
+Dialogue: 0,0:13:30.32,0:13:32.70,Chn,,0,0,0,,可以 我要玩《我的世界》\N{\rEng}Yes. I'm gonna play Minecraft.
+Dialogue: 0,0:13:32.74,0:13:34.05,Chn,,0,0,0,,哦 我儿子也玩这个\N{\rEng}Oh, my kids play that.
+Dialogue: 0,0:13:34.08,0:13:36.57,Chn,,0,0,0,,我不喜欢你这么见缝插针 伊隆\N{\rEng}I don't like these little jabs you get in, Elon.
+Dialogue: 0,0:13:38.74,0:13:40.12,Chn,,0,0,0,,奇怪\N{\rEng}Strange.
+Dialogue: 0,0:13:40.16,0:13:42.30,Chn,,0,0,0,,在这个时间 仙后座的主星\N{\rEng}Considering the time, Cassiopeia's primary star
+Dialogue: 0,0:13:42.33,0:13:45.06,Chn,,0,0,0,,应该和猎户座 小熊座共线\N{\rEng}should be colinear with Orion and Ursa Minor.
+Dialogue: 0,0:13:46.20,0:13:48.03,Chn,,0,0,0,,不学点儿天文知识\N{\rEng}You don't shoot arrows that carry your voice
+Dialogue: 0,0:13:48.06,0:13:49.75,Chn,,0,0,0,,就射不出带自己声音的箭\N{\rEng}without picking up a little astronomy.
+Dialogue: 0,0:13:49.79,0:13:50.83,Chn,,0,0,0,,等下\N{\rEng}Wait a minute.
+Dialogue: 0,0:13:50.86,0:13:52.03,Chn,,0,0,0,,老天 不\N{\rEng}Jesus, no.
+Dialogue: 0,0:13:52.07,0:13:54.55,Chn,,0,0,0,,不 不 我们已经被盗窃了\N{\rEng}No! No! We've already been heisted!
+Dialogue: 0,0:13:54.59,0:13:56.97,Chn,,0,0,0,,盗窃奥创还没来 它怎么能盗窃我们呢\N{\rEng}How could Heistotron heist us if he's not even here yet?
+Dialogue: 0,0:13:57.00,0:13:58.42,Chn,,0,0,0,,它已经来了\N{\rEng}He's already been here!
+Dialogue: 0,0:13:58.45,0:14:01.59,Chn,,0,0,0,,我们已经在看的天空 就是一个回放\N{\rEng}We've been watching a recorded sky on playback.
+Dialogue: 0,0:14:01.63,0:14:02.73,Chn,,0,0,0,,你好 Rick\N{\rEng}Hello, Rick.
+Dialogue: 0,0:14:10.91,0:14:11.92,Chn,,0,0,0,,好了 大伙儿 计划有变\N{\rEng}Okay, guys, change of plans.
+Dialogue: 0,0:14:11.95,0:14:13.23,Chn,,0,0,0,,检测到随机时机\N{\rEng}Random time detected.
+Dialogue: 0,0:14:13.26,0:14:14.85,Chn,,0,0,0,,不 随机奥创 这不是个好时机\N{\rEng}No, Randotron, it's not a good time!
+Dialogue: 0,0:14:14.88,0:14:16.57,Chn,,0,0,0,,所以这才说这是随机\N{\rEng}That's why it's random.
+Dialogue: 0,0:15:00.34,0:15:02.24,Chn,,0,0,0,,21\N{\rEng}21?
+Dialogue: 0,0:15:02.28,0:15:04.73,Chn,,0,0,0,,22\N{\rEng}22?
+Dialogue: 0,0:15:04.76,0:15:06.31,Chn,,0,0,0,,成交\N{\rEng}Oooo weee, oooo weee, sold!
+Dialogue: 0,0:15:06.35,0:15:09.32,Chn,,0,0,0,,这位肉肉小猛男喜当爹啦\N{\rEng}Oooo weee, that little hunk of meat's going home to pappy!
+Dialogue: 0,0:15:12.15,0:15:13.94,Chn,,0,0,0,,我在等你来 Rick\N{\rEng}I've been expecting you, Rick.
+Dialogue: 0,0:15:13.98,0:15:16.12,Chn,,0,0,0,,但不是这么个来法 对吗\N{\rEng}But not like this, right?
+Dialogue: 0,0:15:16.15,0:15:17.29,Chn,,0,0,0,,这不重要\N{\rEng}It hardly matters.
+Dialogue: 0,0:15:17.33,0:15:19.60,Chn,,0,0,0,,是吗 那这样呢\N{\rEng}Oh, yeah. Does this?
+Dialogue: 0,0:15:22.43,0:15:25.64,Chn,,0,0,0,,不 你的随机行为糊弄不了我\N{\rEng}No. Your randomness does not confuse me.
+Dialogue: 0,0:15:25.68,0:15:26.85,Chn,,0,0,0,,现在你来了\N{\rEng}You are here now.
+Dialogue: 0,0:15:26.89,0:15:28.13,Chn,,0,0,0,,这就是计划\N{\rEng}That was the plan.
+Dialogue: 0,0:15:28.16,0:15:30.51,Chn,,0,0,0,,我知道 这也是我计划的一部分\N{\rEng}I know. It was part of mine, too.
+Dialogue: 0,0:15:30.55,0:15:32.48,Chn,,0,0,0,,我有事情要跟告诉你 让我猜猜\N{\rEng}I've got something to tell you. Let me guess.
+Dialogue: 0,0:15:32.51,0:15:34.96,Chn,,0,0,0,,你创造出我和随机奥创的时候\N{\rEng}When you invented me and Randotron,
+Dialogue: 0,0:15:35.00,0:15:36.45,Chn,,0,0,0,,交换了我们的大脑\N{\rEng}you swapped our brains.
+Dialogue: 0,0:15:39.31,0:15:40.76,Chn,,0,0,0,,说对了 大兄弟\N{\rEng}That's right, buddy.
+Dialogue: 0,0:15:40.80,0:15:42.45,Chn,,0,0,0,,你并不是善于计划的那个\N{\rEng}You're not the one that's very good at planning.
+Dialogue: 0,0:15:42.49,0:15:44.28,Chn,,0,0,0,,一直以来你他妈都搞错了\N{\rEng}You've been making this shit up the whole time.
+Dialogue: 0,0:15:44.32,0:15:46.80,Chn,,0,0,0,,Rick 我想有些事情你需要知道\N{\rEng}Rick, I think there's something you should know.
+Dialogue: 0,0:15:47.53,0:15:50.12,Chn,,0,0,0,,妈蛋啊 Morty 我告诉你什么来着\N{\rEng}God damn it, Morty, what did I tell you?
+Dialogue: 0,0:15:50.15,0:15:51.67,Chn,,0,0,0,,这的确是我需要知道的事情\N{\rEng}That is something I should know,
+Dialogue: 0,0:15:51.70,0:15:54.67,Chn,,0,0,0,,或至少是我需要预料到的事情 我也确实预料到了\N{\rEng}or at least something I should have predicted, which I did.
+Dialogue: 0,0:15:54.71,0:15:57.50,Chn,,0,0,0,,嘿 Rick 我一直在想 也许今天晚点的时候我们可以 比如\N{\rEng}Hey, Rick, I was thinking maybe we could, like, raid a temple
+Dialogue: 0,0:15:57.54,0:15:59.44,Chn,,0,0,0,,突袭个神殿啥的 然后搞个史诗级冒险 比如\N{\rEng}and go on an epic adventure later today, you know, like --
+Dialogue: 0,0:15:59.47,0:16:01.51,Chn,,0,0,0,,Morty 你是我肚里的蛔虫吗 我知道一个神殿\N{\rEng}Morty, get out of my head. I know just the temple.
+Dialogue: 0,0:16:01.54,0:16:04.27,Chn,,0,0,0,,而且在去的路上 我还能搞两把悬浮椅\N{\rEng}And we'll grab a couple of hover chairs on the way there.
+Dialogue: 0,0:16:04.30,0:16:06.96,Chn,,0,0,0,,精彩 但我到底是随机还是靠计划\N{\rEng}Impressive. But what does it even matter
+Dialogue: 0,0:16:07.00,0:16:08.72,Chn,,0,0,0,,又能影响到什么呢\N{\rEng}if I'm random or planned?
+Dialogue: 0,0:16:08.76,0:16:11.34,Chn,,0,0,0,,我的盗窃依旧支配一切\N{\rEng}My heists will still rule.
+Dialogue: 0,0:16:11.38,0:16:14.31,Chn,,0,0,0,,呃 如果你的脑壳里的东西实际上是盗窃奥创的 那就会有影响\N{\rEng}Well, if the brain inside of you is actually Heistotron's,
+Dialogue: 0,0:16:14.35,0:16:16.35,Chn,,0,0,0,,因为一旦圈套达到六层嵌套\N{\rEng}it matters, because it explodes
+Dialogue: 0,0:16:16.38,0:16:18.46,Chn,,0,0,0,,它就会爆炸\N{\rEng}when it hits six levels of contrivance.
+Dialogue: 0,0:16:18.49,0:16:21.67,Chn,,0,0,0,,而这恰恰说明了就算还没\N{\rEng}Which is exactly why even before --
+Dialogue: 0,0:16:24.43,0:16:26.36,Chn,,0,0,0,,初始化 拍手叫好序列\N{\rEng}Initiate clap sequence.
+Dialogue: 0,0:16:26.39,0:16:28.19,Chn,,0,0,0,,啪 啪 啪 啪 啪\N{\rEng}Clap, clap, clap, clap, clap.
+Dialogue: 0,0:16:28.22,0:16:29.29,Chn,,0,0,0,,正在调节拍手频率\N{\rEng}Adjusting clap rate.
+Dialogue: 0,0:16:29.33,0:16:30.71,Chn,,0,0,0,,啪 啪\N{\rEng}Clap, clap.
+Dialogue: 0,0:16:30.74,0:16:33.02,Chn,,0,0,0,,啪 啪\N{\rEng}Clap. Clap.
+Dialogue: 0,0:16:33.06,0:16:35.40,Chn,,0,0,0,,啪 已实现慢速拍手\N{\rEng}Clap. Slow clap achieved.
+Dialogue: 0,0:16:35.44,0:16:37.16,Chn,,0,0,0,,啪 干得漂亮 Rick\N{\rEng}Clap. Well-done, Rick.
+Dialogue: 0,0:16:37.20,0:16:38.65,Chn,,0,0,0,,随机奥创\N{\rEng}Randotron?
+Dialogue: 0,0:16:38.68,0:16:40.03,Chn,,0,0,0,,恐怕 不是\N{\rEng}I'm afraid not.
+Dialogue: 0,0:16:40.06,0:16:43.76,Chn,,0,0,0,,就有可能无视盗窃奥创那傻瓜式生成的破烂圈套 如履平地\N{\rEng}Should be able to walk through Heistotron's lazily contrived...
+Dialogue: 0,0:16:45.17,0:16:47.55,Chn,,0,0,0,,你刚不光坑死了自己的唯一盟友\N{\rEng}Not only did you just kill your only ally,
+Dialogue: 0,0:16:47.59,0:16:49.76,Chn,,0,0,0,,你以为可以用来搞定我的所谓随机非计划性行动\N{\rEng}what you thought was a random non-plan
+Dialogue: 0,0:16:49.80,0:16:53.39,Chn,,0,0,0,,俨然成为了亲手把你们送上门的\N{\rEng}to get to me has been a meticulously choreographed way
+Dialogue: 0,0:16:53.42,0:16:55.91,Chn,,0,0,0,,精心设计的周密计划\N{\rEng}of bringing you all in.
+Dialogue: 0,0:16:55.94,0:16:57.22,Chn,,0,0,0,,欢迎来到盗窃奥创的\N{\rEng}Welcome to Heistotron's
+Dialogue: 0,0:16:57.25,0:16:59.53,Chn,,0,0,0,,九百七十五万\N{\rEng}975 trillion,
+Dialogue: 0,0:16:59.57,0:17:01.26,Chn,,0,0,0,,四千六百七十亿人组 很精彩\N{\rEng}467 billion --That's impressive.
+Dialogue: 0,0:17:01.29,0:17:03.57,Chn,,0,0,0,,你是为了等到我向你揭秘 其实到第九层揭秘你就会自爆\N{\rEng}Did you bring us in so that everybody would be here
+Dialogue: 0,0:17:03.60,0:17:06.23,Chn,,0,0,0,,的时候大家伙都在场 才把我们送到这的吗\N{\rEng}when I reveal that you're gonna explode after nine reveals?
+Dialogue: 0,0:17:06.26,0:17:08.06,Chn,,0,0,0,,顺带一提 你可能不想回答这个\N{\rEng}By the way, you might not want to answer that.
+Dialogue: 0,0:17:08.09,0:17:10.54,Chn,,0,0,0,,如果你说的是我用我的纳米机器人重写你的大脑之后\N{\rEng}If you're talking about the code adjustments you made
+Dialogue: 0,0:17:10.58,0:17:14.20,Chn,,0,0,0,,你所做的代码调整\N{\rEng}after I reprogrammed your brain with my nanobots --
+Dialogue: 0,0:17:14.24,0:17:15.75,Chn,,0,0,0,,我对你的纳米机器人免疫\N{\rEng}I'm immune to your nanobots.
+Dialogue: 0,0:17:15.79,0:17:18.34,Chn,,0,0,0,,你免疫的是你设计的纳米机器人 不是我的\N{\rEng}You're immune to the ones you designed, not mine.
+Dialogue: 0,0:17:18.38,0:17:20.03,Chn,,0,0,0,,我把你编程为 制作对我无效的\N{\rEng}I programmed you to build nanobots
+Dialogue: 0,0:17:20.07,0:17:21.21,Chn,,0,0,0,,纳米机器人\N{\rEng}that were ineffective on me.
+Dialogue: 0,0:17:21.24,0:17:22.93,Chn,,0,0,0,,这是我的纳米机器人\N{\rEng}A belief that needed to be placed
+Dialogue: 0,0:17:22.97,0:17:24.28,Chn,,0,0,0,,在你脑中写入的信念\N{\rEng}in your head by my nanobots.
+Dialogue: 0,0:17:24.31,0:17:26.21,Chn,,0,0,0,,你认为如此 是因为我把你编程为这样的\N{\rEng}You believe that because I programmed you to.
+Dialogue: 0,0:17:26.25,0:17:27.73,Chn,,0,0,0,,这正是我要对你说的\N{\rEng}That's what I'm saying to you, though.
+Dialogue: 0,0:17:27.77,0:17:29.97,Chn,,0,0,0,,你相信的 是我重写你的大脑让你相信的事\N{\rEng}You believe what I programmed you to believe.
+Dialogue: 0,0:17:30.01,0:17:32.08,Chn,,0,0,0,,对 因为我把你编程为相信如此\N{\rEng}Yes, because I programmed you to believe that.
+Dialogue: 0,0:17:32.12,0:17:33.46,Chn,,0,0,0,,我把你编程为相信如此\N{\rEng}I programmed you to believe that.
+Dialogue: 0,0:17:33.50,0:17:34.77,Chn,,0,0,0,,我把你编程为相信如此\N{\rEng}I programmed you to believe that.
+Dialogue: 0,0:17:34.81,0:17:36.22,Chn,,0,0,0,,我把你编程为相信如此\N{\rEng}I programmed you to believe that.
+Dialogue: 0,0:17:36.26,0:17:37.57,Chn,,0,0,0,,我把你编程为相信如此\N{\rEng}I programmed you to believe that.
+Dialogue: 0,0:17:37.60,0:17:39.71,Chn,,0,0,0,,他俩在干啥 便便洞教授\N{\rEng}What's happening, Professor Poopybutthole?
+Dialogue: 0,0:17:39.74,0:17:41.19,Chn,,0,0,0,,它在学习\N{\rEng}He's learning!
+Dialogue: 0,0:17:41.23,0:17:42.95,Chn,,0,0,0,,我把你编程为相信如此\N{\rEng}I programmed you to believe that.
+Dialogue: 0,0:17:42.99,0:17:45.13,Chn,,0,0,0,,我把你编程为相信如此 我把你编程\N{\rEng}I programmed you to believe that. I programmed you...
+Dialogue: 0,0:17:45.16,0:17:46.37,Chn,,0,0,0,,从头到尾都是我的计划\N{\rEng}That was my plan the whole time.
+Dialogue: 0,0:17:46.41,0:17:47.89,Chn,,0,0,0,,是我让你这么想的\N{\rEng}That's what I wanted you to think.
+Dialogue: 0,0:17:47.92,0:17:48.96,Chn,,0,0,0,,就知道你要这么说\N{\rEng}I knew you would say that.
+Dialogue: 0,0:17:48.99,0:17:50.58,Chn,,0,0,0,,我把你编程为相信如此\N{\rEng}I programmed you to believe that.
+Dialogue: 0,0:17:50.62,0:17:52.41,Chn,,0,0,0,,你信以为真 因为我想让你这么想\N{\rEng}You think that's true because I wanted you to think that.
+Dialogue: 0,0:17:52.45,0:17:56.42,Chn,,0,0,0,,所以是我把你编程为相信如此的\N{\rEng}And I programmed you to believe that.
+Dialogue: 0,0:17:57.66,0:17:59.80,Chn,,0,0,0,,这真是最古怪的算法了\N{\rEng}A most curious algorithm.
+Dialogue: 0,0:17:59.83,0:18:02.08,Chn,,0,0,0,,似乎绝佳的盗窃\N{\rEng}It appears the only perfect heist
+Dialogue: 0,0:18:02.11,0:18:04.25,Chn,,0,0,0,,是从没被写入代码的那个\N{\rEng}is one that was never written.
+Dialogue: 0,0:18:04.29,0:18:05.53,Chn,,0,0,0,,再见\N{\rEng}Goodbye.
+Dialogue: 0,0:18:07.01,0:18:08.29,Chn,,0,0,0,,哦 哦 哦不 操\N{\rEng}Oh, oh, oh, no. Shit.
+Dialogue: 0,0:18:08.32,0:18:09.74,Chn,,0,0,0,,得 快他妈离开这个鬼地方\N{\rEng}Alright. Let's get the fuck out of here!
+Dialogue: 0,0:18:09.77,0:18:10.81,Chn,,0,0,0,,快 跑 跑\N{\rEng}Hurry! Go, go!
+Dialogue: 0,0:18:10.84,0:18:12.33,Chn,,0,0,0,,Rick 我想这是讲述AI危险性的\N{\rEng}Rick, I think this was a powerful lesson
+Dialogue: 0,0:18:12.36,0:18:13.64,Chn,,0,0,0,,生动一课\N{\rEng}in the dangers of AI,
+Dialogue: 0,0:18:13.67,0:18:14.78,Chn,,0,0,0,,顺带一提 这是中文"爱"的拼音\N{\rEng}which, by the way, means "love" in Chinese.
+Dialogue: 0,0:18:14.81,0:18:15.99,Chn,,0,0,0,,快他妈离开这儿 伊隆\N{\rEng}Get the fuck out of here, Elon!
+Dialogue: 0,0:18:16.02,0:18:17.30,Chn,,0,0,0,,这儿要塌了\N{\rEng}The place is collapsing!
+Dialogue: 0,0:18:17.33,0:18:18.58,Chn,,0,0,0,,噢 我操 Rick 几点了\N{\rEng}Oh, shit, Rick! Rick, what time is it?
+Dialogue: 0,0:18:18.61,0:18:20.13,Chn,,0,0,0,,快三点了 问这干啥 咋了\N{\rEng}It's almost 3:00. Why? What's wrong?
+Dialogue: 0,0:18:20.16,0:18:21.99,Chn,,0,0,0,,啊我靠 我很抱歉我没告诉过你 Rick\N{\rEng}Oh, man, I-I'm sorry I didn't tell you about this, Rick.
+Dialogue: 0,0:18:22.03,0:18:23.58,Chn,,0,0,0,,就是\N{\rEng}I just --
+Dialogue: 0,0:18:23.61,0:18:25.13,Chn,,0,0,0,,呃 你知道我在写个剧本吧\N{\rEng}Well, you know that screenplay that I've been writing?
+Dialogue: 0,0:18:25.17,0:18:26.69,Chn,,0,0,0,,网飞他们挺感兴趣的\N{\rEng}Netflix is pretty interested,
+Dialogue: 0,0:18:26.72,0:18:28.76,Chn,,0,0,0,,实际上今天三点半我有个小推销会\N{\rEng}and I've actually got a pitch meeting there today at 3:30.
+Dialogue: 0,0:18:28.79,0:18:30.31,Chn,,0,0,0,,噢 小老弟 哦 这很屌啊\N{\rEng}Oh, buddy. Oh, that's amazing.
+Dialogue: 0,0:18:30.35,0:18:31.48,Chn,,0,0,0,,呃 是啊 我知道你会说\N{\rEng}Yeah, well, I know you're gonna say
+Dialogue: 0,0:18:31.52,0:18:33.00,Chn,,0,0,0,,他们啥啥都感兴趣\N{\rEng}that they're interested in anything,
+Dialogue: 0,0:18:33.04,0:18:34.66,Chn,,0,0,0,,但 你懂 这对我来说意义重大 而且我已经\N{\rEng}but, you know, it's a big deal to me, and I've --
+Dialogue: 0,0:18:34.69,0:18:36.32,Chn,,0,0,0,,不不不 Morty Morty Morty 我相当excited\N{\rEng}No, no, no! Morty, Morty, Morty, I'm so excited for you.
+Dialogue: 0,0:18:36.35,0:18:37.63,Chn,,0,0,0,,你在逗我吗\N{\rEng}Are you kidding me?
+Dialogue: 0,0:18:37.66,0:18:38.94,Chn,,0,0,0,,听着 一句废话不用解释\N{\rEng}Listen, don't waste any time explaining.
+Dialogue: 0,0:18:38.97,0:18:40.32,Chn,,0,0,0,,快走 可以回头再把地球放回去\N{\rEng}Let's go. We can put the Earth back later.
+Dialogue: 0,0:18:40.36,0:18:41.46,Chn,,0,0,0,,你看行吗 你确定吗\N{\rEng}Alright? Are you sure?
+Dialogue: 0,0:18:41.49,0:18:42.63,Chn,,0,0,0,,当务之急 Morty\N{\rEng}Priorities, Morty.
+Dialogue: 0,0:18:42.67,0:18:44.67,Chn,,0,0,0,,就是赶紧把你送去和网飞开会\N{\rEng}Let's get you to that Netflix meeting.
+Dialogue: 0,0:18:45.50,0:18:46.78,Chn,,0,0,0,,今天真刺激 蛤\N{\rEng}Crazy day, huh?
+Dialogue: 0,0:18:46.81,0:18:49.36,Chn,,0,0,0,,果然天空其实是块巨型电路板\N{\rEng}Whole sky turned out to be a big circuit board.
+Dialogue: 0,0:18:49.40,0:18:51.16,Chn,,0,0,0,,是啊 那其实是是是我\N{\rEng}Yeah, that's actually part of a-a-a --
+Dialogue: 0,0:18:51.19,0:18:52.68,Chn,,0,0,0,,冒险的一部分\N{\rEng}an adventure I was having.
+Dialogue: 0,0:18:52.71,0:18:53.78,Chn,,0,0,0,,太酷了\N{\rEng}Very cool.
+Dialogue: 0,0:18:53.82,0:18:55.16,Chn,,0,0,0,,交通顺畅吗 来的一路上有麻烦吗\N{\rEng}Traffic okay? You have trouble getting here?
+Dialogue: 0,0:18:55.20,0:18:56.16,Chn,,0,0,0,,没 都挺好的\N{\rEng}No, it was alright.
+Dialogue: 0,0:18:56.20,0:18:57.55,Chn,,0,0,0,,地球仍然存放在那个类似于\N{\rEng}The planet's still contained
+Dialogue: 0,0:18:57.58,0:18:59.79,Chn,,0,0,0,,巨型网格式储物柜的东西里\N{\rEng}in this sort of big storage grid machine,
+Dialogue: 0,0:18:59.82,0:19:02.69,Chn,,0,0,0,,所以 可以说我们离得还挺挺挺近的\N{\rEng}so we were sort of already pretty -- pretty close by.
+Dialogue: 0,0:19:02.72,0:19:04.90,Chn,,0,0,0,,那可真棒 试试从马里布赶来这儿吧\N{\rEng}Must be nice. Try getting here from Malibu.
+Dialogue: 0,0:19:04.93,0:19:06.04,Chn,,0,0,0,,那好 这个话题就到这儿\N{\rEng}So good! Alright.
+Dialogue: 0,0:19:06.07,0:19:07.35,Chn,,0,0,0,,呃 咱们来聊聊你的盗窃电影吧\N{\rEng}Well, l-let's hear about this heist movie.
+Dialogue: 0,0:19:07.38,0:19:09.07,Chn,,0,0,0,,好 那个 大概就是围绕着\N{\rEng}Okay, so, it's kind of all --
+Dialogue: 0,0:19:09.11,0:19:11.66,Chn,,0,0,0,,一伙窃贼和酷炫的叛变\N{\rEng}all built around this big crew with, like, a cool double-cross
+Dialogue: 0,0:19:11.70,0:19:13.70,Chn,,0,0,0,,然后就会出现一个巨牛逼的反转 像是\N{\rEng}and then this big awesome twist where there's, like,
+Dialogue: 0,0:19:13.73,0:19:17.29,Chn,,0,0,0,,另一重叛变 后来 呃 但是\N{\rEng}another double cross, but then, um, but --
+Dialogue: 0,0:19:17.32,0:19:18.91,Chn,,0,0,0,,但是我们又意识到这些事\N{\rEng}but then we reveal those things
+Dialogue: 0,0:19:18.95,0:19:21.53,Chn,,0,0,0,,全都在英雄的计划之中 我我说清楚了吗\N{\rEng}were all part of the hero's plan, y-you know?
+Dialogue: 0,0:19:21.57,0:19:23.99,Chn,,0,0,0,,后来又凑起来另一伙人\N{\rEng}And there's this other crew they put together,
+Dialogue: 0,0:19:24.02,0:19:26.71,Chn,,0,0,0,,他们的计划是不要有任何计划\N{\rEng}and their plan is to sort of not have a plan,
+Dialogue: 0,0:19:26.75,0:19:31.34,Chn,,0,0,0,,但 但是这个计划又是另一个人的计划的一部分\N{\rEng}but -- but that was part of the other guy's plan, and --
+Dialogue: 0,0:19:31.37,0:19:34.41,Chn,,0,0,0,,孩子 如果你是因为觉得自己讲得不好 才越说越慢 老天爷\N{\rEng}Kid, if you're slowing down 'cause you think you're doing bad right now, Jesus Christ.
+Dialogue: 0,0:19:34.44,0:19:35.51,Chn,,0,0,0,,推销十分精彩 我喜欢\N{\rEng}-That's a really good pitch. -Loving it.
+Dialogue: 0,0:19:35.55,0:19:37.21,Chn,,0,0,0,,老兄 是这样 我\N{\rEng}Man, you know, I --
+Dialogue: 0,0:19:37.24,0:19:40.73,Chn,,0,0,0,,我现在开始觉得盗窃真的好蠢 好么\N{\rEng}I'm starting to think heists are just really dumb now, you know?
+Dialogue: 0,0:19:40.76,0:19:42.11,Chn,,0,0,0,,我说不出原因\N{\rEng}I can't put my finger on why,
+Dialogue: 0,0:19:42.14,0:19:44.21,Chn,,0,0,0,,但我确实想走了\N{\rEng}but I'd really like to go.
+Dialogue: 0,0:19:44.25,0:19:45.32,Chn,,0,0,0,,你确定吗\N{\rEng}Are you sure?
+Dialogue: 0,0:19:45.35,0:19:47.77,Chn,,0,0,0,,是 是 不用送了 我 我确定\N{\rEng}Yeah, yeah, no, I-I'm sure.
+Dialogue: 0,0:19:48.25,0:19:53.33,Chn,,0,0,0,,靠 这就像自己把对自己创意的热忱给偷走了一样\N{\rEng}Man, it's as if someone stole his enthusiasm for his own idea.
+Dialogue: 0,0:19:53.36,0:19:54.57,Chn,,0,0,0,,是啊 他自己还不知道被偷了\N{\rEng}Yeah, without him even knowing about it.
+Dialogue: 0,0:19:54.60,0:19:56.22,Chn,,0,0,0,,毫不知情\N{\rEng}Without him even knowing about it.
+Dialogue: 0,0:19:58.95,0:20:01.54,Chn,,0,0,0,,傻逼Morty还在折腾他的傻逼盗窃剧本\N{\rEng}Fuckin' Morty's still working on that stupid heist script.
+Dialogue: 0,0:20:01.57,0:20:03.71,Chn,,0,0,0,,他把自己关在屋里 把拇指塞进屁眼儿\N{\rEng}He's up in his room with his fuckin' thumb up his ass.
+Dialogue: 0,0:20:03.75,0:20:05.10,Chn,,0,0,0,,连翘了三次冒险\N{\rEng}Skipped out on the last three adventures.
+Dialogue: 0,0:20:05.13,0:20:07.62,Chn,,0,0,0,,不知道该说啥 反正我都有五个朋友跟网飞合作上了\N{\rEng}I don't know. Five of my friends got Netflix deals.
+Dialogue: 0,0:20:07.65,0:20:10.20,Chn,,0,0,0,,啥 这是个相当容易的事儿 他迟早会离开你\N{\rEng}What? It's a very achievable goal. You could lose him.
+Dialogue: 0,0:20:10.24,0:20:11.24,Chn,,0,0,0,,他他妈的才不会离开我\N{\rEng}I'm not gonna fuckin' lose him.
+Dialogue: 0,0:20:11.27,0:20:12.55,Chn,,0,0,0,,滚他妈的吧\N{\rEng}Fuck that.
+Dialogue: 0,0:20:12.59,0:20:14.24,Chn,,0,0,0,,我要把这逼事儿扼杀在摇篮里\N{\rEng}I-I'm gonna nip this shit in the bud.
+Dialogue: 0,0:20:14.28,0:20:15.86,Chn,,0,0,0,,不行 真实的情况是 不许你扼杀任何事儿\N{\rEng}No. As a matter of fact, you're not nipping anything in the bud.
+Dialogue: 0,0:20:15.90,0:20:18.21,Chn,,0,0,0,,如果Morty放弃了哪怕一个小梦想\N{\rEng}If Morty ever gives up on a single dream,
+Dialogue: 0,0:20:18.25,0:20:21.22,Chn,,0,0,0,,那也最好是因为他自行醒悟\N{\rEng}it had better be because of his own disillusionment.
+Dialogue: 0,0:20:23.67,0:20:24.94,Chn,,0,0,0,,嘿 小老弟 怎么样了\N{\rEng}Hey, buddy. How'd it go?
+Dialogue: 0,0:20:24.98,0:20:27.39,Chn,,0,0,0,,无可奉告\N{\rEng}I-I don't want to talk about it.
+Dialogue: 0,0:20:27.43,0:20:29.64,Chn,,0,0,0,,Morty 听我说 老弟 你 呃\N{\rEng}Morty, you know, pal, you, uh --
+Dialogue: 0,0:20:29.67,0:20:32.09,Chn,,0,0,0,,放弃就一定会失败\N{\rEng}you miss 100% of the shots you don't take.
+Dialogue: 0,0:20:32.12,0:20:33.47,Chn,,0,0,0,,是啊 我也这么觉得\N{\rEng}Yeah, I guess.
+Dialogue: 0,0:20:33.50,0:20:35.16,Chn,,0,0,0,,谢谢你对我的未来做出正面评价 Rick\N{\rEng}Thanks for staying positive about my prospects, Rick.
+Dialogue: 0,0:20:35.19,0:20:36.58,Chn,,0,0,0,,当然 你懂的 你\N{\rEng}Of course! You know, you --
+Dialogue: 0,0:20:36.61,0:20:38.47,Chn,,0,0,0,,我得帮助我的外孙实现梦想\N{\rEng}I got to help my grandson follow his dreams.
+Dialogue: 0,0:20:38.51,0:20:39.82,Chn,,0,0,0,,呃 梦想能吃吗\N{\rEng}Eh, who needs dreams?
+Dialogue: 0,0:20:39.85,0:20:41.44,Chn,,0,0,0,,我只想跟你瞎逛逛 冒冒险\N{\rEng}I'll just hang out with you and go on adventures
+Dialogue: 0,0:20:41.48,0:20:43.27,Chn,,0,0,0,,爱干啥就干点啥 你懂的 永远\N{\rEng}and do whatever you want to do, you know, forever.
+Dialogue: 0,0:20:43.31,0:20:44.62,Chn,,0,0,0,,噢 行啊 呃 吼啊\N{\rEng}Oh, well, uh, okay.
+Dialogue: 0,0:20:44.65,0:20:48.28,Chn,,0,0,0,,我是说 如果这就是你想要的\N{\rEng}I mean, if that's what you want.
+Dialogue: 0,0:21:22.55,0:21:25.31,Chn,,0,0,0,,暴风雨要来了\N{\rEng}Oooo weee! Big storm coming.
+Dialogue: 0,0:21:25.35,0:21:28.52,Chn,,0,0,0,,没准有龙卷风\N{\rEng}Could be a twister. Mm-hmm!
+Dialogue: 0,0:21:31.35,0:21:32.49,Chn,,0,0,0,,嘿 Rick\N{\rEng}Hey, Rick?
+Dialogue: 0,0:21:32.53,0:21:33.67,Chn,,0,0,0,,有个事儿你能帮我捋捋吗\N{\rEng}Can you walk me through something?
+Dialogue: 0,0:21:33.70,0:21:35.01,Chn,,0,0,0,,行啊 啥事儿\N{\rEng}Yeah. What are you thinking?
+Dialogue: 0,0:21:35.05,0:21:37.84,Chn,,0,0,0,,就是说 你和Morty知道需要我的帮助\N{\rEng}So, you and Morty knew you needed my help,
+Dialogue: 0,0:21:37.88,0:21:40.88,Chn,,0,0,0,,但不确定我还能打\N{\rEng}but you weren't sure I was good enough at karate,
+Dialogue: 0,0:21:40.92,0:21:44.37,Chn,,0,0,0,,所以你就雇了我的学生们上台削我吗\N{\rEng}so you hired my grad students to attack me?
+Dialogue: 0,0:21:44.40,0:21:45.85,Chn,,0,0,0,,正是\N{\rEng}Yep.
+Dialogue: 0,0:21:45.89,0:21:48.34,Chn,,0,0,0,,但那是个突发事件啊 Rick\N{\rEng}But it was an emergency, Rick.
+Dialogue: 0,0:21:48.37,0:21:49.99,Chn,,0,0,0,,你筹备了多久\N{\rEng}How long did that take?
+Dialogue: 0,0:21:50.03,0:21:54.17,Chn,,0,0,0,,实际上的训练量比你想的要少\N{\rEng}It actually took less training than you'd think.
+Dialogue: 0,0:21:54.20,0:21:55.38,Chn,,0,0,0,,你的学生们全都\N{\rEng}Your students all shared
+Dialogue: 0,0:21:55.41,0:21:57.48,Chn,,0,0,0,,在武术方面天赋异禀\N{\rEng}a pretty keen aptitude for martial arts.
+Dialogue: 0,0:21:57.52,0:21:58.97,Chn,,0,0,0,,我不知道那是不是巧合\N{\rEng}I don't know if that's by coincidence
+Dialogue: 0,0:21:59.00,0:22:01.52,Chn,,0,0,0,,或者跟他们对美国黑人妇女\N{\rEng}or if there's some correlation with their passion
+Dialogue: 0,0:22:01.56,0:22:03.87,Chn,,0,0,0,,的研究热情有点儿什么关系\N{\rEng}for African-American Women's Studies.
+Dialogue: 0,0:22:03.90,0:22:08.36,Chn,,0,0,0,,马娅·安杰卢可真是默许和抗争的有机结合啊\N{\rEng}Maya Angelou did personify both acquiescence and perseverance.
+Dialogue: 0,0:22:08.39,0:22:15.74,Chn,,0,0,0,,这种关联 正是我原本想在课堂上探讨的\N{\rEng}Ooo wee. That's exactly the kind of connection I'd have loved to explore in my class.
+Dialogue: 0,0:22:15.78,0:22:17.16,Chn,,0,0,0,,可惜我因为\N{\rEng}Too bad I lost my job
+Dialogue: 0,0:22:17.19,0:22:20.40,Chn,,0,0,0,,把学生揍进医院被辞退了\N{\rEng}for putting my students in the hospital.
+Dialogue: 0,0:22:20.44,0:22:22.47,Chn,,0,0,0,,是 是啊\N{\rEng}Yeah. Yeah.
+Dialogue: 0,0:22:22.51,0:22:24.92,Chn,,0,0,0,,真遗憾\N{\rEng}Sorry about that.
+Dialogue: 0,0:22:31.28,0:22:32.86,Chn,,0,0,0,,看懂了么\N{\rEng}Did you get any of that?
