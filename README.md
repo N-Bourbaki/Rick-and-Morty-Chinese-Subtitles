@@ -16,7 +16,7 @@
     - 每个 issue 只讨论一句或连续两三句的错翻
     - 点击 New issue 之前，确认没有已存在的 issue 讨论同一个问题
   
-2. **推荐 pull request**：尽管对新手来说略复杂，但也没复杂到要花费十分钟以上，建议所有新手参照[此教程](https://github.com/fjn308/rm-chs-amzn/releases/latest/download/guide.pdf)一步一步尝试。pull request 的规范与 issue 的类似，即**为每个 pull request 单独创建一个 branch，每个 branch 中只修改一句或连续两三句，并在 comment 中进行必要的说明**。
+2. **推荐 pull request**：尽管对新手来说略复杂，但也没复杂到要花费十分钟以上，建议所有新手参照[此教程](https://github.com/fjn308/rm-chs-amzn/releases/latest/download/guide.pdf)一步一步尝试。pull request 的规范与 issue 的类似，即**为每个 pull request 单独创建一个 branch，每个 branch 中只修改一句或连续两三句，并在 comment 中进行必要的说明**。这样设计，为的是允许 fjn308 在接受建议时能更灵活地筛选部分观点。
 
 请注意，为了语言风格的统一，**多数合理的 pull request 在被 merge 后，fjn308 会前往 master branch 进一步修改这句话的表述方式**。他不会请求 pull request 的发起者修改相应 branch，然后再 merge——牺牲一部分礼貌换取效率，毕竟这是周更动画的字幕。但是，如果你对他的二次修改结果有强烈异议，请再次发起 pull request，并尽可能宽恕他的无知。
 
