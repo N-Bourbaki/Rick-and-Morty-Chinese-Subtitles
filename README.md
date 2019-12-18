@@ -22,7 +22,7 @@
 
 除错翻之外的问题一般不在讨论之列，除非你认为问题确实重要，如：为明确的英字错误发起 pull request、为断句不当造成的某句话过分头重脚轻以致看不清的情况开启一个 issue，等等。
 
-感谢所有CONTRIBUTORS！！
+感谢每一位CONTRIBUTOR！
 
 wubba lubba dub dub
 
