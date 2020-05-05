@@ -31,3 +31,5 @@ wubba lubba dub dub
 如果你对此项目的来源感兴趣，或有意加入我们，请阅读[招募公告](https://github.com/fjn308/rm-chs-amzn/releases/latest/download/post.pdf)，更进一步地，已加入的成员请仔细阅读[内部手册](https://github.com/fjn308/rm-chs-amzn/releases/latest/download/handbook.pdf)。
 
 欢迎关注我们的微信公众号或微博（ID 都是 Community-137），虽然目前没有精力维护。
+
+S04E06 译后我们开始建设 RM 粉丝交流群，欢迎各位加入。请微信添加cream_scream，他会拉你入群（未来会架设电报群，目前先用微信凑合着）。
