@@ -12,7 +12,7 @@
 
 1. issue
 
-> **不推荐**，但适合新手快速操作。
+> 适合新手快速操作。
 
 点击本页上方的 Issues 按钮，然后点击绿色的 New issue 按钮。此方法类似开贴讨论，请遵循如下规范：
 
@@ -22,7 +22,7 @@
 
 2. pull request
 
-> 尽管对新手来说略复杂，但也没复杂到要花费十分钟以上，建议参照[这个教程](https://github.com/fjn308/rm-chs-amzn/releases/latest/download/guide.pdf)一步步尝试。
+> 略复杂，但也没复杂到要花费十分钟以上，推荐新手参照[这个教程](https://github.com/fjn308/rm-chs-amzn/releases/latest/download/guide.pdf)一步步试试。
 
 pull request 的规范与 issue 的类似，即：**为每个 pull request 单独创建一个 branch，每个 branch 中只修改一句或连续两三句，并在 comment 中进行必要的说明**。这样设计，为的是允许 fjn308 在接受建议时能更灵活地筛选部分观点，避免因为部分言之有理就全盘接受，或因为部分不认同就整体放弃的尴尬。
 
