@@ -42,4 +42,4 @@ wubba lubba dub dub
 
 > S04E06 译后我们开始建设 RM 粉丝交流群，欢迎各位加入。入微信群请微信添加 cream_scream，他会拉你入群；入 Telegram 群请前往 https://t.me/fsc137 。
 
-我们的微信公众号和微博都是 Community-137，欢迎关注。
+我们的微信公众号和微博的 ID 都是 Community-137，欢迎关注。
