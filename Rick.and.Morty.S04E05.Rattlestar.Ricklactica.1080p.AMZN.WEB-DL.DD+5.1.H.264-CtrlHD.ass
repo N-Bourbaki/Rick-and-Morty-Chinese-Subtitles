@@ -16,7 +16,7 @@ Style: Eng,Comic Sans MS,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.25,0:00:04.75,Top,,0,0,0,,本字幕第一版由Community-137制作 同时发布于SubHD和GitHub 参与的成员有
-Dialogue: 0,0:00:05.25,0:00:09.75,Top,,0,0,0,,[翻译] N/A   NPC   yjz   热心粉丝   Ender   走吃元   [校对] fuga   se9fault
+Dialogue: 0,0:00:05.25,0:00:09.75,Top,,0,0,0,,[翻译] NPC   yjz   热心粉丝   Ender   走吃元   [校对] fuga   se9fault
 Dialogue: 0,0:00:10.25,0:00:14.75,Top,,0,0,0,,转载请务必保留字幕信息 Community-137不对任何利用本字幕生成的视频负责
 Dialogue: 0,0:00:15.25,0:00:19.75,Top,,0,0,0,,我们的定位不同于专业字幕组 志在号召RM爱好者贡献个人力量 不断完善译文
 Dialogue: 0,0:00:20.25,0:00:24.75,Top,,0,0,0,,如果在观看中遇到任何错误翻译 诚邀您前往GitHub参与改错 该项目的地址是
