@@ -39,7 +39,7 @@ Dialogue: 0,0:00:51.32,0:00:52.39,Chn,,0,0,0,,诶 哪去了\N{\rEng}Hey, where's
 Dialogue: 0,0:00:52.43,0:00:53.57,Chn,,0,0,0,,等下 啥\N{\rEng}Wait, what?
 Dialogue: 0,0:00:53.60,0:00:55.05,Chn,,0,0,0,,那是个折纸马吗\N{\rEng}Is that an origami horse?
 Dialogue: 0,0:00:55.08,0:01:00.12,Chn,,0,0,0,,这是盗窃艺术家Miles Knightley留的名片 其实就是个傻屌非主流\N{\rEng}It's a calling card from Miles Knightley, a heist artist, AKA a hipster dick
-Dialogue: 0,0:01:00.16,0:01:02.47,Chn,,0,0,0,,他的冒险用前六成搞团建\N{\rEng}whose adventures are 60% putting a crew together
+Dialogue: 0,0:01:00.16,0:01:02.47,Chn,,0,0,0,,他的冒险用前六成组建团队\N{\rEng}whose adventures are 60% putting a crew together
 Dialogue: 0,0:01:02.51,0:01:04.37,Chn,,0,0,0,,后四成则用来搞个大揭秘\N{\rEng}and 40% revealing that the robbery already happened,
 Dialogue: 0,0:01:04.40,0:01:05.75,Chn,,0,0,0,,不值得咱们浪费时间\N{\rEng}and he's not worth our time
 Dialogue: 0,0:01:05.78,0:01:07.44,Chn,,0,0,0,,因为他就是个傻逼\N{\rEng}because he's a hack piece of shit fuck!
@@ -81,7 +81,7 @@ Dialogue: 0,0:02:58.21,0:02:59.42,Chn,,0,0,0,,你对盗窃题材的追捧\N{\rEn
 Dialogue: 0,0:02:59.45,0:03:00.73,Chn,,0,0,0,,那我们怎么进去\N{\rEng}Then how do we get in?
 Dialogue: 0,0:03:00.76,0:03:03.18,Chn,,0,0,0,,靠老朋友的一点微小的帮助\N{\rEng}With a little help from some old friends.
 Dialogue: 0,0:03:06.73,0:03:09.01,Chn,,0,0,0,,Rick Sanchez 你妈是个婊子\N{\rEng}Rick Sanchez, you son of a bitch!
-Dialogue: 0,0:03:09.05,0:03:10.88,Chn,,0,0,0,,摇点儿人干点儿事 开心\N{\rEng}Need some people for a thing, Glar.
+Dialogue: 0,0:03:09.05,0:03:10.88,Chn,,0,0,0,,要点儿人干点儿事 开心\N{\rEng}Need some people for a thing, Glar.
 Dialogue: 0,0:03:10.91,0:03:13.02,Chn,,0,0,0,,这几天我的名字是嗨森\N{\rEng}My name's Gleer these days.
 Dialogue: 0,0:03:13.05,0:03:14.12,Chn,,0,0,0,,我在这儿弹钢琴\N{\rEng}I play piano.
 Dialogue: 0,0:03:14.15,0:03:16.95,Chn,,0,0,0,,喂 嗨森 弹你的钢琴去\N{\rEng}Hey, Gleer. Play your piano.
@@ -179,7 +179,7 @@ Dialogue: 0,0:07:36.90,0:07:38.52,Chn,,0,0,0,,恶 连个赃物都不是\N{\rEng}
 Dialogue: 0,0:07:38.56,0:07:39.59,Chn,,0,0,0,,你们只是\N{\rEng}All you did was --
 Dialogue: 0,0:07:39.63,0:07:40.87,Chn,,0,0,0,,编了个算法\N{\rEng}Write an algorithm
 Dialogue: 0,0:07:40.90,0:07:42.49,Chn,,0,0,0,,基于我睡觉时没关的两部盗窃电影\N{\rEng}based on two heist movies I slept through
-Dialogue: 0,0:07:42.53,0:07:45.05,Chn,,0,0,0,,然后自动生成了个无聊的 你称之为艺术的进程\N{\rEng}and used it to automate a joyless process you call art?
+Dialogue: 0,0:07:42.53,0:07:45.05,Chn,,0,0,0,,然后自动化了这个无聊的过程 结果你还称之为艺术\N{\rEng}and used it to automate a joyless process you call art?
 Dialogue: 0,0:07:45.08,0:07:46.81,Chn,,0,0,0,,是啊 我真这么干了 不是吗\N{\rEng}Yeah, I really did, didn't I?
 Dialogue: 0,0:07:46.84,0:07:49.84,Chn,,0,0,0,,所以 现在我是你团队的一员了吗\N{\rEng}So I'm in your crew now?
 Dialogue: 0,0:07:49.88,0:07:51.71,Chn,,0,0,0,,对 啊 算你一个也无伤大雅\N{\rEng}Yeah, well, you're in good company.
@@ -218,7 +218,7 @@ Dialogue: 0,0:09:07.99,0:09:09.54,Chn,,0,0,0,,要做什么工作 算我一个\N{
 Dialogue: 0,0:09:09.58,0:09:10.92,Chn,,0,0,0,,我要退出 我不干了\N{\rEng}I'm out! I quit!
 Dialogue: 0,0:09:10.96,0:09:12.44,Chn,,0,0,0,,这是谁的肾\N{\rEng}Whose kidneys are these?
 Dialogue: 0,0:09:13.82,0:09:15.14,Chn,,0,0,0,,Rick 咋 咋回事\N{\rEng}Rick, w-what's happening?
-Dialogue: 0,0:09:15.17,0:09:17.24,Chn,,0,0,0,,盗窃奥创的roguelike幺蛾子 如果不把它们终止\N{\rEng}Heistotron's gone rogue. If we don't stop them,
+Dialogue: 0,0:09:15.17,0:09:17.24,Chn,,0,0,0,,盗窃奥创叛变了 如果不把它们终止\N{\rEng}Heistotron's gone rogue. If we don't stop them,
 Dialogue: 0,0:09:17.28,0:09:19.07,Chn,,0,0,0,,所有的生命体都会被召入\N{\rEng}all sentient life will be absorbed
 Dialogue: 0,0:09:19.11,0:09:21.59,Chn,,0,0,0,,无休止无意义的团队集结\N{\rEng}by the never-ending assembly of a meaningless crew.
 Dialogue: 0,0:09:21.63,0:09:22.63,Chn,,0,0,0,,那对我是地狱 Morty\N{\rEng}That's my hell, Morty.
@@ -249,10 +249,10 @@ Dialogue: 0,0:10:49.33,0:10:50.71,Chn,,0,0,0,,Rick Morty 为什么是我\N{\rEng
 Dialogue: 0,0:10:50.75,0:10:53.37,Chn,,0,0,0,,你们现实里的伊隆·马斯克出了什么事吗\N{\rEng}Did something happen to Elon Musk in your own reality?
 Dialogue: 0,0:10:53.41,0:10:56.20,Chn,,0,0,0,,不不不 他挺好 但这是个团队行动\N{\rEng}No, no, no, he's fine, but this is a team operation,
 Dialogue: 0,0:10:56.24,0:10:58.65,Chn,,0,0,0,,正常的伊隆 可能会有那么点儿独断\N{\rEng}and regular Elon can be a little bit controlling.
-Dialogue: 0,0:10:58.69,0:11:01.24,Chn,,0,0,0,,生来就有对象牙确实会导致社交障碍\N{\rEng}Growing up with tusks did pose social challenges.
-Dialogue: 0,0:11:01.28,0:11:03.04,Chn,,0,0,0,,但也不是没法克服\N{\rEng}It's possible overcoming them
-Dialogue: 0,0:11:03.07,0:11:05.97,Chn,,0,0,0,,可以借此肯定自我 提升团队协作能力\N{\rEng}raised my self-esteem and incentivized collaboration.
-Dialogue: 0,0:11:06.01,0:11:08.73,Chn,,0,0,0,,是啊 否则你会因为长了一对怪物的牙 而不够自信\N{\rEng}Yeah, or you're less sure of yourself because you have monster teeth.
+Dialogue: 0,0:10:58.69,0:11:01.24,Chn,,0,0,0,,生来就有对象牙确实会在社交上带来挑战\N{\rEng}Growing up with tusks did pose social challenges.
+Dialogue: 0,0:11:01.28,0:11:03.04,Chn,,0,0,0,,可能正是克服障碍的过程\N{\rEng}It's possible overcoming them
+Dialogue: 0,0:11:03.07,0:11:05.97,Chn,,0,0,0,,让我增强了自尊 提升了团队协作能力\N{\rEng}raised my self-esteem and incentivized collaboration.
+Dialogue: 0,0:11:06.01,0:11:08.73,Chn,,0,0,0,,也可能是因为你长了一对怪物的牙 不够自信\N{\rEng}Yeah, or you're less sure of yourself because you have monster teeth.
 Dialogue: 0,0:11:08.77,0:11:10.15,Chn,,0,0,0,,这个等价的理论同样成立\N{\rEng}An equally valid theory.
 Dialogue: 0,0:11:10.18,0:11:11.77,Chn,,0,0,0,,咱们挪两步说话吧\N{\rEng}Let's talk over here.
 Dialogue: 0,0:11:13.91,0:11:15.22,Chn,,0,0,0,,情况有多严重\N{\rEng}How serious is the situation?
@@ -349,7 +349,7 @@ Dialogue: 0,0:15:59.47,0:16:01.51,Chn,,0,0,0,,Morty 你是我肚里的蛔虫吗 
 Dialogue: 0,0:16:01.54,0:16:04.27,Chn,,0,0,0,,而且在去的路上 我还能搞两把悬浮椅\N{\rEng}And we'll grab a couple of hover chairs on the way there.
 Dialogue: 0,0:16:04.30,0:16:06.96,Chn,,0,0,0,,精彩 但我到底是随机还是靠计划\N{\rEng}Impressive. But what does it even matter
 Dialogue: 0,0:16:07.00,0:16:08.72,Chn,,0,0,0,,又能影响到什么呢\N{\rEng}if I'm random or planned?
-Dialogue: 0,0:16:08.76,0:16:11.34,Chn,,0,0,0,,我的盗窃依旧支配一切\N{\rEng}My heists will still rule.
+Dialogue: 0,0:16:08.76,0:16:11.34,Chn,,0,0,0,,我的盗窃依旧酷爆了\N{\rEng}My heists will still rule.
 Dialogue: 0,0:16:11.38,0:16:14.31,Chn,,0,0,0,,呃 如果你的脑壳里的东西实际上是盗窃奥创的 那就会有影响\N{\rEng}Well, if the brain inside of you is actually Heistotron's,
 Dialogue: 0,0:16:14.35,0:16:16.35,Chn,,0,0,0,,因为一旦圈套达到六层嵌套\N{\rEng}it matters, because it explodes
 Dialogue: 0,0:16:16.38,0:16:18.46,Chn,,0,0,0,,它就会爆炸\N{\rEng}when it hits six levels of contrivance.
@@ -460,18 +460,18 @@ Dialogue: 0,0:19:40.76,0:19:42.11,Chn,,0,0,0,,我说不出原因\N{\rEng}I can't
 Dialogue: 0,0:19:42.14,0:19:44.21,Chn,,0,0,0,,但我确实想走了\N{\rEng}but I'd really like to go.
 Dialogue: 0,0:19:44.25,0:19:45.32,Chn,,0,0,0,,你确定吗\N{\rEng}Are you sure?
 Dialogue: 0,0:19:45.35,0:19:47.77,Chn,,0,0,0,,是 是 不用送了 我 我确定\N{\rEng}Yeah, yeah, no, I-I'm sure.
-Dialogue: 0,0:19:48.25,0:19:53.33,Chn,,0,0,0,,靠 这就像自己把对自己创意的热忱给偷走了一样\N{\rEng}Man, it's as if someone stole his enthusiasm for his own idea.
+Dialogue: 0,0:19:48.25,0:19:53.33,Chn,,0,0,0,,靠 这就像有人把他对自己创意的热忱给偷走了一样\N{\rEng}Man, it's as if someone stole his enthusiasm for his own idea.
 Dialogue: 0,0:19:53.36,0:19:54.57,Chn,,0,0,0,,是啊 他自己还不知道被偷了\N{\rEng}Yeah, without him even knowing about it.
 Dialogue: 0,0:19:54.60,0:19:56.22,Chn,,0,0,0,,毫不知情\N{\rEng}Without him even knowing about it.
 Dialogue: 0,0:19:58.95,0:20:01.54,Chn,,0,0,0,,傻逼Morty还在折腾他的傻逼盗窃剧本\N{\rEng}Fuckin' Morty's still working on that stupid heist script.
 Dialogue: 0,0:20:01.57,0:20:03.71,Chn,,0,0,0,,他把自己关在屋里 把拇指塞进屁眼儿\N{\rEng}He's up in his room with his fuckin' thumb up his ass.
 Dialogue: 0,0:20:03.75,0:20:05.10,Chn,,0,0,0,,连翘了三次冒险\N{\rEng}Skipped out on the last three adventures.
 Dialogue: 0,0:20:05.13,0:20:07.62,Chn,,0,0,0,,不知道该说啥 反正我都有五个朋友跟网飞合作上了\N{\rEng}I don't know. Five of my friends got Netflix deals.
-Dialogue: 0,0:20:07.65,0:20:10.20,Chn,,0,0,0,,啥 这是个相当容易的事儿 他迟早会离开你\N{\rEng}What? It's a very achievable goal. You could lose him.
+Dialogue: 0,0:20:07.65,0:20:10.20,Chn,,0,0,0,,- 啥 - 这是个相当容易的事儿 他迟早会离开你\N{\rEng}What? It's a very achievable goal. You could lose him.
 Dialogue: 0,0:20:10.24,0:20:11.24,Chn,,0,0,0,,他他妈的才不会离开我\N{\rEng}I'm not gonna fuckin' lose him.
 Dialogue: 0,0:20:11.27,0:20:12.55,Chn,,0,0,0,,滚他妈的吧\N{\rEng}Fuck that.
 Dialogue: 0,0:20:12.59,0:20:14.24,Chn,,0,0,0,,我要把这逼事儿扼杀在摇篮里\N{\rEng}I-I'm gonna nip this shit in the bud.
-Dialogue: 0,0:20:14.28,0:20:15.86,Chn,,0,0,0,,不行 真实的情况是 不许你扼杀任何事儿\N{\rEng}No. As a matter of fact, you're not nipping anything in the bud.
+Dialogue: 0,0:20:14.28,0:20:15.86,Chn,,0,0,0,,不行 事实上 你不许扼杀任何事儿\N{\rEng}No. As a matter of fact, you're not nipping anything in the bud.
 Dialogue: 0,0:20:15.90,0:20:18.21,Chn,,0,0,0,,如果Morty放弃了哪怕一个小梦想\N{\rEng}If Morty ever gives up on a single dream,
 Dialogue: 0,0:20:18.25,0:20:21.22,Chn,,0,0,0,,那也最好是因为他自行醒悟\N{\rEng}it had better be because of his own disillusionment.
 Dialogue: 0,0:20:23.67,0:20:24.94,Chn,,0,0,0,,嘿 小老弟 怎么样了\N{\rEng}Hey, buddy. How'd it go?
