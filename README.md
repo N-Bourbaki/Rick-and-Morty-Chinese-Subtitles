@@ -1,32 +1,62 @@
 # *Rick and Morty*: Chinese Subtitles
 
-这里曾是 Community-137 的翻译习作公开页。
+> 下载字幕请点击右上方绿色 Clone or download 按钮，再点蓝色 Download Zip 字样。或直接 [点这里](https://github.com/N-Bourbaki/Rick-and-Morty-Chinese-Subtitles/archive/refs/heads/master.zip)。
 
-> Community-137 是由喜欢 *Rick and Morty* 的网友组成的英语学习、翻译研究团体。基于共同的爱好，我们把这部剧的台词作为学习资源，希望能以研究翻译技巧的方式，提升个人的英文理解水平、锻炼我们的中文表达能力。
+这里是 Nicolas Bourbaki 的作品发布页。我们是专注于 *Rick and Morty* 中文字幕的非营利性团体，秉承开源、分享的互联网精神，为有溯源精神和搜索能力的观众提供服务，志在集众人力量输出最高质量的 *Rick and Morty* 双语外挂字幕。
 
-> 本仓库中除 Community-137 原创译文之外的内容均取自且能容易地取自互联网，与之相关的一切权利归相应的作者或著作权人所有，作为爱好者我们格外尊敬这些作者，也希望所有人通过最正规的渠道欣赏最原汁原味的作品；
+由于字幕不断修正完善，我们不建议您封装收藏，随用随下就好。Enjoy！
 
-> Community-137 的原创译文我们仅作保留学习、研究痕迹，以及为日后交流经验、修正错误提供参照之用，对此我们不声明任何权利，只是不建议任何人把它们用于超出以上范围的一切用途，同时谴责盈利行为。
+历史上，Nicolas Bourbaki 继承了 [Community-137](https://github.com/Community-137/Rick-and-Morty-Chinese-Subtitles) 的工作，但两个组织并无关联。Community-137 曾经承诺：
 
-> Community-137 保证避免侵犯任何组织或个人的合法权益，如果此仓库的内容确实使您的权益受到了侵害，请联系我们，这些内容将在第一时间被移除。我们注意到 Rick and Morty 近期已被 ACFUN 引进成为“A站独播”，出于下述个人原因，同时也为了避免潜在的麻烦，我们声明：
+> 第五季开播前，经过精细整理的全集字幕会被陆续上传到这里，欢迎 Watch（并顺手 Star）。其中时间轴取自蓝光 PGS 字幕，英字 OCR 自蓝光 PGS 字幕；S01-S02 译本取自 [电波字幕组](http://dbfansub.com/) 发布的外挂字幕，S03E01-S04E02 译本 OCR 自电波字幕组发布的熟肉视频，S04E03 起的译本取自 Community-137 随剧集更新发布的外挂字幕。
 
-> 出于学业、工作、生活等方面的压力，Community-137 的成员均不能以 Community-137 成员的名义继续参加翻译，Community-137 便也无从公开新的译文。更确切地说，尽管 Community-137 从未自称为字幕组，也还是要明确其已经退出了字幕组的舞台，以防曾有误入的可能。
+以上承诺显然不能如期做到了。除了工作量巨大，最主要的原因是，我们发现不同版本的原盘其时间轴并非精确一致，而当前还没有某个版本的蓝光片源能够让我们不迟疑地选取、轻松地得到。随着与 PT 玩家朋友们交流的增多，这个问题有望得到解决。同时，出于学业、工作、生活等方面的压力，目前我们无法承诺确切的洗版时间，只能保证尽力而为。关于无法如期达成上述承诺，我们向期待着的朋友们真诚地道歉。全集字幕的原料或粗糙半成品可见于 [这个目录](https://github.com/N-Bourbaki/Rick-and-Morty-Chinese-Subtitles/tree/master/draft)，可以应付日常需求。
 
-*Rick and Morty* 第五季即将开播，我们已提前把未完成的和后续的任务托付给新组织 [Nicolas Bourbaki](https://github.com/n-bourbaki)。Nicolas Bourbaki 是一个人还是九个人不重要，重要的是我们相信他会延续 Community-137 的原则和风格，更重要的是他会填好我们挖的坑，请大家相信他。即日起本仓库改作为 Nicolas Bourbaki 仓库的 fork 存在，关于先前的承诺，将由 Nicolas Bourbaki 在本页代我们解释说明。
+> 欢迎 Watch 本仓库，请选择 Watching 而非 Releases only。我们开了一个长期 Issue 专门罗列重要更新，每条消息都会触发 Watching 机制导致你收到提醒，而 Releases 是被用于存放招募公告、内部手册和 pr 教程等 pdf 文档的地方。
 
-请大家支持正版，我们建议仅把 Community-137 的第四季翻译及 Nicolas Bourbaki 的后续翻译作为 ACFUN 是唯一正版选择情况下的译文参照和删减补充。
+## 译文改错
 
-## 致谢
+对于 Nicolas Bourbaki 或 Community-137 的原创翻译，即从 S04E03 开始的部分，我们邀请所有观众参与改错。改错的基本原则是：**仅仅修正语义错误，忽略表达习惯差异**。原则上我们不在字幕中为梗写注释，仅仅译出对理解剧情至关重要的画面文字，有关这一决定的讨论详见招募公告和内部手册（重写中，暂不提供）。
 
-电波字幕组是 *Rick and Morty* 在的国内拓荒者，Community-137 的每个成员都是通过他们的翻译结识的这部剧。我们谨向电波字幕组表达诚挚的敬意。
+> 如果你是 GitHub 新手，别担心，这十分容易。如果你还没有账号，请 [点击这里](https://github.com/join)，**只需一个邮箱**即可完成注册。
+
+改错分为两种途径：
+
+1. issue
+
+> 适合新手快速操作。
+
+点击本页上方的 Issues 按钮，然后点击绿色的 New issue 按钮。此方法类似开贴讨论，讨论前请确认问题没有在其他 issue 中被讨论过。
+
+2. pull request
+
+> 不推荐，原因如下：
+
+为了语言风格的统一，**多数合理的 pull request 需要被调整表述方式**。在周更动画的改错中，协调 pr 发起者修改表述有违时效性，擅自二次改动他人贡献不合礼节。因此，如果我们 merge 了你的 pr 后对相应翻译做了进一步的修改，请理解。
+
+> 错翻之外的问题一般不在讨论之列，除非你认为问题确实重要，如：为明确的英字错误发起 pr、为断句不当造成的某句话过分头重脚轻以致看不清的情况开启一个 issue，等等。
+
+## 译者招募
+
+暂停招募，有意者请进 Telegram 群讨论。
+
+## 欢迎关注
+
+> Nicolas Bourbaki 的 Telegram 群是：[t.me/buerbaji](https://t.me/buerbaji)
+
+> Community-137 的微信公众号是 Community-137。
+
+GitHub 永远是我们的首要阵地，即便建站，其意义也仅限于缓和 GitHub 越来越难以被所有人轻松访问的趋势。随时在 GitHub 搜 *Rick and Morty*，即可在第一页找到我们。不存在“关注防走丢”，请循着审美自由行走，**你的**判断、**你的**选择才是对**你**重要的。
+
+## 致敬致谢
+
+电波字幕组是 *Rick and Morty* 在的国内拓荒者，Nicolas Bourbaki 和 Community-137 的每个成员都是通过他们的翻译结识的这部剧。我们谨向电波字幕组表达诚挚的敬意。
+
+感谢 Community-137 对本项目的奠基性贡献，希望 Nicolas Bourbaki 也能通过小小的工作给你带来小小的快乐。
 
 以下 CONTRIBUTOR 贡献了对译文的修正，感谢这些认真的热心人：
 
 * S04E03：[aboolou](https://github.com/aboolou)，一处语义修正；
 * S04E09：[Ntrv777](https://github.com/Ntrv777)，一处语义修正。
-
-以及感谢接过铲子填坑的 [Nicolas Bourbaki](https://github.com/n-bourbaki)。
-
-再见。
 
 wubba lubba dub dub
