@@ -4,6 +4,8 @@
 
 > **S05E02**：[subhd.tv/a/520301](https://subhd.tv/a/520301)。如果你有能力且乐于第一时间提供 HBO Go 官方中、英字幕，请联系我们。
 
+> **S05E03**：[subhd.tv/a/520577](https://subhd.tv/a/520577)。这集憋出了一个原创翻译，不保证以后能持续，详见上述链接的字幕说明。已上传 GitHub。
+
 > 下载字幕请点击右上方绿色 Code 按钮，再点 Download Zip 字样。或直接 [点这里](https://github.com/N-Bourbaki/Rick-and-Morty-Chinese-Subtitles/archive/refs/heads/master.zip)。
 
 这里是 Nicolas Bourbaki 的作品发布页。我们是专注于 *Rick and Morty* 中文字幕的非营利性团体，秉承开源、分享的互联网精神，为有溯源精神和搜索能力的观众提供服务，志在集众人力量输出最高质量的 *Rick and Morty* 双语外挂字幕。
