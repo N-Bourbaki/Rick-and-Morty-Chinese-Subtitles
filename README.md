@@ -63,6 +63,7 @@ GitHub 永远是我们的首要阵地，即便建站，其意义也仅限于缓�
 以下 CONTRIBUTOR 贡献了对译文的修正，感谢这些认真的热心人：
 
 * S04E03：[aboolou](https://github.com/aboolou)，一处语义修正；
-* S04E09：[Ntrv777](https://github.com/Ntrv777)，一处语义修正。
+* S04E09：[Ntrv777](https://github.com/Ntrv777)，一处语义修正；
+* S05E03：[qianbinbin](https://github.com/qianbinbin)，一处语义修正。
 
 wubba lubba dub dub
