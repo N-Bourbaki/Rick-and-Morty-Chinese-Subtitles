@@ -16,7 +16,7 @@ Style: git,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.25,0:00:04.75,top,,0,0,0,,本字幕第一版由Nicolas Bourbaki制作 同时发布于GitHub和SubHD 参与的成员有
-Dialogue: 0,0:00:05.25,0:00:09.75,top,,0,0,0,,H.Cartan    T-9000    Otter
+Dialogue: 0,0:00:05.25,0:00:09.75,top,,0,0,0,,H.Cartan    T-9000    Otter    ToddPacker
 Dialogue: 0,0:00:10.25,0:00:14.75,top,,0,0,0,,转载请务必保留字幕信息 Nicolas Bourbaki不对任何利用本字幕生成的视频负责
 Dialogue: 0,0:00:15.25,0:00:19.75,top,,0,0,0,,如果在观看中遇到任何错误翻译 诚邀您前往GitHub参与改错 该项目的地址是
 Dialogue: 0,0:00:20.25,0:00:24.75,top,,0,0,0,,{\rgit}https://github.com/N-Bourbaki/Rick-and-Morty-Chinese-Subtitles {\rtop}期待您的参与
@@ -47,8 +47,8 @@ Dialogue: 0,0:00:26.11,0:00:27.41,zh,,0,0,0,,怎 怎么雨会烧伤我呢\N{\ren
 Dialogue: 0,0:00:27.46,0:00:30.46,zh,,0,0,0,,我下的酸雨\N{\ren}My acid rain will destroy
 Dialogue: 0,0:00:30.50,0:00:34.73,zh,,0,0,0,,就是要毁掉所有绿色天然的东西 不然怎么配得上我柴油黄鼠狼的名号\N{\ren}all things green and natural or my name isn't Diesel Weasel.
 Dialogue: 0,0:00:37.16,0:00:40.25,zh,,0,0,0,,呃 那哥们好容易满足啊\N{\ren}Huh. Well, that guy's easy to please.
-Dialogue: 0,0:00:40.30,0:00:43.04,zh,,0,0,0,,你的酸雨 真是酸到\N{\ren}Your acid rain is an acid pain...
-Dialogue: 0,0:00:43.08,0:00:44.91,zh,,0,0,0,,令人厌烦呀 柴油黄鼠狼\N{\ren}in the butt, Diesel Weasel!
+Dialogue: 0,0:00:40.30,0:00:43.04,zh,,0,0,0,,你的酸雨 真是好酸呢\N{\ren}Your acid rain is an acid pain...
+Dialogue: 0,0:00:43.08,0:00:44.91,zh,,0,0,0,,酸到令人作呕呀 柴油黄鼠狼\N{\ren}in the butt, Diesel Weasel!
 Dialogue: 0,0:00:44.95,0:00:46.30,zh,,0,0,0,,-唉呀呀 -哇哦\N{\ren}-Yikes. -Wow.
 Dialogue: 0,0:00:46.35,0:00:47.91,zh,,0,0,0,,那个话都说不利索的小妞是谁\N{\ren}Who's the chick in need of a dialogue pass?
 Dialogue: 0,0:00:47.96,0:00:50.70,zh,,0,0,0,,第一要务是要扫清这场酸雨\N{\ren}First order of business is to clean up this acid rain
@@ -70,7 +70,7 @@ Dialogue: 0,0:01:23.30,0:01:24.64,zh,,0,0,0,,-你说什么 -不好意思\N{\ren}
 Dialogue: 0,0:01:24.69,0:01:27.13,zh,,0,0,0,,我本来想说 没有问题 你客气了\N{\ren}I-I-I wanted to say, "N-No problem, you're welcome,"
 Dialogue: 0,0:01:27.17,0:01:29.17,zh,,0,0,0,,结结结果就说成了 你有问题\N{\ren}a-a-and it came out "your problem."
 Dialogue: 0,0:01:29.21,0:01:30.43,zh,,0,0,0,,我是个傻子 对不起\N{\ren}I-I'm an idiot. Sorry.
-Dialogue: 0,0:01:30.48,0:01:33.09,zh,,0,0,0,,你才不傻呢 你回收了呀\N{\ren}You're not an idiot. You recycled.
+Dialogue: 0,0:01:30.48,0:01:33.09,zh,,0,0,0,,你才不傻呢 你回收了易拉罐啊\N{\ren}You're not an idiot. You recycled.
 Dialogue: 0,0:01:33.13,0:01:35.13,zh,,0,0,0,,-我 我叫Morty -遇见你真开心 Morty\N{\ren}-I-I'm Morty. -Nice to meet you, Morty.
 Dialogue: 0,0:01:35.18,0:01:37.31,zh,,0,0,0,,我是星球娜娜 愿你今天开心哦\N{\ren}I'm Planetina, and I hope you have a wonderful day.
 Dialogue: 0,0:01:38.44,0:01:39.57,zh,,0,0,0,,你他妈磨蹭什么呢\N{\ren}The fuck we doin' here?
@@ -132,7 +132,7 @@ Dialogue: 0,0:03:55.62,0:03:57.19,zh,,0,0,0,,老娘也不再屌他”的想法 �
 Dialogue: 0,0:03:57.23,0:03:58.28,zh,,0,0,0,,还会得疱疹\N{\ren}And also herpes.
 Dialogue: 0,0:03:58.32,0:03:59.28,zh,,0,0,0,,哦我天啊\N{\ren}Um... Oh, my God,
 Dialogue: 0,0:03:59.32,0:04:00.41,zh,,0,0,0,,谢谢你 Rick姥爷\N{\ren}thank you, Grandpa Rick!
-Dialogue: 0,0:04:00.45,0:04:01.85,zh,,0,0,0,,我去打包了\N{\ren}I'm gonna go pack my rollie.
+Dialogue: 0,0:04:00.45,0:04:01.85,zh,,0,0,0,,我得去拿点烟\N{\ren}I'm gonna go pack my rollie.
 Dialogue: 0,0:04:01.89,0:04:03.93,zh,,0,0,0,,Summer 我我我还没允许你出门呢\N{\ren}Um, Summer? I-I-I haven't given you my approval yet.
 Dialogue: 0,0:04:03.98,0:04:05.28,zh,,0,0,0,,Summer 出门的允许\N{\ren}Summer, approval
 Dialogue: 0,0:04:05.33,0:04:06.59,zh,,0,0,0,,我还没给呢\N{\ren}is yet to be given here!
@@ -381,7 +381,7 @@ Dialogue: 0,0:12:54.59,0:12:55.68,zh,,0,0,0,,气\N{\ren}Airs!
 Dialogue: 0,0:12:56.86,0:12:58.86,zh,,0,0,0,,冷水 冷水\N{\ren}Cold Water! Cold Water!
 Dialogue: 0,0:12:58.90,0:13:00.56,zh,,0,0,0,,尘\N{\ren}Dirt!
 Dialogue: 0,0:13:00.60,0:13:02.17,zh,,0,0,0,,火\N{\ren}Fire!
-Dialogue: 0,0:13:03.52,0:13:04.65,zh,,0,0,0,,啥\N{\ren}Wa--
+Dialogue: 0,0:13:03.52,0:13:04.65,zh,,0,0,0,,水\N{\ren}Wa--
 Dialogue: 0,0:13:05.82,0:13:06.96,zh,,0,0,0,,气\N{\ren}Airs.
 Dialogue: 0,0:13:07.00,0:13:09.17,zh,,0,0,0,,我们终于可以在一起了 星球娜娜\N{\ren}Now we can be together, Planetina.
 Dialogue: 0,0:13:09.22,0:13:11.00,zh,,0,0,0,,我有着独立人格\N{\ren}I am an individual character.
@@ -391,7 +391,7 @@ Dialogue: 0,0:13:13.70,0:13:15.49,zh,,0,0,0,,水 尘 气\N{\ren}Water! Dirt! Air
 Dialogue: 0,0:13:18.75,0:13:21.27,zh,,0,0,0,,完蛋了\N{\ren}Not good!
 Dialogue: 0,0:13:23.89,0:13:24.97,zh,,0,0,0,,Blib\N{\ren}Blib...
 Dialogue: 0,0:13:25.02,0:13:26.32,zh,,0,0,0,,Naga\N{\ren}Naga...
-Dialogue: 0,0:13:26.37,0:13:27.50,zh,,0,0,0,,三儿\N{\ren}Threve...
+Dialogue: 0,0:13:26.37,0:13:27.50,zh,,0,0,0,,三\N{\ren}Threve...
 Dialogue: 0,0:13:27.54,0:13:29.50,zh,,0,0,0,,Verillex Gam\N{\ren}Verillex... Gam!
 Dialogue: 0,0:13:29.54,0:13:31.46,zh,,0,0,0,,末日快乐\N{\ren}Happy Apocalypse!
 Dialogue: 0,0:13:31.50,0:13:33.02,zh,,0,0,0,,-啊我天 -太糟啦\N{\ren}-Oh, my gaaah! -This is awful!
@@ -558,7 +558,7 @@ Dialogue: 0,0:20:06.29,0:20:07.59,zh,,0,0,0,,Eddie要杀我\N{\ren}Eddie was try
 Dialogue: 0,0:20:07.64,0:20:09.59,zh,,0,0,0,,那 那些矿工是无辜的\N{\ren}Th-Those miners were innocent.
 Dialogue: 0,0:20:09.64,0:20:12.86,zh,,0,0,0,,那些无辜的矿工 投票投给了\N{\ren}Those innocent miners voted men into power to protect
 Dialogue: 0,0:20:12.90,0:20:14.56,zh,,0,0,0,,可以保住他们饭碗的人 这样他们就能\N{\ren}their precious jobs so they can buy more
-Dialogue: 0,0:20:14.60,0:20:16.78,zh,,0,0,0,,买更多的塑料垃圾 还有食用被虐待动物的尸体\N{\ren}plastic garbage and eat the corpses of tortured animals.
+Dialogue: 0,0:20:14.60,0:20:16.78,zh,,0,0,0,,让他们能买更多的塑料垃圾 食用被虐待动物的尸体\N{\ren}plastic garbage and eat the corpses of tortured animals.
 Dialogue: 0,0:20:16.82,0:20:18.65,zh,,0,0,0,,这个体制已经坏掉了 Morty\N{\ren}The system is broken, Morty.
 Dialogue: 0,0:20:18.69,0:20:22.26,zh,,0,0,0,,这是我唯一可以拯救地球的办法\N{\ren}This is the only way I can save Earth,
 Dialogue: 0,0:20:22.30,0:20:23.83,zh,,0,0,0,,我唯一可以拯救你的办法\N{\ren}the only way I can save you.
