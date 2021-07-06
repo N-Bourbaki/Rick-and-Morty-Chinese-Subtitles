@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Title: S05E03
 ScriptType: v4.00+
 PlayResX: 1920
@@ -16,7 +16,7 @@ Style: git,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.25,0:00:04.75,top,,0,0,0,,本字幕第一版由Nicolas Bourbaki制作 同时发布于GitHub和SubHD 参与的成员有
-Dialogue: 0,0:00:05.25,0:00:09.75,top,,0,0,0,,H.Cartan    白天再确认署名的J    白天再确认署名的L
+Dialogue: 0,0:00:05.25,0:00:09.75,top,,0,0,0,,H.Cartan    T-9000    Otter
 Dialogue: 0,0:00:10.25,0:00:14.75,top,,0,0,0,,转载请务必保留字幕信息 Nicolas Bourbaki不对任何利用本字幕生成的视频负责
 Dialogue: 0,0:00:15.25,0:00:19.75,top,,0,0,0,,如果在观看中遇到任何错误翻译 诚邀您前往GitHub参与改错 该项目的地址是
 Dialogue: 0,0:00:20.25,0:00:24.75,top,,0,0,0,,{\rgit}https://github.com/N-Bourbaki/Rick-and-Morty-Chinese-Subtitles {\rtop}期待您的参与
@@ -27,7 +27,7 @@ Dialogue: 0,0:07:48.78,0:07:51.24,top,,0,0,0,,以前从没有人给我送过花
 Dialogue: 0,0:07:52.82,0:07:55.57,top,,0,0,0,,你今天在新闻上好美
 Dialogue: 0,0:07:55.57,0:07:58.24,top,,0,0,0,,真的吗 何杏不让我看电视 气死我啦
 Dialogue: 0,0:07:58.24,0:08:00.91,top,,0,0,0,,好晚了啊 我怎么睡不着呢
-Dialogue: 0,0:08:00.91,0:08:02.87,top,,0,0,0,,去把窗户打卡 凉风会吹拂你入睡
+Dialogue: 0,0:08:00.91,0:08:02.87,top,,0,0,0,,去把窗户打开 凉风会吹拂你入睡
 Dialogue: 0,0:08:02.87,0:08:04.54,top,,0,0,0,,你真是个天才
 Dialogue: 0,0:19:46.12,0:19:48.25,top,,0,0,0,,求你了 说句话吧
 Dialogue: 0,0:19:48.25,0:19:53.33,top,,0,0,0,,我不知道该和你说什么
@@ -287,7 +287,7 @@ Dialogue: 0,0:09:14.94,0:09:17.20,zh,,0,0,0,,系好安全带\N{\ren}Buckle up.
 Dialogue: 0,0:09:22.95,0:09:25.56,zh,,0,0,0,,这是我人生的最佳一周\N{\ren}Whoo! The best week of my life!
 Dialogue: 0,0:09:25.60,0:09:26.60,zh,,0,0,0,,你好\N{\ren}Hello.
 Dialogue: 0,0:09:26.65,0:09:27.87,zh,,0,0,0,,-什么动静 -没什么\N{\ren}What was that? Nothin'.
-Dialogue: 0,0:09:27.91,0:09:30.17,zh,,0,0,0,,谁想看辐射最强的\N{\ren}Who wants to see the most radadelic
+Dialogue: 0,0:09:27.91,0:09:30.17,zh,,0,0,0,,谁想看最炫酷的\N{\ren}Who wants to see the most radadelic
 Dialogue: 0,0:09:30.22,0:09:31.74,zh,,0,0,0,,女版超级英雄\N{\ren}lady-version of a super hero?
 Dialogue: 0,0:09:32.78,0:09:34.53,zh,,0,0,0,,-火 -水\N{\ren}-Fire! -Water!
 Dialogue: 0,0:09:34.57,0:09:37.09,zh,,0,0,0,,-气 -还有土\N{\ren}-Air! -And Dirt!
@@ -541,7 +541,7 @@ Dialogue: 0,0:19:16.72,0:19:18.63,zh,,0,0,0,,抱歉我把你和Daphne的事搞�
 Dialogue: 0,0:19:18.67,0:19:20.50,zh,,0,0,0,,闭嘴 我知道是什么情况\N{\ren}Just shut up. I get it.
 Dialogue: 0,0:19:20.55,0:19:23.11,zh,,0,0,0,,-是吗 你不气吗 -我气炸了\N{\ren}-Really? You're not mad? -I'm furious.
 Dialogue: 0,0:19:24.07,0:19:26.68,zh,,0,0,0,,但我不得不承认你挺有Rick味儿的\N{\ren}But I have to admit, it was pretty Rick of you
-Dialogue: 0,0:19:26.73,0:19:28.90,zh,,0,0,0,,面对犬儒主义勃然大怒 逆转一场末日\N{\ren}to avert an apocalypse in a tantrum of cynicism
+Dialogue: 0,0:19:26.73,0:19:28.90,zh,,0,0,0,,发了个玩世不恭的脾气 逆转一场末日\N{\ren}to avert an apocalypse in a tantrum of cynicism
 Dialogue: 0,0:19:28.95,0:19:31.38,zh,,0,0,0,,只为毁掉一段愚蠢的关系\N{\ren}just to destroy one dumb relationship.
 Dialogue: 0,0:19:31.43,0:19:33.65,zh,,0,0,0,,还是 抱歉\N{\ren}Still, sorry.
 Dialogue: 0,0:19:33.69,0:19:36.08,zh,,0,0,0,,啊 我也会为你做同样的事的\N{\ren}Eh, I would've done the same for you.
