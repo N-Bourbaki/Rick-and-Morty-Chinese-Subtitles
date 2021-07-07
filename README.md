@@ -2,7 +2,7 @@
 
 > **S05E01**：[subhd.tv/a/520062](https://subhd.tv/a/520062)。官方翻译闪了我们一个措手不及，结论是本季我们只合并双语、调轴，不翻译（详见上述链接的字幕说明）。考虑到官译有版权，我们尚在犹豫是否上传 GitHub，请暂时前往 SubHD 下载（建议开启广告拦截，如 Chrome 的 Adblock Plus、iOS 的 AdGuard 等）。
 
-> **S05E02**：[subhd.tv/a/520301](https://subhd.tv/a/520301)。如果你有能力且乐于第一时间提供 HBO Go 官方中、英字幕，请联系我们。
+> **S05E02**：[subhd.tv/a/520301](https://subhd.tv/a/520301)。
 
 > **S05E03**：[subhd.tv/a/520577](https://subhd.tv/a/520577)。这集憋出了一个原创翻译，不保证以后能持续，详见上述链接的字幕说明。已上传 GitHub。
 
