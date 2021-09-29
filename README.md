@@ -84,3 +84,8 @@ GitHub 永远是我们的首要阵地，即便建站，其意义也仅限于缓�
 * S05E03：[qianbinbin](https://github.com/qianbinbin)，一处语义修正。
 
 wubba lubba dub dub
+
+## 友情链接
+
+* [Gatorix/subtitles](https://github.com/Gatorix/subtitles)
+* [wyq977/That-70s-Show-Chinese-Subtitiles](https://github.com/wyq977/That-70s-Show-Chinese-Subtitiles)
