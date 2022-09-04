@@ -1,24 +1,8 @@
 # *Rick and Morty*: Chinese Subtitles
 
-> **S05 合集**：[subhd.tv/a/523060](https://subhd.tv/a/523060) 。以下分集内容已整合至此，近期的小幅完善会集中体现在这个合集里，而不是在分集帖子中更新 。长远的完善工作不会在近期（即 2021 年）展开，也肯定不会被放弃——会做下去的，完成只是时间问题。
+> 自 S05 起，因为有了同步更新的官方中文翻译，我们只合并双语、调轴，如无意外不再翻译。这一变动导致我们对完善既往字幕的积极性降低，如果您愿意为此做些什么，请加入我们的 Telegram 群查看细节。
 
-> **S05E01**：[subhd.tv/a/520062](https://subhd.tv/a/520062)。官方翻译闪了我们一个措手不及，结论是本季我们只合并双语、调轴，不翻译（详见上述链接的字幕说明）。考虑到官译有版权，我们尚在犹豫是否上传 GitHub，请暂时前往 SubHD 下载（**建议开启广告拦截**，如 Chrome 的 Adblock Plus、iOS 的 AdGuard 等）。
-
-> **S05E02**：[subhd.tv/a/520301](https://subhd.tv/a/520301)。
-
-> **S05E03**：[subhd.tv/a/520577](https://subhd.tv/a/520577)。这集憋出了一个原创翻译，不保证以后能持续，详见上述链接的字幕说明。已上传 GitHub。
-
-> **S05E04**：[subhd.tv/a/520805](https://subhd.tv/a/520805)。这集回归了官方翻译。
-
-> **S05E05**：[subhd.tv/a/521127](https://subhd.tv/a/521127)。
-
-> **S05E06**：[subhd.tv/a/521392](https://subhd.tv/a/521392)。
-
-> **S05E07**：[subhd.tv/a/521671](https://subhd.tv/a/521671)。原创翻译。因为偷跑，所以有时间差提前翻译（当然实际几乎鸽到了最后）。已上传 GitHub。
-
-> **S05E08**：[subhd.tv/a/521911](https://subhd.tv/a/521911)。官译。
-
-> **S05E09-10**：[subhd.tv/a/523042](https://subhd.tv/a/523042)、[subhd.tv/a/523050](https://subhd.tv/a/523050)。
+> 在 [SubHD](https://subhd.tv/u/N-Bourbaki) 下载时建议开启广告拦截，如 Chrome 的 uBlock Origin、iOS 的 AdGuard 等。另外，使用境外 IP 下载 SubHD 的字幕，似乎可以规避扫码验证（我们仅仅友好地提供这一信息）。
 
 > 下载字幕请点击右上方绿色 Code 按钮，再点 Download Zip 字样。或直接 [点这里](https://github.com/N-Bourbaki/Rick-and-Morty-Chinese-Subtitles/archive/refs/heads/master.zip)。
 
@@ -64,9 +48,7 @@
 
 > Nicolas Bourbaki 的 Telegram 群是：[t.me/buerbaji](https://t.me/buerbaji)
 
-> Community-137 的微信公众号是 Community-137。
-
-GitHub 永远是我们的首要阵地，即便建站，其意义也仅限于缓和 GitHub 越来越难以被所有人轻松访问的趋势。随时在 GitHub 搜 *Rick and Morty*，即可在第一页找到我们。不存在“关注防走丢”，请循着审美自由行走，**你的**判断、**你的**选择才是对**你**重要的。
+随时在 GitHub 搜 *Rick and Morty*，即可在第一页找到我们。不存在“关注防走丢”，请循着审美自由行走，**你的**判断、**你的**选择才是对**你**重要的。
 
 ## 致敬致谢
 
