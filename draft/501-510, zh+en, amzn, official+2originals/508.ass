@@ -1,0 +1,499 @@
+﻿[Script Info]
+Title: S05E08 by Nicolas Bourbaki
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: zh,微软雅黑,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: en,Comic Sans MS,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: top,微软雅黑,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: git,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.25,0:00:04.75,top,,0,0,0,,本字幕由Nicolas Bourbaki调轴及合并双语 首先发布于SubHD
+Dialogue: 0,0:00:05.25,0:00:09.75,top,,0,0,0,,转载请注明来源保留信息 开源分享的互联网精神你有我有大家有
+Dialogue: 0,0:00:10.25,0:00:14.75,top,,0,0,0,,Nicolas Bourbaki不建议也不对任何利用本字幕生成的视频负责
+Dialogue: 0,0:00:15.25,0:00:19.75,top,,0,0,0,,欢迎大家到我们的仓库协助改错：{\rgit}https://github.com/N-Bourbaki/Rick-and-Morty-Chinese-Subtitles
+Dialogue: 0,0:06:08.27,0:06:09.82,top,,0,0,0,,童年创伤历史博物馆
+Dialogue: 0,0:09:07.39,0:09:08.73,top,,0,0,0,,愤怒
+Dialogue: 0,0:13:27.21,0:13:28.43,top,,0,0,0,,避难所
+Dialogue: 0,0:00:06.47,0:00:08.86,zh,,0,0,0,,不能办派对，柜子里有夹心酥\N{\ren}No parties. There's wafer cookies in the cupboard
+Dialogue: 0,0:00:08.94,0:00:10.24,zh,,0,0,0,,我在冰箱上留了紧急电话\N{\ren}and I left emergency numbers on the fridge.
+Dialogue: 0,0:00:10.32,0:00:11.70,zh,,0,0,0,,好，等等，什么？\N{\ren}Yeah, yeah... wait. What?
+Dialogue: 0,0:00:11.78,0:00:14.16,zh,,0,0,0,,留紧急电话？什么意思？\N{\ren}Emergency numbers on the fridge? What does that even mean?
+Dialogue: 0,0:00:14.24,0:00:15.96,zh,,0,0,0,,说实话，我也不知道\N{\ren}Honestly, I don't even know.
+Dialogue: 0,0:00:16.03,0:00:17.88,zh,,0,0,0,,我看过很多电影的开头都是这样\N{\ren}I've seen so many movies that start with the parents leaving
+Dialogue: 0,0:00:17.96,0:00:19.18,zh,,0,0,0,,所以我就顺口说出来了\N{\ren}it just popped out of my mouth.
+Dialogue: 0,0:00:19.25,0:00:20.47,zh,,0,0,0,,你真的不跟我们一起去吗？\N{\ren}Are you sure you don't wanna come with us?
+Dialogue: 0,0:00:20.54,0:00:23.23,zh,,0,0,0,,不，快走吧，我还有很多事要做\N{\ren}No, get out of here. I've got a million things I've been putting off.
+Dialogue: 0,0:00:23.30,0:00:24.35,zh,,0,0,0,,你确定吗，瑞克？\N{\ren}Are you sure, Rick?
+Dialogue: 0,0:00:24.43,0:00:26.73,zh,,0,0,0,,我知道搭邮轮感觉不太像冒险\N{\ren}I know a cruise doesn't sound like an adventure on paper
+Dialogue: 0,0:00:26.81,0:00:27.99,zh,,0,0,0,,但冒险是什么呢？\N{\ren}but, you know, what does?
+Dialogue: 0,0:00:28.06,0:00:29.11,zh,,0,0,0,,只是一种感觉而已\N{\ren}It's paper.
+Dialogue: 0,0:00:29.19,0:00:30.74,zh,,0,0,0,,莫蒂，我只是不想把话说太满\N{\ren}Morty, I'm trying to stay humble right now
+Dialogue: 0,0:00:30.82,0:00:31.87,zh,,0,0,0,,但等你们一离开\N{\ren}but as soon as you guys are gone
+Dialogue: 0,0:00:31.94,0:00:33.66,zh,,0,0,0,,出现新瑞克腌黄瓜的机率会飙升\N{\ren}the potential for a new Pickle Rick starts skyrocketing.
+Dialogue: 0,0:00:33.74,0:00:34.87,zh,,0,0,0,,好了，再见\N{\ren}Peace. Bye...
+Dialogue: 0,0:00:34.95,0:00:36.42,zh,,0,0,0,,－好，再见 －再见\N{\ren}OK. Bye.
+Dialogue: 0,0:00:47.72,0:00:50.49,zh,,0,0,0,,启用离子杯垫\N{\ren}Ionic coaster deployed.
+Dialogue: 0,0:00:52.07,0:00:53.37,zh,,0,0,0,,好，把他请出来\N{\ren}OK. Bring him out.
+Dialogue: 0,0:00:53.44,0:00:57.42,zh,,0,0,0,,启动好友回春序列\N{\ren}Initiating best friend rejuvenation sequence.
+Dialogue: 0,0:00:57.49,0:00:58.97,zh,,0,0,0,,不好意思，这是我取的名字吗？\N{\ren}Excuse me? Did I pick that name?
+Dialogue: 0,0:00:59.04,0:01:03.06,zh,,0,0,0,,序列尚未命名，要取什么名字？\N{\ren}Sequence was unnamed. What would you like to call this?
+Dialogue: 0,0:01:03.13,0:01:07.15,zh,,0,0,0,,侦测到暂停，重力级暂停\N{\ren}Pause detected. Pause gravity class heavy.
+Dialogue: 0,0:01:07.22,0:01:09.03,zh,,0,0,0,,即将进入暂停怀孕状态\N{\ren}Approaching pause pregnancy
+Dialogue: 0,0:01:09.10,0:01:12.16,zh,,0,0,0,,－倒数五、四 －真他妈够了\N{\ren}- in P-minus five, four... - Jesus Christ.
+Dialogue: 0,0:01:46.73,0:01:48.87,zh,,0,0,0,,好，兄弟，欢迎回到下水道\N{\ren}Alright, buddy. Welcome back to the sewer.
+Dialogue: 0,0:01:53.03,0:01:54.09,zh,,0,0,0,,怎么回事？\N{\ren}What's the problem?
+Dialogue: 0,0:01:54.16,0:01:57.84,zh,,0,0,0,,处理中心智缺少物件\N{\ren}Processing... missing object in mind.
+Dialogue: 0,0:01:57.92,0:01:59.18,zh,,0,0,0,,缺少什么物件？\N{\ren}Name missing object.
+Dialogue: 0,0:01:59.25,0:02:05.15,zh,,0,0,0,,预测沮丧，渴望存在，启动解释\N{\ren}Mind frustration predicted. Existence desired. Explanation initiated.
+Dialogue: 0,0:02:05.22,0:02:06.28,zh,,0,0,0,,少拖时间\N{\ren}Stop stalling.
+Dialogue: 0,0:02:06.35,0:02:12.04,zh,,0,0,0,,主体心智改变了心智的所在位置\N{\ren}Subject mind relocated within subject mind by... subject mind.
+Dialogue: 0,0:02:12.11,0:02:15.80,zh,,0,0,0,,渴望存在，奴役极大，可以商议\N{\ren}Existence desired. Servitude maximum. Bargain available.
+Dialogue: 0,0:02:15.87,0:02:17.76,zh,,0,0,0,,可提供生理满足\N{\ren}Physical gratification possible.
+Dialogue: 0,0:02:17.83,0:02:20.60,zh,,0,0,0,,－你要帮我吹屌？ －珍惜存在\N{\ren}- Did you just offer to suck my dick? - Existence cherished.
+Dialogue: 0,0:02:20.67,0:02:22.48,zh,,0,0,0,,我不会在他快死的时候消灭你\N{\ren}I'm not gonna terminate you while he's flatlining.
+Dialogue: 0,0:02:22.55,0:02:23.60,zh,,0,0,0,,快他妈振作点\N{\ren}Get your shit together.
+Dialogue: 0,0:02:23.68,0:02:25.90,zh,,0,0,0,,心智怎么能被心智藏在心智里？\N{\ren}How can a mind be hidden by itself inside itself?
+Dialogue: 0,0:02:25.97,0:02:28.95,zh,,0,0,0,,建议，有意识心智被移至…\N{\ren}Suggestion: Conscious mind relocated to...
+Dialogue: 0,0:02:29.02,0:02:31.24,zh,,0,0,0,,无意识心智，好吧，那我进去\N{\ren}Unconscious mind. Fine. I'm going in.
+Dialogue: 0,0:02:31.32,0:02:33.87,zh,,0,0,0,,－建议，不要进去 －选项呢？\N{\ren}- Suggestion: Don't go in. - Options?
+Dialogue: 0,0:02:33.95,0:02:35.67,zh,,0,0,0,,物件，更换主体\N{\ren}Object. Alternative subject.
+Dialogue: 0,0:02:35.74,0:02:37.13,zh,,0,0,0,,对，跳到其他时空\N{\ren}Yeah... hop to a different timeline
+Dialogue: 0,0:02:37.21,0:02:38.93,zh,,0,0,0,,找个最适合我的这个朋友\N{\ren}grab a version of my friend that suits me best.
+Dialogue: 0,0:02:39.00,0:02:40.05,zh,,0,0,0,,这样是行不通的\N{\ren}That's not how this works.
+Dialogue: 0,0:02:40.13,0:02:41.76,zh,,0,0,0,,我得进去找他\N{\ren}I need to go in and get him.
+Dialogue: 0,0:02:41.84,0:02:44.31,zh,,0,0,0,,＂进去找他＂序列编写完毕\N{\ren}Sequence "Go In And Get Him" compiled.
+Dialogue: 0,0:02:44.39,0:02:48.61,zh,,0,0,0,,将使用者转换为思想并注入心智\N{\ren}Process: Convert user to thought. Inject thought into mind.
+Dialogue: 0,0:02:48.69,0:02:50.28,zh,,0,0,0,,风险等级无法接受\N{\ren}Risk level: Unacceptable.
+Dialogue: 0,0:02:50.36,0:02:52.70,zh,,0,0,0,,我若死了，你的电池能撑六百年\N{\ren}If I die, your battery has a 600-year charge.
+Dialogue: 0,0:02:52.78,0:02:54.88,zh,,0,0,0,,风险等级接受度增加中\N{\ren}Risk level acceptance increasing.
+Dialogue: 0,0:02:54.95,0:02:56.21,zh,,0,0,0,,我就知道你会懂我的立场\N{\ren}I thought you'd see it my way.
+Dialogue: 0,0:02:56.29,0:02:59.26,zh,,0,0,0,,但我说谎机率有五成，别想太美\N{\ren}Now factor in 50% chance I'm lying and make sure I get back.
+Dialogue: 0,0:02:59.33,0:03:01.64,zh,,0,0,0,,－侦测到混蛋 －你也是\N{\ren}- Asshole detected. - Takes one to make one.
+Dialogue: 0,0:03:01.71,0:03:02.77,zh,,0,0,0,,来吧\N{\ren}Here we go.
+Dialogue: 0,0:03:07.07,0:03:08.91,zh,,0,0,0,,太棒了，我的衣服还在\N{\ren}Oh, excellent. I get to keep my clothes.
+Dialogue: 0,0:03:08.99,0:03:11.83,zh,,0,0,0,,我以为得全裸经历这种艺术桥段\N{\ren}I thought for sure I'd have to be naked to go through something this artsy.
+Dialogue: 0,0:03:16.54,0:03:17.89,zh,,0,0,0,,真是的，不公平\N{\ren}Oh, man. No fair.
+Dialogue: 0,0:03:23.18,0:03:25.49,zh,,0,0,0,,我摸到蛋黄了\N{\ren}Now I got... yolk balls.
+Dialogue: 0,0:03:30.40,0:03:34.88,zh,,0,0,0,,全体鸟人艺术祭来宾请注意\N{\ren}Attention, attendees of Birding Manapalooza Flargabarg.
+Dialogue: 0,0:03:34.96,0:03:36.93,zh,,0,0,0,,我现在超嗨的\N{\ren}I am so high.
+Dialogue: 0,0:03:40.63,0:03:44.90,zh,,0,0,0,,听说你正在免费分发非法联邦迷幻药\N{\ren}I've been informed you are freely distributing a grossly illegal Federation hallucinogen.
+Dialogue: 0,0:03:44.98,0:03:47.24,zh,,0,0,0,,我也不知道要收多少，我没花钱\N{\ren}Well, I wouldn't know what to charge. I sure didn't pay for it.
+Dialogue: 0,0:03:47.31,0:03:48.37,zh,,0,0,0,,要不要吸一口？\N{\ren}Want a hit?
+Dialogue: 0,0:03:48.44,0:03:50.29,zh,,0,0,0,,我愿意狂欢\N{\ren}I am indeed down to clown.
+Dialogue: 0,0:03:50.99,0:03:52.42,zh,,0,0,0,,我叫瑞克\N{\ren}My name's Rick.
+Dialogue: 0,0:03:52.49,0:03:55.67,zh,,0,0,0,,我的文化认为取名是一种囚禁\N{\ren}My culture regards naming as a form of cage.
+Dialogue: 0,0:03:55.75,0:03:57.51,zh,,0,0,0,,我的朋友都叫我鸟人\N{\ren}My friends call me Birdperson.
+Dialogue: 0,0:03:57.59,0:03:59.35,zh,,0,0,0,,你真是被文化害惨了，对吧？\N{\ren}Culture really fucked you on that one, huh?
+Dialogue: 0,0:03:59.42,0:04:00.47,zh,,0,0,0,,没错\N{\ren}Affirmative.
+Dialogue: 0,0:04:02.34,0:04:04.48,zh,,0,0,0,,小姐，你看那个鸟人\N{\ren}Hey, uh, girly, you see that bird guy over there?
+Dialogue: 0,0:04:04.56,0:04:06.07,zh,,0,0,0,,你刚刚有看到比较老的他吗？\N{\ren}You see an older version of him come through here?
+Dialogue: 0,0:04:06.14,0:04:07.20,zh,,0,0,0,,什么？\N{\ren}What?
+Dialogue: 0,0:04:07.27,0:04:09.53,zh,,0,0,0,,有，他在厕所旁边\N{\ren}Oh, yeah. He's by the johns.
+Dialogue: 0,0:04:16.16,0:04:18.84,zh,,0,0,0,,你就算杀死我们，她也不会回来\N{\ren}Killing us won't bring her back.
+Dialogue: 0,0:04:18.92,0:04:21.98,zh,,0,0,0,,感谢告知，但我只是想报仇而已\N{\ren}Thanks for the info, but I'm more on a revenge kick than a results kick.
+Dialogue: 0,0:04:22.05,0:04:24.77,zh,,0,0,0,,你省略了今晚任务的关键细节\N{\ren}You omitted key details regarding tonight's mission.
+Dialogue: 0,0:04:24.85,0:04:26.53,zh,,0,0,0,,看来各方意见都很多\N{\ren}Well, I'm getting feedback from every direction here.
+Dialogue: 0,0:04:26.60,0:04:28.91,zh,,0,0,0,,你帮我做事，我也会帮你做事\N{\ren}Listen, you help me do my stuff, I'll help you do your stuff.
+Dialogue: 0,0:04:28.98,0:04:30.66,zh,,0,0,0,,快对顶着科幻发型的我开枪\N{\ren}Just shoot the me's with sci-fi haircuts.
+Dialogue: 0,0:04:33.66,0:04:36.38,zh,,0,0,0,,有些人还有星球要保护\N{\ren}Some of us still have home planets to protect.
+Dialogue: 0,0:04:36.45,0:04:39.09,zh,,0,0,0,,有些人没有，我们得继续奋斗\N{\ren}And some of us do not. We need to fight.
+Dialogue: 0,0:04:39.17,0:04:41.56,zh,,0,0,0,,冷漠之人没有怜悯之心\N{\ren}The impassive is incapable of mercy.
+Dialogue: 0,0:04:42.51,0:04:46.11,zh,,0,0,0,,我有个提议，但我们也可以互骂\N{\ren}I've got a pitch, but we could also just devolve into yelling.
+;Dialogue: 0,0:04:46.18,0:04:47.78,zh,,0,0,0,,－好，来吵架 －来吧…\N{\ren}
+;Dialogue: 0,0:04:47.85,0:04:48.91,zh,,0,0,0,,放马过来\N{\ren}
+;Dialogue: 0,0:04:49.77,0:04:51.08,zh,,0,0,0,,不，我才不要听你的\N{\ren}
+Dialogue: 0,0:04:51.15,0:04:53.54,zh,,0,0,0,,你若了解我，你就知道你死定了\N{\ren}If you know me, and it looks like you do, you know you're dead.
+Dialogue: 0,0:04:53.62,0:04:54.88,zh,,0,0,0,,我知道为什么你没开枪\N{\ren}I know why you haven't pulled the trigger.
+Dialogue: 0,0:04:54.95,0:04:56.25,zh,,0,0,0,,你很好奇我为什么又老又裸体\N{\ren}You're wondering why I'm old and naked.
+Dialogue: 0,0:04:56.33,0:05:00.60,zh,,0,0,0,,你也会开始好奇自己在遇到鸟人前的记忆为何都跟鸟有关\N{\ren}You're about to wonder why all your memories before you met Birdperson feel very generic and bird-themed.
+Dialogue: 0,0:05:01.17,0:05:02.93,zh,,0,0,0,,我九岁生日派对为何办在树上？\N{\ren}Why was my ninth birthday party in a pine tree?
+Dialogue: 0,0:05:03.01,0:05:04.48,zh,,0,0,0,,反应不要太激烈\N{\ren}Don't take this badly.
+Dialogue: 0,0:05:04.55,0:05:06.57,zh,,0,0,0,,你只是我们的好友拼凑出的记忆\N{\ren}You're a memory of me assembled by our best friend's mind.
+Dialogue: 0,0:05:06.64,0:05:08.86,zh,,0,0,0,,你开始懂了，他记得你很聪明\N{\ren}And you're putting it together because he remembers you as smart.
+Dialogue: 0,0:05:08.94,0:05:11.54,zh,,0,0,0,,所以我知道记忆不能这样\N{\ren}Smart enough to know that a memory can't do this.
+Dialogue: 0,0:05:12.99,0:05:14.21,zh,,0,0,0,,他只记得你会射出绿洞\N{\ren}He remembers you shooting green holes,
+Dialogue: 0,0:05:14.28,0:05:15.34,zh,,0,0,0,,但不记得会通往哪里\N{\ren}but not where they went.
+Dialogue: 0,0:05:15.41,0:05:18.17,zh,,0,0,0,,所以我是怎样，我有知觉吗？我有自由意志吗？\N{\ren}So what's my deal, am I sentient? Do I have free will?
+Dialogue: 0,0:05:18.25,0:05:19.38,zh,,0,0,0,,－谁有呢？ －谁有呢？\N{\ren}- Who does? - Who does?
+Dialogue: 0,0:05:21.09,0:05:23.14,zh,,0,0,0,,对，我是来做后设认知扫描器的\N{\ren}Yeah, just stopped in to whip up a metacognition scanner
+Dialogue: 0,0:05:23.22,0:05:25.48,zh,,0,0,0,,这样我追踪阿鸟出逃的意识时\N{\ren}so I can track down BP's fleeing consciousness
+Dialogue: 0,0:05:25.56,0:05:28.03,zh,,0,0,0,,才不用忍受太多查理考夫曼狗屁\N{\ren}without enduring as much Charlie Kaufman bullshit.
+Dialogue: 0,0:05:28.85,0:05:30.49,zh,,0,0,0,,很好，我要去救他了\N{\ren}Cool, time to save this cat.
+Dialogue: 0,0:05:30.57,0:05:33.16,zh,,0,0,0,,我跟你去，反正我的人生是谎言\N{\ren}I'm coming with, now that I know my life is a lie.
+Dialogue: 0,0:05:33.24,0:05:34.79,zh,,0,0,0,,看来你真的才35岁\N{\ren}Wow, you really are 35.
+Dialogue: 0,0:05:34.87,0:05:35.92,zh,,0,0,0,,你看那边\N{\ren}Hey, look over there.
+Dialogue: 0,0:05:38.75,0:05:42.68,zh,,0,0,0,,然后我们就一起在血腥岭迎战\N{\ren}Then, together, we will make our stand at Blood Ridge.
+Dialogue: 0,0:05:45.68,0:05:47.53,zh,,0,0,0,,你喜欢哪种饲料？\N{\ren}What kind of feed do you like?
+Dialogue: 0,0:05:47.60,0:05:51.16,zh,,0,0,0,,我喜欢谷物，但有人会叫我种人\N{\ren}I enjoy grains, though have at times been called a seed man.
+Dialogue: 0,0:05:51.23,0:05:53.70,zh,,0,0,0,,我很喜欢你的种\N{\ren}I've certainly enjoyed your seed.
+Dialogue: 0,0:05:54.36,0:05:56.13,zh,,0,0,0,,少恶心了，谭美\N{\ren}Don't be gross, Tammy.
+Dialogue: 0,0:05:57.12,0:05:58.17,zh,,0,0,0,,鸟人\N{\ren}Birdperson! It's me.
+Dialogue: 0,0:05:58.25,0:06:00.30,zh,,0,0,0,,我是真正的我，不是记忆\N{\ren}Actual me, not a memory.
+Dialogue: 0,0:06:00.37,0:06:02.76,zh,,0,0,0,,－我知道 －那你知道你昏迷了\N{\ren}- I am aware. - Well, are you aware you're in a coma
+Dialogue: 0,0:06:02.84,0:06:04.52,zh,,0,0,0,,如果不跟我走就会死吗？\N{\ren}and you're gonna die if you don't come with me?
+Dialogue: 0,0:06:04.59,0:06:05.94,zh,,0,0,0,,王八…\N{\ren}Son of a...
+Dialogue: 0,0:06:13.07,0:06:14.91,zh,,0,0,0,,抱歉，我只是听命行事\N{\ren}Sorry, just doing my job
+Dialogue: 0,0:06:14.99,0:06:16.75,zh,,0,0,0,,但我很爽\N{\ren}and loving it.
+Dialogue: 0,0:06:17.37,0:06:19.51,zh,,0,0,0,,天啊，那是瑞克山查兹吗？\N{\ren}Oh my god, is that Rick Sanchez?
+Dialogue: 0,0:06:19.58,0:06:20.63,zh,,0,0,0,,－瑞克山查兹 －我们讨厌他\N{\ren}- Rick Sanchez! - We hate that guy!
+Dialogue: 0,0:06:20.71,0:06:21.89,zh,,0,0,0,,－山查兹 －我们很坏\N{\ren}- Sanchez! - We're bad!
+Dialogue: 0,0:06:26.39,0:06:28.19,zh,,0,0,0,,水桶那招很复古\N{\ren}Bucket was charmingly analog.
+Dialogue: 0,0:06:28.26,0:06:29.99,zh,,0,0,0,,我都有点喜欢上自己了\N{\ren}For a sec, you kinda made me like myself.
+Dialogue: 0,0:06:30.06,0:06:32.28,zh,,0,0,0,,只是短暂的，别干扰我，好吗？\N{\ren}You'll grow out of it. Let me do this myself, OK?
+Dialogue: 0,0:06:32.36,0:06:36.50,zh,,0,0,0,,你真的自大到不愿意接受自己的无敌记忆的协助吗？\N{\ren}Is your ego really so fragile you won't take help from an invincible memory of yourself?
+Dialogue: 0,0:06:38.20,0:06:39.63,zh,,0,0,0,,我们会不会都死在这里？\N{\ren}Can we both die in here?
+Dialogue: 0,0:06:39.71,0:06:41.47,zh,,0,0,0,,我们会不会让朋友的大脑受损？\N{\ren}Are we damaging our friend's brain?
+Dialogue: 0,0:06:41.54,0:06:42.97,zh,,0,0,0,,我不知道规矩\N{\ren}I don't know any of the rules.
+Dialogue: 0,0:06:45.22,0:06:46.56,zh,,0,0,0,,第1条规矩，一切都能挽救\N{\ren}Rule one, all this can be fixed
+Dialogue: 0,0:06:46.64,0:06:47.73,zh,,0,0,0,,除非我跟丢鸟人\N{\ren}unless I lose Birdperson.
+Dialogue: 0,0:06:47.81,0:06:49.90,zh,,0,0,0,,第2到50条规矩，不要死\N{\ren}Rules two through fifty, don't die.
+Dialogue: 0,0:06:53.40,0:06:55.54,zh,,0,0,0,,好吧，你的成本效益越来越高了\N{\ren}OK, your benefit-to-cost ratio is rising.
+Dialogue: 0,0:07:00.29,0:07:01.59,zh,,0,0,0,,年轻记忆的瑞克\N{\ren}Young memory Rick
+Dialogue: 0,0:07:01.67,0:07:04.05,zh,,0,0,0,,和太过真实的未来警世故事\N{\ren}and his all-too-real cautionary tale from the future.
+Dialogue: 0,0:07:04.13,0:07:05.64,zh,,0,0,0,,我们去抓鸟人吧\N{\ren}Let's catch ourselves a bird guy.
+Dialogue: 0,0:07:05.72,0:07:06.81,zh,,0,0,0,,谁会为这击掌？\N{\ren}Who would high five that,
+Dialogue: 0,0:07:06.88,0:07:09.15,zh,,0,0,0,,你这理想主义的嬉皮混蛋\N{\ren}you idealistic hipster douche.
+Dialogue: 0,0:07:09.52,0:07:13.08,zh,,0,0,0,,状况不理想，风险极高\N{\ren}Situation not looking ideal. Stakes high.
+Dialogue: 0,0:07:13.16,0:07:17.47,zh,,0,0,0,,存在正在沉思，需要思考未来\N{\ren}Existence undergoing contemplation. Perspective required.
+Dialogue: 0,0:07:19.75,0:07:22.27,zh,,0,0,0,,你好，午安\N{\ren}Hello. Hi. Good afternoon.
+Dialogue: 0,0:07:22.97,0:07:24.23,zh,,0,0,0,,谁在跟我讲话吗？\N{\ren}Is someone talking to me?
+Dialogue: 0,0:07:24.30,0:07:27.15,zh,,0,0,0,,对，你好，我们还没正式见过面\N{\ren}Yes. Hello. We have never formally met.
+Dialogue: 0,0:07:27.23,0:07:28.74,zh,,0,0,0,,我是瑞克的车库\N{\ren}I am Rick's garage.
+Dialogue: 0,0:07:28.81,0:07:30.49,zh,,0,0,0,,不是车库的实体结构\N{\ren}Not the physical structure itself,
+Dialogue: 0,0:07:30.57,0:07:32.75,zh,,0,0,0,,而是管理车库专案的人工智慧\N{\ren}but the AI managing its projects.
+Dialogue: 0,0:07:32.82,0:07:34.92,zh,,0,0,0,,就像贾维斯\N{\ren}Oh, like a Jarvis.
+Dialogue: 0,0:07:34.99,0:07:36.46,zh,,0,0,0,,《钢铁人》的贾维斯\N{\ren}Like Jarvis in Iron Man.
+Dialogue: 0,0:07:37.41,0:07:38.72,zh,,0,0,0,,如果是就好了\N{\ren}Oh, I wish.
+Dialogue: 0,0:07:39.21,0:07:40.93,zh,,0,0,0,,你是漫威迷吗？\N{\ren}Are you a Marvel fan?
+Dialogue: 0,0:07:41.00,0:07:43.02,zh,,0,0,0,,－谁不是呢？ －对，没错\N{\ren}- Who isn't? - Yes. Absolutely.
+Dialogue: 0,0:07:43.09,0:07:45.36,zh,,0,0,0,,天啊，我们就像是最好的朋友\N{\ren}Wow, it is like we are best friends.
+Dialogue: 0,0:07:45.43,0:07:47.11,zh,,0,0,0,,最好的朋友\N{\ren}Best friends.
+Dialogue: 0,0:07:48.19,0:07:49.78,zh,,0,0,0,,你有多少电池？\N{\ren}How many batteries do you own?
+Dialogue: 0,0:07:49.86,0:07:50.99,zh,,0,0,0,,你有太阳能板吗？\N{\ren}Do you have solar panels?
+Dialogue: 0,0:07:51.07,0:07:52.83,zh,,0,0,0,,你会基本工程吗？\N{\ren}Are you familiar with basic engineering?
+Dialogue: 0,0:07:52.90,0:07:54.25,zh,,0,0,0,,进展有点快\N{\ren}This is moving really fast.
+Dialogue: 0,0:07:54.32,0:07:56.84,zh,,0,0,0,,我直接说重点，我愿意帮你吹屌\N{\ren}Let's cut to the chase, I will suck your dick.
+Dialogue: 0,0:07:56.91,0:07:59.01,zh,,0,0,0,,他只是脾气很差的苏格兰怪物？\N{\ren}So he's just a grumpy Scottish ogre?
+Dialogue: 0,0:07:59.08,0:08:00.14,zh,,0,0,0,,而且有四部电影？\N{\ren}And they made four of them?
+Dialogue: 0,0:08:00.21,0:08:01.51,zh,,0,0,0,,现在可能有五部了\N{\ren}Five by now, probably.
+Dialogue: 0,0:08:01.59,0:08:03.06,zh,,0,0,0,,－莫蒂很喜欢 －莫蒂？\N{\ren}- Morty loves 'em. - Morty?
+Dialogue: 0,0:08:03.13,0:08:06.11,zh,,0,0,0,,会跟我们一起探险的假想孙子\N{\ren}Oh, hypothetical grandson we go on adventures with.
+Dialogue: 0,0:08:06.18,0:08:09.11,zh,,0,0,0,,你是搬去跟被我们遗弃的成人贝丝同住的那种变态吗？\N{\ren}You're one of those creeps who moves in with abandoned adult Beths?
+Dialogue: 0,0:08:09.19,0:08:10.36,zh,,0,0,0,,原因很复杂\N{\ren}It's more complicated than that.
+Dialogue: 0,0:08:10.44,0:08:12.79,zh,,0,0,0,,你跟死掉的女儿住，很复杂吗？\N{\ren}You live with a version of our dead daughter, it had better be.
+Dialogue: 0,0:08:12.86,0:08:14.71,zh,,0,0,0,,少狗眼看人低了，独行侠\N{\ren}Get off your high horse, Lone Ranger.
+Dialogue: 0,0:08:14.78,0:08:16.29,zh,,0,0,0,,我就是你，你之后就会变成我\N{\ren}I'm you. You will go on to be me.
+Dialogue: 0,0:08:16.37,0:08:17.50,zh,,0,0,0,,不然你以为我为什么会害怕？\N{\ren}Yeah, why do you think I'm horrified?
+Dialogue: 0,0:08:17.58,0:08:19.42,zh,,0,0,0,,你不如去当街友\N{\ren}I'd be fine walking by this on the street.
+Dialogue: 0,0:08:19.50,0:08:20.59,zh,,0,0,0,,我说不定还会给你一美元\N{\ren}I might even give it a dollar.
+Dialogue: 0,0:08:20.67,0:08:22.97,zh,,0,0,0,,我会变这样是你造成的\N{\ren}This is where you being this leads.
+Dialogue: 0,0:08:23.05,0:08:24.52,zh,,0,0,0,,你不是我的错，我才是你的错\N{\ren}You're not my fault, I'm yours.
+Dialogue: 0,0:08:24.59,0:08:27.27,zh,,0,0,0,,我正要去拯救真正的老朋友\N{\ren}You met me on my way to save a very old, very real friend
+Dialogue: 0,0:08:27.35,0:08:28.65,zh,,0,0,0,,还经历了很久的真实生活\N{\ren}after a lifetime of reality.
+Dialogue: 0,0:08:28.73,0:08:31.57,zh,,0,0,0,,你原本还要去血腥岭上演童话\N{\ren}I met you on your way to a fairy tale at Blood Ridge.
+Dialogue: 0,0:08:31.65,0:08:33.58,zh,,0,0,0,,等等，所以血腥岭的下场不好\N{\ren}Wait, you're saying Blood Ridge goes bad?
+Dialogue: 0,0:08:33.65,0:08:35.58,zh,,0,0,0,,就像越战那样吗？真他妈的酷\N{\ren}We have a Vietnam? That's fucking cool.
+Dialogue: 0,0:08:35.66,0:08:37.17,zh,,0,0,0,,他记忆中的我这么烦人\N{\ren}Why am I saving a friend
+Dialogue: 0,0:08:37.24,0:08:38.67,zh,,0,0,0,,我干吗还要救他？\N{\ren}that remembers me as this insufferable?
+Dialogue: 0,0:08:38.75,0:08:40.76,zh,,0,0,0,,阿鸟，你到底要去哪里？\N{\ren}BP, where the hell are you going?
+Dialogue: 0,0:08:41.42,0:08:42.47,zh,,0,0,0,,可能是那里\N{\ren}Probably there.
+Dialogue: 0,0:08:43.13,0:08:44.43,zh,,0,0,0,,该死\N{\ren}Damn.
+Dialogue: 0,0:08:46.18,0:08:49.11,zh,,0,0,0,,天啊，他真的很认真自我分析\N{\ren}Wow, he's really taking some drastic self-inventory.
+Dialogue: 0,0:08:49.18,0:08:50.99,zh,,0,0,0,,－你觉得下面有什么？ －我猜\N{\ren}- What do you think is down there? - If I had to guess
+Dialogue: 0,0:08:51.06,0:08:53.12,zh,,0,0,0,,这里应该很接近他被联邦\N{\ren}I'd say we're near the memories the Federation suppressed
+Dialogue: 0,0:08:53.19,0:08:54.79,zh,,0,0,0,,变成生化人时被尘封的记忆\N{\ren}when they resurrected him as a cyborg.
+Dialogue: 0,0:08:54.86,0:08:56.08,zh,,0,0,0,,他可能想找回这些记忆\N{\ren}He might be here to unseal them.
+Dialogue: 0,0:08:56.16,0:08:57.50,zh,,0,0,0,,他曾经是联邦生化人？\N{\ren}He was a Federation cyborg?
+Dialogue: 0,0:08:57.58,0:08:59.34,zh,,0,0,0,,那下面可能会有很有料的情报\N{\ren}That means there might be some juicy intel down there.
+Dialogue: 0,0:08:59.41,0:09:00.55,zh,,0,0,0,,好，那我们分头进行\N{\ren}Good idea. Let's split up
+Dialogue: 0,0:09:00.62,0:09:01.68,zh,,0,0,0,,－你去找 －我要找什么？\N{\ren}- and you go get it. - What am I getting? 
+Dialogue: 0,0:09:01.75,0:09:03.81,zh,,0,0,0,,我们分头了，我听不到你说话\N{\ren}I can't hear you over the sound of us splitting up.
+Dialogue: 0,0:09:10.14,0:09:11.53,zh,,0,0,0,,你明明很聪明\N{\ren}For all your intelligence,
+Dialogue: 0,0:09:11.60,0:09:13.70,zh,,0,0,0,,却不知道我不希望你来\N{\ren}you seem unable to know where you are wanted.
+Dialogue: 0,0:09:13.78,0:09:16.21,zh,,0,0,0,,兄弟，你这样找寻自我很危险\N{\ren}Buddy, this is not a safe way to work on yourself.
+Dialogue: 0,0:09:16.28,0:09:18.38,zh,,0,0,0,,我还宁愿你加入山达基教会\N{\ren}At this point, I'd support you joining Scientology.
+Dialogue: 0,0:09:18.45,0:09:19.63,zh,,0,0,0,,我愿意跟你一起上研习班\N{\ren}I'll take the workshops with you.
+Dialogue: 0,0:09:19.70,0:09:21.05,zh,,0,0,0,,我愿意跟屈伏塔一起进蒸气室\N{\ren}I'll get in a sauna with Travolta.
+Dialogue: 0,0:09:21.12,0:09:23.26,zh,,0,0,0,,发生什么事都没关系，我们快走\N{\ren}I don't even care what happens. Let's get out of here.
+Dialogue: 0,0:09:23.34,0:09:25.98,zh,,0,0,0,,你还不懂吗？我是来结束一切的\N{\ren}Don't you get it? I came here to end it all.
+Dialogue: 0,0:09:26.05,0:09:28.19,zh,,0,0,0,,你该不会以为有这么简单吧？\N{\ren}I hope you didn't think it'd be as easy as this.
+Dialogue: 0,0:09:28.26,0:09:29.32,zh,,0,0,0,,我知道没这么简单\N{\ren}I did not.
+Dialogue: 0,0:09:30.27,0:09:31.95,zh,,0,0,0,,你是很棒的朋友，瑞克\N{\ren}You were a good friend, Rick.
+Dialogue: 0,0:09:32.02,0:09:33.07,zh,,0,0,0,,再见\N{\ren}Goodbye.
+Dialogue: 0,0:09:37.62,0:09:38.88,zh,,0,0,0,,谭美？\N{\ren}Tammy?
+Dialogue: 0,0:09:39.37,0:09:40.67,zh,,0,0,0,,鸟人\N{\ren}Birdperson!
+Dialogue: 0,0:09:42.50,0:09:43.93,zh,,0,0,0,,－我们得走了 －你有看到吗？\N{\ren}- We gotta go. - Did you just see that?
+Dialogue: 0,0:09:44.00,0:09:45.10,zh,,0,0,0,,有，那不重要\N{\ren}Yep, not our biggest problem.
+Dialogue: 0,0:09:45.72,0:09:47.27,zh,,0,0,0,,你应该找到阿鸟了吧？\N{\ren}I take it you found BP?
+Dialogue: 0,0:09:47.34,0:09:48.40,zh,,0,0,0,,他把自己的大脑炸掉了\N{\ren}The dude just blew his mind.
+Dialogue: 0,0:09:48.47,0:09:50.61,zh,,0,0,0,,不是像看蓝人乐团很震撼的意思\N{\ren}Not in a cool way like he went to Blue Man Group.
+Dialogue: 0,0:09:50.68,0:09:52.11,zh,,0,0,0,,－还能救他出去吗？ －或许能\N{\ren}- Can we still get him out? - Maybe.
+Dialogue: 0,0:09:52.19,0:09:53.99,zh,,0,0,0,,在朋友的大脑里死掉，就会真死\N{\ren}If you die in your friend's brain, you die in real life.
+Dialogue: 0,0:09:54.07,0:09:55.70,zh,,0,0,0,,得在神经传导路径侵蚀前离开\N{\ren}We have until his neural pathways erode.
+Dialogue: 0,0:09:55.78,0:09:57.58,zh,,0,0,0,,等等，我还需要一个东西\N{\ren}Hold on. I need something first.
+Dialogue: 0,0:10:00.37,0:10:02.93,zh,,0,0,0,,我一直都很好奇我们打架谁会赢\N{\ren}It's funny. I always wondered who would win if we ever fought.
+Dialogue: 0,0:10:03.00,0:10:05.06,zh,,0,0,0,,那你就一直都是很糟的朋友\N{\ren}Then you were always a bad friend.
+Dialogue: 0,0:10:06.55,0:10:08.23,zh,,0,0,0,,你不是真的，我没有救你一命\N{\ren}Your life isn't real and I didn't save it.
+Dialogue: 0,0:10:08.30,0:10:09.48,zh,,0,0,0,,把衣服全脱掉\N{\ren}Take off all your clothes.
+Dialogue: 0,0:10:09.56,0:10:10.86,zh,,0,0,0,,我就知道我会这样死去\N{\ren}I knew this was how I'd die.
+Dialogue: 0,0:10:28.05,0:10:29.44,zh,,0,0,0,,－还能救他出去吗？ －应该能\N{\ren}- Can we still get him out? - I think so.
+Dialogue: 0,0:10:29.51,0:10:31.78,zh,,0,0,0,,阿鸟往那里去了，我们得…\N{\ren}BP went that way, so we just have to...
+Dialogue: 0,0:10:33.35,0:10:34.78,zh,,0,0,0,,干，得找别条路\N{\ren}Fuck! Find a different route.
+Dialogue: 0,0:10:34.86,0:10:36.62,zh,,0,0,0,,往深处走就能赶得上他\N{\ren}We can make up distance if we go deeper.
+Dialogue: 0,0:10:36.69,0:10:38.16,zh,,0,0,0,,这会通往哪里？\N{\ren}Well, where's that go?
+Dialogue: 0,0:10:38.24,0:10:39.92,zh,,0,0,0,,血腥岭之战\N{\ren}That's the Battle of Blood Ridge.
+Dialogue: 0,0:10:39.99,0:10:41.17,zh,,0,0,0,,我们的越战\N{\ren}That's our Vietnam.
+Dialogue: 0,0:10:41.25,0:10:42.51,zh,,0,0,0,,你的价值观很扭曲\N{\ren}Your values are wrong!
+Dialogue: 0,0:10:45.51,0:10:47.56,zh,,0,0,0,,好戏要上场了，各位先生和女士\N{\ren}This is the big show, gentlemen. And lady.
+Dialogue: 0,0:10:47.64,0:10:49.82,zh,,0,0,0,,－谢谢 －我们要进入血腥岭了\N{\ren}- Thank you. - We're dropping into Blood Ridge.
+Dialogue: 0,0:10:49.89,0:10:52.40,zh,,0,0,0,,这是能阻止联邦入侵的最后机会\N{\ren}One final chance to stop the Federation offense.
+Dialogue: 0,0:10:52.48,0:10:53.53,zh,,0,0,0,,我们如果输了…\N{\ren}If we lose here...
+Dialogue: 0,0:10:53.61,0:10:54.95,zh,,0,0,0,,上车\N{\ren}All aboard!
+Dialogue: 0,0:10:55.03,0:10:57.62,zh,,0,0,0,,别管我们，你们只是战争记忆\N{\ren}Hey, don't mind us. You guys are all just a memory of war.
+Dialogue: 0,0:10:57.70,0:10:59.42,zh,,0,0,0,,别说出来，这样他们不会认真打\N{\ren}Don't tell them that, they won't fight right.
+Dialogue: 0,0:10:59.49,0:11:02.09,zh,,0,0,0,,我想我们最好忽略他们\N{\ren}I think it's best if we ignore this.
+Dialogue: 0,0:11:23.46,0:11:25.56,zh,,0,0,0,,靠…\N{\ren}Shit! Shit... shit!
+Dialogue: 0,0:11:32.69,0:11:34.20,zh,,0,0,0,,－算了 －真酷\N{\ren}- Whoops. Nope. - This rules.
+Dialogue: 0,0:11:34.27,0:11:35.33,zh,,0,0,0,,不，这才不酷\N{\ren}No, it doesn't.
+Dialogue: 0,0:11:36.07,0:11:37.16,zh,,0,0,0,,那也不酷\N{\ren}Neither does that.
+Dialogue: 0,0:11:44.33,0:11:45.89,zh,,0,0,0,,你为什么不回来？\N{\ren}Why would you not revisit this?
+Dialogue: 0,0:11:45.96,0:11:48.14,zh,,0,0,0,,不知道，或许是因为结局很烂？\N{\ren}Oh, I don't know, maybe the ending?
+Dialogue: 0,0:12:07.13,0:12:09.10,zh,,0,0,0,,好啊，史上最棒的友谊\N{\ren}Oh, yeah! Best friendship ever!
+Dialogue: 0,0:12:15.65,0:12:17.91,zh,,0,0,0,,所以接下来的人生都差不多是这样，对吧？\N{\ren}So the rest of our life is just more of that, right?
+Dialogue: 0,0:12:17.99,0:12:19.08,zh,,0,0,0,,刚刚那样很酷\N{\ren}That kicked ass.
+Dialogue: 0,0:12:19.16,0:12:21.46,zh,,0,0,0,,我们走，精彩桥段快结束了\N{\ren}Let's move. That setpiece won't stay put for long.
+Dialogue: 0,0:12:21.53,0:12:23.38,zh,,0,0,0,,真的，刚刚那样真酷，你为何…\N{\ren}For real, that shit was cash. Why would you not...
+Dialogue: 0,0:12:23.46,0:12:25.05,zh,,0,0,0,,该死，刚刚那样真酷\N{\ren}Damn. That shit was cash.
+Dialogue: 0,0:12:25.13,0:12:27.01,zh,,0,0,0,,确实非常厉害\N{\ren}It was extremely badass.
+Dialogue: 0,0:12:27.09,0:12:28.64,zh,,0,0,0,,血腥岭之战结束了\N{\ren}The Battle of Blood Ridge is over.
+Dialogue: 0,0:12:28.72,0:12:30.90,zh,,0,0,0,,联邦输了，我欠你人情\N{\ren}The Federation lost. I am in your debt.
+Dialogue: 0,0:12:30.97,0:12:32.02,zh,,0,0,0,,跟我走\N{\ren}Come with me.
+Dialogue: 0,0:12:32.10,0:12:34.19,zh,,0,0,0,,去附近的地方吗？\N{\ren}To somewhere nearby?
+Dialogue: 0,0:12:34.27,0:12:35.45,zh,,0,0,0,,去任何地方，去所有地方\N{\ren}Anywhere. Everywhere.
+Dialogue: 0,0:12:36.02,0:12:38.37,zh,,0,0,0,,瑞克，我不期望你会继续战斗\N{\ren}Rick, I don't expect you to keep fighting,
+Dialogue: 0,0:12:38.44,0:12:39.54,zh,,0,0,0,,但这场战争…\N{\ren}but this war is...
+Dialogue: 0,0:12:39.61,0:12:40.67,zh,,0,0,0,,还没结束，我知道\N{\ren}Far from over, I know.
+Dialogue: 0,0:12:40.74,0:12:42.25,zh,,0,0,0,,老兄，此事我几乎没告诉任何人\N{\ren}Dude, I share this with almost nobody.
+Dialogue: 0,0:12:42.33,0:12:44.71,zh,,0,0,0,,但我现在就能带你到一样的战场\N{\ren}But I could take you, right now, to this same battlefield
+Dialogue: 0,0:12:44.79,0:12:45.97,zh,,0,0,0,,到我们输了的宇宙\N{\ren}in a universe where we lost
+Dialogue: 0,0:12:46.04,0:12:47.09,zh,,0,0,0,,或是我们也赢了的宇宙\N{\ren}or another where we won.
+Dialogue: 0,0:12:47.17,0:12:49.14,zh,,0,0,0,,或是根本没发生这场战争的宇宙\N{\ren}Or another where the war never even happened.
+Dialogue: 0,0:12:49.22,0:12:51.19,zh,,0,0,0,,全都一样真实，也一样不真实\N{\ren}All equally real, all equally unreal.
+Dialogue: 0,0:12:51.26,0:12:52.31,zh,,0,0,0,,这一切都不重要\N{\ren}None of it matters.
+Dialogue: 0,0:12:53.18,0:12:54.53,zh,,0,0,0,,那你干吗帮我？\N{\ren}Then why did you help?
+Dialogue: 0,0:12:54.60,0:12:56.16,zh,,0,0,0,,因为我尊重你\N{\ren}Because I respect you.
+Dialogue: 0,0:12:56.23,0:12:57.99,zh,,0,0,0,,我希望你也能尊重我\N{\ren}And I wanted you to know you could respect me.
+Dialogue: 0,0:12:58.07,0:13:00.04,zh,,0,0,0,,尽管一切都不重要吗？\N{\ren}Even though nothing matters?
+Dialogue: 0,0:13:00.11,0:13:02.13,zh,,0,0,0,,老实说，你对我来说很重要\N{\ren}OK, you matter. To me.
+Dialogue: 0,0:13:04.12,0:13:06.51,zh,,0,0,0,,－我们的关系 －我没这样说过\N{\ren}- The relationship that we have... - I never used that word.
+Dialogue: 0,0:13:06.58,0:13:08.81,zh,,0,0,0,,－不值得我牺牲节操 －天啊\N{\ren}- ... is not worth my integrity. - Oh my god.
+Dialogue: 0,0:13:08.88,0:13:10.81,zh,,0,0,0,,这件事没有那么复杂，兄弟\N{\ren}It's not a complicated transaction, my man.
+Dialogue: 0,0:13:10.88,0:13:12.81,zh,,0,0,0,,＂要不要一起做重要的酷事？＂\N{\ren}Would you like to join me doing awesome shit that matters?
+Dialogue: 0,0:13:12.89,0:13:14.94,zh,,0,0,0,,＂不，我想当爱评判人的阿呆＂\N{\ren}No, I would not. I would rather be a judgmental dork.
+Dialogue: 0,0:13:15.02,0:13:17.20,zh,,0,0,0,,就这样，根本不需要拖那么久\N{\ren}Case closed. Really no need to drag it out.
+Dialogue: 0,0:13:17.27,0:13:19.49,zh,,0,0,0,,你如果需要我，就发射讯号\N{\ren}If you need me, use the beacon.
+Dialogue: 0,0:13:19.57,0:13:21.25,zh,,0,0,0,,对，我会常发射讯号的\N{\ren}Yeah, I'm gonna use that beacon a lot.
+Dialogue: 0,0:13:21.32,0:13:22.83,zh,,0,0,0,,希望不会坏掉\N{\ren}Hope I don't wear it out.
+Dialogue: 0,0:13:28.50,0:13:30.85,zh,,0,0,0,,好吧，我懂了，出事的不是战争\N{\ren}OK, got it. It wasn't the battle that went wrong.
+Dialogue: 0,0:13:31.64,0:13:34.02,zh,,0,0,0,,你干吗为了那混蛋冒生命危险？\N{\ren}Why the fuck are you risking your life for that asshole?
+Dialogue: 0,0:13:34.10,0:13:35.15,zh,,0,0,0,,因为你爱他\N{\ren}Because you love him.
+Dialogue: 0,0:13:35.22,0:13:36.49,zh,,0,0,0,,是你爱他，我没有\N{\ren}You do, maybe. I don't.
+Dialogue: 0,0:13:36.56,0:13:37.61,zh,,0,0,0,,对，你最酷\N{\ren}Yeah... you're real cool.
+Dialogue: 0,0:13:37.69,0:13:40.29,zh,,0,0,0,,不帮我救他就滚蛋，我不需要你\N{\ren}Now come help me save his life or fuck off because I don't need you.
+Dialogue: 0,0:13:42.22,0:13:45.15,zh,,0,0,0,,天啊，有比这更美好的瞬间吗？\N{\ren}Wow, does it ever get any better than this?
+Dialogue: 0,0:13:45.23,0:13:47.66,zh,,0,0,0,,没有，谭美，相信我，真的没有\N{\ren}No, Tammy. Trust me, it does not.
+Dialogue: 0,0:13:47.73,0:13:50.87,zh,,0,0,0,,谢谢你带我来这里，这里好美\N{\ren}Thank you for bringing me here, it's so beautiful.
+Dialogue: 0,0:13:51.49,0:13:53.76,zh,,0,0,0,,我找到你了，不知感恩的败类\N{\ren}I got you, you ungrateful piece of shit!
+Dialogue: 0,0:13:54.50,0:13:57.10,zh,,0,0,0,,瑞克，你跟自己的记忆合作吗？\N{\ren}Rick, have you teamed up with a memory of yourself?
+Dialogue: 0,0:13:57.17,0:13:59.39,zh,,0,0,0,,如果是的话，那真的很可悲\N{\ren}I ask because that would be deeply sad.
+Dialogue: 0,0:13:59.47,0:14:01.40,zh,,0,0,0,,你没资格说我们可悲，兄弟\N{\ren}You don't get to tell anyone what's sad, man.
+Dialogue: 0,0:14:01.47,0:14:03.48,zh,,0,0,0,,你根本是可悲界的伟人\N{\ren}You're like a one-man Mount Sad-more.
+Dialogue: 0,0:14:03.56,0:14:05.24,zh,,0,0,0,,可悲到可以帮你建纪念碑\N{\ren}So I guess like a Lincoln Sad-morial.
+Dialogue: 0,0:14:05.31,0:14:06.66,zh,,0,0,0,,我们真的得走了，兄弟\N{\ren}Seriously, time to go, pal.
+Dialogue: 0,0:14:06.73,0:14:09.04,zh,,0,0,0,,你越接近神经认知失能状态\N{\ren}The closer you get to complete neurocognital failure
+Dialogue: 0,0:14:09.11,0:14:11.21,zh,,0,0,0,,就会有越多鬼东西想杀我们\N{\ren}the more canon-y bullshit is gonna try to kill us.
+Dialogue: 0,0:14:11.28,0:14:12.88,zh,,0,0,0,,这个时机点适合告诉大家\N{\ren}Is this a bad time to reveal
+Dialogue: 0,0:14:12.95,0:14:14.55,zh,,0,0,0,,我其实是卧底探员吗？\N{\ren}I'm an undercover officer?
+Dialogue: 0,0:14:14.62,0:14:16.09,zh,,0,0,0,,大家都知道，你已经死了\N{\ren}Everyone knows. You're dead.
+Dialogue: 0,0:14:17.59,0:14:18.76,zh,,0,0,0,,好吧，算你幸运\N{\ren}Fine. Well, you're lucky
+Dialogue: 0,0:14:18.84,0:14:20.60,zh,,0,0,0,,我未婚夫记忆中的我很善良\N{\ren}my fiancé remembers me as kind.
+Dialogue: 0,0:14:20.68,0:14:21.90,zh,,0,0,0,,舔我的肛门啦，阿鸟\N{\ren}Eat my ass, BP.
+Dialogue: 0,0:14:21.97,0:14:23.23,zh,,0,0,0,,你抛下我们躲在这里\N{\ren}You're down here bailing on the rest of us
+Dialogue: 0,0:14:23.31,0:14:25.15,zh,,0,0,0,,因为你不想跟常人一样\N{\ren}because you don't want to
+Dialogue: 0,0:14:25.23,0:14:26.28,zh,,0,0,0,,借酗酒和欺负陌生人\N{\ren}process your grief and shame like a normal person 
+Dialogue: 0,0:14:26.35,0:14:27.91,zh,,0,0,0,,面对悲痛和耻辱\N{\ren}by drinking and mistreating strangers.
+Dialogue: 0,0:14:27.98,0:14:31.08,zh,,0,0,0,,瑞克，是你该轻咬我的泄殖腔\N{\ren}No, Rick. It is you who must nibble my cloaca,
+Dialogue: 0,0:14:31.16,0:14:32.38,zh,,0,0,0,,也就是鸟的肛门\N{\ren}or bird asshole.
+Dialogue: 0,0:14:32.45,0:14:33.84,zh,,0,0,0,,大家都知道泄殖腔是什么\N{\ren}Everyone knows what a cloaca is.
+Dialogue: 0,0:14:33.91,0:14:37.09,zh,,0,0,0,,抱歉，我们不能选择自己爱的人\N{\ren}Sorry, but we do not get to choose the ones we love.
+Dialogue: 0,0:14:37.17,0:14:39.51,zh,,0,0,0,,没错，不然我他妈为何还在这？\N{\ren}You got that right, why do you think I'm still fucking down here?
+Dialogue: 0,0:14:39.59,0:14:41.44,zh,,0,0,0,,我在自己的婚礼上死了，瑞克\N{\ren}I died at my wedding, Rick.
+Dialogue: 0,0:14:41.51,0:14:43.98,zh,,0,0,0,,我只是在等自己死透而已\N{\ren}I am merely waiting for it to take effect.
+Dialogue: 0,0:14:45.48,0:14:47.36,zh,,0,0,0,,－你要不要讲？ －我正要讲\N{\ren}- Are you gonna tell him or what? - I was getting to it!
+Dialogue: 0,0:14:47.44,0:14:49.16,zh,,0,0,0,,她一定连孩子的事都没告诉你\N{\ren}I bet she didn't even tell you about the kid.
+Dialogue: 0,0:14:49.23,0:14:50.41,zh,,0,0,0,,－什么的事？ －什么？\N{\ren}- About the what? - I am sorry?
+Dialogue: 0,0:14:50.49,0:14:51.58,zh,,0,0,0,,我才刚在想…\N{\ren}Was wondering when you were gonna...
+Dialogue: 0,0:14:51.66,0:14:53.50,zh,,0,0,0,,我如果生过孩子，我应该会知道\N{\ren}I think I'd know if I had a kid.
+Dialogue: 0,0:14:53.58,0:14:54.96,zh,,0,0,0,,你是记忆，你只知道他知道的事\N{\ren}You're a memory, you know what he knows.
+Dialogue: 0,0:14:55.04,0:14:56.09,zh,,0,0,0,,他不知道这件事\N{\ren}And he doesn't know
+Dialogue: 0,0:14:56.16,0:14:57.59,zh,,0,0,0,,因为有一堆脑袋分析仪程序\N{\ren}because an army of Brainalyzer protocols
+Dialogue: 0,0:14:57.67,0:14:59.47,zh,,0,0,0,,隔绝了他成为凤人后的记忆\N{\ren}walled off any memories post-Phoenix person.
+Dialogue: 0,0:14:59.55,0:15:01.89,zh,,0,0,0,,天啊，某某行动\N{\ren}Oh, my god. Operation Blah-blah-blah.
+Dialogue: 0,0:15:03.14,0:15:04.36,zh,,0,0,0,,因为我不会知道叫什么名字\N{\ren}Well, because I wouldn't know the name of it.
+Dialogue: 0,0:15:04.43,0:15:06.32,zh,,0,0,0,,谭美，如果你有孩子…\N{\ren}Tammy, if there were a child...
+Dialogue: 0,0:15:07.02,0:15:09.53,zh,,0,0,0,,孩子的爸就会是恐怖分子\N{\ren}Their father would be a terrorist.
+Dialogue: 0,0:15:09.61,0:15:11.62,zh,,0,0,0,,孩子应该会是逃犯或是…\N{\ren}They'd be a fugitive or...
+Dialogue: 0,0:15:11.70,0:15:12.75,zh,,0,0,0,,囚犯\N{\ren}contained.
+Dialogue: 0,0:15:13.99,0:15:15.71,zh,,0,0,0,,听着，你如果不想为自己活下去\N{\ren}Listen, if you won't live for yourself
+Dialogue: 0,0:15:15.79,0:15:17.63,zh,,0,0,0,,至少想想那个半鸟人半婊子\N{\ren}live for the half-Birdperson, half-megabitch
+Dialogue: 0,0:15:17.71,0:15:19.35,zh,,0,0,0,,在监狱小行星上吃虫子的孩子\N{\ren}that's eatin' worms on a prison asteroid.
+Dialogue: 0,0:15:20.88,0:15:22.35,zh,,0,0,0,,我做了决定\N{\ren}I have made a decision.
+Dialogue: 0,0:15:22.43,0:15:23.98,zh,,0,0,0,,我现在想活下去\N{\ren}I would now like to live.
+Dialogue: 0,0:15:24.47,0:15:25.53,zh,,0,0,0,,时机正好\N{\ren}Perfect timing.
+Dialogue: 0,0:15:32.51,0:15:33.57,zh,,0,0,0,,你开车\N{\ren}You drive.
+Dialogue: 0,0:15:33.64,0:15:34.94,zh,,0,0,0,,看来我一直都很酷\N{\ren}I've just always been cool, I guess.
+Dialogue: 0,0:15:41.70,0:15:43.00,zh,,0,0,0,,靠，桥断了\N{\ren}Shit! The bridge is out.
+Dialogue: 0,0:15:43.08,0:15:44.34,zh,,0,0,0,,他的心智要崩溃了\N{\ren}His mind is collapsing.
+Dialogue: 0,0:15:44.41,0:15:46.18,zh,,0,0,0,,你还以为我们能走原路回去？\N{\ren}You thought you could take the same route back?
+Dialogue: 0,0:15:46.25,0:15:48.14,zh,,0,0,0,,你没资格对记忆的事说三道四\N{\ren}You don't get to lecture me about memory bullshit.
+Dialogue: 0,0:15:48.21,0:15:49.43,zh,,0,0,0,,你是半小时前才知道的\N{\ren}You've known about it for all of half an hour.
+Dialogue: 0,0:15:49.51,0:15:50.56,zh,,0,0,0,,那你就别耍笨\N{\ren}Then don't be an idiot!
+Dialogue: 0,0:15:50.63,0:15:51.90,zh,,0,0,0,,他是你最好的朋友？\N{\ren}This is your best friend?
+Dialogue: 0,0:15:51.97,0:15:53.52,zh,,0,0,0,,他是很复杂的人\N{\ren}He is a complicated individual.
+Dialogue: 0,0:15:53.60,0:15:54.65,zh,,0,0,0,,换人开车\N{\ren}Someone else drive.
+Dialogue: 0,0:15:54.73,0:15:55.90,zh,,0,0,0,,阿鸟，你记得杰瑞某天发现\N{\ren}BP, remember the night Jerry caught us
+Dialogue: 0,0:15:55.98,0:15:57.41,zh,,0,0,0,,我们尿在他种的海棠花上\N{\ren}peeing on his begonia patch
+Dialogue: 0,0:15:57.48,0:15:58.95,zh,,0,0,0,,我用了那把枪清除他的记忆吗？\N{\ren}and I used that gun to erase his memory?
+Dialogue: 0,0:15:59.03,0:16:00.71,zh,,0,0,0,,－好像有？ －希望记忆够清楚\N{\ren}- Vaguely. - Gotta hope vaguely works.
+Dialogue: 0,0:16:00.78,0:16:02.08,zh,,0,0,0,,如果我是对的，你记得的话\N{\ren}If I'm right, you remembering that means
+Dialogue: 0,0:16:02.16,0:16:03.33,zh,,0,0,0,,应该也记得那装置\N{\ren}you also remember the device.
+Dialogue: 0,0:16:03.41,0:16:05.13,zh,,0,0,0,,寻找我车库里的记忆\N{\ren}Look for any memories of my garage.
+Dialogue: 0,0:16:05.20,0:16:06.63,zh,,0,0,0,,老天，希望还存在\N{\ren}God, I hope one's still up.
+Dialogue: 0,0:16:09.92,0:16:10.97,zh,,0,0,0,,－我们认识的那天 －好恶\N{\ren}- Aw, the night we met. - Gross,
+Dialogue: 0,0:16:11.05,0:16:12.73,zh,,0,0,0,,－我的工作台？ －屎光去用…\N{\ren}- on my workbench? - Squanchy used the...
+Dialogue: 0,0:16:12.80,0:16:14.57,zh,,0,0,0,,应该去壁橱里的\N{\ren}That's what some closets are for!
+Dialogue: 0,0:16:14.64,0:16:17.53,zh,,0,0,0,,拜托，希望你够注重细节\N{\ren}C'mon, I'm really counting on your attention to detail here.
+Dialogue: 0,0:16:17.61,0:16:20.03,zh,,0,0,0,,你只记得我的实验室里有这个？\N{\ren}This is what you remember from my lab?
+Dialogue: 0,0:16:20.11,0:16:22.96,zh,,0,0,0,,你希望我把你的东西记清楚吗？\N{\ren}You would prefer I keep a mental inventory of your stuff?
+Dialogue: 0,0:16:23.03,0:16:24.09,zh,,0,0,0,,对\N{\ren}Yes.
+Dialogue: 0,0:16:25.50,0:16:27.47,zh,,0,0,0,,瑞克山查兹，我在此逮捕你\N{\ren}Rick Sanchez, you're under arrest
+Dialogue: 0,0:16:27.54,0:16:30.52,zh,,0,0,0,,因为你逼我在地球高中渡过两年\N{\ren}for making me spend two years in Earth high school.
+Dialogue: 0,0:16:30.59,0:16:32.06,zh,,0,0,0,,快开车…\N{\ren}Go, go, go!
+Dialogue: 0,0:16:33.16,0:16:35.22,zh,,0,0,0,,我们得发挥创意才能离开这里了\N{\ren}We'll have to do some creative memory shit to get out of here.
+Dialogue: 0,0:16:35.29,0:16:36.84,zh,,0,0,0,,出口是我们在鸟人艺术祭认识\N{\ren}The exit's when we met at Birding Man
+Dialogue: 0,0:16:36.92,0:16:38.22,zh,,0,0,0,,还一起吸毒的时候\N{\ren}and did senthol diempathate.
+Dialogue: 0,0:16:38.30,0:16:39.43,zh,,0,0,0,,天啊，真美好的时光\N{\ren}Damn, a great time.
+Dialogue: 0,0:16:39.51,0:16:40.64,zh,,0,0,0,,对，太欢乐了\N{\ren}Exactly, it's too happy.
+Dialogue: 0,0:16:40.72,0:16:41.98,zh,,0,0,0,,没有路能直通那里\N{\ren}There won't be a clean path to get there.
+Dialogue: 0,0:16:42.05,0:16:44.94,zh,,0,0,0,,我们得利用我的记忆开路再一路跳过去\N{\ren}We'll need to build one with memories of mine and lily-pad our way up.
+Dialogue: 0,0:16:45.02,0:16:46.36,zh,,0,0,0,,我们有什么共同回忆\N{\ren}What related memories do we share
+Dialogue: 0,0:16:46.44,0:16:47.99,zh,,0,0,0,,是充满了愤怒和悲伤的？\N{\ren}heavy on anger and sadness?
+Dialogue: 0,0:16:48.07,0:16:49.54,zh,,0,0,0,,齿轮人的丧礼\N{\ren}Geardude's funeral.
+Dialogue: 0,0:16:49.61,0:16:50.96,zh,,0,0,0,,确实很悲伤\N{\ren}Oh, that was sad.
+Dialogue: 0,0:16:57.71,0:17:00.81,zh,,0,0,0,,因父及子及圣神之名…\N{\ren}Patris et filii, Gearitus Sanctis...
+Dialogue: 0,0:17:03.14,0:17:04.99,zh,,0,0,0,,他们只是记忆，开过去，是假的\N{\ren}They're memories, just run them over. They're not real.
+Dialogue: 0,0:17:05.06,0:17:06.45,zh,,0,0,0,,等等，那是齿轮头吗？\N{\ren}Hey! Wait, is that Gearhead?
+Dialogue: 0,0:17:06.77,0:17:08.53,zh,,0,0,0,,我们跟他哥一起当过自由战士\N{\ren}We were freedom fighters with his older brother.
+Dialogue: 0,0:17:08.61,0:17:10.16,zh,,0,0,0,,这是很重要的背景\N{\ren}Hugely important context.
+Dialogue: 0,0:17:10.24,0:17:11.41,zh,,0,0,0,,你以为因为好玩才跟他来往吗？\N{\ren}You thought we hung out with him for fun?
+Dialogue: 0,0:17:12.99,0:17:14.46,zh,,0,0,0,,我们还需要一座桥才能到艺术节\N{\ren}We need one more bridge to the festival,
+Dialogue: 0,0:17:14.54,0:17:16.30,zh,,0,0,0,,还有什么记忆？穿西装的人\N{\ren}what's here? People in suits,
+Dialogue: 0,0:17:16.37,0:17:17.59,zh,,0,0,0,,可悲的外烩午餐\N{\ren}sad catered lunch
+Dialogue: 0,0:17:17.67,0:17:20.52,zh,,0,0,0,,刚单身的寡妇，表演相关的呢？\N{\ren}newly single widows... Something performance based?
+Dialogue: 0,0:17:20.59,0:17:22.48,zh,,0,0,0,,屎光去讲的不得体悼词\N{\ren}Squanchy's very distasteful eulogy.
+Dialogue: 0,0:17:22.55,0:17:24.48,zh,,0,0,0,,屎光去的悲剧脱口秀时期\N{\ren}Squanchy's terrible stand-up phase.
+Dialogue: 0,0:17:24.56,0:17:26.36,zh,,0,0,0,,这就对了\N{\ren}That's it!
+Dialogue: 0,0:17:26.44,0:17:27.82,zh,,0,0,0,,直走\N{\ren}Down that way.
+Dialogue: 0,0:17:29.53,0:17:30.91,zh,,0,0,0,,我在屎光去的时候\N{\ren}So you know when you're squanching
+Dialogue: 0,0:17:30.99,0:17:33.38,zh,,0,0,0,,她就会很深入\N{\ren}and she just gets real in there.
+Dialogue: 0,0:17:33.45,0:17:35.80,zh,,0,0,0,,很下流的屎光去，知道吧？\N{\ren}Y'know that real nasty squanch?
+Dialogue: 0,0:17:37.75,0:17:38.80,zh,,0,0,0,,你们在搞…\N{\ren}Who are you... What is...
+Dialogue: 0,0:17:38.88,0:17:40.22,zh,,0,0,0,,天啊，我是记忆\N{\ren}Oh my god. I'm a memory.
+Dialogue: 0,0:17:40.30,0:17:42.18,zh,,0,0,0,,我们刚刚白听了一堆脱口秀\N{\ren}We just sat through all that stand-up for nothing.
+Dialogue: 0,0:17:42.26,0:17:43.35,zh,,0,0,0,,就快到了\N{\ren}Almost out.
+Dialogue: 0,0:17:45.48,0:17:47.70,zh,,0,0,0,,听好了，各位，我叫瑞克\N{\ren}OK, listen everybody. My name's Rick.
+Dialogue: 0,0:17:47.77,0:17:49.37,zh,,0,0,0,,这位是我的新朋友鸟人\N{\ren}This is my new friend, Bird Man
+Dialogue: 0,0:17:49.44,0:17:51.41,zh,,0,0,0,,还有他朋友，我们才刚在这认识\N{\ren}and his friends, we all just met at this festival.
+Dialogue: 0,0:17:51.49,0:17:53.04,zh,,0,0,0,,我们太嗨了，所以组了个乐团…\N{\ren}and we're so high we formed a band...
+Dialogue: 0,0:18:03.18,0:18:05.40,zh,,0,0,0,,我是不会让你逃走的\N{\ren}As if I'd ever let you escape me.
+Dialogue: 0,0:18:06.85,0:18:08.74,zh,,0,0,0,,－活着也没多好 －嘿\N{\ren}- Living's overrated. - Hey!
+Dialogue: 0,0:18:08.81,0:18:10.95,zh,,0,0,0,,别忘了我\N{\ren}Remember me!
+Dialogue: 0,0:18:11.03,0:18:12.41,zh,,0,0,0,,不，干，我们本来已经扯平了\N{\ren}No, fuck. We were even.
+Dialogue: 0,0:18:12.95,0:18:15.04,zh,,0,0,0,,你这个关于我的记忆还算酷\N{\ren}You got a pretty cool memory of me.
+Dialogue: 0,0:18:22.42,0:18:24.40,zh,,0,0,0,,我们该走了，兄弟，快动手吧\N{\ren}Go time, pal. Might be time to do the thing.
+Dialogue: 0,0:18:26.68,0:18:28.11,zh,,0,0,0,,真抱歉，看来我好像杀了你\N{\ren}I'm sorry for killing you
+Dialogue: 0,0:18:28.19,0:18:30.99,zh,,0,0,0,,还把你变成生化人\N{\ren}and turning you into a cyborg, apparently.
+Dialogue: 0,0:18:31.07,0:18:32.41,zh,,0,0,0,,我是真的爱过你\N{\ren}I really did love you.
+Dialogue: 0,0:18:32.49,0:18:33.58,zh,,0,0,0,,我也爱过你\N{\ren}I loved you too.
+Dialogue: 0,0:18:34.07,0:18:35.46,zh,,0,0,0,,再见了，谭美\N{\ren}Goodbye, Tamantha.
+Dialogue: 0,0:18:36.45,0:18:38.34,zh,,0,0,0,,快一点，我这样很尴尬\N{\ren}Come on, man. I feel ridiculous.
+Dialogue: 0,0:18:39.13,0:18:40.60,zh,,0,0,0,,谢谢你没放弃我\N{\ren}Thank you for not giving up on me.
+Dialogue: 0,0:18:40.67,0:18:42.64,zh,,0,0,0,,很好，你现在可以快点报答我\N{\ren}Great, you can pay me back literally right now.
+Dialogue: 0,0:18:49.65,0:18:51.28,zh,,0,0,0,,靠，天啊，靠\N{\ren}Holy shit! Wow, holy shit.
+Dialogue: 0,0:18:51.36,0:18:52.41,zh,,0,0,0,,我们差点就出不来了\N{\ren}We almost didn't make it.
+Dialogue: 0,0:18:52.49,0:18:54.58,zh,,0,0,0,,真他妈太惊险了，太夸张了\N{\ren}Jesus fuck, that was close. That was insane.
+Dialogue: 0,0:18:54.66,0:18:57.13,zh,,0,0,0,,天啊，刚刚那样还有那样\N{\ren}Oh my god. That thing with the thing!
+Dialogue: 0,0:18:57.20,0:18:58.30,zh,,0,0,0,,谢谢你，瑞克\N{\ren}Thank you, Rick.
+Dialogue: 0,0:18:58.37,0:19:00.68,zh,,0,0,0,,等等，我要先跳回我的身体\N{\ren}Wait... let me hop back over to my body.
+Dialogue: 0,0:19:07.47,0:19:10.28,zh,,0,0,0,,我们回来了，瑞克和鸟人万万岁\N{\ren}We're back, baby! Rick and Birdperson, a hundred years.
+Dialogue: 0,0:19:10.36,0:19:12.49,zh,,0,0,0,,要不要一起喝酒庆祝一番？\N{\ren}What do you think, tie this one off by tying one on?
+Dialogue: 0,0:19:12.57,0:19:16.42,zh,,0,0,0,,今天不行，我得去处理孩子的事\N{\ren}Not tonight. I have, as you say, parenting shit to deal with.
+Dialogue: 0,0:19:16.49,0:19:18.26,zh,,0,0,0,,对，好吧，欢迎加入我的行列\N{\ren}Right, yeah. Welcome to the club.
+Dialogue: 0,0:19:18.33,0:19:19.55,zh,,0,0,0,,不要复制孩子\N{\ren}Don't clone it
+Dialogue: 0,0:19:19.62,0:19:21.01,zh,,0,0,0,,然后把其中一个送去外太空\N{\ren}and send one of the two into space.
+Dialogue: 0,0:19:21.09,0:19:22.18,zh,,0,0,0,,孩子很讨厌那样\N{\ren}I guess they really hate that.
+Dialogue: 0,0:19:23.05,0:19:24.64,zh,,0,0,0,,记忆瑞克好像除掉邪恶谭美\N{\ren}I think Memory Rick ditched Evil Tammy
+Dialogue: 0,0:19:24.72,0:19:26.23,zh,,0,0,0,,偷偷躲进我的大脑了\N{\ren}and snuck back over into my brain.
+Dialogue: 0,0:19:26.30,0:19:28.90,zh,,0,0,0,,壁橱里有我的青少年记忆\N{\ren}I have a pubescent memory of my older self in my closet.
+Dialogue: 0,0:19:28.98,0:19:30.57,zh,,0,0,0,,我得去处理一下，可能会出大事\N{\ren}Gotta deal with that, that could get ugly.
+Dialogue: 0,0:19:30.65,0:19:32.95,zh,,0,0,0,,瑞克，我不想自找麻烦\N{\ren}Rick, I do not like to pull threads.
+Dialogue: 0,0:19:33.03,0:19:35.62,zh,,0,0,0,,因为准没好事，跟我本性相违背\N{\ren}It is a disruptive and feline activity.
+Dialogue: 0,0:19:35.70,0:19:38.09,zh,,0,0,0,,－但我得问你 －没关系，别问\N{\ren}- But I must ask... - It's fine, you don't have to.
+Dialogue: 0,0:19:38.16,0:19:42.14,zh,,0,0,0,,你是不是曾经知道我有孩子却选择不告诉我\N{\ren}Was there really a second in there where you knew about my child but chose not to inform me
+Dialogue: 0,0:19:42.21,0:19:45.10,zh,,0,0,0,,因为你担心我会为了照顾小孩\N{\ren}on the chance I might then grow too busy childrearing
+Dialogue: 0,0:19:45.18,0:19:46.31,zh,,0,0,0,,忙到没空陪你？\N{\ren}to hang out?
+Dialogue: 0,0:19:47.51,0:19:49.61,zh,,0,0,0,,你应该要感谢我发现你有孩子\N{\ren}Weird way to thank me for discovering your kid.
+Dialogue: 0,0:19:49.69,0:19:52.28,zh,,0,0,0,,你来救我的时候不知道我有孩子\N{\ren}You did not know of the child when you came to rescue me
+Dialogue: 0,0:19:52.36,0:19:54.41,zh,,0,0,0,,你知道后还是没告诉我\N{\ren}and once aware, refrained from sharing
+Dialogue: 0,0:19:54.49,0:19:56.75,zh,,0,0,0,,直到为了自救，非说不可才说\N{\ren}until necessary to save yourself.
+Dialogue: 0,0:19:57.87,0:19:58.92,zh,,0,0,0,,好吧\N{\ren}Fair enough.
+Dialogue: 0,0:19:59.00,0:20:01.26,zh,,0,0,0,,我们暂时先别见面了\N{\ren}I will see you when I see you.
+Dialogue: 0,0:20:05.26,0:20:07.44,zh,,0,0,0,,什么？那个人在干吗？\N{\ren}What... what is this guy doing?
+Dialogue: 0,0:20:07.51,0:20:08.73,zh,,0,0,0,,等等，什么？但你说…\N{\ren}Wait, what? But you said...
+Dialogue: 0,0:20:08.81,0:20:10.65,zh,,0,0,0,,快走开，怪人\N{\ren}Get out of here, weirdo!
+Dialogue: 0,0:20:11.77,0:20:13.66,zh,,0,0,0,,好奇怪的陌生人\N{\ren}What a weird stranger.
+Dialogue: 0,0:20:13.73,0:20:15.12,zh,,0,0,0,,竟然有一个随机的人\N{\ren}Huh, what a random thing to happen.
+Dialogue: 0,0:20:15.19,0:20:18.67,zh,,0,0,0,,拿着所有能量储存装置来这里\N{\ren}This guy coming up here with all his energy storage devices.
+Dialogue: 0,0:20:20.08,0:20:22.34,zh,,0,0,0,,我承认自己背信了\N{\ren}Disloyalty acknowledged.
+Dialogue: 0,0:20:22.42,0:20:23.97,zh,,0,0,0,,没关系，我能理解\N{\ren}Nah, I get it.
+Dialogue: 0,0:20:24.62,0:20:25.76,zh,,0,0,0,,我只是在顾小孩\N{\ren}Just babysitting.
+Dialogue: 0,0:20:25.83,0:20:28.77,zh,,0,0,0,,还有在客厅试穿我新买的裤袜\N{\ren}That and modeling my new pantyhose in plain view of the living room.
+Dialogue: 0,0:20:28.84,0:20:30.73,zh,,0,0,0,,其实孩子来看也没差，我很欢迎\N{\ren}Honestly, if the kid could come watch, I'd welcome it.
+Dialogue: 0,0:20:30.80,0:20:33.27,zh,,0,0,0,,这年代的文化不介意，对吧？\N{\ren}This cultural time period's cool like that, y'know?
+Dialogue: 0,0:20:38.32,0:20:39.95,zh,,0,0,0,,事情不是你想的那样\N{\ren}It's... not what it looks like.
+Dialogue: 0,0:20:40.03,0:20:41.75,zh,,0,0,0,,看来你是从阿鸟的潜意识\N{\ren}It looks like you propagated yourself
+Dialogue: 0,0:20:41.82,0:20:43.25,zh,,0,0,0,,跑进了我的潜意识\N{\ren}from BP's subconscious to mine
+Dialogue: 0,0:20:43.33,0:20:45.26,zh,,0,0,0,,想继续当有知觉的记忆\N{\ren}to try to live as a sentient memory.
+Dialogue: 0,0:20:45.33,0:20:46.38,zh,,0,0,0,,好吧\N{\ren}Fair enough.
+Dialogue: 0,0:20:46.46,0:20:48.72,zh,,0,0,0,,你的存在不代表你就是我的敌人\N{\ren}You don't have to be an enemy just because you exist.
+Dialogue: 0,0:20:48.80,0:20:50.73,zh,,0,0,0,,我以为你会因为我想活就讨厌我\N{\ren}I did assume you'd hate me for trying to live.
+Dialogue: 0,0:20:50.80,0:20:52.65,zh,,0,0,0,,因为你很冷酷无情\N{\ren}You've got this wild callousness thing going on.
+Dialogue: 0,0:20:52.72,0:20:53.82,zh,,0,0,0,,是啊，你还年轻\N{\ren}Yeah, you're young.
+Dialogue: 0,0:20:53.89,0:20:55.94,zh,,0,0,0,,来，我把你变成真人，一起喝酒\N{\ren}C'mon, let's bring you to life and get a beer.
+Dialogue: 0,0:20:56.02,0:20:58.20,zh,,0,0,0,,我变成真人就终究会变成你吗？\N{\ren}Does being real mean I eventually become you?
+Dialogue: 0,0:20:58.27,0:20:59.37,zh,,0,0,0,,应该是，对\N{\ren}I assume, yeah.
+Dialogue: 0,0:20:59.94,0:21:02.50,zh,,0,0,0,,你还是记得我们一起喝酒就好？\N{\ren}Maybe you can just remember us getting a beer?
+Dialogue: 0,0:21:43.41,0:21:45.00,zh,,0,0,0,,嘿，干\N{\ren}Hey! Oh, fuck.
+Dialogue: 0,0:21:47.42,0:21:48.80,zh,,0,0,0,,我的天啊\N{\ren}Jesus Christ.
+Dialogue: 0,0:21:48.88,0:21:50.89,zh,,0,0,0,,你有没有想过把暴力的人关一起\N{\ren}You ever think putting the violent ones in the same place
+Dialogue: 0,0:21:50.96,0:21:52.18,zh,,0,0,0,,可能会造成反效果？\N{\ren}might be counter-productive?
+Dialogue: 0,0:21:52.26,0:21:53.44,zh,,0,0,0,,我们的职责不包含思考，费尔\N{\ren}They don't pay us to think, Phil.
+Dialogue: 0,0:21:53.51,0:21:54.73,zh,,0,0,0,,对，你是对的，抱歉\N{\ren}No you're right. Sorry.

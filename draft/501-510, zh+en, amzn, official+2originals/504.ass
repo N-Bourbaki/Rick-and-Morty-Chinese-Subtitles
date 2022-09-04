@@ -1,0 +1,513 @@
+﻿[Script Info]
+Title: S05E04 by Nicolas Bourbaki
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: zh,微软雅黑,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: en,Comic Sans MS,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: top,微软雅黑,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: git,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.25,0:00:04.75,top,,0,0,0,,本字幕由Nicolas Bourbaki调轴及合并双语 首先发布于SubHD
+Dialogue: 0,0:00:05.25,0:00:09.75,top,,0,0,0,,转载请注明来源保留信息 开源分享的互联网精神你有我有大家有
+Dialogue: 0,0:00:10.25,0:00:14.75,top,,0,0,0,,Nicolas Bourbaki不建议也不对任何利用本字幕生成的视频负责
+Dialogue: 0,0:00:15.25,0:00:19.75,top,,0,0,0,,欢迎大家到我们的仓库协助改错：{\rgit}https://github.com/N-Bourbaki/Rick-and-Morty-Chinese-Subtitles
+Dialogue: 0,0:00:06.00,0:00:07.00,top,,0,0,0,,圣马医院
+Dialogue: 0,0:00:55.83,0:00:57.13,top,,0,0,0,,一周后
+Dialogue: 0,0:01:07.02,0:01:08.12,top,,0,0,0,,百分之百纯马精
+Dialogue: 0,0:16:39.87,0:16:41.80,top,,0,0,0,,杀精剂
+Dialogue: 0,0:18:02.14,0:18:03.45,top,,0,0,0,,赌场
+Dialogue: 0,0:18:03.52,0:18:05.87,top,,0,0,0,,扑克
+Dialogue: 0,0:18:06.44,0:18:09.12,top,,0,0,0,,幻景，魅力之王
+Dialogue: 0,0:00:06.96,0:00:08.79,zh,,0,0,0,,妈，我们快赶不上电影了\N{\ren}Mom! We're gonna miss the movie!
+Dialogue: 0,0:00:08.83,0:00:11.27,zh,,0,0,0,,－才怪 －但我们在这待好久了\N{\ren}-No, we're not. -Okay, but we've been here for hours.
+Dialogue: 0,0:00:11.31,0:00:13.40,zh,,0,0,0,,我不想待在这间蠢马医院\N{\ren}I-I don't want to hang out at the stupid horse hospital.
+Dialogue: 0,0:00:13.44,0:00:16.05,zh,,0,0,0,,你有饭吃都是因为这间蠢马医院\N{\ren}This stupid horse hospital puts dinner on your table.
+Dialogue: 0,0:00:16.10,0:00:18.19,zh,,0,0,0,,试着多了解这里一点也不会死\N{\ren}It wouldn't kill you to take an interest.
+Dialogue: 0,0:00:20.41,0:00:22.28,zh,,0,0,0,,中间这台机器是什么？\N{\ren}W-What's this thing? I-In the middle of the room?
+Dialogue: 0,0:00:22.32,0:00:23.89,zh,,0,0,0,,尾端还有洞？\N{\ren}With -- With the hole in the end?
+Dialogue: 0,0:00:23.93,0:00:28.20,zh,,0,0,0,,那是取精器，护士会用那台机器收集生殖物质\N{\ren}That's a breeding mount. The nurses use it to collect...reproductive material.
+Dialogue: 0,0:00:40.77,0:00:43.91,zh,,0,0,0,,好，我们去看让你们这些小鬼兴奋到不行的最新漫威电影\N{\ren}Okay, let's go see this latest piece of Marvel shit you kids are jizzing over.
+Dialogue: 0,0:00:43.95,0:00:45.78,zh,,0,0,0,,很好，总算要去了\N{\ren}Yeah. A-About time.
+Dialogue: 0,0:00:45.82,0:00:49.91,zh,,0,0,0,,你们医院需不需要学生志工？\N{\ren}So, d-does your hospital ever need, like, after-school volunteers?
+Dialogue: 0,0:00:49.96,0:00:52.00,zh,,0,0,0,,你是谁，你把我儿子放在哪了？\N{\ren}Wow. Who are you and where did you put my son?
+Dialogue: 0,0:00:52.05,0:00:55.79,zh,,0,0,0,,我是真的对你的工作很有兴趣\N{\ren}Ha! No, no. Seriously. I-I'm very interested in -- in your work.
+Dialogue: 0,0:01:01.23,0:01:03.01,zh,,0,0,0,,莫蒂，你这只肮脏的狗\N{\ren}Morty, you dirty little doggy.
+Dialogue: 0,0:01:04.41,0:01:06.67,zh,,0,0,0,,真是的\N{\ren}Ugh! Come on!
+Dialogue: 0,0:01:08.93,0:01:10.46,zh,,0,0,0,,瑞克\N{\ren}Hey, Rick.
+Dialogue: 0,0:01:10.50,0:01:12.15,zh,,0,0,0,,你好，你过得如何？\N{\ren}Oh, hey, kiddo. How's your Saturday?
+Dialogue: 0,0:01:12.20,0:01:14.07,zh,,0,0,0,,很轻松，你在干吗？\N{\ren}You know, super chill. W-W-Whatcha doin'?
+Dialogue: 0,0:01:14.11,0:01:15.55,zh,,0,0,0,,没什么有趣的\N{\ren}Eh, nothing adventurous.
+Dialogue: 0,0:01:15.59,0:01:18.94,zh,,0,0,0,,你知道我们一直在对抗的地下食人马人种族吗？\N{\ren}You know that race of Underground Dwelling Cannibal Horse People that we're always fighting?
+Dialogue: 0,0:01:18.99,0:01:20.64,zh,,0,0,0,,对，地马，他们怎么了？\N{\ren}Yeah, the CHUDs. W-W-What about 'em?
+Dialogue: 0,0:01:20.68,0:01:24.17,zh,,0,0,0,,别说出去，我正在研究对付他们的生化武器\N{\ren}Well, don't tell anybody, but I'm working on a bioweapon to use against them,
+Dialogue: 0,0:01:24.21,0:01:26.65,zh,,0,0,0,,所以从你妈的医院拿了这桶马精\N{\ren}so I got this barrel of horse semen from your mom's hospital
+Dialogue: 0,0:01:26.69,0:01:30.00,zh,,0,0,0,,我要使用外星力量来加强马精\N{\ren}and I'm just gonna, you know, subject it to some otherworldly forces.
+Dialogue: 0,0:01:30.04,0:01:31.91,zh,,0,0,0,,我应该检测一下\N{\ren}Guess I should test it, make sure it's --
+Dialogue: 0,0:01:31.96,0:01:33.74,zh,,0,0,0,,－测什么？－检测是不是马精\N{\ren}-Make sure it's what?! -Horse semen, obviously.
+Dialogue: 0,0:01:33.78,0:01:35.48,zh,,0,0,0,,好，但桶子上都已经写了\N{\ren}Okay, but it says it is right on the barrel!
+Dialogue: 0,0:01:35.53,0:01:37.14,zh,,0,0,0,,这样太不科学了，莫蒂\N{\ren}You're not being very scientific, Morty.
+Dialogue: 0,0:01:37.18,0:01:39.18,zh,,0,0,0,,一定要讲求精确，尤其是精液\N{\ren}Measure twice, cut once. Especially with semen.
+Dialogue: 0,0:01:39.22,0:01:41.14,zh,,0,0,0,,你有先问过妈才拿走这个吗？\N{\ren}Did you even ask Mom if you could have this?!
+Dialogue: 0,0:01:41.18,0:01:43.66,zh,,0,0,0,,莫蒂，我如果想偷马精，我就…\N{\ren}Morty, if I wanted to steal horse semen, I'd --
+Dialogue: 0,0:01:43.71,0:01:46.10,zh,,0,0,0,,我当然问过她，你在担心什么？\N{\ren}Yes, I asked her. What is at stake for you here?
+Dialogue: 0,0:01:46.14,0:01:49.02,zh,,0,0,0,,－请相信标签，好吗？ －好，我不测了\N{\ren}-Why don't you trust labels?! -All right! Fine! I won't test it!
+Dialogue: 0,0:01:49.06,0:01:51.80,zh,,0,0,0,,天啊，你们这一代介意的点好怪\N{\ren}God damn. Your generation really picks random hills to die on.
+Dialogue: 0,0:01:51.85,0:01:53.59,zh,,0,0,0,,别靠太近\N{\ren}Don't get too close.
+Dialogue: 0,0:01:53.63,0:01:55.20,zh,,0,0,0,,我要对这精液灌输非人量的力量\N{\ren}I'm running an inhuman amount of power through this semen.
+Dialogue: 0,0:01:55.24,0:01:59.90,zh,,0,0,0,,应该很安全，这精液也是非人的，开始了\N{\ren}Should be safe, though, since the semen itself is, you know, also inhuman. Here we go.
+Dialogue: 0,0:02:14.04,0:02:15.35,zh,,0,0,0,,怎么回事？\N{\ren}W-What happened?!
+Dialogue: 0,0:02:15.39,0:02:16.87,zh,,0,0,0,,精子，莫蒂\N{\ren}The sperm, Morty!
+Dialogue: 0,0:02:16.91,0:02:18.83,zh,,0,0,0,,变成超级怪兽精子了，是我的错\N{\ren}They're super monster sperm now! I blame myself.
+Dialogue: 0,0:02:18.87,0:02:21.14,zh,,0,0,0,,除非有什么我不知道的事\N{\ren}Unless there was something about the sperm I didn't know.
+Dialogue: 0,0:02:21.18,0:02:23.05,zh,,0,0,0,,你是要陷害我吗？\N{\ren}Are you -- Are you saying that to mess with me?
+Dialogue: 0,0:02:23.09,0:02:24.36,zh,,0,0,0,,什么？我哪里要陷害你了？\N{\ren}What? Mess with you how?
+Dialogue: 0,0:02:24.40,0:02:25.97,zh,,0,0,0,,你想逼我说什么吗？\N{\ren}Like, trying to get me to say something?
+Dialogue: 0,0:02:26.01,0:02:27.84,zh,,0,0,0,,莫蒂，我不知道你在讲什么\N{\ren}Morty, I have no idea what you're talking about!
+Dialogue: 0,0:02:27.88,0:02:29.19,zh,,0,0,0,,－真的吗？ －对\N{\ren}-For real? -Yes!
+Dialogue: 0,0:02:29.23,0:02:32.23,zh,,0,0,0,,很好，那就是你的错\N{\ren}Okay. Good. Then -- Then it's your fault!
+Dialogue: 0,0:03:04.27,0:03:05.79,zh,,0,0,0,,爸，到底是怎么回事？\N{\ren}Dad, what the hell is going on?!
+Dialogue: 0,0:03:05.83,0:03:07.40,zh,,0,0,0,,贝丝，宝贝，可以先等一下吗？\N{\ren}Beth, sweetheart, Can you give me a minute?
+Dialogue: 0,0:03:07.44,0:03:09.62,zh,,0,0,0,,我正在努力闪过邻居的尸体\N{\ren}I'm trying to steer around the bodies of our neighbors.
+Dialogue: 0,0:03:09.66,0:03:10.97,zh,,0,0,0,,感觉是吉恩\N{\ren}Oh, that felt like Gene.
+Dialogue: 0,0:03:11.01,0:03:12.49,zh,,0,0,0,,－都是你害的，贝丝 －爸，我发誓\N{\ren}That's on you, Beth.Dad, I swear--
+Dialogue: 0,0:03:12.54,0:03:14.10,zh,,0,0,0,,不是瑞克的错\N{\ren}Mom, it's -- it's not Rick's fault, it's --
+Dialogue: 0,0:03:14.15,0:03:15.89,zh,,0,0,0,,－是太空精子 －什么？\N{\ren}Space Sperm. What?!
+Dialogue: 0,0:03:15.93,0:03:17.37,zh,,0,0,0,,对，太空精子\N{\ren}Yeah. Space Sperm.
+Dialogue: 0,0:03:17.41,0:03:19.41,zh,,0,0,0,,但没看过这种的\N{\ren}I-I've seen em' before, but n-n-never like this.
+Dialogue: 0,0:03:19.46,0:03:20.72,zh,,0,0,0,,太空精子？\N{\ren}SpaceSperm?!
+Dialogue: 0,0:03:20.76,0:03:22.24,zh,,0,0,0,,来自太空的精子吗？\N{\ren}Sperm from Space?
+Dialogue: 0,0:03:22.28,0:03:24.11,zh,,0,0,0,,你想得出来还真厉害，杰瑞\N{\ren}Very impressive verbal forensic work, Jerry.
+Dialogue: 0,0:03:24.16,0:03:26.24,zh,,0,0,0,,靠，那太空屌有多大？\N{\ren}Holy shit. How big are space dicks?
+Dialogue: 0,0:03:26.29,0:03:28.94,zh,,0,0,0,,别回答，天啊，一定很大\N{\ren}Don't answer that! Damn, they must be huge.
+Dialogue: 0,0:03:35.86,0:03:37.26,zh,,0,0,0,,靠…\N{\ren}Oh, shit, oh, shit, shit.
+Dialogue: 0,0:03:43.13,0:03:44.61,zh,,0,0,0,,山查兹先生\N{\ren}Mr. Sanchez!
+Dialogue: 0,0:03:44.65,0:03:47.53,zh,,0,0,0,,总统急着找你\N{\ren}The President is very eager to speak with you!
+Dialogue: 0,0:03:50.23,0:03:51.92,zh,,0,0,0,,莫蒂，你得帮我一个忙\N{\ren}Morty, look, you gotta do me a solid here.
+Dialogue: 0,0:03:51.97,0:03:53.84,zh,,0,0,0,,要我对那些怪兽的来源保密吗？\N{\ren}Y-you want me to keep the secret of where these things came from?
+Dialogue: 0,0:03:53.88,0:03:56.01,zh,,0,0,0,,对，虽然是谎言，但我搞砸了\N{\ren}Yes, technically, it's a lie, but I messed up,
+Dialogue: 0,0:03:56.06,0:03:58.41,zh,,0,0,0,,我觉得很丢脸，因为是科学\N{\ren}and I'm embarrassed 'cause it's, you know, science.
+Dialogue: 0,0:03:58.45,0:04:00.67,zh,,0,0,0,,没问题，我会挺你的，老兄\N{\ren}No problem. I got your back, dawg.
+Dialogue: 0,0:04:00.71,0:04:02.80,zh,,0,0,0,,真的吗？ 好，谢了，莫蒂\N{\ren}Really? Okay. Cool. And thanks, Morty.
+Dialogue: 0,0:04:02.85,0:04:04.24,zh,,0,0,0,,我没想到你会这么爽快就答应\N{\ren}I thought that'd be a harder sell.
+Dialogue: 0,0:04:04.28,0:04:05.76,zh,,0,0,0,,你做了很丢脸的事\N{\ren}Y-You did a shameful thing.
+Dialogue: 0,0:04:05.81,0:04:07.72,zh,,0,0,0,,一直想也不会有帮助，对吧？\N{\ren}Dwelling on it isn't gonna help, you know, am I right?
+Dialogue: 0,0:04:07.76,0:04:09.68,zh,,0,0,0,,有时候就是要擦掉\N{\ren}Sometimes you just gotta wipe it off,
+Dialogue: 0,0:04:09.72,0:04:12.29,zh,,0,0,0,,丢到垃圾桶里，再回去自习室\N{\ren}toss it in the trash, and head back to study hall.
+Dialogue: 0,0:04:12.33,0:04:14.64,zh,,0,0,0,,我不懂你的比喻，但谢谢你帮忙\N{\ren}Uh, not getting the metaphor but I'll take your hall pass.
+Dialogue: 0,0:04:14.68,0:04:16.90,zh,,0,0,0,,山查兹，快点过来\N{\ren}Sanchez! Get the hell in here!
+Dialogue: 0,0:04:16.95,0:04:18.64,zh,,0,0,0,,太空精子？\N{\ren}Space Sperm?
+Dialogue: 0,0:04:18.69,0:04:21.26,zh,,0,0,0,,－天啊，太空屌多大？ －我们想得一样\N{\ren}Jesus, how big are space dicks?Same page club.
+Dialogue: 0,0:04:21.30,0:04:23.56,zh,,0,0,0,,总统先生，宇宙基因理论\N{\ren}Well, Mr. President, the theory of Cosmic DNA
+Dialogue: 0,0:04:23.61,0:04:25.91,zh,,0,0,0,,已经存在数十年了，卓柏卡布拉、雪怪\N{\ren}has been around for decades -- Chupacabras, Yeti,
+Dialogue: 0,0:04:25.96,0:04:27.83,zh,,0,0,0,,巨石阵、古罗马\N{\ren}Stonehenge, Ancient Rome.
+Dialogue: 0,0:04:27.87,0:04:30.22,zh,,0,0,0,,那些都是神话、怪兽、传说吗？\N{\ren}Are these all myths, monsters, legends,
+Dialogue: 0,0:04:30.27,0:04:32.75,zh,,0,0,0,,还是其实都是外太空的精子？\N{\ren}or different names for sperm from outer space?
+Dialogue: 0,0:04:32.79,0:04:34.18,zh,,0,0,0,,我认为这场混乱\N{\ren}I'll tell you what I think, Sanchez.
+Dialogue: 0,0:04:34.23,0:04:35.88,zh,,0,0,0,,要不是你造成的\N{\ren}I think either youcaused this mess,
+Dialogue: 0,0:04:35.92,0:04:38.19,zh,,0,0,0,,就是地底那些奇怪的马人搞的鬼\N{\ren}or it's those godforsaken Horse People that dwell underground.
+Dialogue: 0,0:04:38.23,0:04:39.62,zh,,0,0,0,,－地马 －就是他们\N{\ren}-CHUDs. -CHUDs. -That's them.
+Dialogue: 0,0:04:39.67,0:04:42.10,zh,,0,0,0,,如果是他们造成的，愿主帮助我\N{\ren}Ugh, if they're behind this, so help me, God.
+Dialogue: 0,0:04:42.15,0:04:44.19,zh,,0,0,0,,莫蒂，你向来都很诚实\N{\ren}Morty, you've always been a straight shooter.
+Dialogue: 0,0:04:44.24,0:04:45.89,zh,,0,0,0,,－你没有证据 －等等，什么？\N{\ren}You can't prove that! Wait, what?
+Dialogue: 0,0:04:45.93,0:04:47.76,zh,,0,0,0,,对，没错，我可以保护你，小子\N{\ren}Oh -- oh. Right.I can protect you, little man.
+Dialogue: 0,0:04:47.80,0:04:49.28,zh,,0,0,0,,说实话\N{\ren}Blow that whistle. Toot, toot.
+Dialogue: 0,0:04:49.33,0:04:50.59,zh,,0,0,0,,这是你外公造成的吗？\N{\ren}Is this your grandpa's fault?
+Dialogue: 0,0:04:50.63,0:04:51.90,zh,,0,0,0,,我只知道\N{\ren}Here's what I know, sir.
+Dialogue: 0,0:04:51.94,0:04:53.59,zh,,0,0,0,,这是地球上最棒的国家\N{\ren}This is the greatest country on Earth.
+Dialogue: 0,0:04:53.64,0:04:55.42,zh,,0,0,0,,发明了苹果派和雷射\N{\ren}It invented apple pies and lasers.
+Dialogue: 0,0:04:55.46,0:04:58.73,zh,,0,0,0,,－没错 －我们对那些精子的事一无所知\N{\ren}Mm. Keep talking.And that sperm...We don't know nothin' about it.
+Dialogue: 0,0:04:58.77,0:05:00.82,zh,,0,0,0,,那我就要对地马开战了\N{\ren}Then the CHUDs just got themselves a war.
+Dialogue: 0,0:05:00.86,0:05:03.43,zh,,0,0,0,,而你逃过了无人机袭击\N{\ren}And you just dodged a personal drone strike.
+Dialogue: 0,0:05:03.47,0:05:05.21,zh,,0,0,0,,大家好，抱歉，我来晚了\N{\ren}Hello! Hello. Sorry, I'm late.
+Dialogue: 0,0:05:05.26,0:05:07.65,zh,,0,0,0,,这位是精子专家夏布布教授\N{\ren}This is Professor Shabooboo, the world's leading expert on sperm.
+Dialogue: 0,0:05:07.69,0:05:09.96,zh,,0,0,0,,－谢谢你赶来 －我这阵子很闲\N{\ren}-Thanks for getting here so fast. -My schedule was wide open.
+Dialogue: 0,0:05:10.00,0:05:12.79,zh,,0,0,0,,我已经追踪这群精子很久了\N{\ren}I have been tracking our new sperm friends since their arrival,
+Dialogue: 0,0:05:12.83,0:05:14.79,zh,,0,0,0,,我算出它们\N{\ren}a-and if my calculations are correct,
+Dialogue: 0,0:05:14.83,0:05:16.31,zh,,0,0,0,,应该是在这集合\N{\ren}they have gathered here.
+Dialogue: 0,0:05:16.35,0:05:19.40,zh,,0,0,0,,精子干吗去大峡谷？\N{\ren}Why would the sperm go to the Grand Canyon?
+Dialogue: 0,0:05:19.44,0:05:22.84,zh,,0,0,0,,你们干吗都觉得答案很明显？\N{\ren}Why are you looking at me like the answer is obvious?
+Dialogue: 0,0:05:22.88,0:05:25.32,zh,,0,0,0,,有没有搞错？你们多幼稚？\N{\ren}Oh, you can't be serious. Are we in middle school?
+Dialogue: 0,0:05:25.36,0:05:28.67,zh,,0,0,0,,－你们觉得精子会本能性跑向… －少装了，小姐\N{\ren}You think sperm are instinctively heading for America's --Don't high-road us, lady.
+Dialogue: 0,0:05:28.71,0:05:29.98,zh,,0,0,0,,它们就是去那里\N{\ren}It's where they went.
+Dialogue: 0,0:05:30.02,0:05:31.50,zh,,0,0,0,,要怎么处理这些\N{\ren}Now, how do we deal with these...
+Dialogue: 0,0:05:31.54,0:05:34.02,zh,,0,0,0,,精鬼？不好吗？\N{\ren}"Orgasogoblins"? No takers?
+Dialogue: 0,0:05:34.07,0:05:36.42,zh,,0,0,0,,那精兽呢？\N{\ren}Okay. These... "Cumplestiltskins?"
+Dialogue: 0,0:05:36.46,0:05:38.86,zh,,0,0,0,,不好，那精怪呢？\N{\ren}No? Dumb? These, uh, "Skeet Boogins?"
+Dialogue: 0,0:05:38.90,0:05:40.16,zh,,0,0,0,,好，精怪\N{\ren}Oh, yeah, yeah, Skeet Boogins.
+Dialogue: 0,0:05:40.20,0:05:41.73,zh,,0,0,0,,真的？精怪？\N{\ren}Really? Skeet Boogins?
+Dialogue: 0,0:05:41.77,0:05:43.47,zh,,0,0,0,,先暂时这么叫，之后再讨论\N{\ren}We'll use it as a placeholder and beat it later.
+Dialogue: 0,0:05:43.51,0:05:44.99,zh,,0,0,0,,总统，容我说一句话？\N{\ren}Mr. President, i-if I may?
+Dialogue: 0,0:05:45.04,0:05:47.25,zh,,0,0,0,,我很幸运抓到了一个样本\N{\ren}Luckily, I was able to secure a specimen.
+Dialogue: 0,0:05:47.30,0:05:49.87,zh,,0,0,0,,第一步当然就是要分析基因\N{\ren}Now, obviously our first steps will be to analyze its DNA
+Dialogue: 0,0:05:49.91,0:05:52.26,zh,,0,0,0,,搞懂这些美丽的…\N{\ren}and figure out what these beautiful creat--
+Dialogue: 0,0:05:52.30,0:05:55.48,zh,,0,0,0,,－你干吗？ －它有枪\N{\ren}Oh, why?!It-it had a gun!
+Dialogue: 0,0:05:55.52,0:05:58.18,zh,,0,0,0,,你疯了吗？你竟然把持枪精子带进来这里？\N{\ren}Are you out of your mind bringing an armed sperm in here?
+Dialogue: 0,0:05:58.22,0:05:59.40,zh,,0,0,0,,它们无法持枪\N{\ren}But they can't holdguns!
+Dialogue: 0,0:05:59.44,0:06:01.09,zh,,0,0,0,,他从不说谎\N{\ren}The boy literally never lies!
+Dialogue: 0,0:06:01.14,0:06:02.53,zh,,0,0,0,,你如果想消灭它们\N{\ren}Look, if you want these things gone,
+Dialogue: 0,0:06:02.57,0:06:04.53,zh,,0,0,0,,就帮我和瑞克准备飞机和核弹\N{\ren}give Rick and me a plane and some nukes.
+Dialogue: 0,0:06:04.58,0:06:06.40,zh,,0,0,0,,我们会把它们毁尸灭迹\N{\ren}We'll wipe 'em out and leave no trace of them.
+Dialogue: 0,0:06:06.45,0:06:07.62,zh,,0,0,0,,只能这样了\N{\ren}Only one way to deal with it.
+Dialogue: 0,0:06:07.67,0:06:08.89,zh,,0,0,0,,他是对的，我是科学家\N{\ren}He's right. I'm a scientist.
+Dialogue: 0,0:06:08.93,0:06:10.19,zh,,0,0,0,,好吧，把它们炸死吧\N{\ren}Fair enough. Blow 'em to hell.
+Dialogue: 0,0:06:10.23,0:06:11.41,zh,,0,0,0,,难道大家会骂我们\N{\ren}What are people gonna do,
+Dialogue: 0,0:06:11.45,0:06:13.24,zh,,0,0,0,,把大峡谷变更大吗？\N{\ren}complain we made the canyon grander?
+Dialogue: 0,0:06:13.28,0:06:15.89,zh,,0,0,0,,杰瑞，我们很不尽责，做点什么\N{\ren}Jerry, we're being bad parents. Do something!
+Dialogue: 0,0:06:15.94,0:06:18.07,zh,,0,0,0,,这是大家都能喝的水吗？\N{\ren}I-is this water for everyone?
+Dialogue: 0,0:06:18.11,0:06:21.55,zh,,0,0,0,,－对，我想喝一杯 －马上来\N{\ren}-Yes, and I'd love a glass. -Comin' up!
+Dialogue: 0,0:06:21.59,0:06:23.07,zh,,0,0,0,,干吗？\N{\ren}What are you doing?
+Dialogue: 0,0:06:23.12,0:06:25.16,zh,,0,0,0,,还有，瑞克，为了避免你搞砸\N{\ren}And, Rick, to make sure you don't screw anything up,
+Dialogue: 0,0:06:25.21,0:06:26.69,zh,,0,0,0,,我会派一群最优秀的男人陪同你\N{\ren}I'm sending my best men with you.
+Dialogue: 0,0:06:26.73,0:06:28.51,zh,,0,0,0,,－还有女人 －这建议很棒\N{\ren}-And women. -It's a fine suggestion,
+Dialogue: 0,0:06:28.56,0:06:31.86,zh,,0,0,0,,但它们的领袖应该不会是需要用踢拳对付的性感女王\N{\ren}but I doubt their leader will be a sexy queen that needs to be kickboxed.
+Dialogue: 0,0:06:31.91,0:06:34.00,zh,,0,0,0,,百分百男性海军陆战队员\N{\ren}100% male Marines!
+Dialogue: 0,0:06:35.35,0:06:39.26,zh,,0,0,0,,听说对精子割喉就像热刀切奶油\N{\ren}They say cutting a sperm's throat is like running a warm knife through butter.
+Dialogue: 0,0:06:39.31,0:06:41.96,zh,,0,0,0,,我要让那些精子怀上死亡\N{\ren}I'm gonna make these things pregnant...with death!
+Dialogue: 0,0:06:42.01,0:06:43.62,zh,,0,0,0,,－不恐惧 －不谦逊\N{\ren}-No fear! -No humility!
+Dialogue: 0,0:06:43.66,0:06:46.18,zh,,0,0,0,,－不承担后果 －不承担后果\N{\ren}Zero chance of consequences!
+Dialogue: 0,0:06:46.23,0:06:49.53,zh,,0,0,0,,嘿，我们来打赌，哪个背景陆战队员会撑最久？\N{\ren}Hey, gentlemen's bet -- which of these background Marines you think will last the longest?
+Dialogue: 0,0:06:49.58,0:06:51.32,zh,,0,0,0,,我是不会拿人命打赌的，瑞克\N{\ren}I'm not betting on human lives, Rick.
+Dialogue: 0,0:06:51.36,0:06:52.84,zh,,0,0,0,,这群人都会活下来\N{\ren}All of these people are gonna survive,
+Dialogue: 0,0:06:52.89,0:06:54.71,zh,,0,0,0,,但当然是他会撑最久\N{\ren}but obviously that guy the longest.
+Dialogue: 0,0:06:54.76,0:06:56.54,zh,,0,0,0,,,对，我也选他，他叫什么？\N{\ren}Yeah, he's my pick, too. What's his name?
+Dialogue: 0,0:06:56.59,0:06:59.24,zh,,0,0,0,,布雷辰吗？真酷\N{\ren}Blazen? Pretty cool.
+Dialogue: 0,0:06:59.28,0:07:01.50,zh,,0,0,0,,对，他遇到乱流还能冥想\N{\ren}Yeah. He's, like, meditating through turbulence.
+Dialogue: 0,0:07:01.55,0:07:04.68,zh,,0,0,0,,他应该能闭眼接住掉下来的东西\N{\ren}Psh. I bet if something fell, he'd like, catch it without opening his eyes.
+Dialogue: 0,0:07:04.72,0:07:06.03,zh,,0,0,0,,－没错 －要不要对他丢东西？\N{\ren}Totally. Should we throw something at him?
+Dialogue: 0,0:07:06.07,0:07:07.29,zh,,0,0,0,,我身上有铅笔\N{\ren}I-I got a pencil somewhere.
+Dialogue: 0,0:07:10.38,0:07:12.73,zh,,0,0,0,,是谁在攻击我们？\N{\ren}Who-who's shooting at us?!
+Dialogue: 0,0:07:12.78,0:07:15.39,zh,,0,0,0,,天啊，真出乎意料\N{\ren}Oh, wow, that's unexpected.
+Dialogue: 0,0:07:15.43,0:07:16.78,zh,,0,0,0,,精子做投石器？\N{\ren}The sperm made a catapult?!
+Dialogue: 0,0:07:16.82,0:07:18.43,zh,,0,0,0,,是变聪明了吗？\N{\ren}A-A-Are they getting smarter?!
+Dialogue: 0,0:07:18.48,0:07:20.57,zh,,0,0,0,,不对，是你变笨了，那叫抛石机\N{\ren}No, you're getting dumber because that's a trebuchet.
+Dialogue: 0,0:07:20.61,0:07:21.91,zh,,0,0,0,,没人知道差异\N{\ren}Nobody knows the difference!
+Dialogue: 0,0:07:21.96,0:07:23.83,zh,,0,0,0,,它们会继续攻击\N{\ren}They're reloading that textbook trebuchet!
+Dialogue: 0,0:07:23.87,0:07:27.66,zh,,0,0,0,,我们该跳机了\N{\ren}Time to fly! Aaaaaah!
+Dialogue: 0,0:07:36.06,0:07:37.32,zh,,0,0,0,,我们得继续前进\N{\ren}We gotta keep moving.
+Dialogue: 0,0:07:37.36,0:07:38.93,zh,,0,0,0,,－超酷 －连刮伤都没有\N{\ren}-So cool. -Not even a scratch.
+Dialogue: 0,0:07:38.98,0:07:40.67,zh,,0,0,0,,好，妹子们，我是在损你们没错\N{\ren}Okay, girls, and I mean that derogatorily.
+Dialogue: 0,0:07:40.72,0:07:44.76,zh,,0,0,0,,我们受到攻击，需要一个大计\N{\ren}We just took a fat "L," and what we need is a fat "P."
+Dialogue: 0,0:07:44.81,0:07:46.29,zh,,0,0,0,,大计划\N{\ren}A plan.
+Dialogue: 0,0:07:46.33,0:07:48.55,zh,,0,0,0,,我带头，你们顾侧边\N{\ren}I take the lead here. You two watch the flanks.
+Dialogue: 0,0:07:48.59,0:07:50.64,zh,,0,0,0,,布雷辰，你负责…\N{\ren}Blazen, bring up the-- Hey!
+Dialogue: 0,0:07:50.68,0:07:53.12,zh,,0,0,0,,不行，只有一个人可以画计划\N{\ren}Please, one person draws the plan!
+Dialogue: 0,0:07:53.16,0:07:54.38,zh,,0,0,0,,精怪\N{\ren}Skeeters!
+Dialogue: 0,0:07:54.43,0:07:55.95,zh,,0,0,0,,－精虫 －精精\N{\ren}-Jipers! -Ropers!
+Dialogue: 0,0:07:55.99,0:07:57.82,zh,,0,0,0,,抱歉，我们到底要怎么称呼它们？\N{\ren}I'm sorry, but what the hell are we calling them?
+Dialogue: 0,0:07:59.43,0:08:01.82,zh,,0,0,0,,好吧，我要死了，我来取名字\N{\ren}Fine. I'm dying, so I get to pick the name.
+Dialogue: 0,0:08:01.87,0:08:04.00,zh,,0,0,0,,精子糖霜甜甜圈\N{\ren}Crispy Cremes with a "C"!
+Dialogue: 0,0:08:09.96,0:08:14.62,zh,,0,0,0,,冷静点，小子，没事的…\N{\ren}Whoa. E-Easy there, little guy. It's okay. I-I-It's okay.
+Dialogue: 0,0:08:16.06,0:08:17.88,zh,,0,0,0,,你认得我吗？\N{\ren}Do you...recognize me?
+Dialogue: 0,0:08:17.93,0:08:19.89,zh,,0,0,0,,你知道你是我生出来的？\N{\ren}Do you know you came from me?
+Dialogue: 0,0:08:19.93,0:08:21.15,zh,,0,0,0,,我叫莫蒂\N{\ren}I'm Morty.
+Dialogue: 0,0:08:21.19,0:08:22.54,zh,,0,0,0,,我就叫你黏黏\N{\ren}I'll call ya "Sticky,"
+Dialogue: 0,0:08:22.58,0:08:24.89,zh,,0,0,0,,因为你很黏，而且你卡住了\N{\ren}'c-'cause you're sticky and -- and you're stuck.
+Dialogue: 0,0:08:29.50,0:08:30.77,zh,,0,0,0,,让开，莫蒂\N{\ren}Step aside, Morty.
+Dialogue: 0,0:08:30.81,0:08:32.86,zh,,0,0,0,,没关系，不用杀它\N{\ren}It's okay. Y-You don't gotta do this.
+Dialogue: 0,0:08:32.90,0:08:34.55,zh,,0,0,0,,它是单分染色体基因，莫蒂\N{\ren}It's haploid genetic code, Morty,
+Dialogue: 0,0:08:34.60,0:08:36.34,zh,,0,0,0,,也是授精机器\N{\ren}a biological fertilizing machine.
+Dialogue: 0,0:08:36.38,0:08:37.60,zh,,0,0,0,,你是怎么了？\N{\ren}W-What's gotten into you?
+Dialogue: 0,0:08:37.64,0:08:39.38,zh,,0,0,0,,瑞克，放它走吧\N{\ren}Rick, let him go.
+Dialogue: 0,0:08:41.52,0:08:42.73,zh,,0,0,0,,莫蒂，别闹了\N{\ren}Morty, don't fuck with me.
+Dialogue: 0,0:08:42.78,0:08:44.13,zh,,0,0,0,,到底怎么回事？\N{\ren}What the hell's going on with you?
+Dialogue: 0,0:08:44.17,0:08:47.65,zh,,0,0,0,,我应该知道是怎么回事了\N{\ren}I think I know exactly what's going on here.
+Dialogue: 0,0:08:47.70,0:08:49.83,zh,,0,0,0,,我开玩笑的，这根本没道理\N{\ren}Kidding. This shit is totally random.
+Dialogue: 0,0:08:49.87,0:08:51.96,zh,,0,0,0,,－继续前进 －往哪走？\N{\ren}-Let's keep moving. -W-Which way?
+Dialogue: 0,0:08:53.44,0:08:57.05,zh,,0,0,0,,一种感官受限，其他感官就会更敏锐\N{\ren}When one sense is bound, the others are released.
+Dialogue: 0,0:08:58.45,0:09:00.67,zh,,0,0,0,,靠，他闻得出山洞吗？\N{\ren}Holy shit. He -- He can smell caves?
+Dialogue: 0,0:09:00.71,0:09:02.15,zh,,0,0,0,,我什么都不想闻\N{\ren}I'm not trying to smell anything.
+Dialogue: 0,0:09:02.19,0:09:05.37,zh,,0,0,0,,整个地球都是宿舍垃圾桶的味道\N{\ren}The whole planet's a dorm room trash can.
+Dialogue: 0,0:09:05.41,0:09:06.93,zh,,0,0,0,,总统，瑞克山查兹消失了\N{\ren}Sir, Rick Sanchez has gone dark.
+Dialogue: 0,0:09:06.98,0:09:08.37,zh,,0,0,0,,我就知道我们不能信任他\N{\ren}I knew we couldn't rely on him!
+Dialogue: 0,0:09:08.41,0:09:10.02,zh,,0,0,0,,或许是飞行员\N{\ren}Well, maybe the pilot got too horny
+Dialogue: 0,0:09:10.07,0:09:11.55,zh,,0,0,0,,在靠近美国的阴道时太性奋了\N{\ren}as they approached America's Vagina.
+Dialogue: 0,0:09:11.59,0:09:12.85,zh,,0,0,0,,你如果要待在我的作战室\N{\ren}If you're gonna hang out in my war room,
+Dialogue: 0,0:09:12.90,0:09:14.55,zh,,0,0,0,,就不能只会酸言酸语\N{\ren}you can't just make snarky comments.
+Dialogue: 0,0:09:14.59,0:09:16.33,zh,,0,0,0,,至少做点事，像杰瑞那样\N{\ren}At least do something useful, like Jerry.
+Dialogue: 0,0:09:16.38,0:09:19.16,zh,,0,0,0,,我知道你喜欢倒到满\N{\ren}Right to the top, just the way you like it.
+Dialogue: 0,0:09:19.21,0:09:22.51,zh,,0,0,0,,现在瑞克跟我们的核弹都消失了\N{\ren}Here's our situation. Rick's gone, and so are all our nukes.
+Dialogue: 0,0:09:22.56,0:09:23.95,zh,,0,0,0,,怎么办？\N{\ren}Now what?
+Dialogue: 0,0:09:23.99,0:09:25.65,zh,,0,0,0,,－你们都没想法吗？ －我有\N{\ren}-None of you have an idea? -I do.
+Dialogue: 0,0:09:25.69,0:09:27.43,zh,,0,0,0,,没错，就是我这个小女孩\N{\ren}That's right, me -- the girl.
+Dialogue: 0,0:09:27.47,0:09:29.39,zh,,0,0,0,,各位先生，精子想要什么？\N{\ren}Gentlemen, what do sperm want?
+Dialogue: 0,0:09:29.43,0:09:32.52,zh,,0,0,0,,就像早上的伐木工或晚上的狐狸\N{\ren}The same thing as a lumberjack in the morning or a fox at night.
+Dialogue: 0,0:09:32.57,0:09:33.74,zh,,0,0,0,,－裤子 －卵\N{\ren}Pants! Eggs.
+Dialogue: 0,0:09:33.79,0:09:35.40,zh,,0,0,0,,－松饼 －卵…\N{\ren}Pancakes! Eggs.
+Dialogue: 0,0:09:35.44,0:09:37.22,zh,,0,0,0,,要控制巨大精子就要用巨大卵子\N{\ren}You want to control giant sperm, you need a giant egg.
+Dialogue: 0,0:09:37.27,0:09:38.70,zh,,0,0,0,,等等…\N{\ren}W-W-Wait a minute. Wait -- wait a minute.
+Dialogue: 0,0:09:38.75,0:09:40.71,zh,,0,0,0,,精子是猎人，精子会猎什么？\N{\ren}Sperm are hunters. And what do sperm hunt?
+Dialogue: 0,0:09:40.75,0:09:42.32,zh,,0,0,0,,－卵子 －没错\N{\ren}-Eggs. -Exactly.
+Dialogue: 0,0:09:42.36,0:09:44.49,zh,,0,0,0,,如果我们把一颗卵子放大呢？\N{\ren}And what would happen if we enlargedone?
+Dialogue: 0,0:09:44.54,0:09:46.62,zh,,0,0,0,,它们就会冲过来，联络麻省理工\N{\ren}They'll head right for it! Get MIT on the phone.
+Dialogue: 0,0:09:46.67,0:09:49.19,zh,,0,0,0,,颁发诺贝尔奖给他\N{\ren}And get this guy a Nobel Prize.
+Dialogue: 0,0:09:49.24,0:09:52.06,zh,,0,0,0,,你今天成为了女人\N{\ren}You became a woman today.
+Dialogue: 0,0:09:55.55,0:09:58.03,zh,,0,0,0,,布雷辰，你有小孩吗？\N{\ren}So, Blazen, you got kids?
+Dialogue: 0,0:09:58.07,0:09:59.90,zh,,0,0,0,,战场就是我的家人\N{\ren}The battlefield is myfamily.
+Dialogue: 0,0:09:59.94,0:10:01.51,zh,,0,0,0,,－超酷 －好屌的硬汉\N{\ren}-So cool. -Wicked badass.
+Dialogue: 0,0:10:01.55,0:10:03.38,zh,,0,0,0,,你们走，我来缠住它们\N{\ren}Go. I'll hold 'em off.
+Dialogue: 0,0:10:03.42,0:10:04.86,zh,,0,0,0,,布雷辰，你不用这样\N{\ren}Blazen, you don't have to do this.
+Dialogue: 0,0:10:04.90,0:10:06.95,zh,,0,0,0,,这是我的命运\N{\ren}Shh. It is my destiny.
+Dialogue: 0,0:10:06.99,0:10:08.73,zh,,0,0,0,,没错，莫蒂，这是身为布雷辰的代价\N{\ren}He's right, Morty. It's the price of being Blazen.
+Dialogue: 0,0:10:08.78,0:10:10.04,zh,,0,0,0,,别拦他\N{\ren}Let him do his thing.
+Dialogue: 0,0:10:12.69,0:10:13.96,zh,,0,0,0,,血债血还\N{\ren}Blood for blood.
+Dialogue: 0,0:10:14.00,0:10:16.70,zh,,0,0,0,,精债精还\N{\ren}Cream for cream.
+Dialogue: 0,0:10:16.74,0:10:19.44,zh,,0,0,0,,糟糕，我碰不到\N{\ren}Oh, no. I can't reach that!
+Dialogue: 0,0:10:19.48,0:10:21.62,zh,,0,0,0,,笨蛋\N{\ren}Idiot!
+Dialogue: 0,0:10:21.66,0:10:22.92,zh,,0,0,0,,干吗？这很舒服\N{\ren}What?! They're comfortable!
+Dialogue: 0,0:10:22.97,0:10:24.18,zh,,0,0,0,,你们要试试看\N{\ren}You should try them!
+Dialogue: 0,0:10:26.19,0:10:28.41,zh,,0,0,0,,没办法了，我成了虫子的食物\N{\ren}That'll do it. I'm worm food.
+Dialogue: 0,0:10:28.45,0:10:30.19,zh,,0,0,0,,莫蒂，去找我老婆\N{\ren}Morty, find my wife.
+Dialogue: 0,0:10:30.23,0:10:32.50,zh,,0,0,0,,跟她说我没穿她的丁字裤\N{\ren}Tell her I wasn't wearing her thong.
+Dialogue: 0,0:10:32.54,0:10:36.28,zh,,0,0,0,,《运动画刊》模特儿凯西爱尔兰\N{\ren}That's a photocopy of "Sports Illustrated" swimsuit model Kathy Ireland.
+Dialogue: 0,0:10:36.33,0:10:38.28,zh,,0,0,0,,她是我老婆，我们会做爱\N{\ren}It's -- it's my wife. We have sex.
+Dialogue: 0,0:10:38.33,0:10:41.07,zh,,0,0,0,,帮我拿照片，我要再跟她做一次\N{\ren}Here, hold that picture up so we can have sex one last time.
+Dialogue: 0,0:10:41.11,0:10:42.72,zh,,0,0,0,,我会自吹\N{\ren}I-I know how to suck myself.
+Dialogue: 0,0:10:42.77,0:10:45.07,zh,,0,0,0,,什么？\N{\ren}What?!
+Dialogue: 0,0:10:45.12,0:10:46.34,zh,,0,0,0,,我完全错看他了\N{\ren}Ugh, I was so wrong about this guy.
+Dialogue: 0,0:10:46.38,0:10:48.12,zh,,0,0,0,,他连时间都没帮我们争取到\N{\ren}He didn't even buy us any time.
+Dialogue: 0,0:10:49.56,0:10:51.47,zh,,0,0,0,,莫蒂，我要放烟火了\N{\ren}Morty, get ready for some fireworks.
+Dialogue: 0,0:10:57.13,0:10:59.13,zh,,0,0,0,,真恶心\N{\ren}Uh-oh.Oh, gross!
+Dialogue: 0,0:10:59.18,0:11:01.96,zh,,0,0,0,,这是我第一次后悔被抓\N{\ren}This is the first time I've ever regretted being taken alive.
+Dialogue: 0,0:11:02.00,0:11:03.57,zh,,0,0,0,,等等，那是谁？\N{\ren}Wait, who the fuck is that?!
+Dialogue: 0,0:11:03.61,0:11:05.49,zh,,0,0,0,,看到我请安静\N{\ren}Silence in the presence of me.
+Dialogue: 0,0:11:05.53,0:11:07.88,zh,,0,0,0,,我是精子女王\N{\ren}I am The Sperm Queen,
+Dialogue: 0,0:11:07.92,0:11:11.71,zh,,0,0,0,,我对你很有兴趣\N{\ren}and youare of special interest to me.
+Dialogue: 0,0:11:11.75,0:11:13.71,zh,,0,0,0,,你们他妈干吗乱拿我的东西？\N{\ren}Hey, what the fuck are you doing with my stuff?
+Dialogue: 0,0:11:13.76,0:11:16.80,zh,,0,0,0,,我女儿医院的取精机怎么在这？\N{\ren}A-And why do you have the horse jerkoff machine from my daughter's hospital?
+Dialogue: 0,0:11:16.85,0:11:19.24,zh,,0,0,0,,我们需要用来建立军队\N{\ren}We need it to create our army.
+Dialogue: 0,0:11:19.28,0:11:21.68,zh,,0,0,0,,这样还不够，笨蛋，你还需要马\N{\ren}Well, you need more than that, dummy. You need a horse.
+Dialogue: 0,0:11:21.72,0:11:24.29,zh,,0,0,0,,但我们的种马就在这里\N{\ren}Oh but our stallion is already here.
+Dialogue: 0,0:11:24.33,0:11:26.03,zh,,0,0,0,,对不对，莫蒂？\N{\ren}Isn't that right, Morty?
+Dialogue: 0,0:11:26.07,0:11:28.77,zh,,0,0,0,,还是我该叫你一声爸？\N{\ren}Or shall I say... Father?
+Dialogue: 0,0:11:28.81,0:11:31.82,zh,,0,0,0,,莫蒂，你这恶心又爱说谎又导致世界毁灭的变态\N{\ren}Morty, you nasty, lying, little world-ending pervert.
+Dialogue: 0,0:11:31.86,0:11:34.17,zh,,0,0,0,,对不起\N{\ren}I-I-I'm sorry.
+Dialogue: 0,0:11:34.21,0:11:36.21,zh,,0,0,0,,－爽吗？ －很爽\N{\ren}-What was it like? -Fantastic!
+Dialogue: 0,0:11:37.69,0:11:39.56,zh,,0,0,0,,瑞克，对不起\N{\ren}Rick, I'm sorry!
+Dialogue: 0,0:11:39.61,0:11:41.26,zh,,0,0,0,,我还以为我一直用取精机\N{\ren}I-I just thought maybe I could have repeated sex
+Dialogue: 0,0:11:41.30,0:11:42.87,zh,,0,0,0,,不会导致世界末日\N{\ren}with a horse machine without it becoming Armageddon.
+Dialogue: 0,0:11:42.91,0:11:44.26,zh,,0,0,0,,这全是我的错\N{\ren}I-I realize that's on me.
+Dialogue: 0,0:11:44.31,0:11:47.79,zh,,0,0,0,,我被困住了，我不接受你的道歉\N{\ren}Yeah, not exactly accepting apologies while I'm stuck here as Handjob Solo.
+Dialogue: 0,0:11:47.83,0:11:50.31,zh,,0,0,0,,都是你不该以我们为耻，莫蒂\N{\ren}This is all your fault for being ashamed of us, Morty.
+Dialogue: 0,0:11:50.36,0:11:53.75,zh,,0,0,0,,有无数个精子为了你送死\N{\ren}How many millions went to their graves for you,
+Dialogue: 0,0:11:53.80,0:11:55.93,zh,,0,0,0,,努力向前冲\N{\ren}hurling themselves into the void,
+Dialogue: 0,0:11:55.97,0:11:58.32,zh,,0,0,0,,结果是恶心的袜子\N{\ren}only to discover a grody sock
+Dialogue: 0,0:11:58.36,0:12:01.59,zh,,0,0,0,,或是精心折好的卫生纸跑道？\N{\ren}or a carefully folded landing strip of toilet paper?
+Dialogue: 0,0:12:01.63,0:12:02.98,zh,,0,0,0,,你怎么都知道？\N{\ren}How do you know all this?!
+Dialogue: 0,0:12:03.02,0:12:05.94,zh,,0,0,0,,亲爱的，我们是你的精华\N{\ren}Oh, honey, because we're the very essence of you.
+Dialogue: 0,0:12:05.98,0:12:08.11,zh,,0,0,0,,我们是你羞耻的体现\N{\ren}We are your shame incarnate.
+Dialogue: 0,0:12:08.16,0:12:09.77,zh,,0,0,0,,等我们完事之后\N{\ren}And once we're through with you,
+Dialogue: 0,0:12:09.81,0:12:12.77,zh,,0,0,0,,我们的精子大军就会称霸世界\N{\ren}our sperm army will take over the world!
+Dialogue: 0,0:12:12.81,0:12:14.86,zh,,0,0,0,,启用机器\N{\ren}Put him on the machine!
+Dialogue: 0,0:12:14.90,0:12:16.95,zh,,0,0,0,,－瑞克，快做点什么 －没问题\N{\ren}-Rick, do something! -On it.
+Dialogue: 0,0:12:20.60,0:12:22.91,zh,,0,0,0,,－你做了什么？ －离开你视野\N{\ren}-Wh-what did you do? -I got out of your eyeline.
+Dialogue: 0,0:12:22.95,0:12:24.78,zh,,0,0,0,,不\N{\ren}Oh, no. Oh! Oh!
+Dialogue: 0,0:12:24.83,0:12:27.74,zh,,0,0,0,,没错，末日将至\N{\ren}Yes! The end is near!
+Dialogue: 0,0:12:27.79,0:12:29.22,zh,,0,0,0,,有什么遗言吗？\N{\ren}Any last words?
+Dialogue: 0,0:12:31.66,0:12:34.57,zh,,0,0,0,,－黏黏 －真恶，你语文造诣很烂，莫蒂，但…\N{\ren}-Sticky! -Gross. I know you're not a wordsmith, Morty, but --
+Dialogue: 0,0:12:34.62,0:12:36.71,zh,,0,0,0,,不，是我的精子朋友\N{\ren}No, no, no, my-my sperm friend is here!
+Dialogue: 0,0:12:36.75,0:12:38.40,zh,,0,0,0,,你不该帮怪物取名字\N{\ren}Ugh, never give 'em a name.
+Dialogue: 0,0:12:41.49,0:12:43.41,zh,,0,0,0,,笨蛋，你们是无法赢过我的\N{\ren}Fools! You can't beat me!
+Dialogue: 0,0:12:43.45,0:12:45.98,zh,,0,0,0,,你们没找会踢拳的女人来\N{\ren}You didn't bring a woman that can kickbox!
+Dialogue: 0,0:12:50.11,0:12:51.77,zh,,0,0,0,,你就这点本事吗？\N{\ren}Is that all you got?
+Dialogue: 0,0:12:54.73,0:12:57.29,zh,,0,0,0,,这真是标准的小兵立大功\N{\ren}Damn, that's some quintessential underdog shit.
+Dialogue: 0,0:12:57.34,0:12:58.77,zh,,0,0,0,,杀死他们\N{\ren}Kill them!
+Dialogue: 0,0:13:08.17,0:13:09.57,zh,,0,0,0,,好耶\N{\ren}Yeah! Whoo-hoo!
+Dialogue: 0,0:13:09.61,0:13:11.26,zh,,0,0,0,,我应该对你说实话的，瑞克\N{\ren}I-I should've told you the truth, Rick.
+Dialogue: 0,0:13:11.31,0:13:12.74,zh,,0,0,0,,我们先去拯救地球吧\N{\ren}Let's save the world first.
+Dialogue: 0,0:13:12.79,0:13:16.31,zh,,0,0,0,,重新启动核弹，把这个峡谷炸烂\N{\ren}Now, reset those nukes, and let's turn this canyon into a can't-yon.
+Dialogue: 0,0:13:18.05,0:13:20.66,zh,,0,0,0,,亚利桑那州会有地震吗？\N{\ren}There usually earthquakes in Arizona?
+Dialogue: 0,0:13:24.84,0:13:26.32,zh,,0,0,0,,它们正要前往赌城\N{\ren}They're heading for Vegas,
+Dialogue: 0,0:13:26.37,0:13:30.07,zh,,0,0,0,,各方面来说都很合理，但为何如此突然？\N{\ren}which doestrack on many levels, but why now?
+Dialogue: 0,0:13:30.11,0:13:31.59,zh,,0,0,0,,搞什么？\N{\ren}What the?
+Dialogue: 0,0:13:31.63,0:13:34.55,zh,,0,0,0,,一同为夏布布教授和这卵子欢呼\N{\ren}Let's hear it for Professor Shabooboo and his brilliant egg.
+Dialogue: 0,0:13:34.59,0:13:37.64,zh,,0,0,0,,－你们没忘记谁吗？ －没错\N{\ren}Um, hello? Aren't you forgetting someone? Oh, good point.
+Dialogue: 0,0:13:37.68,0:13:40.38,zh,,0,0,0,,也要感谢太阳马戏团人类动物园的演出团队\N{\ren}Big thanks to the cast of Cirque Du Soleil's "Zumanity"
+Dialogue: 0,0:13:40.42,0:13:42.60,zh,,0,0,0,,带来了精彩又情色的表演\N{\ren}for the impressive and erotic routine.
+Dialogue: 0,0:13:42.64,0:13:44.56,zh,,0,0,0,,总统先生，瑞克山查兹来电\N{\ren}Mr. President, Rick Sanchez is on the line.
+Dialogue: 0,0:13:44.60,0:13:46.47,zh,,0,0,0,,很好，开扩音吧\N{\ren}Good. Put that asshole on speaker.
+Dialogue: 0,0:13:46.52,0:13:47.87,zh,,0,0,0,,真是的\N{\ren}Well, well, well.
+Dialogue: 0,0:13:47.91,0:13:51.65,zh,,0,0,0,,你完全没帮上忙，我们改用巨大人类卵子吸引精子\N{\ren}No thanks to you, we're luring the sperm with a giant human egg, even though,
+Dialogue: 0,0:13:51.70,0:13:53.61,zh,,0,0,0,,虽然赌城应该就足以吸引精子了\N{\ren}symbolically speaking, Vegas should be enough.
+Dialogue: 0,0:13:53.65,0:13:54.96,zh,,0,0,0,,人类卵子？\N{\ren}A human egg?
+Dialogue: 0,0:13:55.00,0:13:56.40,zh,,0,0,0,,那是哪来的？\N{\ren}Where-where-where did you get it?
+Dialogue: 0,0:13:56.44,0:13:58.35,zh,,0,0,0,,问得好，是你孙女的\N{\ren}Glad you asked. It's your granddaughter's,
+Dialogue: 0,0:13:58.40,0:14:00.05,zh,,0,0,0,,所以你至少还有一点贡献\N{\ren}so at least you contributed somethingto this.
+Dialogue: 0,0:14:00.10,0:14:01.57,zh,,0,0,0,,总统先生，我是莫蒂\N{\ren}Mister President! It's Morty!
+Dialogue: 0,0:14:01.62,0:14:03.27,zh,,0,0,0,,那些精子是我的，都是我的\N{\ren}It's my sperm! I-It's all mine!
+Dialogue: 0,0:14:03.32,0:14:05.40,zh,,0,0,0,,－什么？ －我是下流的变态\N{\ren}-What?! -I'm a dirty little perverted maniac.
+Dialogue: 0,0:14:05.45,0:14:07.67,zh,,0,0,0,,我一整个星期都用动物设备自慰\N{\ren}I spent a week pleasuring myself with animal equipment,
+Dialogue: 0,0:14:07.71,0:14:09.89,zh,,0,0,0,,我的精子意外变成了怪兽\N{\ren}and my sperm got turned into monsters on accident
+Dialogue: 0,0:14:09.93,0:14:12.41,zh,,0,0,0,,因为我一直说谎，因为我很羞愧\N{\ren}because I kept lying about it because I was ashamed!
+Dialogue: 0,0:14:12.46,0:14:13.67,zh,,0,0,0,,你是该感到羞愧\N{\ren}You should be!
+Dialogue: 0,0:14:13.72,0:14:15.02,zh,,0,0,0,,天啊，我们都年轻气盛过\N{\ren}My God, man, we were all 14 once
+Dialogue: 0,0:14:15.07,0:14:16.76,zh,,0,0,0,,但你应该要有自制能力\N{\ren}but it's called self-control.
+Dialogue: 0,0:14:16.81,0:14:19.16,zh,,0,0,0,,别让它们碰到我姐的卵子，总统\N{\ren}Don't let them reach my sister's egg, Mr. President!
+Dialogue: 0,0:14:19.20,0:14:20.99,zh,,0,0,0,,不然会变成巨大…\N{\ren}You'll be making a giant --
+Dialogue: 0,0:14:23.07,0:14:24.34,zh,,0,0,0,,乱伦宝宝\N{\ren}Incest baby.
+Dialogue: 0,0:14:24.38,0:14:25.69,zh,,0,0,0,,什么？谁说的？\N{\ren}What? Who told you that?
+Dialogue: 0,0:14:25.73,0:14:27.34,zh,,0,0,0,,什么？我只是帮他把话讲完\N{\ren}What? I-I was finishing his sentence.
+Dialogue: 0,0:14:27.38,0:14:29.34,zh,,0,0,0,,好，跟我们走\N{\ren}Oh. Right. Come with us.
+Dialogue: 0,0:14:29.39,0:14:30.78,zh,,0,0,0,,精子是莫蒂的\N{\ren}The sperm is Morty's!
+Dialogue: 0,0:14:30.82,0:14:33.61,zh,,0,0,0,,我们会做出巨大乱伦宝宝\N{\ren}We're about to make a giant incest baby!
+Dialogue: 0,0:14:33.65,0:14:36.39,zh,,0,0,0,,真是屋漏偏逢连夜雨\N{\ren}Aw, well, now we're all in our darkest hour.
+Dialogue: 0,0:14:36.44,0:14:38.00,zh,,0,0,0,,快发射卵子… \N{\ren}Launch the egg! Launch it now!
+Dialogue: 0,0:14:38.05,0:14:40.14,zh,,0,0,0,,－要花半小时 －为何？\N{\ren}B-But that'll take 30 minutes. -What?! Why?!
+Dialogue: 0,0:14:40.18,0:14:42.18,zh,,0,0,0,,每次发射火箭都是\N{\ren}That's how long every space launch takes!
+Dialogue: 0,0:14:42.22,0:14:46.40,zh,,0,0,0,,大家都不知道，因为电视只会播最后十秒\N{\ren}No one realizes because they only show you the last 10 seconds!
+Dialogue: 0,0:14:46.45,0:14:47.93,zh,,0,0,0,,帮帮我\N{\ren}Uh, uh, help me out here.
+Dialogue: 0,0:14:47.97,0:14:50.28,zh,,0,0,0,,嘿，但这是你的点子，对吧？\N{\ren}Hey, it was your idea, right?
+Dialogue: 0,0:14:50.32,0:14:52.89,zh,,0,0,0,,好，别慌张，各位\N{\ren}Okay, okay, n-no need to panic, everyone.
+Dialogue: 0,0:14:52.93,0:14:54.89,zh,,0,0,0,,我有个办法\N{\ren}I have a simple solution.
+Dialogue: 0,0:14:54.93,0:14:57.46,zh,,0,0,0,,我们地狱见了\N{\ren}See you all in hell!
+Dialogue: 0,0:14:57.50,0:14:59.37,zh,,0,0,0,,这又没帮上忙\N{\ren}I don't see how that'sgoing to help.
+Dialogue: 0,0:14:59.42,0:15:02.46,zh,,0,0,0,,快建立防线，无论如何都要保护那颗卵子\N{\ren}Form a perimeter! Protect that egg at all costs!
+Dialogue: 0,0:15:02.51,0:15:04.77,zh,,0,0,0,,我一直都知道你的荷尔蒙\N{\ren}I always knew your hormones would cause a world war
+Dialogue: 0,0:15:04.81,0:15:06.90,zh,,0,0,0,,会引起人类和食人马人间的战争\N{\ren}between humans and Cannibalistic Horse People.
+Dialogue: 0,0:15:06.94,0:15:08.60,zh,,0,0,0,,但我没想到会是这样\N{\ren}I just didn't know it would be like this.
+Dialogue: 0,0:15:08.64,0:15:09.99,zh,,0,0,0,,我无法改变我的本性\N{\ren}I can't change my nature.
+Dialogue: 0,0:15:10.03,0:15:12.04,zh,,0,0,0,,你是纳瓦荷寓言里的蝎子吗？\N{\ren}What are you, a scorpion in a Navajo fable?
+Dialogue: 0,0:15:12.08,0:15:13.91,zh,,0,0,0,,每个人都能改变本性，莫蒂\N{\ren}Everyone can change their nature, Morty.
+Dialogue: 0,0:15:13.95,0:15:15.34,zh,,0,0,0,,所以我们才是人类\N{\ren}It's what defines our species.
+Dialogue: 0,0:15:15.39,0:15:16.61,zh,,0,0,0,,看看钢铁人\N{\ren}Look at Iron Man.
+Dialogue: 0,0:15:16.65,0:15:18.17,zh,,0,0,0,,他的演员1990年代时很堕落\N{\ren}That actor was an animal in the '90s,
+Dialogue: 0,0:15:18.22,0:15:20.09,zh,,0,0,0,,会在树丛中醒来\N{\ren}literally waking up in bushes.
+Dialogue: 0,0:15:20.13,0:15:22.92,zh,,0,0,0,,－他的经纪人还得用补蝶网… －安静\N{\ren}-His agent had to catch him with a butterfly net. -Silence!
+Dialogue: 0,0:15:22.96,0:15:25.22,zh,,0,0,0,,瑞克山查兹，你也知道我找你来的原因\N{\ren}Rick Sanchez, you know why you're here.
+Dialogue: 0,0:15:25.27,0:15:26.62,zh,,0,0,0,,对，是我孙子的错\N{\ren}Yeah, it was my grandson's fault.
+Dialogue: 0,0:15:26.66,0:15:28.92,zh,,0,0,0,,－你跟我女儿上了床 －有吗？\N{\ren}-You slept with my daughter! -I did?
+Dialogue: 0,0:15:28.97,0:15:30.36,zh,,0,0,0,,靠，我想起来了\N{\ren}Oh, shit, I did.
+Dialogue: 0,0:15:30.40,0:15:31.88,zh,,0,0,0,,请原谅我，大人\N{\ren}Forgive me, Your CHUDness.
+Dialogue: 0,0:15:31.93,0:15:33.36,zh,,0,0,0,,我会洗心革面\N{\ren}I'm a changed man starting now.
+Dialogue: 0,0:15:33.41,0:15:36.67,zh,,0,0,0,,你竟然是来地马王国请求原谅？\N{\ren}You come to the Kingdom of CHUDs for forgiveness?
+Dialogue: 0,0:15:36.71,0:15:38.76,zh,,0,0,0,,地马不会原谅人\N{\ren}CHUDs don't forgive humans.
+Dialogue: 0,0:15:38.80,0:15:40.37,zh,,0,0,0,,地马只会吃人\N{\ren}CHUDs eat humans!
+Dialogue: 0,0:15:40.41,0:15:42.15,zh,,0,0,0,,我们真的太堕落了\N{\ren}This is out there, even for us.
+Dialogue: 0,0:15:42.20,0:15:43.50,zh,,0,0,0,,注意言词，莫蒂\N{\ren}They can hear you, Morty.
+Dialogue: 0,0:15:43.55,0:15:45.07,zh,,0,0,0,,把他煮熟，真好吃\N{\ren}Boil him up! Yum, yum!
+Dialogue: 0,0:15:45.11,0:15:47.42,zh,,0,0,0,,添加香料，好棒棒\N{\ren}Spice him right! Oh, boy!
+Dialogue: 0,0:15:47.46,0:15:49.38,zh,,0,0,0,,吃掉人肉，真好吃\N{\ren}Eat the flesh! Yum, yum!
+Dialogue: 0,0:15:49.42,0:15:51.42,zh,,0,0,0,,不吃骨头，绝不要\N{\ren}Not the bones! Oh, no!
+Dialogue: 0,0:15:51.47,0:15:53.56,zh,,0,0,0,,会肚子痛，好痛痛\N{\ren}Belly ache! Ouch, Ouch!
+Dialogue: 0,0:15:53.60,0:15:55.91,zh,,0,0,0,,父王，快点停手\N{\ren}Father! Stop this at once!
+Dialogue: 0,0:15:55.95,0:15:58.74,zh,,0,0,0,,－波妮塔公主 －你不能杀瑞克\N{\ren}-Princess Poñeta! -You can't kill Rícko!
+Dialogue: 0,0:15:58.78,0:16:00.39,zh,,0,0,0,,我爱他\N{\ren}I -- I love him!
+Dialogue: 0,0:16:01.83,0:16:04.26,zh,,0,0,0,,没错，我也爱你，波妮塔公主\N{\ren}Right! I-I love you, too, Princess Poñeta.
+Dialogue: 0,0:16:04.31,0:16:05.96,zh,,0,0,0,,这是禁忌之爱\N{\ren}This love is forbidden.
+Dialogue: 0,0:16:06.00,0:16:07.53,zh,,0,0,0,,女儿，你是地马\N{\ren}My daughter, you are a CHUD.
+Dialogue: 0,0:16:07.57,0:16:10.09,zh,,0,0,0,,瑞克是人类，而且年纪差太多了\N{\ren}Rick is a human and age-inappropriate.
+Dialogue: 0,0:16:10.14,0:16:12.10,zh,,0,0,0,,那我就别无选择\N{\ren}Then you leave me nochoice.
+Dialogue: 0,0:16:12.14,0:16:14.88,zh,,0,0,0,,依照地马宪法第17条规定\N{\ren}By the 17th Article of the CHUD-stitution,
+Dialogue: 0,0:16:14.93,0:16:17.88,zh,,0,0,0,,我在此赦免瑞克山查兹\N{\ren}I offer Rícko Sanchez horsemunity
+Dialogue: 0,0:16:17.93,0:16:22.54,zh,,0,0,0,,并宣告地马与人类停战\N{\ren}and demand a equestri-truce between all CHUDs and humans!
+Dialogue: 0,0:16:22.59,0:16:24.98,zh,,0,0,0,,凭什么？\N{\ren}On what grounds?
+Dialogue: 0,0:16:25.02,0:16:28.50,zh,,0,0,0,,因为瑞克是我孩子的爸\N{\ren}On the grounds that Rícko is the father of my child.
+Dialogue: 0,0:16:28.55,0:16:29.77,zh,,0,0,0,,我有继承人了\N{\ren}I have an heir.
+Dialogue: 0,0:16:29.81,0:16:31.59,zh,,0,0,0,,我有物质滥用问题\N{\ren}I have a substance-abuse problem.
+Dialogue: 0,0:16:31.64,0:16:33.68,zh,,0,0,0,,预言成真了\N{\ren}The Prophecy has come true!
+Dialogue: 0,0:16:33.73,0:16:35.82,zh,,0,0,0,,另外，是不是有人掉了卷轴？\N{\ren}Also, did someone drop a scroll?
+Dialogue: 0,0:16:35.86,0:16:37.82,zh,,0,0,0,,是我，这边，抱歉\N{\ren}Here we go. Over here. Sorry.
+Dialogue: 0,0:16:41.82,0:16:43.08,zh,,0,0,0,,哪来这么多杀精剂？\N{\ren}Where did you get all that?
+Dialogue: 0,0:16:43.13,0:16:44.65,zh,,0,0,0,,－这里是赌城 －总统\N{\ren}-It's Vegas. -Sir!
+Dialogue: 0,0:16:44.69,0:16:47.57,zh,,0,0,0,,赌城大道已经净空了，但我担心会没办法守住防线\N{\ren}The Strip has been evacuated, but I'm worried we won't be able to hold the perimeter.
+Dialogue: 0,0:16:47.61,0:16:49.00,zh,,0,0,0,,那就请长居赌城的人帮忙\N{\ren}Then deputize Las Vegas regulars.
+Dialogue: 0,0:16:49.05,0:16:50.31,zh,,0,0,0,,今天大家都是爱国者\N{\ren}Everyone's a patriot today.
+Dialogue: 0,0:16:50.35,0:16:51.70,zh,,0,0,0,,连我也是\N{\ren}Even me!
+Dialogue: 0,0:16:51.74,0:16:53.36,zh,,0,0,0,,请退后，惊奇的强纳森\N{\ren}Take three steps back, Amazing Johnathan.
+Dialogue: 0,0:16:53.40,0:16:55.75,zh,,0,0,0,,男人满脑子就只有枪\N{\ren}Men and their guns. Metaphorical and not.
+Dialogue: 0,0:16:55.79,0:16:57.71,zh,,0,0,0,,没错\N{\ren}Tell me about it.
+Dialogue: 0,0:16:57.75,0:17:01.84,zh,,0,0,0,,做好准备，这个世界可不需要巨大乱伦宝宝\N{\ren}Get ready, boys! The last thing this world needs is a giant incest baby.
+Dialogue: 0,0:17:01.89,0:17:03.80,zh,,0,0,0,,－它们来了 －很好\N{\ren}-Oorah! Here they come! -Nice!
+Dialogue: 0,0:17:03.84,0:17:06.72,zh,,0,0,0,,不要让任何精子碰到卵子\N{\ren}Do not let a single sperm get through to that egg!
+Dialogue: 0,0:17:10.89,0:17:13.42,zh,,0,0,0,,需要担心身上有炸弹的那个吗？\N{\ren}Um, should we be concerned about that scary bomb-laden one?
+Dialogue: 0,0:17:13.46,0:17:14.90,zh,,0,0,0,,小姐，交给男人就好\N{\ren}Honey, let the men handle this.
+Dialogue: 0,0:17:14.94,0:17:17.12,zh,,0,0,0,,我们应…\N{\ren}I think we know a thing or two about --
+Dialogue: 0,0:17:19.86,0:17:21.82,zh,,0,0,0,,女人得负所有责任\N{\ren}Ugh! Ready for all the responsibility
+Dialogue: 0,0:17:21.86,0:17:23.12,zh,,0,0,0,,却没有功劳\N{\ren}with none of the credit?
+Dialogue: 0,0:17:23.17,0:17:25.56,zh,,0,0,0,,我们一起效法南西雷根吧\N{\ren}Let's Nancy Reagan this bitch.
+Dialogue: 0,0:17:38.88,0:17:40.18,zh,,0,0,0,,我们挡不住它们\N{\ren}Dammit! We can't stop them.
+Dialogue: 0,0:17:40.23,0:17:41.45,zh,,0,0,0,,我们人力不足\N{\ren}We don't have the manpower!
+Dialogue: 0,0:17:41.49,0:17:43.06,zh,,0,0,0,,那马力呢？\N{\ren}What about horsepower?
+Dialogue: 0,0:17:44.71,0:17:45.97,zh,,0,0,0,,我的老天爷啊\N{\ren}Sweet Lady Liberty.
+Dialogue: 0,0:17:46.02,0:17:49.37,zh,,0,0,0,,瑞克终结了我们和地马的战争\N{\ren}That sonofamare Rick has ended our centuries-long war with the CHUDs.
+Dialogue: 0,0:17:49.41,0:17:51.89,zh,,0,0,0,,－总算停战了 －地马好棒\N{\ren}-We made peace with the CHUDs! -The CHUDs are our buds!
+Dialogue: 0,0:17:54.29,0:17:56.51,zh,,0,0,0,,瑞克，人类需要我们\N{\ren}Rícko! The hoofless -- they need us!
+Dialogue: 0,0:17:56.55,0:17:59.38,zh,,0,0,0,,来吧，地马地马好棒棒\N{\ren}Let's do this. CHUDily dudily, ho, ho, ho!
+Dialogue: 0,0:17:59.42,0:18:01.73,zh,,0,0,0,,地马地马好棒棒\N{\ren}CHUDily dudily, ho, ho, ho!
+Dialogue: 0,0:18:09.87,0:18:12.74,zh,,0,0,0,,妈，我保证一定会用保险套，就算走后门也是\N{\ren}Mom, I promise to use condoms, even when it's butt stuff.
+Dialogue: 0,0:18:12.78,0:18:15.52,zh,,0,0,0,,好吧，我们今晚有很多事要谈\N{\ren}Okay, we have a lot to talk about tonight.
+Dialogue: 0,0:18:34.80,0:18:36.24,zh,,0,0,0,,这是你的心脏吗？\N{\ren}Is this your heart?
+Dialogue: 0,0:18:36.28,0:18:37.50,zh,,0,0,0,,我只是在开玩笑\N{\ren}It's a play on, "Is this your card?"
+Dialogue: 0,0:18:37.55,0:18:39.03,zh,,0,0,0,,你没有心脏\N{\ren}You don't have a heart,
+Dialogue: 0,0:18:39.07,0:18:43.81,zh,,0,0,0,,但这可能是某种负责推动内质网运输物质的细胞器\N{\ren}uh, but this is probably some kind of organelle, in charge of pumping endoplasmic reticulum throughout your membrane and therefore,
+Dialogue: 0,0:18:43.86,0:18:45.77,zh,,0,0,0,,所以也等同是你的心脏\N{\ren}relative to you, functions asa heart.
+Dialogue: 0,0:18:45.82,0:18:49.69,zh,,0,0,0,,我再问一次，这是你的心脏吗？\N{\ren}So, I ask you again, is this your heart?
+Dialogue: 0,0:18:49.73,0:18:51.17,zh,,0,0,0,,莫蒂，你看\N{\ren}Morty, look!
+Dialogue: 0,0:18:51.21,0:18:53.13,zh,,0,0,0,,我不会就这样被打倒的，瑞克\N{\ren}I won't just be thrown away, Rick!
+Dialogue: 0,0:18:53.17,0:18:55.35,zh,,0,0,0,,那颗卵子是我的\N{\ren}The egg is mine!
+Dialogue: 0,0:18:55.39,0:18:57.17,zh,,0,0,0,,黏黏，全靠你了，兄弟\N{\ren}Sticky! It's all you, bud!
+Dialogue: 0,0:19:00.53,0:19:02.79,zh,,0,0,0,,不\N{\ren}Noooo!
+Dialogue: 0,0:19:02.83,0:19:05.84,zh,,0,0,0,,黏黏\N{\ren}Sticky!
+Dialogue: 0,0:19:05.88,0:19:07.84,zh,,0,0,0,,干\N{\ren}Fuck!
+Dialogue: 0,0:19:07.88,0:19:09.75,zh,,0,0,0,,－有心跳了 －管他的\N{\ren}-We got a heartbeat. -Screw that!
+Dialogue: 0,0:19:09.80,0:19:12.49,zh,,0,0,0,,那是生命，而且现在是选举时期\N{\ren}That's a human life, and this is an election cycle.
+Dialogue: 0,0:19:12.54,0:19:14.41,zh,,0,0,0,,－你得做点什么 －不用\N{\ren}-You have to do something! -Nope.
+Dialogue: 0,0:19:17.93,0:19:19.89,zh,,0,0,0,,就交给太空去烦恼吧\N{\ren}It's space's problem now.
+Dialogue: 0,0:19:19.94,0:19:21.72,zh,,0,0,0,,真糟糕\N{\ren}Oh, this sucks.
+Dialogue: 0,0:19:21.76,0:19:23.81,zh,,0,0,0,,《运动画刊》模特儿凯西爱尔兰\N{\ren}You're "Sports Illustrated"'s Kathy Ireland.
+Dialogue: 0,0:19:23.85,0:19:26.20,zh,,0,0,0,,我先生布雷辰死时你也在场\N{\ren}You were with my husband, Blazen, when he died.
+Dialogue: 0,0:19:26.25,0:19:29.86,zh,,0,0,0,,你说，他有没有穿我的丁字裤？\N{\ren}Please tell me... was he wearing my thong?
+Dialogue: 0,0:19:29.90,0:19:32.64,zh,,0,0,0,,他或许有交代你别跟我说\N{\ren}He probably told you not to tell me.
+Dialogue: 0,0:19:32.69,0:19:35.65,zh,,0,0,0,,他很羞愧，但他不需要觉得羞愧\N{\ren}He was ashamed of it, but he didn't need to be.
+Dialogue: 0,0:19:35.69,0:19:37.87,zh,,0,0,0,,真希望他穿着\N{\ren}I hope he waswearing it.
+Dialogue: 0,0:19:37.91,0:19:39.30,zh,,0,0,0,,永远都该说实话\N{\ren}Always be honest.
+Dialogue: 0,0:19:39.35,0:19:41.04,zh,,0,0,0,,有时会伤害人\N{\ren}Sometimes it will hurt people.
+Dialogue: 0,0:19:41.09,0:19:44.40,zh,,0,0,0,,有时会帮助人，但永远都该说实话\N{\ren}Sometimes it will help. But always be honest.
+Dialogue: 0,0:19:44.44,0:19:47.18,zh,,0,0,0,,对，他有穿\N{\ren}Huh. Yeah, yeah, he -- he waswearing it.
+Dialogue: 0,0:19:47.22,0:19:50.10,zh,,0,0,0,,那恶心的变态\N{\ren}Ew! That gross animal pig!
+Dialogue: 0,0:19:50.14,0:19:53.27,zh,,0,0,0,,总而言之，我认为…\N{\ren}So, trying to boil this all down, I-I want to say it's import--
+Dialogue: 0,0:19:53.32,0:19:54.84,zh,,0,0,0,,闭嘴，莫蒂，我自己有准备结语\N{\ren}Shut up, Morty, I got my own epilogue.
+Dialogue: 0,0:19:54.88,0:19:57.28,zh,,0,0,0,,瑞克，我爱你\N{\ren}Oh, Rícko, I love you.
+Dialogue: 0,0:19:57.32,0:19:58.58,zh,,0,0,0,,证明给我看\N{\ren}Prove it.
+Dialogue: 0,0:20:00.37,0:20:02.63,zh,,0,0,0,,我好喜欢亲你的大马牙\N{\ren}Oh, I love kissing those big ol' horse teeth.
+Dialogue: 0,0:20:02.67,0:20:04.24,zh,,0,0,0,,就像在舔瓷砖一样\N{\ren}It's like lickin' tile.
+Dialogue: 0,0:20:04.29,0:20:08.20,zh,,0,0,0,,我决定要为了你而定下来\N{\ren}Oh! I swear... it's time someone made an honest man out of me.
+Dialogue: 0,0:20:08.25,0:20:11.21,zh,,0,0,0,,无论你需要什么，我都会做到\N{\ren}Whatever you need, the whole nine yards, you got it.
+Dialogue: 0,0:20:11.25,0:20:13.60,zh,,0,0,0,,可是瑞克，时候到了\N{\ren}The thing is, Rícko... it's time.
+Dialogue: 0,0:20:13.64,0:20:15.51,zh,,0,0,0,,靠，时候到了\N{\ren}Oh, shit, oh, shit. It's time!
+Dialogue: 0,0:20:15.56,0:20:16.99,zh,,0,0,0,,天啊，太棒了\N{\ren}Oh, my God, it's wonderful.
+Dialogue: 0,0:20:21.91,0:20:25.04,zh,,0,0,0,,天啊，我们不用扶养孩子吗？\N{\ren}Oh, wow. So we don't have to, you know, r-raise it?
+Dialogue: 0,0:20:25.09,0:20:27.05,zh,,0,0,0,,不用，孩子一出生就能自理\N{\ren}Nah. They're ready to go right out of the box.
+Dialogue: 0,0:20:27.09,0:20:29.92,zh,,0,0,0,,真棒，那就再见了吗？\N{\ren}Cool, cool. So...bye?
+Dialogue: 0,0:20:29.96,0:20:31.27,zh,,0,0,0,,对，保重，瑞克\N{\ren}Yep. Take care of yourself, Rick.
+Dialogue: 0,0:20:31.31,0:20:33.31,zh,,0,0,0,,你也是\N{\ren}Yep. Same.
+Dialogue: 0,0:20:37.23,0:20:38.62,zh,,0,0,0,,还真轻松\N{\ren}That was easy.
+Dialogue: 0,0:21:10.13,0:21:12.40,zh,,0,0,0,,休士顿，请授权开启右侧面版\N{\ren}Houston, permission to open the starboard panel.
+Dialogue: 0,0:21:12.44,0:21:13.70,zh,,0,0,0,,授权通过\N{\ren}Permission granted.
+Dialogue: 0,0:21:13.75,0:21:16.92,zh,,0,0,0,,开启中\N{\ren}Firing breach now.
+Dialogue: 0,0:21:16.97,0:21:19.32,zh,,0,0,0,,探索者，我们侦测到压力增加\N{\ren}Explorer, our readouts show a pressure spike.
+Dialogue: 0,0:21:19.36,0:21:20.75,zh,,0,0,0,,有什么问题吗？\N{\ren}Everything alright?
+Dialogue: 0,0:21:20.80,0:21:23.23,zh,,0,0,0,,说实话，我有时候看着地球\N{\ren}Honestly, sometimes staring back at Earth
+Dialogue: 0,0:21:23.28,0:21:26.15,zh,,0,0,0,,会想起我抛下的那些人\N{\ren}makes me think about the people I left behind --
+Dialogue: 0,0:21:26.19,0:21:29.15,zh,,0,0,0,,我老婆，她为了绑住我生的儿子\N{\ren}my wife, the son she had to anchor me there.
+Dialogue: 0,0:21:29.20,0:21:31.24,zh,,0,0,0,,我曾试图当个好爸爸，是真的\N{\ren}I tried to be a parent, I really did,
+Dialogue: 0,0:21:31.29,0:21:34.64,zh,,0,0,0,,但我发现自己只适合当太空人\N{\ren}but I've come to find I'm only suited to be a spaceman.
+Dialogue: 0,0:21:34.68,0:21:40.99,zh,,0,0,0,,在这里的好处就是没有东西会让我想起我抛下家人的内疚感\N{\ren}The nicest part of being up here is there are no reminders of the guilt I sometimes feel about abandoning my family.
+Dialogue: 0,0:21:42.56,0:21:44.47,zh,,0,0,0,,抱歉，休士顿，我好像听到了什么声音\N{\ren}Sorry, Houston, I thought I heard something.
+Dialogue: 0,0:21:44.52,0:21:46.00,zh,,0,0,0,,不是我们这边的声音\N{\ren}Negative on our end.
+Dialogue: 0,0:21:46.04,0:21:47.82,zh,,0,0,0,,不，等等，有个巨大的物体\N{\ren}No, wait, there's something big
+Dialogue: 0,0:21:47.87,0:21:49.56,zh,,0,0,0,,而且正在靠近你\N{\ren}and it's coming right at you!Goo, goo, gah, gah.
+Dialogue: 0,0:21:49.61,0:21:52.44,zh,,0,0,0,,天啊，不，不可能是真的\N{\ren}Dear God. No! You can't be real!
+Dialogue: 0,0:21:52.48,0:21:55.31,zh,,0,0,0,,探索者，是什么？你看到什么？\N{\ren}Explorer, what is it? What the hell do you see?!
+Dialogue: 0,0:21:55.35,0:21:56.88,zh,,0,0,0,,我的良知\N{\ren}My conscience.
+Dialogue: 0,0:21:56.92,0:21:58.36,zh,,0,0,0,,探索者\N{\ren}Explorer! Explorer! Aaah!
+Dialogue: 0,0:21:58.40,0:22:00.53,zh,,0,0,0,,你还在吗？\N{\ren}Are you there? Aaaaaah!
+Dialogue: 0,0:22:00.58,0:22:02.88,zh,,0,0,0,,天啊，我不会想念他的\N{\ren}Geez. Not gonna miss that guy. Aaaaah!
+Dialogue: 0,0:22:02.93,0:22:04.71,zh,,0,0,0,,－对吧？ －他戏真多\N{\ren}-Right? -So dramatic.
