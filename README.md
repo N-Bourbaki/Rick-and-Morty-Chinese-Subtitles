@@ -1,6 +1,6 @@
 # *Rick and Morty*: Chinese Subtitles
 
-> 自 S05 起，因为有了同步更新的官方中文翻译，我们只合并双语、调轴，如无意外不再翻译。这一变动导致我们对完善既往字幕的积极性降低，如果您愿意为此做些什么，请加入我们的 Telegram 群查看细节。
+> 自 S05 起，因为有了同步更新的官方中文翻译，我们只合并双语、调轴，如无意外不再翻译。这一变动导致我们对完善既往字幕的积极性降低，如果您愿意为此做些什么，请加入我们的 [Telegram 群](https://t.me/buerbaji) 查看细节。
 
 > 在 [SubHD](https://subhd.tv/u/N-Bourbaki) 下载时建议开启广告拦截，如 Chrome 的 uBlock Origin、iOS 的 AdGuard 等。另外，使用境外 IP 下载 SubHD 的字幕，似乎可以规避扫码验证（我们仅仅友好地提供这一信息）。
 
