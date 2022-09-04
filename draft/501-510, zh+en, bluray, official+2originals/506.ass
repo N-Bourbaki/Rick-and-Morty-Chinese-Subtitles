@@ -1,0 +1,517 @@
+[Script Info]
+Title: S05E06 by Nicolas Bourbaki
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: zh,微软雅黑,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: en,Comic Sans MS,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: top,微软雅黑,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: git,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.25,0:00:04.75,top,,0,0,0,,本字幕由Nicolas Bourbaki调轴及合并双语 首先发布于SubHD
+Dialogue: 0,0:00:05.25,0:00:09.75,top,,0,0,0,,转载请注明来源保留信息 开源分享的互联网精神你有我有大家有
+Dialogue: 0,0:00:10.25,0:00:14.75,top,,0,0,0,,Nicolas Bourbaki不建议也不对任何利用本字幕生成的视频负责
+Dialogue: 0,0:00:15.25,0:00:19.75,top,,0,0,0,,欢迎大家到我们的仓库协助改错：{\rgit}https://github.com/N-Bourbaki/Rick-and-Morty-Chinese-Subtitles
+Dialogue: 0,0:00:29.80,0:00:30.85,top,,0,0,0,,《美国宪法》
+Dialogue: 0,0:04:24.37,0:04:26.17,top,,0,0,0,,奶油农场
+Dialogue: 0,0:04:37.53,0:04:38.92,top,,0,0,0,,基因备份完成
+Dialogue: 0,0:04:58.67,0:05:00.93,top,,0,0,0,,汉德森火鸡牧场
+Dialogue: 0,0:05:34.72,0:05:35.77,top,,0,0,0,,汤米火鸡运输
+Dialogue: 0,0:06:51.50,0:06:54.64,top,,0,0,0,,火鸡选择区
+Dialogue: 0,0:15:07.80,0:15:09.31,top,,0,0,0,,总统免进 已赊53刀
+Dialogue: 0,0:19:57.59,0:20:01.10,top,,0,0,0,,倒影池紧急关阀扳手
+Dialogue: 0,0:20:04.10,0:20:06.60,top,,0,0,0,,倒影池备用紧急关阀扳手
+Dialogue: 0,0:00:14.30,0:00:16.10,zh,,0,0,0,,等等，我们之后会放回来吗？\N{\ren}Wait, are we gonna put it back when we're done with it?
+Dialogue: 0,0:00:16.18,0:00:18.57,zh,,0,0,0,,为什么？ 只有秘密藏宝图有价值\N{\ren}Why? The only thing of value on it is the secret treasure map.
+Dialogue: 0,0:00:18.65,0:00:20.62,zh,,0,0,0,,其他只是治理国家的指示\N{\ren}The rest is just instructions for running a country.
+Dialogue: 0,0:00:20.69,0:00:23.12,zh,,0,0,0,,－网络上应该有　－感觉不太好\N{\ren}- and I'm pretty sure they're online. - It just feels a little wrong.
+Dialogue: 0,0:00:23.20,0:00:24.96,zh,,0,0,0,,莫蒂，你是要当个他妈的美式乖乖\N{\ren}Morty, are you gonna be a fuckin' America nerd
+Dialogue: 0,0:00:25.03,0:00:27.97,zh,,0,0,0,,还是要跟外公一起偷《宪法》？\N{\ren}or are you gonna be cool and steal the Constitution with Grandpa?
+Dialogue: 0,0:00:30.93,0:00:32.52,zh,,0,0,0,,帮我拿着，我来打开这个密封柜\N{\ren}Here, hold this while I crack the hermetic seal.
+Dialogue: 0,0:00:32.60,0:00:34.44,zh,,0,0,0,,干吗不用这个就好？\N{\ren}Why not just use this again?
+Dialogue: 0,0:00:41.62,0:00:43.26,zh,,0,0,0,,莫蒂，你把藏宝图毁了\N{\ren}Morty! You just destroyed the map
+Dialogue: 0,0:00:43.33,0:00:45.68,zh,,0,0,0,,还启动了自由女神里的巨人刺客\N{\ren}and activated the giant assassin hidden in the Statue of Liberty!
+Dialogue: 0,0:00:45.75,0:00:47.07,zh,,0,0,0,,抱歉，等等，什么？\N{\ren}I'm sorry! Wait, what?
+Dialogue: 0,0:00:47.14,0:00:48.23,zh,,0,0,0,,自由女神是特洛伊木马，莫蒂\N{\ren}It was a Trojan horse, Morty.
+Dialogue: 0,0:00:48.31,0:00:49.36,zh,,0,0,0,,法国人不可信\N{\ren}Never trust the French.
+Dialogue: 0,0:00:49.44,0:00:52.99,zh,,0,0,0,,好，我们玩够了，联邦政府一定会很生气，做得好\N{\ren}All right. Fun's fun, but the federal government's gonna be pissed again. Way to go.
+Dialogue: 0,0:00:53.07,0:00:54.41,zh,,0,0,0,,今天还是美国的生日\N{\ren}And on America's birthday
+Dialogue: 0,0:00:54.49,0:00:56.08,zh,,0,0,0,,我也不确定感恩节是什么日子\N{\ren}or whatever the fuck Thanksgiving is.
+Dialogue: 0,0:01:30.02,0:01:31.66,zh,,0,0,0,,瑞克和莫蒂，你们被逮捕了\N{\ren}Rick and Morty, you are under arrest
+Dialogue: 0,0:01:31.74,0:01:33.71,zh,,0,0,0,,你们已经被防传送光包围了\N{\ren}and surrounded by an anti-portal shimmer!
+Dialogue: 0,0:01:33.78,0:01:35.08,zh,,0,0,0,,快出来，双手举高\N{\ren}Come out with your hands up!
+Dialogue: 0,0:01:35.16,0:01:37.18,zh,,0,0,0,,祝我感恩节快乐\N{\ren}Well, happy Thanksgiving to me!
+Dialogue: 0,0:01:37.25,0:01:38.60,zh,,0,0,0,,不知道那道光\N{\ren}Can't wait to see what a shimmer
+Dialogue: 0,0:01:38.67,0:01:39.85,zh,,0,0,0,,对我的前列腺会有什么影响\N{\ren}does to my prostate.
+Dialogue: 0,0:01:39.92,0:01:41.98,zh,,0,0,0,,爸，你能快点搞定这件事吗？\N{\ren}Dad, can you please just end whatever this is?
+Dialogue: 0,0:01:42.05,0:01:43.77,zh,,0,0,0,,我能理解你很生气，总统\N{\ren}I understand you're upset, Mr. President
+Dialogue: 0,0:01:43.85,0:01:45.02,zh,,0,0,0,,其实全是莫蒂的错\N{\ren}it's honestly all Morty's fault.
+Dialogue: 0,0:01:45.10,0:01:48.42,zh,,0,0,0,,但请你叫莫名穿着迷彩装的童军\N{\ren}But in the meantime, you really want to keep your army
+Dialogue: 0,0:01:48.49,0:01:49.54,zh,,0,0,0,,离开我家的前院\N{\ren}of pointlessly camouflaged eagle scouts off my lawn.
+Dialogue: 0,0:01:49.62,0:01:52.67,zh,,0,0,0,,少对我发号施令，你这反美人渣，你这恐怖分子\N{\ren}Don't tell me what I want you anti-American piece of shit! You terrorist!
+Dialogue: 0,0:01:52.75,0:01:55.72,zh,,0,0,0,,你把这词滥用到没意义了，总统\N{\ren}You know, you use that word so much it's lost all meaning, Mr. P.
+Dialogue: 0,0:01:55.79,0:01:57.56,zh,,0,0,0,,恐怖分子现在代表什么意义？\N{\ren}It's like, at this point, what's a terrorist?
+Dialogue: 0,0:01:57.64,0:01:59.02,zh,,0,0,0,,就只是你不喜欢的人而已\N{\ren}It's a guy you don't like, big deal.
+Dialogue: 0,0:02:04.61,0:02:06.00,zh,,0,0,0,,我就叫你的手下别过来了\N{\ren}Told you to stand down.
+Dialogue: 0,0:02:06.07,0:02:08.30,zh,,0,0,0,,你就这样失去了两名英勇的士兵\N{\ren}You just lost two soldiers over here. Good men.
+Dialogue: 0,0:02:08.37,0:02:10.22,zh,,0,0,0,,或许你自己才是恐怖分子\N{\ren}Might be time to look at the terrorist in the mirror.
+Dialogue: 0,0:02:10.29,0:02:11.35,zh,,0,0,0,,你想开战吗？\N{\ren}You want a war?
+Dialogue: 0,0:02:11.42,0:02:13.77,zh,,0,0,0,,我会把你这太空人关进幻影地带\N{\ren}I'll put your outer space ass in a goddamn phantom zone
+Dialogue: 0,0:02:13.84,0:02:15.44,zh,,0,0,0,,在你的脖子上绑氪星石\N{\ren}with a bar of kryptonite soap around your neck.
+Dialogue: 0,0:02:15.51,0:02:17.32,zh,,0,0,0,,你完蛋了，山查兹，听到没有？\N{\ren}You're done, Sanchez! You hear me?
+Dialogue: 0,0:02:17.40,0:02:18.83,zh,,0,0,0,,他这次很生气\N{\ren}He's really pissed this time.
+Dialogue: 0,0:02:18.90,0:02:20.54,zh,,0,0,0,,你们两个不如就直接开干吧？\N{\ren}Why don't you guys just fuck and get it over with?
+Dialogue: 0,0:02:20.61,0:02:23.33,zh,,0,0,0,,谢谢，桑美，但我有更好的办法\N{\ren}OK, well thank you Summer, but I think I've got a better option.
+Dialogue: 0,0:02:23.41,0:02:25.71,zh,,0,0,0,,－爸，不行　－我别无他法\N{\ren}- Dad, no. - Hands are tied, sweetie.
+Dialogue: 0,0:02:25.79,0:02:27.18,zh,,0,0,0,,我得把自己变成火鸡\N{\ren}I have to turn myself into a turkey and trick the President
+Dialogue: 0,0:02:27.26,0:02:29.60,zh,,0,0,0,,骗总统赦免我\N{\ren}into giving me a presidential turkey pardon.
+Dialogue: 0,0:02:29.68,0:02:31.73,zh,,0,0,0,,又来？ 你这招用过几次了？\N{\ren}Again? How many times have you done this?
+Dialogue: 0,0:02:31.81,0:02:33.69,zh,,0,0,0,,我不知道，杰瑞，我住几年了？\N{\ren}I don't know, Jerry, how many years have I lived here?
+Dialogue: 0,0:02:33.77,0:02:34.82,zh,,0,0,0,,回答时注意一点\N{\ren}Careful how you answer that.
+Dialogue: 0,0:02:34.89,0:02:36.57,zh,,0,0,0,,天啊，瑞克，你常常用这招\N{\ren}Jeez, Rick. You know, you've done this a lot.
+Dialogue: 0,0:02:36.66,0:02:38.80,zh,,0,0,0,,总统难道不会料到吗？\N{\ren}Don't you think the President might see it coming this time?
+Dialogue: 0,0:02:38.87,0:02:41.13,zh,,0,0,0,,他或许会，莫蒂，我都想好了\N{\ren}He probably will, Morty. That's all part of the dance.
+Dialogue: 0,0:02:41.21,0:02:45.14,zh,,0,0,0,,我曾在典礼前洗脑火鸡驯养人\N{\ren}In the past, I've inserted myself into the potential turkey pardonee population
+Dialogue: 0,0:02:45.21,0:02:48.15,zh,,0,0,0,,潜入候选赦免火鸡群中\N{\ren}by brainwashing the presidential turkey wrangler prior to the ceremony.
+Dialogue: 0,0:02:48.23,0:02:50.36,zh,,0,0,0,,但那火鸡驯养人已经被安乐死了\N{\ren}But this time, the turkey wrangler's been euthanized
+Dialogue: 0,0:02:50.44,0:02:53.45,zh,,0,0,0,,火鸡会使用装甲军用车辆运送\N{\ren}and the turkeys will be transported by armored military vehicles.
+Dialogue: 0,0:02:53.53,0:02:56.80,zh,,0,0,0,,但车是我控制的空壳公司生产的\N{\ren}Vehicles manufactured by ghost corporations that I control.
+Dialogue: 0,0:02:56.88,0:02:58.22,zh,,0,0,0,,我们审查过了\N{\ren}Which we have audited.
+Dialogue: 0,0:02:58.29,0:03:00.27,zh,,0,0,0,,－所以我能进入…　－中央电脑\N{\ren}- Allowing me access to... - Central computers.
+Dialogue: 0,0:03:00.34,0:03:02.35,zh,,0,0,0,,－追踪…　－真正的装甲车\N{\ren}- To track the... - Real armored transports,
+Dialogue: 0,0:03:02.43,0:03:04.36,zh,,0,0,0,,－他绝对…　－能追踪并偷上车\N{\ren}- which he can never... - Totally track and sneak aboard.
+Dialogue: 0,0:03:04.43,0:03:05.48,zh,,0,0,0,,就算他跑上车了\N{\ren}And even if he does he'll be on a truck
+Dialogue: 0,0:03:05.56,0:03:08.37,zh,,0,0,0,,车上有很多火鸡和武装陆战队员\N{\ren}full of turkeys and fully armed marines...,
+Dialogue: 0,0:03:08.45,0:03:09.62,zh,,0,0,0,,他们认不出我\N{\ren}Who won't recognize me
+Dialogue: 0,0:03:09.70,0:03:11.92,zh,,0,0,0,,因为人眼无法辨认不同火鸡\N{\ren}because the human eye is inherently face blind to turkeys.
+Dialogue: 0,0:03:11.99,0:03:14.80,zh,,0,0,0,,那些陆战队员的眼睛不会是人眼\N{\ren}Fortunately, those marines won't have human eyes.
+Dialogue: 0,0:03:14.87,0:03:16.43,zh,,0,0,0,,会是火鸡眼\N{\ren}They'll have turkey eyes.
+Dialogue: 0,0:03:16.50,0:03:20.36,zh,,0,0,0,,天啊，你们不如直接开干吧？\N{\ren}Jesus ever-loving Christ. Why don't you two just fuck and get it over with?
+Dialogue: 0,0:03:20.43,0:03:22.32,zh,,0,0,0,,小心点，杜万，你能当副总统\N{\ren}Careful, Dwayne. You're only vice-president
+Dialogue: 0,0:03:22.39,0:03:24.11,zh,,0,0,0,,是因为我需要一成的白人票\N{\ren}because I need 10% of the white vote.
+Dialogue: 0,0:03:24.19,0:03:26.80,zh,,0,0,0,,有个法国巨人刺客正在攻击纽约\N{\ren}There's a giant French assassin attacking New York
+Dialogue: 0,0:03:26.87,0:03:28.38,zh,,0,0,0,,你竟然在用战情室\N{\ren}and you're using the war room
+Dialogue: 0,0:03:28.46,0:03:31.22,zh,,0,0,0,,跟你的酒鬼科幻男友比大小？\N{\ren}to measure dicks with your alcoholic sci-fi boyfriend.
+Dialogue: 0,0:03:31.29,0:03:33.31,zh,,0,0,0,,瑞克山查兹比蒸气驱动的\N{\ren}Rick Sanchez is more dangerous
+Dialogue: 0,0:03:33.38,0:03:34.85,zh,,0,0,0,,那个法国婊子危险多了\N{\ren}than some steam-powered French bitch
+Dialogue: 0,0:03:34.92,0:03:36.90,zh,,0,0,0,,纽约可以自己解决危机\N{\ren}and New York can handle its own global emergencies.
+Dialogue: 0,0:03:36.98,0:03:39.33,zh,,0,0,0,,上将？展开深啼行动\N{\ren}General! Initiate Operation Deep Gobble.
+Dialogue: 0,0:03:42.35,0:03:44.23,zh,,0,0,0,,库普，今天是感恩节\N{\ren}Coop, not on Thanksgiving.
+Dialogue: 0,0:03:44.31,0:03:45.61,zh,,0,0,0,,我必须出征，玛莉露\N{\ren}It's what I trained for, Mary Lou.
+Dialogue: 0,0:03:45.68,0:03:47.50,zh,,0,0,0,,－这不关我们的事　－宝贝\N{\ren}- It ain't our fight. - Baby.
+Dialogue: 0,0:03:47.57,0:03:50.13,zh,,0,0,0,,你希望肚子里的小赛车手\N{\ren}That little race car driver you got bakin' in your belly.
+Dialogue: 0,0:03:50.20,0:03:52.01,zh,,0,0,0,,在什么样的世界长大？\N{\ren}What world do you want him rearin' up in?
+Dialogue: 0,0:03:52.08,0:03:55.18,zh,,0,0,0,,穿实验衣的尖头发神秘博士\N{\ren}One where some spiky-haired Doctor Who in a lab coat
+Dialogue: 0,0:03:55.25,0:03:56.65,zh,,0,0,0,,可以改变天空颜色的世界吗？\N{\ren}can change the color of the sky?
+Dialogue: 0,0:03:56.72,0:03:59.28,zh,,0,0,0,,还是你想让他能开皮卡车载热狗\N{\ren}Or a world where he can fill his pick-up with hot dogs and drive it
+Dialogue: 0,0:03:59.35,0:04:02.87,zh,,0,0,0,,给喜欢这种音乐类型的人吃？\N{\ren}to a jukebox full of our demographic's current favorite music?
+Dialogue: 0,0:04:02.94,0:04:04.45,zh,,0,0,0,,当然是后者，但…\N{\ren}Obviously the latter, but...
+Dialogue: 0,0:04:04.53,0:04:06.00,zh,,0,0,0,,既然这样，玛莉露\N{\ren}Well, that world, Mary Lou,
+Dialogue: 0,0:04:06.07,0:04:07.59,zh,,0,0,0,,如果想要有热狗、卡车\N{\ren}the one with those meals, vehicles
+Dialogue: 0,0:04:07.67,0:04:10.01,zh,,0,0,0,,和附近的人爱听的歌\N{\ren}and songs people in this 30-mile area prefer...
+Dialogue: 0,0:04:10.09,0:04:11.76,zh,,0,0,0,,我们就要当正派的人\N{\ren}that world needs a few good men,
+Dialogue: 0,0:04:11.84,0:04:14.94,zh,,0,0,0,,去国防部的秘密实验室变成火鸡\N{\ren}in a secret Pentagon lab turning into turkeys.
+Dialogue: 0,0:04:15.01,0:04:17.07,zh,,0,0,0,,你拔完羽毛再回来，库普\N{\ren}You come back without feathers, Coop.
+Dialogue: 0,0:04:19.40,0:04:20.66,zh,,0,0,0,,天啊，我好爱这个国家\N{\ren}God, I love this country.
+Dialogue: 0,0:04:24.39,0:04:26.75,zh,,0,0,0,,*怀着宝宝的女孩儿，开着皮卡的我*\N{\ren}*I got a pregnant girl and a pickup truck*
+Dialogue: 0,0:04:26.79,0:04:28.88,zh,,0,0,0,,*我选择了女孩儿，而皮卡选择了我*\N{\ren}*I got one by choice and the other by luck*
+Dialogue: 0,0:04:28.93,0:04:33.10,zh,,0,0,0,,*是时候变成火鸡了*\N{\ren}*But now it's time to turn into a turkey*
+Dialogue: 0,0:04:33.15,0:04:35.41,zh,,0,0,0,,*惟愿有朝一日世界和平*\N{\ren}*I hope there can be peace one day*
+Dialogue: 0,0:04:35.45,0:04:37.47,zh,,0,0,0,,*到了功成之日，请为我的DNA祈祷*\N{\ren}*Till then, I pray my DNA*
+Dialogue: 0,0:04:37.51,0:04:39.08,zh,,0,0,0,,*让我变回自己*\N{\ren}*Gets backed up*
+Dialogue: 0,0:04:39.50,0:04:41.34,zh,,0,0,0,,这药丸里有追踪晶片\N{\ren}These pills contain tracking chips
+Dialogue: 0,0:04:41.42,0:04:43.60,zh,,0,0,0,,可以辨别你们的身份\N{\ren}that identify each of you as individuals.
+Dialogue: 0,0:04:43.67,0:04:45.89,zh,,0,0,0,,这之后会很重要\N{\ren}That will be important later.
+Dialogue: 0,0:04:46.62,0:04:48.97,zh,,0,0,0,,*咯咯，咯咯*\N{\ren}*Gobble, gobble*
+Dialogue: 0,0:04:49.01,0:04:51.27,zh,,0,0,0,,*咕咕，咕咕*\N{\ren}*Gobble, gobble*
+Dialogue: 0,0:04:51.32,0:04:55.67,zh,,0,0,0,,*当我变成火鸡*\N{\ren}*When I turn into a turkey*
+Dialogue: 0,0:05:01.68,0:05:03.48,zh,,0,0,0,,好，各位，检查每一只火鸡\N{\ren}All right, boys, search every bird.
+Dialogue: 0,0:05:03.55,0:05:05.73,zh,,0,0,0,,如果发现山查兹，就啼个几声\N{\ren}If Sanchez is here, I wanna hear you gobblin'.
+Dialogue: 0,0:05:06.14,0:05:07.33,zh,,0,0,0,,让我仔细看看，混蛋\N{\ren}Let me look at you, scum!
+Dialogue: 0,0:05:07.40,0:05:09.08,zh,,0,0,0,,你走吧，火鸡\N{\ren}Get outta here, you wobbleneck!
+Dialogue: 0,0:05:09.16,0:05:11.75,zh,,0,0,0,,中士，这跟模拟的时候不一样\N{\ren}Sarge, this... this ain't like the simulation, man.
+Dialogue: 0,0:05:11.83,0:05:13.67,zh,,0,0,0,,－我不喜欢　－振作点，马丁纳\N{\ren}- I don't like it. - Keep it together, Martinez!
+Dialogue: 0,0:05:13.75,0:05:15.22,zh,,0,0,0,,我们已经到现场了\N{\ren}Eyes are on the ground, sir.
+Dialogue: 0,0:05:15.29,0:05:17.40,zh,,0,0,0,,－没发现爱因斯坦　－提高警觉\N{\ren}- No sign of Einstein. - Stay frosty, gentlemen.
+Dialogue: 0,0:05:17.47,0:05:20.48,zh,,0,0,0,,一定要好好守住这群火鸡\N{\ren}I want this pardoning pipeline airtight.
+Dialogue: 0,0:05:20.56,0:05:23.57,zh,,0,0,0,,总统，我们把车库门破解打开了\N{\ren}Sir! We have hacked the garage door. We are in.
+Dialogue: 0,0:05:23.65,0:05:25.95,zh,,0,0,0,,－目标就在眼前　－那是机器人\N{\ren}- Eyes on the bogey. - Or you've got eyes on a robot.
+Dialogue: 0,0:05:26.03,0:05:28.59,zh,,0,0,0,,恕我直言，我分得出人肉和机器\N{\ren}All due respect, sir, I know flesh when I see it.
+Dialogue: 0,0:05:28.67,0:05:31.18,zh,,0,0,0,,人肉机器人应该能争取一点时间\N{\ren}Those flesh-covered robots should buy us some time.
+Dialogue: 0,0:05:31.25,0:05:33.52,zh,,0,0,0,,候选火鸡应该就在这辆车上\N{\ren}The pardonable turkeys should be on that truck.
+Dialogue: 0,0:05:33.59,0:05:34.64,zh,,0,0,0,,开启隐形功能\N{\ren}Ship, go stealth.
+Dialogue: 0,0:05:36.90,0:05:38.91,zh,,0,0,0,,罗德、芬奇，去看看\N{\ren}Rodriguez, Fincher! Get eyes on that!
+Dialogue: 0,0:05:38.98,0:05:40.45,zh,,0,0,0,,火鸡海军陆战队员\N{\ren}Turkey marines.
+Dialogue: 0,0:05:40.53,0:05:42.00,zh,,0,0,0,,总统是来真的\N{\ren}The President came to play.
+Dialogue: 0,0:05:42.07,0:05:44.00,zh,,0,0,0,,－干扰无线电　－收到\N{\ren}- Jam those two radios. - Confirmed.
+Dialogue: 0,0:05:44.62,0:05:45.67,zh,,0,0,0,,天啊\N{\ren}Jeez!
+Dialogue: 0,0:05:55.64,0:05:57.37,zh,,0,0,0,,芬奇、罗德，快回答\N{\ren}Fincher, Rodriguez, come in!
+Dialogue: 0,0:05:57.45,0:05:58.83,zh,,0,0,0,,收到，队长，没有异状\N{\ren}Copy, copy, tango, all good.
+Dialogue: 0,0:05:58.91,0:06:00.50,zh,,0,0,0,,只是树枝掉到车顶上而已\N{\ren}Just a couple of branches on the roof.
+Dialogue: 0,0:06:01.66,0:06:03.63,zh,,0,0,0,,不准关掉无线电\N{\ren}Don't ever turn your radio off again!
+Dialogue: 0,0:06:03.71,0:06:05.14,zh,,0,0,0,,－我们不投降　－我们绝不投降\N{\ren}- We will not surrender! - We will never surrender!
+Dialogue: 0,0:06:05.21,0:06:06.73,zh,,0,0,0,,－我们不投降　－是吗？\N{\ren}- We will not surrender! - Oh, yeah?
+Dialogue: 0,0:06:06.81,0:06:08.40,zh,,0,0,0,,把大卫布莱恩箱拿来\N{\ren}Bring in the David Blaine box.
+Dialogue: 0,0:06:10.90,0:06:12.66,zh,,0,0,0,,天啊，是大卫布莱恩箱吗？\N{\ren}Damn, is that a David Blaine box?
+Dialogue: 0,0:06:12.73,0:06:14.66,zh,,0,0,0,,我就说吧，应该要去我爸妈家的\N{\ren}I told you, we should have just gone to my parents' house.
+Dialogue: 0,0:06:14.74,0:06:17.05,zh,,0,0,0,,－你没说　－我没说出口\N{\ren}- No, you didn't. - Well, I didn't say it out loud.
+Dialogue: 0,0:06:17.13,0:06:20.14,zh,,0,0,0,,但大家都知道我想去那里\N{\ren}But it should be well known by now that I'd always rather be there.
+Dialogue: 0,0:06:20.21,0:06:21.43,zh,,0,0,0,,－天啊，不　－天啊，瑞克\N{\ren}- Oh, God! Oh, no! - Jeez, Rick!
+Dialogue: 0,0:06:21.51,0:06:23.56,zh,,0,0,0,,总统，我们把瑞克和莫蒂关住了\N{\ren}Sir, we've got Rick and Morty inside the box.
+Dialogue: 0,0:06:23.64,0:06:25.06,zh,,0,0,0,,－那就证实了　－什么？\N{\ren}- Then that confirms it. - Sir?
+Dialogue: 0,0:06:25.14,0:06:27.83,zh,,0,0,0,,大卫布莱恩箱关不住瑞克山查兹\N{\ren}No David Blaine box could hold Rick Sanchez.
+Dialogue: 0,0:06:27.90,0:06:29.12,zh,,0,0,0,,扫描火鸡车\N{\ren}Scan the turkey truck.
+Dialogue: 0,0:06:29.19,0:06:32.46,zh,,0,0,0,,怪了，芬奇和罗德的晶片有异状\N{\ren}That's weird. ID chips for Fincher and Rodriguez are glitching.
+Dialogue: 0,0:06:32.53,0:06:33.59,zh,,0,0,0,,山查兹\N{\ren}Sanchez.
+Dialogue: 0,0:06:33.66,0:06:35.55,zh,,0,0,0,,我会亲自对付那混蛋\N{\ren}I'll deal with this bastard myself.
+Dialogue: 0,0:06:35.62,0:06:38.19,zh,,0,0,0,,总统，别逞强，死了就无法连任\N{\ren}Sir, don't be a cowboy. You can't get re-elected dead.
+Dialogue: 0,0:06:38.26,0:06:39.73,zh,,0,0,0,,系统已校准，总统\N{\ren}System's calibrated, sir.
+Dialogue: 0,0:06:39.81,0:06:41.65,zh,,0,0,0,,这药丸里有追踪晶…\N{\ren}That pill contains a tracking chip that will identify...
+Dialogue: 0,0:06:41.72,0:06:43.24,zh,,0,0,0,,我知道，之后会很重要\N{\ren}I know, it'll be important later.
+Dialogue: 0,0:06:43.73,0:06:44.95,zh,,0,0,0,,来吧\N{\ren}Do it!
+Dialogue: 0,0:06:49.12,0:06:51.43,zh,,0,0,0,,总统稍后就会赦免火鸡\N{\ren}Moments from now, the President will be pardoning a turkey.
+Dialogue: 0,0:06:54.71,0:06:58.03,zh,,0,0,0,,我们快成功了，莫蒂，那废物要准时现身了\N{\ren}Home stretch, Morty. Here comes dipshit right on schedule.
+Dialogue: 0,0:06:58.10,0:06:59.49,zh,,0,0,0,,一定不会出错\N{\ren}Nothing can go wrong now.
+Dialogue: 0,0:07:00.65,0:07:02.08,zh,,0,0,0,,－我的天啊，那是…　－靠\N{\ren}- Jesus! Is that... - Oh, shit.
+Dialogue: 0,0:07:02.15,0:07:04.04,zh,,0,0,0,,总统占上风了，外公搞砸了\N{\ren}The President has the upper hand. Grandpa fucked up.
+Dialogue: 0,0:07:04.11,0:07:05.29,zh,,0,0,0,,戴上墨镜，快装成火鸡\N{\ren}Sunglasses on! Act like a turkey!
+Dialogue: 0,0:07:05.37,0:07:07.39,zh,,0,0,0,,－什么？你会怕？　－装成火鸡\N{\ren}- What? Are you scared? - Act like a turkey!
+Dialogue: 0,0:07:10.47,0:07:12.31,zh,,0,0,0,,这两位是罗德和芬奇，总统\N{\ren}That's Rodriguez and Fincher, sir.
+Dialogue: 0,0:07:12.39,0:07:14.82,zh,,0,0,0,,是瑞克和莫蒂，他妈没用的废物\N{\ren}It's Rick and Morty, you useless fucking stump humper!
+Dialogue: 0,0:07:14.89,0:07:17.79,zh,,0,0,0,,抱歉，别跟你一成的朋友说此事\N{\ren}Sorry, don't tell 10% of your friends I called you that.
+Dialogue: 0,0:07:17.86,0:07:20.38,zh,,0,0,0,,－总统　－山查兹，你就认输吧\N{\ren}- Mr. President. - Sanchez, admit it. You lose.
+Dialogue: 0,0:07:20.45,0:07:22.30,zh,,0,0,0,,你只要认输，我就放过你\N{\ren}Say it and I'll let your loser ass go.
+Dialogue: 0,0:07:23.62,0:07:25.72,zh,,0,0,0,,你没唾液腺还想吐我口水？\N{\ren}Did you just try to spit in my face with no saliva gland?
+Dialogue: 0,0:07:25.79,0:07:26.85,zh,,0,0,0,,快赦免我，混蛋\N{\ren}Just pardon me, dick!
+Dialogue: 0,0:07:26.93,0:07:27.98,zh,,0,0,0,,－为什么？　－因为呢\N{\ren}- Why the hell would I? - Oh, I don't know.
+Dialogue: 0,0:07:28.06,0:07:30.36,zh,,0,0,0,,我若搬去加拿大，就会赢过美国\N{\ren}'Cause if I move to Canada, they'll be the best country.
+Dialogue: 0,0:07:30.44,0:07:32.16,zh,,0,0,0,,我要啄瞎你\N{\ren}I'll peck your goddamn eyes out!
+Dialogue: 0,0:07:32.77,0:07:34.74,zh,,0,0,0,,－嘿　－靠，我的羽毛\N{\ren}- Ouch! Hey! - Shit! My plume!
+Dialogue: 0,0:07:35.44,0:07:37.05,zh,,0,0,0,,嘿，后退\N{\ren}Back off!
+Dialogue: 0,0:07:37.54,0:07:39.80,zh,,0,0,0,,蓝莓，蓝莓掉到地上了\N{\ren}Blueberries! We got blueberries down!
+Dialogue: 0,0:07:39.96,0:07:42.06,zh,,0,0,0,,稳住阵脚，火鸡正在疯狂觅食\N{\ren}Hold your positions. It's a feeding frenzy!
+Dialogue: 0,0:07:42.21,0:07:46.40,zh,,0,0,0,,我看不到，我能看到270度\N{\ren}I can't see. I mean, I can see... 270 degrees.
+Dialogue: 0,0:07:46.47,0:07:48.20,zh,,0,0,0,,这角度太广了\N{\ren}It's too many degrees!
+Dialogue: 0,0:07:49.07,0:07:51.41,zh,,0,0,0,,长官，我们的心理战快输了\N{\ren}Sir, we are losing the mental game down here.
+Dialogue: 0,0:07:51.49,0:07:54.00,zh,,0,0,0,,振作点，各位，总统还在里面\N{\ren}Keep it together, soldier! POTUS is still in that pen!
+Dialogue: 0,0:08:01.06,0:08:03.11,zh,,0,0,0,,纽约被法国夺走了\N{\ren}We just lost New York to France!
+Dialogue: 0,0:08:03.18,0:08:04.70,zh,,0,0,0,,马上把总统抓出来\N{\ren}Pull out the President right now!
+Dialogue: 0,0:08:04.77,0:08:06.92,zh,,0,0,0,,队长，把总统抓出来\N{\ren}Gobble Tango, I want POTUS out of that pen!
+Dialogue: 0,0:08:06.99,0:08:09.30,zh,,0,0,0,,这是命令，扫描总统晶片\N{\ren}That's an order! Locate the President's chip!
+Dialogue: 0,0:08:09.37,0:08:10.67,zh,,0,0,0,,收到…\N{\ren}Roger-roger.
+Dialogue: 0,0:08:10.75,0:08:11.92,zh,,0,0,0,,他在那里，我找到他了\N{\ren}There he is, I got him.
+Dialogue: 0,0:08:12.00,0:08:14.18,zh,,0,0,0,,我们出发，把总统护送出去\N{\ren}Let's go, boys! Let's fly out the Eagle!
+Dialogue: 0,0:08:16.30,0:08:17.44,zh,,0,0,0,,嘿，那不是我\N{\ren}Hey, that's not me.
+Dialogue: 0,0:08:17.52,0:08:19.20,zh,,0,0,0,,找到总统了，带我们离开\N{\ren}Package is secure. Pull us out.
+Dialogue: 0,0:08:21.11,0:08:22.83,zh,,0,0,0,,重新注入基因\N{\ren}Reinjecting subject DNA.
+Dialogue: 0,0:08:32.09,0:08:36.07,zh,,0,0,0,,我的天啊，你看起来还真恶心\N{\ren}Hoppin' Jehovah, you look like five pounds of shit in a whore's lunchbox.
+Dialogue: 0,0:08:36.14,0:08:37.79,zh,,0,0,0,,你还好吗，总统先生？\N{\ren}You all right, Mr. President?
+Dialogue: 0,0:08:37.86,0:08:41.17,zh,,0,0,0,,对，我是总统\N{\ren}Yes. I am the President.
+Dialogue: 0,0:08:41.24,0:08:43.42,zh,,0,0,0,,把他清干净，带他到战情室\N{\ren}Clean his ass up and get him to the war room.
+Dialogue: 0,0:08:43.49,0:08:46.77,zh,,0,0,0,,火鸡队，你们搞错人了，笨蛋\N{\ren}Hey! Gobble Squad! You got the wrong guy, you morons!
+Dialogue: 0,0:08:47.51,0:08:49.77,zh,,0,0,0,,这只蠢火鸡一直乱叫\N{\ren}Look at this dumb piece of shit. Gobbling away.
+Dialogue: 0,0:08:49.93,0:08:51.07,zh,,0,0,0,,滚回去\N{\ren}Get back in there!
+Dialogue: 0,0:08:51.73,0:08:53.61,zh,,0,0,0,,好，你们都听到副总统的命令了\N{\ren}All right, boys, you heard the VP.
+Dialogue: 0,0:08:53.69,0:08:56.28,zh,,0,0,0,,赦免典礼取消了，马上撤退\N{\ren}Pardon is tits up. Pack up and ship out!
+Dialogue: 0,0:08:59.08,0:09:02.26,zh,,0,0,0,,至于你呢，山查兹，请慢用\N{\ren}As for you, Sanchez, bon appétit.
+Dialogue: 0,0:09:05.47,0:09:07.16,zh,,0,0,0,,这电梯会通往哪里？\N{\ren}Where is this elevator going?
+Dialogue: 0,0:09:07.23,0:09:10.99,zh,,0,0,0,,没获选的火鸡都会被送往喂食室\N{\ren}Where all the unchosen turkeys go. The feeding chamber.
+Dialogue: 0,0:09:14.62,0:09:16.21,zh,,0,0,0,,这什么鬼东西？\N{\ren}What the fuck is that?
+Dialogue: 0,0:09:16.28,0:09:18.35,zh,,0,0,0,,不是东西，是人\N{\ren}Not what... who.
+Dialogue: 0,0:09:18.42,0:09:21.56,zh,,0,0,0,,你们唯一该惧怕的就是我\N{\ren}The only thing to fear is... me!
+Dialogue: 0,0:09:21.64,0:09:24.61,zh,,0,0,0,,白宫他妈为什么会有小罗斯福的复制蜘蛛？\N{\ren}How the fuck does the White House have a cloned spider of FDR?
+Dialogue: 0,0:09:24.68,0:09:26.11,zh,,0,0,0,,那是小罗斯福本人\N{\ren}It's no clone, it's FDR.
+Dialogue: 0,0:09:26.19,0:09:27.71,zh,,0,0,0,,他参与了小儿麻痹疫苗实验\N{\ren}He was a guinea pig for the polio vaccine.
+Dialogue: 0,0:09:27.78,0:09:30.21,zh,,0,0,0,,我们想知道哪种动物最常行走？\N{\ren}We asked ourselves what walks the most?
+Dialogue: 0,0:09:30.29,0:09:32.05,zh,,0,0,0,,“我们”？ 你把自己也算进去？\N{\ren}We? You're taking credit for this?
+Dialogue: 0,0:09:32.12,0:09:34.26,zh,,0,0,0,,当总统就得承担包袱，莫蒂\N{\ren}The office comes with baggage, Morty.
+Dialogue: 0,0:09:35.17,0:09:37.61,zh,,0,0,0,,－瑞克，我怕死　－别怕，莫蒂\N{\ren}- Rick, I'm afraid to die! - You won't have to be for long, Morty.
+Dialogue: 0,0:09:37.68,0:09:39.19,zh,,0,0,0,,我们马上就会变回人类了\N{\ren}We're due to return to human form any second.
+Dialogue: 0,0:09:39.27,0:09:40.32,zh,,0,0,0,,－然后呢？　－然后就想办法\N{\ren}- Then what? - Then we just have to
+Dialogue: 0,0:09:40.40,0:09:41.45,zh,,0,0,0,,别被蜘蛛吃掉\N{\ren}not get eaten by the spider.
+Dialogue: 0,0:09:42.15,0:09:44.08,zh,,0,0,0,,所以我还是要怕死？\N{\ren}Oh, so in other words, be afraid to die?
+Dialogue: 0,0:09:44.15,0:09:45.79,zh,,0,0,0,,莫蒂，你如果真的这么爱辩\N{\ren}Morty, if winning an argument is that important to you
+Dialogue: 0,0:09:45.86,0:09:46.90,zh,,0,0,0,,那你从来没有活过\N{\ren}you were never alive.
+Dialogue: 0,0:09:46.90,0:09:49.45,zh,,0,0,0,,我们来谈条件，杀人\N{\ren}Time for a new deal. Murder!
+Dialogue: 0,0:09:49.53,0:09:51.75,zh,,0,0,0,,我受够大家对你的崇拜了\N{\ren}I'm sick of hearing how iconic you were!
+Dialogue: 0,0:09:52.99,0:09:54.50,zh,,0,0,0,,等你在脸书出现后\N{\ren}Try having an historical administration
+Dialogue: 0,0:09:54.58,0:09:57.06,zh,,0,0,0,,还能受大家喜爱再说吧，死老头\N{\ren}after Facebook goes online, you old-timey bitch!
+Dialogue: 0,0:09:58.64,0:10:00.11,zh,,0,0,0,,莫蒂，把面板打开\N{\ren}Morty, tear open that panel!
+Dialogue: 0,0:10:01.22,0:10:02.78,zh,,0,0,0,,我们来场炉边谈话，好吗？\N{\ren}How's this for a fireside chat?
+Dialogue: 0,0:10:06.66,0:10:09.05,zh,,0,0,0,,－你杀了小罗斯福　－他是怪兽\N{\ren}- You just killed FDR. - He was a monster though.
+Dialogue: 0,0:10:09.12,0:10:11.26,zh,,0,0,0,,别把他神话了，他是政治人物\N{\ren}Don't mythologize him, he was a politician.
+Dialogue: 0,0:10:11.33,0:10:13.30,zh,,0,0,0,,说到这个，你救了我们一命\N{\ren}Speaking of, you kinda saved our bacon there
+Dialogue: 0,0:10:13.38,0:10:14.47,zh,,0,0,0,,所以我愿意跟你谈条件\N{\ren}so I'll make you a deal.
+Dialogue: 0,0:10:14.55,0:10:16.39,zh,,0,0,0,,你赦免我，我就把你变回人类\N{\ren}You pardon us and I'll make you human.
+Dialogue: 0,0:10:16.46,0:10:19.70,zh,,0,0,0,,－是这只　－人眼真的无法辨识\N{\ren}- Wrong turkey. - Man, the face blindness is real.
+Dialogue: 0,0:10:21.32,0:10:25.04,zh,,0,0,0,,帮我把这些人变回人类\N{\ren}I'd like these men turned back into humans, please.
+Dialogue: 0,0:10:25.11,0:10:26.64,zh,,0,0,0,,没问题，总统\N{\ren}Yes, of course, Mr. President.
+Dialogue: 0,0:10:26.71,0:10:30.35,zh,,0,0,0,,但我们应该已经把所有陆战队员变回人类了\N{\ren}But I thought we already rehumanized all the turkified marines.
+Dialogue: 0,0:10:30.42,0:10:34.56,zh,,0,0,0,,把这些人变回人类，我是总统\N{\ren}I'd like these men turned back into humans. I am the President.
+Dialogue: 0,0:10:34.64,0:10:36.03,zh,,0,0,0,,遵命，总统，没问题\N{\ren}Yes, sir. Sure thing.
+Dialogue: 0,0:10:36.10,0:10:40.13,zh,,0,0,0,,把他们的力量增加十倍\N{\ren}Increase their strength by 1,000%.
+Dialogue: 0,0:10:40.20,0:10:42.42,zh,,0,0,0,,那他们就不会是人类了\N{\ren}But... that wouldn't be human.
+Dialogue: 0,0:10:42.49,0:10:46.09,zh,,0,0,0,,火鸡一向都比人类优秀\N{\ren}Turkeys have always been more than human.
+Dialogue: 0,0:10:46.17,0:10:49.98,zh,,0,0,0,,好吧，你这样我会怀疑…\N{\ren}OK, so right there, now I'm starting to...
+Dialogue: 0,0:10:51.23,0:10:55.28,zh,,0,0,0,,我要把纽约卖给法国\N{\ren}I am selling New York to France.
+Dialogue: 0,0:10:55.94,0:10:59.34,zh,,0,0,0,,把卖得的钱交给国会\N{\ren}And giving all of the money to Congress.
+Dialogue: 0,0:10:59.75,0:11:00.84,zh,,0,0,0,,好耶\N{\ren}All right, yeah!
+Dialogue: 0,0:11:00.92,0:11:03.85,zh,,0,0,0,,－这样就对了　－这才是真总统\N{\ren}- Now that's how you do it. - He became President today.
+Dialogue: 0,0:11:06.08,0:11:07.26,zh,,0,0,0,,对，尽管议论吧\N{\ren}That's right, murmur.
+Dialogue: 0,0:11:07.34,0:11:08.89,zh,,0,0,0,,忙完拿裤子来给我\N{\ren}And when you're done, get me some pants.
+Dialogue: 0,0:11:08.97,0:11:10.52,zh,,0,0,0,,如果你是总统\N{\ren}If you're the President
+Dialogue: 0,0:11:10.59,0:11:12.82,zh,,0,0,0,,那过去这三个小时\N{\ren}who the hell have we been governing the country with
+Dialogue: 0,0:11:12.89,0:11:14.02,zh,,0,0,0,,治理我们国家的人是谁？\N{\ren}for the last three hours?
+Dialogue: 0,0:11:14.10,0:11:17.62,zh,,0,0,0,,是冒牌货，笨蛋，你抓错火鸡了\N{\ren}An impostor, you good-for-nothing idiot! You humanized the wrong turkey!
+Dialogue: 0,0:11:17.70,0:11:21.30,zh,,0,0,0,,确实有可能，我们不能冒险\N{\ren}It's possible. We shouldn't leave anything to chance.
+Dialogue: 0,0:11:21.37,0:11:25.22,zh,,0,0,0,,不能让国会跟错误的总统合作\N{\ren}Wouldn't want Congress working with the wrong President.
+Dialogue: 0,0:11:25.29,0:11:27.98,zh,,0,0,0,,有道理，总统先生\N{\ren}A very good point, Mr. President.
+Dialogue: 0,0:11:28.06,0:11:30.61,zh,,0,0,0,,我们认为这位爱好合作的先生\N{\ren}Do we believe this fine-feathered, collaborative gentleman
+Dialogue: 0,0:11:30.69,0:11:31.99,zh,,0,0,0,,是我们的总司令吗？\N{\ren}to be our commander in chief?
+Dialogue: 0,0:11:32.06,0:11:34.79,zh,,0,0,0,,还是我们要让不允许圣诞派对\N{\ren}Or are we gonna let Mr. Cash Bar
+Dialogue: 0,0:11:34.86,0:11:36.63,zh,,0,0,0,,免费供酒的人继续当总统？\N{\ren}at the Christmas party stay in office?
+Dialogue: 0,0:11:36.71,0:11:38.72,zh,,0,0,0,,支持火鸡总统的人有多少？\N{\ren}All in favor of Turkey President?
+Dialogue: 0,0:11:39.46,0:11:42.10,zh,,0,0,0,,荒谬，你觉得他在乎美国吗？\N{\ren}You can't be serious. You think he cares about America?
+Dialogue: 0,0:11:42.17,0:11:44.31,zh,,0,0,0,,那你为什么会遇到这种事？\N{\ren}Is that why this is happening to you?
+Dialogue: 0,0:11:44.39,0:11:46.95,zh,,0,0,0,,是因为你在乎美国吗？\N{\ren}Because you cared about America?
+Dialogue: 0,0:11:47.78,0:11:51.21,zh,,0,0,0,,守卫，这三位是，那叫什么？\N{\ren}Guards, these men are... what is the word?
+Dialogue: 0,0:11:51.70,0:11:52.79,zh,,0,0,0,,恐怖分子\N{\ren}Terrorists.
+Dialogue: 0,0:11:52.87,0:11:55.46,zh,,0,0,0,,我不管了，启动山查兹雷射拳\N{\ren}OK, screw this. Go, go, Sanchez laser fists!
+Dialogue: 0,0:11:56.04,0:11:58.14,zh,,0,0,0,,靠，我刚刚变成了火鸡，对吧？\N{\ren}When I turn into a turkey. Oh, shit. I was a turkey for a while, wasn't I?
+Dialogue: 0,0:11:58.55,0:12:00.52,zh,,0,0,0,,好吧，你力气好大\N{\ren}OK, guy's pretty strong.
+Dialogue: 0,0:12:00.60,0:12:02.03,zh,,0,0,0,,玛丽陶德林肯\N{\ren}Mary Todd Lincoln!
+Dialogue: 0,0:12:05.06,0:12:06.79,zh,,0,0,0,,现在谁才是拖油瓶，婊子？\N{\ren}Who's dead weight now, bitch?
+Dialogue: 0,0:12:12.95,0:12:14.75,zh,,0,0,0,,你的屁股马上就会恢复知觉了\N{\ren}You should regain feeling in your ass in a minute.
+Dialogue: 0,0:12:14.83,0:12:16.63,zh,,0,0,0,,抱歉，我的炮塔炸掉了你的机车\N{\ren}Sorry my turrets blew up your motorcycle.
+Dialogue: 0,0:12:16.71,0:12:18.35,zh,,0,0,0,,快拿衣服给我穿\N{\ren}Just give me some goddamn clothes.
+Dialogue: 0,0:12:18.43,0:12:20.77,zh,,0,0,0,,你只能来我家避难，一定很难受\N{\ren}Must suck to have your only safe haven be my house.
+Dialogue: 0,0:12:20.85,0:12:21.94,zh,,0,0,0,,你想穿你平常的衣服\N{\ren}You want your regular outfit
+Dialogue: 0,0:12:22.02,0:12:23.23,zh,,0,0,0,,还是恐怖分子的衣服？\N{\ren}or should we dress you like a terrorist?
+Dialogue: 0,0:12:23.31,0:12:25.28,zh,,0,0,0,,我也能离开，而且我依然是总统\N{\ren}I don't need to be here and I'm still the President.
+Dialogue: 0,0:12:25.35,0:12:27.41,zh,,0,0,0,,太好了，那你就赦免我吧\N{\ren}Oh, glad to hear it. That means you can give me that pardon.
+Dialogue: 0,0:12:27.48,0:12:28.71,zh,,0,0,0,,不然我就把你赶出去\N{\ren}Or I could put you out with the trash.
+Dialogue: 0,0:12:28.79,0:12:31.13,zh,,0,0,0,,你有什么毛病？ 你为什么讨厌这个国家？\N{\ren}What is your problem? Why do you hate this country?
+Dialogue: 0,0:12:31.21,0:12:32.80,zh,,0,0,0,,我讨厌全宇宙的每个国家，兄弟\N{\ren}I hate every country in the universe, brother.
+Dialogue: 0,0:12:32.88,0:12:35.89,zh,,0,0,0,,国家只是政治人物发明出来发钱给自己的东西而已\N{\ren}They're job placement programs for the politicians that invent them.
+Dialogue: 0,0:12:35.96,0:12:37.23,zh,,0,0,0,,好吧，神经病\N{\ren}OK, Fight Club.
+Dialogue: 0,0:12:37.30,0:12:39.95,zh,,0,0,0,,我的职责是要保护坐在场边的你\N{\ren}I get paid to protect the sidelines you sit on!
+Dialogue: 0,0:12:40.02,0:12:41.45,zh,,0,0,0,,你的职责只是耍嘴皮子\N{\ren}You get paid to make sports metaphors!
+Dialogue: 0,0:12:41.52,0:12:42.91,zh,,0,0,0,,我会帮你清砂盆\N{\ren}I clean your litterbox.
+Dialogue: 0,0:12:42.99,0:12:46.67,zh,,0,0,0,,让你这自以为酷的书呆子拉屎时\N{\ren}So your little nerd paws don't have to touch another nerd's nerdy poopies
+Dialogue: 0,0:12:46.74,0:12:49.52,zh,,0,0,0,,手不会碰到其他书呆子的大便\N{\ren}while you're flexing your grody little edge-lord anus all over it!
+Dialogue: 0,0:12:49.59,0:12:51.39,zh,,0,0,0,,大家，或许你们都对也都错\N{\ren}Guys, maybe you're both right and both wrong.
+Dialogue: 0,0:12:51.47,0:12:52.52,zh,,0,0,0,,－闭嘴，莫蒂　－闭嘴，莫蒂\N{\ren}- Shut up, Morty! - Shut up, Morty!
+Dialogue: 0,0:12:52.59,0:12:54.77,zh,,0,0,0,,你这小贱货，你毁了《宪法》\N{\ren}You little bitch. You destroyed the Constitution.
+Dialogue: 0,0:12:54.85,0:12:56.23,zh,,0,0,0,,你才是最可恶的混蛋\N{\ren}You're the biggest booger eater here!
+Dialogue: 0,0:12:56.31,0:12:58.21,zh,,0,0,0,,你不能这样对我儿子说话\N{\ren}Do not talk to my son that way.
+Dialogue: 0,0:12:59.16,0:13:00.42,zh,,0,0,0,,抱歉，史密斯太太\N{\ren}Sorry, Mrs. Smith.
+Dialogue: 0,0:13:00.49,0:13:02.63,zh,,0,0,0,,你们两个联手毁了感恩节\N{\ren}The two of you are ruining Thanksgiving. Together.
+Dialogue: 0,0:13:02.70,0:13:05.68,zh,,0,0,0,,快来跟我的家人一起吃饭\N{\ren}And you can both either come to the table and eat food with my family
+Dialogue: 0,0:13:05.75,0:13:08.27,zh,,0,0,0,,否则就滚到酒吧去继续吵\N{\ren}or you can keep doing what you're doing at the corner bar.
+Dialogue: 0,0:13:09.47,0:13:11.15,zh,,0,0,0,,感恩节上酒吧很可悲\N{\ren}Bars actually suck at Thanksgiving.
+Dialogue: 0,0:13:11.64,0:13:13.82,zh,,0,0,0,,我还是搞不太懂\N{\ren}I'm still trying to sort through this.
+Dialogue: 0,0:13:13.90,0:13:16.79,zh,,0,0,0,,你们其中一个人希望自己有勇气\N{\ren}One of you wishes you had the personal quality known as courage
+Dialogue: 0,0:13:16.86,0:13:19.30,zh,,0,0,0,,另外两个人则想要重要器官？\N{\ren}but the other two of you want actual vital organs?
+Dialogue: 0,0:13:19.37,0:13:21.60,zh,,0,0,0,,查理考夫曼翻拍的《绿野仙踪》\N{\ren}This Charlie Kaufman reboot of Wizard Of Oz
+Dialogue: 0,0:13:21.67,0:13:23.06,zh,,0,0,0,,简直是场灾难\N{\ren}is destroying itself.
+Dialogue: 0,0:13:23.13,0:13:27.02,zh,,0,0,0,,所以我需要大脑，我写得好烂\N{\ren}That's why I need a brain! I'm doing a terrible job writing this!
+Dialogue: 0,0:13:27.89,0:13:29.08,zh,,0,0,0,,能把马铃薯递给我吗？\N{\ren}Pass the potatoes?
+Dialogue: 0,0:13:30.48,0:13:31.54,zh,,0,0,0,,谢谢\N{\ren}Thank you.
+Dialogue: 0,0:13:32.86,0:13:33.96,zh,,0,0,0,,四季豆很好吃，妈\N{\ren}Good green beans, Mom.
+Dialogue: 0,0:13:34.03,0:13:36.13,zh,,0,0,0,,火鸡是生的，爸，根本不能吃\N{\ren}The turkey's raw, Dad. Shit's potato bunz.
+Dialogue: 0,0:13:36.20,0:13:39.23,zh,,0,0,0,,抱歉，桑美，我们被国家关在光罩里\N{\ren}Sorry, Summer. The United States enclosed us in a shimmer bubble
+Dialogue: 0,0:13:39.30,0:13:40.77,zh,,0,0,0,,扰乱了我的烤箱计时器\N{\ren}that scrambled my oven timer.
+Dialogue: 0,0:13:40.84,0:13:43.19,zh,,0,0,0,,看来我们真的选错人了\N{\ren}So, I guess elections do have consequences.
+Dialogue: 0,0:13:43.27,0:13:45.82,zh,,0,0,0,,吃屎吧，杰瑞，我查过你的资料\N{\ren}Eat my ass, Jerry. I've seen your IRS records.
+Dialogue: 0,0:13:45.89,0:13:48.25,zh,,0,0,0,,等你有应税所得再来怪我\N{\ren}You can blame me once you have taxable income.
+Dialogue: 0,0:13:48.78,0:13:50.84,zh,,0,0,0,,没错，我也认同杰瑞是废物\N{\ren}Yes, Jerry is a piece of shit. I agree.
+Dialogue: 0,0:13:51.70,0:13:53.38,zh,,0,0,0,,各位，那是怎么回事？\N{\ren}Guys? What's that?
+Dialogue: 0,0:13:53.46,0:13:56.35,zh,,0,0,0,,宝拉，克提斯总统施行了\N{\ren}Paula, as you can see President Curtis has enacted a plan
+Dialogue: 0,0:13:56.42,0:13:59.57,zh,,0,0,0,,把全美火鸡变成超级士兵的计划\N{\ren}to turn all turkeys in America into hybrid super soldiers.
+Dialogue: 0,0:13:59.64,0:14:01.53,zh,,0,0,0,,国会在六小时内加薪三次后\N{\ren}The move has 100% approval from Congress
+Dialogue: 0,0:14:01.61,0:14:03.66,zh,,0,0,0,,就全体同意通过本法案\N{\ren}following its third pay raise in six hours.
+Dialogue: 0,0:14:03.73,0:14:04.79,zh,,0,0,0,,镜头交还给主播\N{\ren}Back to you.
+Dialogue: 0,0:14:09.00,0:14:10.93,zh,,0,0,0,,天啊，那混蛋疯了\N{\ren}My god, the bastard's unhinged!
+Dialogue: 0,0:14:11.01,0:14:12.85,zh,,0,0,0,,特区会连一只鸟都不剩\N{\ren}There won't be a single bird left in DC!
+Dialogue: 0,0:14:12.93,0:14:15.61,zh,,0,0,0,,天啊，在感恩节屠杀原住民？\N{\ren}Oh, wow, wiping out a native population on Thanksgiving?
+Dialogue: 0,0:14:15.68,0:14:17.91,zh,,0,0,0,,－这还是第一次　－你说什么？\N{\ren}- That's never happened before. - What did you just say?
+Dialogue: 0,0:14:17.99,0:14:20.00,zh,,0,0,0,,我把感恩节跟种族屠杀做了连结\N{\ren}Well, I associated Thanksgiving with genocide.
+Dialogue: 0,0:14:20.07,0:14:22.33,zh,,0,0,0,,年轻人都会这样，我不是想…\N{\ren}It's what young people do, I wasn't trying to...
+Dialogue: 0,0:14:22.41,0:14:23.67,zh,,0,0,0,,新世界地穴\N{\ren}The Crypt of the New World!
+Dialogue: 0,0:14:23.74,0:14:26.09,zh,,0,0,0,,这是我们唯一能扭转乾坤的机会\N{\ren}That could be our one chance to turn this thing around!
+Dialogue: 0,0:14:26.16,0:14:27.76,zh,,0,0,0,,你知道地穴的事？\N{\ren}You know about the Crypt?
+Dialogue: 0,0:14:27.83,0:14:28.98,zh,,0,0,0,,那宝藏一定被拿光了\N{\ren}So the treasure's already gone.
+Dialogue: 0,0:14:29.05,0:14:32.23,zh,,0,0,0,,这就是你偷《宪法》的原因吗？蠢老头子\N{\ren}Wait, is that why you were stealing the Constitution? You old fart dick.
+Dialogue: 0,0:14:32.31,0:14:34.36,zh,,0,0,0,,新世界地穴里的不是宝藏\N{\ren}The Crypt of the New World isn't a treasure.
+Dialogue: 0,0:14:34.44,0:14:36.24,zh,,0,0,0,,但或许是我们唯一的希望，来吧\N{\ren}But it might be our only hope. Come on.
+Dialogue: 0,0:14:36.32,0:14:38.25,zh,,0,0,0,,那个地穴不是在特区吗？\N{\ren}But isn't the Crypt underneath DC?
+Dialogue: 0,0:14:38.33,0:14:40.72,zh,,0,0,0,,火鸡总统有军队，陆军军队\N{\ren}The Turkey President's got an army. An actual army!
+Dialogue: 0,0:14:40.79,0:14:42.80,zh,,0,0,0,,－还有空军、海军　－讲慢一点\N{\ren}- And an air force! And marines! - Slow down, Morty!
+Dialogue: 0,0:14:42.88,0:14:44.39,zh,,0,0,0,,把所有军队都讲一遍\N{\ren}Walk us through every military service.
+Dialogue: 0,0:14:44.46,0:14:45.52,zh,,0,0,0,,谁有笔？\N{\ren}Does somebody have a pen?
+Dialogue: 0,0:14:45.59,0:14:48.53,zh,,0,0,0,,我们有比任何军队都强大的东西\N{\ren}We've got something more powerful than every army in the world.
+Dialogue: 0,0:14:48.60,0:14:51.08,zh,,0,0,0,,其实没有，但只要演讲成功\N{\ren}Well, no, we don't, but with the right speech
+Dialogue: 0,0:14:51.15,0:14:52.79,zh,,0,0,0,,就能说服几位受过训练的乡巴佬\N{\ren}we could get a handful of well-trained hillbillies.
+Dialogue: 0,0:14:52.86,0:14:54.54,zh,,0,0,0,,我们曾这样对抗过英国，我支持\N{\ren}It worked against the British. I'm in.
+Dialogue: 0,0:14:55.77,0:14:57.36,zh,,0,0,0,,用火鸡取代人\N{\ren}Birds replacin' people.
+Dialogue: 0,0:14:57.44,0:14:59.71,zh,,0,0,0,,强尼凯许或戴尔恩哈特会怎说？\N{\ren}What would Johnny Cash or Dale Earnhardt say?
+Dialogue: 0,0:14:59.78,0:15:02.05,zh,,0,0,0,,他会说，该付诸行动了\N{\ren}He'd say it's time to walk the line
+Dialogue: 0,0:15:02.12,0:15:03.92,zh,,0,0,0,,或是开快车经过\N{\ren}or drive very fast between two of them.
+Dialogue: 0,0:15:04.00,0:15:05.80,zh,,0,0,0,,我们不接待你这种人\N{\ren}We don't serve your kind here.
+Dialogue: 0,0:15:05.88,0:15:07.26,zh,,0,0,0,,天啊，有没有搞错？\N{\ren}Oh my god, are you serious?
+Dialogue: 0,0:15:07.34,0:15:08.44,zh,,0,0,0,,自己看\N{\ren}Read the sign.
+Dialogue: 0,0:15:08.81,0:15:10.11,zh,,0,0,0,,他是我长官，马文\N{\ren}He's my boss, Marvin.
+Dialogue: 0,0:15:10.18,0:15:13.78,zh,,0,0,0,,没事，不信任总统是爱国的表现\N{\ren}It's OK. Mistrusting presidents is a patriotic duty.
+Dialogue: 0,0:15:13.86,0:15:15.49,zh,,0,0,0,,电视上那个人不是我\N{\ren}And that guy on TV isn't me.
+Dialogue: 0,0:15:15.57,0:15:17.71,zh,,0,0,0,,是一只注入我基因的火鸡\N{\ren}He's a turkey infused with my DNA.
+Dialogue: 0,0:15:17.78,0:15:19.51,zh,,0,0,0,,我的天啊\N{\ren}I'll be damned.
+Dialogue: 0,0:15:22.38,0:15:23.52,zh,,0,0,0,,我歧视黑人\N{\ren}Well. I'm racist.
+Dialogue: 0,0:15:23.59,0:15:25.81,zh,,0,0,0,,别想再带走我的男人了\N{\ren}You better not be here to take my man again.
+Dialogue: 0,0:15:25.89,0:15:28.58,zh,,0,0,0,,－玛莉露　－我很穷又怀了孕\N{\ren}- Mary Lou... - I'm poor! And pregnant!
+Dialogue: 0,0:15:28.65,0:15:30.20,zh,,0,0,0,,我的宝宝也很穷\N{\ren}With a poor person!
+Dialogue: 0,0:15:30.28,0:15:33.04,zh,,0,0,0,,我需要你，还有你宝宝的一成\N{\ren}And I need you. And 10% of your baby.
+Dialogue: 0,0:15:33.11,0:15:36.67,zh,,0,0,0,,听着，我知道演讲是不够的\N{\ren}Now look, I know it's going to take more than some speech.
+Dialogue: 0,0:15:36.75,0:15:39.35,zh,,0,0,0,,但演讲是什么？不就是问题吗？\N{\ren}But what is a speech? Isn't it just a question?
+Dialogue: 0,0:15:40.09,0:15:43.23,zh,,0,0,0,,这句不也是问题吗？演讲是词语\N{\ren}And isn't that a question too? Speeches are words.
+Dialogue: 0,0:15:43.31,0:15:45.90,zh,,0,0,0,,重复的词语，条列的词语\N{\ren}Repeated words. Listed words.
+Dialogue: 0,0:15:46.02,0:15:49.29,zh,,0,0,0,,重复条列的重复词语，这不重要\N{\ren}Repeated lists of repeated words. None of that matters.
+Dialogue: 0,0:15:49.37,0:15:50.67,zh,,0,0,0,,你知道什么最重要吗？\N{\ren}You know what does matter?
+Dialogue: 0,0:15:50.95,0:15:52.51,zh,,0,0,0,,我要问你们\N{\ren}Me asking you...
+Dialogue: 0,0:15:53.00,0:15:55.18,zh,,0,0,0,,你们愿意照我的话做吗？\N{\ren}will you do what I say?
+Dialogue: 0,0:15:55.59,0:15:57.14,zh,,0,0,0,,我只有两个问题\N{\ren}Just two questions, Chief.
+Dialogue: 0,0:15:57.55,0:15:59.57,zh,,0,0,0,,没？问题？\N{\ren}Lock? And load?
+Dialogue: 0,0:16:00.81,0:16:03.37,zh,,0,0,0,,这其实不是问题，没问题\N{\ren}They're rhetorical, sir. Lock and load!
+Dialogue: 0,0:16:03.82,0:16:05.04,zh,,0,0,0,,没问题\N{\ren}Lock and load!
+Dialogue: 0,0:16:13.05,0:16:15.86,zh,,0,0,0,,总统，看起来瑞克和莫蒂驾驶着\N{\ren}Sir, we've got Rick and Morty coming in
+Dialogue: 0,0:16:15.93,0:16:17.91,zh,,0,0,0,,未授权的星球大战全地域装甲运输走兽\N{\ren}what appears to be an unlicensed Star Wars AT-AT.
+Dialogue: 0,0:16:17.99,0:16:20.25,zh,,0,0,0,,现在的年轻人都说是装运走兽\N{\ren}Or as the millennials say, A-T, A-T.
+Dialogue: 0,0:16:20.32,0:16:21.58,zh,,0,0,0,,开始了\N{\ren}So it begins.
+Dialogue: 0,0:16:21.66,0:16:24.09,zh,,0,0,0,,各位火鸡，我们今晚要奋力反抗\N{\ren}Gobblers! Tonight, we rise!
+Dialogue: 0,0:16:32.28,0:16:33.62,zh,,0,0,0,,哦，天啊\N{\ren}Oh, jeez...
+Dialogue: 0,0:16:35.65,0:16:37.16,zh,,0,0,0,,驾驶技术不错，山查兹\N{\ren}Nice driving, Sanchez.
+Dialogue: 0,0:16:37.23,0:16:38.84,zh,,0,0,0,,护网失效，前方安全\N{\ren}Wire's down, pen is clear.
+Dialogue: 0,0:16:38.91,0:16:40.30,zh,,0,0,0,,你们都知道规矩\N{\ren}You know the goddamn rules.
+Dialogue: 0,0:16:40.37,0:16:43.30,zh,,0,0,0,,如果看到火鸡，就开枪轰掉\N{\ren}If you see something clucking or pecking put a buckshot in its panties.
+Dialogue: 0,0:16:57.37,0:16:59.89,zh,,0,0,0,,天啊，强森死了\N{\ren}Jesus Christ! They got Johnson!
+Dialogue: 0,0:16:59.97,0:17:01.14,zh,,0,0,0,,他死得算痛快\N{\ren}He got off easy.
+Dialogue: 0,0:17:01.22,0:17:03.11,zh,,0,0,0,,拖住这些混蛋\N{\ren}Hold off the bastards!
+Dialogue: 0,0:17:05.02,0:17:07.45,zh,,0,0,0,,－怎么办，瑞克？　－加强火力\N{\ren}- What now, Rick? - Time to turn up the broiler.
+Dialogue: 0,0:17:14.17,0:17:15.68,zh,,0,0,0,,这里是…\N{\ren}Is that...
+Dialogue: 0,0:17:15.75,0:17:17.68,zh,,0,0,0,,新世界地穴\N{\ren}The Crypt of the New World.
+Dialogue: 0,0:17:19.35,0:17:20.65,zh,,0,0,0,,你们在找的宝藏\N{\ren}The treasure you were after
+Dialogue: 0,0:17:20.73,0:17:22.91,zh,,0,0,0,,就是美国最古老的秘密\N{\ren}is this country's oldest secret.
+Dialogue: 0,0:17:23.15,0:17:27.00,zh,,0,0,0,,被感恩节故事掩盖了好几世纪\N{\ren}One disguised by centuries of Thanksgiving folklore.
+Dialogue: 0,0:17:29.88,0:17:32.10,zh,,0,0,0,,这是火鸡恐龙吗？\N{\ren}Is that... a turkey dinosaur?
+Dialogue: 0,0:17:32.17,0:17:33.48,zh,,0,0,0,,美国原本的统治者\N{\ren}America's original rulers.
+Dialogue: 0,0:17:33.55,0:17:36.98,zh,,0,0,0,,残忍的野兽，猎食懦弱的人类\N{\ren}Merciless beasts, grazing on the flesh of cowering humans.
+Dialogue: 0,0:17:37.06,0:17:39.58,zh,,0,0,0,,15世纪时，有艘船坠地了\N{\ren}Then in the 15th century, a vessel crashed.
+Dialogue: 0,0:17:39.65,0:17:43.17,zh,,0,0,0,,其实是两艘船，载着我们的救星\N{\ren}Two vessels, really. Onboard, our saviors.
+Dialogue: 0,0:17:43.70,0:17:46.67,zh,,0,0,0,,山查兹，跟我同时拉控制杆\N{\ren}Sanchez, pull that lever the same time I do.
+Dialogue: 0,0:17:57.19,0:17:58.46,zh,,0,0,0,,靠，他们要打起来了\N{\ren}Oh, shit, they're gonna fight!
+Dialogue: 0,0:17:59.12,0:18:00.92,zh,,0,0,0,,不对，等等，他们相亲相爱\N{\ren}No, wait, they love each other.
+Dialogue: 0,0:18:01.00,0:18:02.59,zh,,0,0,0,,他们刚抵达时，确实是在互斗\N{\ren}They were at war when they arrived
+Dialogue: 0,0:18:02.67,0:18:05.18,zh,,0,0,0,,但他们都讨厌火鸡，所以和解了\N{\ren}but they united over their hatred of turkeys.
+Dialogue: 0,0:18:05.34,0:18:09.32,zh,,0,0,0,,他们相亲相爱，更爱教训火鸡\N{\ren}And what they love even more than each other is kicking turkey butt.
+Dialogue: 0,0:18:09.40,0:18:10.24,zh,,0,0,0,,各位\N{\ren}Gentlemen.
+Dialogue: 0,0:18:10.40,0:18:12.24,zh,,0,0,0,,{\c&H28dcd0&}又到了享用大餐的时候\N\N
+Dialogue: 0,0:18:24.43,0:18:26.23,zh,,0,0,0,,成功了，走吧，山查兹\N{\ren}It's working! Come on, Sanchez
+Dialogue: 0,0:18:26.31,0:18:28.16,zh,,0,0,0,,我们去把变形光束关掉\N{\ren}let's power down the humanizer ray.
+Dialogue: 0,0:18:32.95,0:18:34.38,zh,,0,0,0,,我们是站在哪一边的？\N{\ren}Whose side are we on?
+Dialogue: 0,0:18:34.46,0:18:36.47,zh,,0,0,0,,不知道，但为了学费做得够多了\N{\ren}I don't know, but we've done enough to pay for college.
+Dialogue: 0,0:18:38.51,0:18:40.48,zh,,0,0,0,,－我们就快到了　－抱歉\N{\ren}- Look, we're almost there. - Sorry.
+Dialogue: 0,0:18:41.06,0:18:42.82,zh,,0,0,0,,该由我负责带来惊喜了\N{\ren}My turn for a surprise.
+Dialogue: 0,0:18:42.90,0:18:44.87,zh,,0,0,0,,天啊，他真的很喜欢从暗处登场\N{\ren}Damn, this guy loves arriving from the shadows.
+Dialogue: 0,0:18:44.94,0:18:47.37,zh,,0,0,0,,你们是无法打败这群古代战士的\N{\ren}Look around, you can't beat our ancient warriors.
+Dialogue: 0,0:18:47.44,0:18:50.64,zh,,0,0,0,,是吗？火鸡一直都在对抗掠食者\N{\ren}Can't I? My kind has always dealt with predators.
+Dialogue: 0,0:18:50.71,0:18:52.76,zh,,0,0,0,,所以火鸡才会在树上睡觉\N{\ren}That's why we sleep in trees.
+Dialogue: 0,0:18:52.84,0:18:55.44,zh,,0,0,0,,所以野生火鸡才会飞\N{\ren}And that's why, in the wild, we fly.
+Dialogue: 0,0:18:58.36,0:19:00.29,zh,,0,0,0,,现在轮到你选择了\N{\ren}Now, you must choose.
+Dialogue: 0,0:19:00.36,0:19:02.37,zh,,0,0,0,,看你要对付我还是阻止那武器\N{\ren}Fight me, or stop that weapon
+Dialogue: 0,0:19:02.45,0:19:06.67,zh,,0,0,0,,把全美火鸡变成新的种族\N{\ren}from turning all of America's turkeys into a new master race.
+Dialogue: 0,0:19:06.75,0:19:08.14,zh,,0,0,0,,你这蠢蛋，我们有三个人\N{\ren}You dumb dipshit, there's three of us
+Dialogue: 0,0:19:08.22,0:19:09.27,zh,,0,0,0,,其中两个是太空人\N{\ren}and two of us are spacemen.
+Dialogue: 0,0:19:09.34,0:19:11.19,zh,,0,0,0,,他们当然会去拯救美国\N{\ren}Obviously, they're going to save America
+Dialogue: 0,0:19:11.26,0:19:12.44,zh,,0,0,0,,把纪念碑带回来\N{\ren}and bring that monument home.
+Dialogue: 0,0:19:12.51,0:19:14.28,zh,,0,0,0,,而我会负责教训你\N{\ren}And I'm gonna kick your ass.
+Dialogue: 0,0:19:14.35,0:19:16.61,zh,,0,0,0,,对了，山查兹？我赦免你\N{\ren}Oh, and Sanchez? You got your pardon.
+Dialogue: 0,0:19:17.02,0:19:18.54,zh,,0,0,0,,闭嘴，莫蒂，我们走\N{\ren}Shut up, Morty! Come on!
+Dialogue: 0,0:19:18.87,0:19:21.38,zh,,0,0,0,,－来吧，婊子　－没问题\N{\ren}- Let's go, bitch. - So be it.
+Dialogue: 0,0:19:24.15,0:19:25.66,zh,,0,0,0,,火鸡人说的是真的吗？\N{\ren}Is it true what Turkey Man said?
+Dialogue: 0,0:19:25.74,0:19:27.12,zh,,0,0,0,,火鸡会在树上睡觉吗？\N{\ren}That turkeys sleep in trees?
+Dialogue: 0,0:19:27.20,0:19:29.80,zh,,0,0,0,,谁在乎，莫蒂？先关闭这武器\N{\ren}Who the hell cares, Morty? Let's just deactivate this shit.
+Dialogue: 0,0:19:29.88,0:19:33.98,zh,,0,0,0,,计算中，锁定全美火鸡\N{\ren}Calibrating... Targeting all American turkeys.
+Dialogue: 0,0:19:34.05,0:19:35.48,zh,,0,0,0,,天啊，竟然还有配音？\N{\ren}Oh my god, they gave it a voice?
+Dialogue: 0,0:19:35.55,0:19:37.27,zh,,0,0,0,,配给谁听？这里是太空\N{\ren}Who is this for? We're in space.
+Dialogue: 0,0:19:38.40,0:19:40.00,zh,,0,0,0,,天啊，瑞克，给他们听的吧？\N{\ren}Jeez, Rick... I guess them?
+Dialogue: 0,0:19:40.07,0:19:41.12,zh,,0,0,0,,莫蒂，这要小心使用\N{\ren}Morty, use this carefully.
+Dialogue: 0,0:19:41.20,0:19:43.09,zh,,0,0,0,,把变形核心打开，剪断蓝色电线\N{\ren}Crack the humanizer core and cut the blue wire.
+Dialogue: 0,0:19:43.16,0:19:44.21,zh,,0,0,0,,听到没有？蓝色电线\N{\ren}You hear me? Blue wire!
+Dialogue: 0,0:19:44.29,0:19:45.38,zh,,0,0,0,,什么？干吗不直接炸掉？\N{\ren}Why don't we just blow it up?
+Dialogue: 0,0:19:45.46,0:19:46.92,zh,,0,0,0,,这是纪念碑，蠢蛋\N{\ren}It's a national monument, fucknut!
+Dialogue: 0,0:19:47.00,0:19:48.06,zh,,0,0,0,,我们才刚被赦免\N{\ren}We just got pardoned.
+Dialogue: 0,0:19:48.14,0:19:49.60,zh,,0,0,0,,你明年还想再重来一次吗？\N{\ren}You really wanna do this again next year?
+Dialogue: 0,0:19:54.75,0:19:56.14,zh,,0,0,0,,你忘了一件事，火鸡人\N{\ren}You forgot something, Turkey Man.
+Dialogue: 0,0:19:56.63,0:19:58.82,zh,,0,0,0,,即使你骗过了其他人\N{\ren}No matter what you got people to believe...
+Dialogue: 0,0:19:58.90,0:20:01.12,zh,,0,0,0,,我还是真正的总统\N{\ren}I'm still the goddamn President.
+Dialogue: 0,0:20:01.19,0:20:03.75,zh,,0,0,0,,你也忘了，我当上总统一天\N{\ren}And you forget, in the one day I've had your job...
+Dialogue: 0,0:20:03.82,0:20:06.58,zh,,0,0,0,,就学到了十倍多的事\N{\ren}I've learned ten times as much.
+Dialogue: 0,0:20:06.66,0:20:10.14,zh,,0,0,0,,－是我小看你了　－不会有下次\N{\ren}- I've underestimated you. - For the last time.
+Dialogue: 0,0:20:15.31,0:20:17.32,zh,,0,0,0,,瑞克，这些颜色太相近了\N{\ren}Rick, they're not exactly primary colors!
+Dialogue: 0,0:20:17.39,0:20:19.33,zh,,0,0,0,,蓝绿色可以吗？\N{\ren}Are we cool with like, turquoise?
+Dialogue: 0,0:20:19.41,0:20:22.13,zh,,0,0,0,,有没有搞错，莫蒂？快点剪断\N{\ren}Are you kidding me, Morty? Just cut the damn thing!
+Dialogue: 0,0:20:22.20,0:20:23.55,zh,,0,0,0,,靠，干\N{\ren}Oh, shit! Oh, fuck!
+Dialogue: 0,0:20:26.08,0:20:28.56,zh,,0,0,0,,已锁定目标，启动武器\N{\ren}Targets acquired. Activating weapon.
+Dialogue: 0,0:20:28.64,0:20:29.82,zh,,0,0,0,,靠\N{\ren}Oh, shit!
+Dialogue: 0,0:20:31.73,0:20:33.53,zh,,0,0,0,,古迹已遭摧毁\N{\ren}Heritage destroyed.
+Dialogue: 0,0:20:33.61,0:20:35.03,zh,,0,0,0,,莫蒂\N{\ren}Morty!
+Dialogue: 0,0:20:36.86,0:20:38.97,zh,,0,0,0,,该死，我只交代你一件事而已\N{\ren}Goddamnit, you had one job!
+Dialogue: 0,0:20:47.22,0:20:48.28,zh,,0,0,0,,我打败你了\N{\ren}I beat you!
+Dialogue: 0,0:20:48.36,0:20:50.29,zh,,0,0,0,,看着我，你这死火鸡\N{\ren}Look at me, you turkey ass bitch.
+Dialogue: 0,0:20:51.61,0:20:55.34,zh,,0,0,0,,等等，你干吗…这是许愿骨吗？\N{\ren}Wait, why are you... Is that a wishbone?
+Dialogue: 0,0:20:55.41,0:20:57.67,zh,,0,0,0,,我希望能爆炸\N{\ren}I wish to explode.
+Dialogue: 0,0:21:04.56,0:21:07.36,zh,,0,0,0,,－柏林围墙倒了　－这叫PS\N{\ren}- The Berlin Wall has come down. - It's called the PlayStation.
+Dialogue: 0,0:21:07.44,0:21:10.34,zh,,0,0,0,,－《莎翁情史》获胜　－PS2\N{\ren}- The winner is Shakespeare In Love. - PlayStation 2.
+Dialogue: 0,0:21:10.41,0:21:12.13,zh,,0,0,0,,卡崔娜飓风席卷路易斯安那州\N{\ren}Hurricane Katrina slams Louisiana.
+Dialogue: 0,0:21:12.21,0:21:14.05,zh,,0,0,0,,－PS3　－有请魔力红\N{\ren}- PlayStation 3! - This is Maroon 5.
+Dialogue: 0,0:21:14.13,0:21:15.85,zh,,0,0,0,,－PS4　－小熊队获胜\N{\ren}- PlayStation 4! - The Cubbies win!
+Dialogue: 0,0:21:15.92,0:21:17.72,zh,,0,0,0,,我想要PS5\N{\ren}I want a PlayStation 5.
+Dialogue: 0,0:21:19.56,0:21:20.82,zh,,0,0,0,,我不确定什么时候该拉你起来\N{\ren}I wasn't sure when to pull you out.
+Dialogue: 0,0:21:20.90,0:21:22.78,zh,,0,0,0,,我猜你应该在经历人生跑马灯\N{\ren}I assumed you were running through your whole life.
+Dialogue: 0,0:21:23.19,0:21:26.37,zh,,0,0,0,,没错，我的人生真精彩\N{\ren}Yes. And what a life it was.
+Dialogue: 0,0:21:27.32,0:21:29.97,zh,,0,0,0,,各位，感谢你们再次拯救美国\N{\ren}Gentleman, thank you once again for saving this nation.
+Dialogue: 0,0:21:30.05,0:21:31.89,zh,,0,0,0,,{\c&H28dcd0&}你背叛了你的人民\N\N
+Dialogue: 0,0:21:31.97,0:21:33.19,zh,,0,0,0,,我不会讲你们的语言\N{\ren}I don't speak Googa.
+Dialogue: 0,0:21:33.26,0:21:35.44,zh,,0,0,0,,中情局只有教我讲启动指令\N{\ren}The CIA only taught me your activation phrase.
+Dialogue: 0,0:21:35.51,0:21:36.94,zh,,0,0,0,,但我如果会讲\N{\ren}But if I could say anything
+Dialogue: 0,0:21:37.02,0:21:39.96,zh,,0,0,0,,我会请你们再给美国一次机会\N{\ren}I'd say, give America one more chance.
+Dialogue: 0,0:21:43.33,0:21:45.29,zh,,0,0,0,,{\c&H28dcd0&}我从铁血战士那里拿到的\N\N
+Dialogue: 0,0:21:46.79,0:21:49.06,zh,,0,0,0,,天啊，他们要打起来了，是真的\N{\ren}Oh my god, they're gonna fight, they're really gonna fight.
+Dialogue: 0,0:21:50.14,0:21:51.73,zh,,0,0,0,,他们相亲相爱\N{\ren}They love each other!
+Dialogue: 0,0:21:51.81,0:21:53.53,zh,,0,0,0,,－真感人　－百看不厌\N{\ren}- Never gets old. - I'll never get tired of that.
+Dialogue: 0,0:21:53.60,0:21:55.95,zh,,0,0,0,,所以那些外星人发现美国之后\N{\ren}So, after those aliens discovered America...
+Dialogue: 0,0:21:56.02,0:21:57.20,zh,,0,0,0,,他们就进入长眠了\N{\ren}They went into hibernation.
+Dialogue: 0,0:21:57.28,0:22:00.80,zh,,0,0,0,,把科技交给我们，领导自由世界\N{\ren}Leaving us the technology we use to lead the free world.
+Dialogue: 0,0:22:00.87,0:22:02.93,zh,,0,0,0,,还有蓄奴之类的事\N{\ren}That, and also to do stuff like slavery.
+Dialogue: 0,0:22:03.00,0:22:05.56,zh,,0,0,0,,我一直以为我们很特别\N{\ren}I always thought we were... more special than that.
+Dialogue: 0,0:22:05.63,0:22:07.27,zh,,0,0,0,,我们发明了一切，做了一切\N{\ren}Like we invented everything and did everything
+Dialogue: 0,0:22:07.34,0:22:08.74,zh,,0,0,0,,所以我们才拥有一切\N{\ren}and that's why we own everything.
+Dialogue: 0,0:22:08.81,0:22:10.83,zh,,0,0,0,,我现在不知道该作何感想\N{\ren}Now, I-I don't know what to feel.
+Dialogue: 0,0:22:10.90,0:22:13.87,zh,,0,0,0,,心怀感恩，莫蒂，心怀感恩\N{\ren}Feel thankful, Morty. Feel thankful.
+Dialogue: 0,0:22:46.82,0:22:48.26,zh,,0,0,0,,我知道，宝贝\N{\ren}I know, baby.
+Dialogue: 0,0:22:48.33,0:22:51.10,zh,,0,0,0,,库普，要买哪一种早餐麦片？\N{\ren}Coop, honey, should we get Lucky Charms or Kibble Bibbitz?
+Dialogue: 0,0:22:51.17,0:22:52.72,zh,,0,0,0,,你知道我们都买不起\N{\ren}You know we can't afford either.
+Dialogue: 0,0:22:52.80,0:22:54.56,zh,,0,0,0,,宝贝，总统明明欠你人情\N{\ren}Baby, the President owes you.
+Dialogue: 0,0:22:54.63,0:22:55.69,zh,,0,0,0,,你救了他一命\N{\ren}You saved him!
+Dialogue: 0,0:22:55.76,0:22:57.61,zh,,0,0,0,,我们的保险预算被删减不能怪他\N{\ren}Ain't his fault our insurance got cut.
+Dialogue: 0,0:22:57.68,0:22:58.87,zh,,0,0,0,,他们得生产飞弹\N{\ren}They gotta build missiles.
+Dialogue: 0,0:22:59.03,0:23:01.83,zh,,0,0,0,,好吧，你可以抱一下杰克吗？\N{\ren}Fine, just... Can y'all hold Jakey for a second?
+Dialogue: 0,0:23:12.31,0:23:14.65,zh,,0,0,0,,－他在干吗？　－他好像在觅食\N{\ren}- What the hell's he doing? - I think he's foraging.
+Dialogue: 0,0:23:14.73,0:23:16.61,zh,,0,0,0,,这疯子以为自己是火鸡\N{\ren}Crazy bastard thinks he's a turkey.
+Dialogue: 0,0:23:16.69,0:23:18.63,zh,,0,0,0,,我拒绝帮他出健保费用\N{\ren}Well, I refuse to pay for this man's healthcare.

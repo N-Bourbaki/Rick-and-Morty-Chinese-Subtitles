@@ -1,0 +1,592 @@
+[Script Info]
+Title: S05E03 by Nicolas Bourbaki
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: zh,微软雅黑,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: en,Comic Sans MS,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: top,微软雅黑,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: git,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.25,0:00:04.75,top,,0,0,0,,本字幕第一版由Nicolas Bourbaki制作 同时发布于GitHub和SubHD 参与的成员有
+Dialogue: 0,0:00:05.25,0:00:09.75,top,,0,0,0,,H.Cartan    T-9000    Otter    ToddPacker
+Dialogue: 0,0:00:10.25,0:00:14.75,top,,0,0,0,,转载请务必保留字幕信息 Nicolas Bourbaki不对任何利用本字幕生成的视频负责
+Dialogue: 0,0:00:15.25,0:00:19.75,top,,0,0,0,,如果在观看中遇到任何错误翻译 诚邀您前往GitHub参与改错 该项目的地址是
+Dialogue: 0,0:00:20.25,0:00:24.75,top,,0,0,0,,{\rgit}https://github.com/N-Bourbaki/Rick-and-Morty-Chinese-Subtitles {\rtop}期待您的参与
+Dialogue: 0,0:00:25.25,0:00:29.75,top,,0,0,0,,GitHub Contributors: qianbinbin
+Dialogue: 0,0:07:48.35,0:07:49.56,top,,0,0,0,,收到我的花了吗
+Dialogue: 0,0:07:49.56,0:07:50.48,top,,0,0,0,,收到了 谢谢
+Dialogue: 0,0:07:50.48,0:07:52.94,top,,0,0,0,,以前从没有人给我送过花
+Dialogue: 0,0:07:54.52,0:07:57.27,top,,0,0,0,,你今天在新闻上好美
+Dialogue: 0,0:07:57.27,0:07:59.95,top,,0,0,0,,真的吗 何杏不让我看电视 提起来就好烦啊
+Dialogue: 0,0:07:59.95,0:08:02.62,top,,0,0,0,,好晚了啊 我怎么睡不着呢
+Dialogue: 0,0:08:02.62,0:08:04.58,top,,0,0,0,,去把窗户打开 凉风会吹拂你入睡
+Dialogue: 0,0:08:04.58,0:08:06.25,top,,0,0,0,,你真是个天才
+Dialogue: 0,0:19:48.54,0:19:50.67,top,,0,0,0,,求你了 说句话吧
+Dialogue: 0,0:19:50.67,0:19:55.75,top,,0,0,0,,我不知道该和你说什么
+Dialogue: 0,0:00:07.71,0:00:09.81,zh,,0,0,0,,我好喜欢这种新衬衫才有的味道啊\N{\ren}Ahh, I love that new T-shirt smell.
+Dialogue: 0,0:00:09.85,0:00:11.59,zh,,0,0,0,,小妞儿们要是看见我们穿了\N{\ren}Chicks are gonna be all up in our biz
+Dialogue: 0,0:00:11.64,0:00:13.29,zh,,0,0,0,,这身儿Rick and Morty定制衬衫 就该把持不住了\N{\ren}when they see us wearing these Rick and Morty custom tees.
+Dialogue: 0,0:00:13.33,0:00:14.81,zh,,0,0,0,,我敢说这能卖得出去\N{\ren}I bet we could sell these.
+Dialogue: 0,0:00:14.86,0:00:16.12,zh,,0,0,0,,那当然啊 我太他妈喜欢周边了\N{\ren}Hells yeah. I fuckin' love merch!
+Dialogue: 0,0:00:17.34,0:00:18.61,zh,,0,0,0,,下雨了 衣服都灼坏了 啊我操\N{\ren}-The rain! It -- It burns! -Oh, shit.
+Dialogue: 0,0:00:18.65,0:00:19.65,zh,,0,0,0,,快 Morty 保护衬衫\N{\ren}Quick, Morty, protect the shirts!
+Dialogue: 0,0:00:19.70,0:00:21.31,zh,,0,0,0,,门啊 快开门啊\N{\ren}The door! Open the door!
+Dialogue: 0,0:00:21.35,0:00:22.61,zh,,0,0,0,,-Rick -是不是\N{\ren}Rick! Is it --
+Dialogue: 0,0:00:22.66,0:00:23.92,zh,,0,0,0,,Morty 能不能别我一按你就\N{\ren}Morty, will ya stop tryna--
+Dialogue: 0,0:00:23.96,0:00:25.36,zh,,0,0,0,,好了 来吧 开了\N{\ren}Okay, there, it's open.
+Dialogue: 0,0:00:25.40,0:00:27.31,zh,,0,0,0,,-我勒个去 -我的皮肤都被烧坏了\N{\ren}-Jesus. -My skin is on fire.
+Dialogue: 0,0:00:27.36,0:00:28.67,zh,,0,0,0,,怎 怎么雨会烧伤我呢\N{\ren}W-Why is the rain doing that?
+Dialogue: 0,0:00:28.72,0:00:31.72,zh,,0,0,0,,我下的酸雨\N{\ren}My acid rain will destroy
+Dialogue: 0,0:00:31.76,0:00:35.99,zh,,0,0,0,,就是要毁掉所有绿色天然的东西 不然怎么配得上我柴油黄鼠狼的名号\N{\ren}all things green and natural or my name isn't Diesel Weasel.
+Dialogue: 0,0:00:38.43,0:00:41.52,zh,,0,0,0,,呃 那哥们好容易满足啊\N{\ren}Huh. Well, that guy's easy to please.
+Dialogue: 0,0:00:41.57,0:00:44.31,zh,,0,0,0,,你的酸雨 真是好酸呢\N{\ren}Your acid rain is an acid pain...
+Dialogue: 0,0:00:44.35,0:00:46.18,zh,,0,0,0,,酸到令人作呕呀 柴油黄鼠狼\N{\ren}in the butt, Diesel Weasel!
+Dialogue: 0,0:00:46.22,0:00:47.57,zh,,0,0,0,,-唉呀呀 -哇哦\N{\ren}-Yikes. -Wow.
+Dialogue: 0,0:00:47.62,0:00:49.19,zh,,0,0,0,,那个话都说不利索的小妞是谁\N{\ren}Who's the chick in need of a dialogue pass?
+Dialogue: 0,0:00:49.24,0:00:51.98,zh,,0,0,0,,第一要务是要扫清这场酸雨\N{\ren}First order of business is to clean up this acid rain
+Dialogue: 0,0:00:52.02,0:00:53.85,zh,,0,0,0,,就用一阵“风”吧\N{\ren}with a little wind!
+Dialogue: 0,0:00:54.94,0:00:56.63,zh,,0,0,0,,我的腿呀\N{\ren}Ow! Ow, my leg!
+Dialogue: 0,0:00:58.11,0:01:00.39,zh,,0,0,0,,现在 吃我一记元素拳 火热到你难以招架\N{\ren}And now an elemental punch that's too hot to handle!
+Dialogue: 0,0:01:00.43,0:01:01.91,zh,,0,0,0,,我打\N{\ren}Wa-kah!
+Dialogue: 0,0:01:03.22,0:01:04.39,zh,,0,0,0,,我诅咒你 星球娜娜\N{\ren}Curse you, Planetina!
+Dialogue: 0,0:01:04.44,0:01:06.44,zh,,0,0,0,,我还会回来的\N{\ren}I'll get you next slime!
+Dialogue: 0,0:01:08.09,0:01:11.06,zh,,0,0,0,,地球污染的唯一解决之道 就在你\N{\ren}There's only one solution for Earth's pollution -- you!
+Dialogue: 0,0:01:12.06,0:01:13.72,zh,,0,0,0,,-哇哦 -Morty 你要是敢再说一遍哇哦\N{\ren}-Wow. -Morty, if you say "wow"
+Dialogue: 0,0:01:13.76,0:01:15.06,zh,,0,0,0,,妈的你信不信我\N{\ren}one more time, I swear to fucking God...
+Dialogue: 0,0:01:15.11,0:01:16.81,zh,,0,0,0,,Rick 你疯了吗 人家可就在那呢\N{\ren}Are you crazy, Rick? She's right there!
+Dialogue: 0,0:01:16.85,0:01:18.47,zh,,0,0,0,,行 那快把那块铝收好呢 地球的8%都是它呢\N{\ren}Yeah, get that aluminum, Morty. It's 8% of the Earth.
+Dialogue: 0,0:01:18.51,0:01:19.99,zh,,0,0,0,,每个原子都很珍贵哦\N{\ren}We'll need every atom.
+Dialogue: 0,0:01:20.78,0:01:23.08,zh,,0,0,0,,谢谢 “圾”少成多嘛\N{\ren}Thanks! Every litter-bit helps!
+Dialogue: 0,0:01:23.13,0:01:24.56,zh,,0,0,0,,你有问题\N{\ren}Your problem!
+Dialogue: 0,0:01:24.61,0:01:25.95,zh,,0,0,0,,-你说什么 -不好意思\N{\ren}Excuse me? S-Sorry.
+Dialogue: 0,0:01:26.00,0:01:28.45,zh,,0,0,0,,我本来想说 没有问题 你客气了\N{\ren}I-I-I wanted to say, "N-No problem, you're welcome,"
+Dialogue: 0,0:01:28.49,0:01:30.49,zh,,0,0,0,,结结结果就说成了 你有问题\N{\ren}a-a-and it came out "your problem."
+Dialogue: 0,0:01:30.53,0:01:31.75,zh,,0,0,0,,我是个傻子 对不起\N{\ren}I-I'm an idiot. Sorry.
+Dialogue: 0,0:01:31.80,0:01:34.41,zh,,0,0,0,,你才不傻呢 你回收了易拉罐啊\N{\ren}You're not an idiot. You recycled.
+Dialogue: 0,0:01:34.45,0:01:36.45,zh,,0,0,0,,-我 我叫Morty -遇见你真开心 Morty\N{\ren}-I-I'm Morty. -Nice to meet you, Morty.
+Dialogue: 0,0:01:36.50,0:01:38.64,zh,,0,0,0,,我是星球娜娜 愿你今天开心哦\N{\ren}I'm Planetina, and I hope you have a wonderful day.
+Dialogue: 0,0:01:39.77,0:01:40.90,zh,,0,0,0,,你他妈磨蹭什么呢\N{\ren}The fuck we doin' here?
+Dialogue: 0,0:01:40.95,0:01:42.99,zh,,0,0,0,,你爱吃软冰淇淋吗\N{\ren}Uhh, y-y-you like soft serve?
+Dialogue: 0,0:01:43.04,0:01:44.34,zh,,0,0,0,,路拐弯那儿有家店\N{\ren}There's a shop around the bend.
+Dialogue: 0,0:01:44.38,0:01:46.08,zh,,0,0,0,,我不吃冰淇淋的\N{\ren}Oh, I don't eat ice cream.
+Dialogue: 0,0:01:46.13,0:01:48.49,zh,,0,0,0,,因为乳品厂也产小牛肉\N{\ren}Veal is a product of the dairy industry.
+Dialogue: 0,0:01:48.53,0:01:49.66,zh,,0,0,0,,噢 那可不太好\N{\ren}Oh, that's not good.
+Dialogue: 0,0:01:49.70,0:01:50.88,zh,,0,0,0,,是啊 不好\N{\ren}No, it is not.
+Dialogue: 0,0:01:50.92,0:01:53.45,zh,,0,0,0,,我的天啊 你快点啊 咱要撤了\N{\ren}Oh, my God! Come on! Let's go!
+Dialogue: 0,0:01:53.49,0:01:55.49,zh,,0,0,0,,我知道有个地方卖对动物零残忍的甜甜圈\N{\ren}I know a place that serves cruelty-free doughnuts.
+Dialogue: 0,0:01:55.54,0:01:57.63,zh,,0,0,0,,要是你们乐意 我可以带上你和你的朋友飞过去\N{\ren}If you'd like, I could fly you and your friend there
+Dialogue: 0,0:01:57.67,0:01:58.85,zh,,0,0,0,,难度仅次于背个书包上学堂\N{\ren}easy-peasy, lemon-squeezy.
+Dialogue: 0,0:01:58.90,0:02:00.99,zh,,0,0,0,,好啊 那我问问他去\N{\ren}Okay, I-I-I'll ask him.
+Dialogue: 0,0:02:01.03,0:02:03.86,zh,,0,0,0,,他 他说他去不了了 咱起飞吧\N{\ren}He -- He said he can't come. Let's go!
+Dialogue: 0,0:02:05.43,0:02:07.99,zh,,0,0,0,,都他妈什么鬼\N{\ren}What the fuck was that shit?
+Dialogue: 0,0:02:39.33,0:02:41.07,zh,,0,0,0,,地球已陷入危机\N{\ren}The Earth is in danger!
+Dialogue: 0,0:02:41.11,0:02:43.50,zh,,0,0,0,,污染和浪费在蚕食我们的家园\N{\ren}Pollution and waste are ruining our planet.
+Dialogue: 0,0:02:43.55,0:02:46.03,zh,,0,0,0,,大自然妈妈召集了四名年轻人\N{\ren}Mother Nature has enlisted the help of four young adults
+Dialogue: 0,0:02:46.07,0:02:48.30,zh,,0,0,0,,他们来自四大主要人种 当情况变糟\N{\ren}from each major ethnicity -- and when things look bad,
+Dialogue: 0,0:02:48.34,0:02:51.09,zh,,0,0,0,,我是说真的很糟的情况下\N{\ren}and I mean really bad -- they combine the powers
+Dialogue: 0,0:02:51.13,0:02:53.70,zh,,0,0,0,,他们会集结起元素戒指的力量 创造出我来\N{\ren}of their elemental rings to create me!
+Dialogue: 0,0:02:53.74,0:02:56.79,zh,,0,0,0,,我乃星球娜娜 自然环保主义超人\N{\ren}Planetina, conservationist super person!
+Dialogue: 0,0:02:56.83,0:03:00.32,zh,,0,0,0,,地球污染的唯一解决之道 就在你\N{\ren}There's only one solution... for Earth's pollution -- you!
+Dialogue: 0,0:03:00.37,0:03:01.72,zh,,0,0,0,,酷酷的 是吧\N{\ren}P-Pretty cool, huh?
+Dialogue: 0,0:03:01.76,0:03:03.76,zh,,0,0,0,,真不敢相信 我跟星球娜娜一起玩过\N{\ren}I-I can't believe I actually hung out with Planetina.
+Dialogue: 0,0:03:03.80,0:03:06.24,zh,,0,0,0,,这女的多大了 看起来怪成熟的\N{\ren}How old is this woman? She looks very mature.
+Dialogue: 0,0:03:06.29,0:03:08.16,zh,,0,0,0,,她是有知觉力的自然元素混合体\N{\ren}She's a sentient amalgam of natural elements,
+Dialogue: 0,0:03:08.20,0:03:10.08,zh,,0,0,0,,因此我想年龄的概念对她不适用\N{\ren}so I don't believe age applies to her.
+Dialogue: 0,0:03:10.13,0:03:11.74,zh,,0,0,0,,真好 就在超级巨型泳池派对的前一天\N{\ren}Great. Taylor Murphy dumps me the day before his
+Dialogue: 0,0:03:11.78,0:03:14.13,zh,,0,0,0,,Taylor Murphy把我给甩了 而我的弟弟却在和一个\N{\ren}hella-big pool party and my little brother's
+Dialogue: 0,0:03:14.17,0:03:15.83,zh,,0,0,0,,第四阶段超级英雄约会\N{\ren}dating a phase four super hero.
+Dialogue: 0,0:03:15.87,0:03:17.65,zh,,0,0,0,,恳请哪位朝我脑袋开枪 射死我算了\N{\ren}Just shoot me in the fucking head until I die.
+Dialogue: 0,0:03:17.70,0:03:19.32,zh,,0,0,0,,狂欢夏夏 不至于那样的\N{\ren}Hey, hey, none of that, Summerfest.
+Dialogue: 0,0:03:19.36,0:03:21.06,zh,,0,0,0,,看看你怎么对待你姐的 你这坨屎\N{\ren}Look what you're doing to your sister, you piece of shit.
+Dialogue: 0,0:03:21.10,0:03:22.45,zh,,0,0,0,,她还没给我发消息 这正常吗\N{\ren}Is it weird that she hasn't texted me yet?
+Dialogue: 0,0:03:22.50,0:03:23.80,zh,,0,0,0,,-不正常 -正常\N{\ren}-Yes. -No.
+Dialogue: 0,0:03:23.84,0:03:25.37,zh,,0,0,0,,如果你Rick姥爷要告诉你\N{\ren}What if I told you that your Grandpa Rick's
+Dialogue: 0,0:03:25.41,0:03:26.98,zh,,0,0,0,,他的大褂里藏了个Rick到离谱的东东\N{\ren}got something up his sleeve that's so Rick-diculous
+Dialogue: 0,0:03:27.02,0:03:28.25,zh,,0,0,0,,足以让你把那个甩了你的傻逼\N{\ren}that it's gonna make you forget all about
+Dialogue: 0,0:03:28.29,0:03:29.90,zh,,0,0,0,,忘得一干二净呢\N{\ren}that stupid asshole that dumped you?
+Dialogue: 0,0:03:29.95,0:03:31.69,zh,,0,0,0,,看着点我的鸡蛋盘子呀\N{\ren}Hey, my egg plate!
+Dialogue: 0,0:03:31.73,0:03:34.04,zh,,0,0,0,,Morglutz Slartivart 还有Ferkus 9\N{\ren}Morglutz, Slartivart, and Ferkus 9 --
+Dialogue: 0,0:03:34.08,0:03:36.56,zh,,0,0,0,,这三个行星都要在一串延迟了的\N{\ren}three planets are all ending in a delayed succession
+Dialogue: 0,0:03:36.61,0:03:38.00,zh,,0,0,0,,连锁大灾难中完蛋了\N{\ren}of cataclysmic events.
+Dialogue: 0,0:03:38.04,0:03:39.71,zh,,0,0,0,,这种连环追尾一辈子只得见一次呢\N{\ren}A jam like this comes around only once in a lifetime.
+Dialogue: 0,0:03:39.75,0:03:41.23,zh,,0,0,0,,Morglutz的太阳要爆发超新星了\N{\ren}Morglutz's sun is going supernova,
+Dialogue: 0,0:03:41.27,0:03:43.06,zh,,0,0,0,,Slartivart会被吸进黑洞\N{\ren}Slartivart is falling into a black hole,
+Dialogue: 0,0:03:43.10,0:03:44.97,zh,,0,0,0,,而Ferkus 9要遭受一场来自小行星的\N{\ren}and Ferkus 9 is getting "Deep Impact"-ed
+Dialogue: 0,0:03:45.02,0:03:46.37,zh,,0,0,0,,深度撞击\N{\ren}by an asteroid.
+Dialogue: 0,0:03:46.41,0:03:48.02,zh,,0,0,0,,它们都要经历一轮终极爆射\N{\ren}They're all having a major, final blow out --
+Dialogue: 0,0:03:48.06,0:03:49.94,zh,,0,0,0,,我要把它们一个个荼毒吸干\N{\ren}and I'm gonna drug it up and suck it up before each one
+Dialogue: 0,0:03:49.99,0:03:52.08,zh,,0,0,0,,就在它们燃爆之前\N{\ren}goes ka-blamo, and I'm taking
+Dialogue: 0,0:03:52.12,0:03:53.38,zh,,0,0,0,,而我就要带上我最喜欢的孙辈和我一起去\N{\ren}my favorite grandkid along with me!
+Dialogue: 0,0:03:53.43,0:03:55.47,zh,,0,0,0,,-棒哦 -在Morglutz待上十秒\N{\ren}Hells yeah.10 seconds on Morglutz,
+Dialogue: 0,0:03:55.51,0:03:58.66,zh,,0,0,0,,你就会深陷“他长两根屌老娘也不再屌他”的想法 不能自拔\N{\ren}and you'll be up to your neck in I-could-give-two-shits-about- what's-his-ass.
+Dialogue: 0,0:03:58.70,0:03:59.75,zh,,0,0,0,,还会得疱疹\N{\ren}And also herpes.
+Dialogue: 0,0:03:59.79,0:04:00.75,zh,,0,0,0,,哦我天啊\N{\ren}Um... Oh, my God,
+Dialogue: 0,0:04:00.79,0:04:01.88,zh,,0,0,0,,谢谢你 Rick姥爷\N{\ren}thank you, Grandpa Rick!
+Dialogue: 0,0:04:01.92,0:04:03.32,zh,,0,0,0,,我得去拿点烟\N{\ren}I'm gonna go pack my rollie.
+Dialogue: 0,0:04:03.36,0:04:05.40,zh,,0,0,0,,Summer 我我我还没允许你出门呢\N{\ren}Um, Summer? I-I-I haven't given you my approval yet.
+Dialogue: 0,0:04:05.45,0:04:06.75,zh,,0,0,0,,Summer 出门的允许\N{\ren}Summer, approval
+Dialogue: 0,0:04:06.80,0:04:08.06,zh,,0,0,0,,我还没给呢\N{\ren}is yet to be given here!
+Dialogue: 0,0:04:08.10,0:04:09.68,zh,,0,0,0,,发生了一场巨大的山火\N{\ren}There's a huge forest fire
+Dialogue: 0,0:04:09.72,0:04:11.07,zh,,0,0,0,,离家也就两百英里吧\N{\ren}like 200 miles from here!
+Dialogue: 0,0:04:11.12,0:04:13.03,zh,,0,0,0,,太棒了吧 星球娜娜肯定会去的\N{\ren}This is amazing! Planetina's bound to be there.
+Dialogue: 0,0:04:13.07,0:04:14.86,zh,,0,0,0,,妈 我 我刷你信用卡买张火车票\N{\ren}Mom, I-I need the credit card to buy a train ticket.
+Dialogue: 0,0:04:14.90,0:04:16.16,zh,,0,0,0,,想得美\N{\ren}Absolutely not.
+Dialogue: 0,0:04:16.21,0:04:17.99,zh,,0,0,0,,妈 这可是今年最大的山火啊\N{\ren}Mom, this is the biggest wildfire of the year!
+Dialogue: 0,0:04:18.04,0:04:19.35,zh,,0,0,0,,-你不准去 -你不准去\N{\ren}You're not going! 
+Dialogue: 0,0:04:19.39,0:04:20.53,zh,,0,0,0,,不准个大头鬼\N{\ren}Da fuck I'm not.
+Dialogue: 0,0:04:20.57,0:04:21.92,zh,,0,0,0,,我咋不记得这里是俄罗斯呢\N{\ren}Last time I checked, this wasn't Russia.
+Dialogue: 0,0:04:21.96,0:04:23.70,zh,,0,0,0,,-本来就不是俄罗斯 Jerry -本姑娘现在心碎成渣\N{\ren}-It's not Russia, Jerry. -My heart is broken,
+Dialogue: 0,0:04:23.75,0:04:25.31,zh,,0,0,0,,放纵一下理所应当\N{\ren}and I deserve to let loose,
+Dialogue: 0,0:04:25.36,0:04:27.75,zh,,0,0,0,,要是不服 就来嗦我大一号的奶子\N{\ren}and if you don't like it, you can suck my bigger tit.
+Dialogue: 0,0:04:27.79,0:04:29.15,zh,,0,0,0,,拜拜了您呐 傻X\N{\ren}Adios, C-words.
+Dialogue: 0,0:04:29.20,0:04:30.55,zh,,0,0,0,,Morty 我是不想你磕着碰着\N{\ren}Morty, I don't want you getting hurt.
+Dialogue: 0,0:04:30.59,0:04:32.37,zh,,0,0,0,,-再想想嘛 -才不要想\N{\ren}-Please, think this over. -I don't want to think!
+Dialogue: 0,0:04:32.42,0:04:34.12,zh,,0,0,0,,我要去见我喜欢的女生\N{\ren}I want to see a girl I like.
+Dialogue: 0,0:04:34.16,0:04:35.46,zh,,0,0,0,,你要是不肯帮我\N{\ren}If you don't want to help me,
+Dialogue: 0,0:04:35.51,0:04:37.47,zh,,0,0,0,,我就他妈自己想辙 去山火现场\N{\ren}I'll find my own goddamn way to the wildfire.
+Dialogue: 0,0:04:42.31,0:04:44.35,zh,,0,0,0,,-我去拿酒 -谢了\N{\ren}-I'll get the wine. -Thank you.
+Dialogue: 0,0:04:44.40,0:04:47.09,zh,,0,0,0,,州长已经启动了强制撤离\N{\ren}The Governor has implemented a mandatory evacuation.
+Dialogue: 0,0:04:47.14,0:04:49.72,zh,,0,0,0,,放弃希望吧各位 大火已经势不可挡\N{\ren}Abandon all hope, people! Nothing will stop this fire.
+Dialogue: 0,0:04:49.76,0:04:51.24,zh,,0,0,0,,势不可挡\N{\ren}Nothing!
+Dialogue: 0,0:04:51.28,0:04:54.11,zh,,0,0,0,,才怪 救世女神星球娜娜驾到 \N{\ren}Scratch that! Here's Planetina, Savioress of Earth!
+Dialogue: 0,0:04:54.16,0:04:56.16,zh,,0,0,0,,噫哟 脚踩风火轮儿\N{\ren}Yeeouch! Talk about a hot foot.
+Dialogue: 0,0:04:56.20,0:04:58.41,zh,,0,0,0,,山火荧荧 来点儿\N{\ren}Better put this wildfire
+Dialogue: 0,0:04:58.42,0:04:59.74,zh,,0,0,0,,冰冰\N{\ren}on ice!
+Dialogue: 0,0:05:00.21,0:05:01.43,zh,,0,0,0,,快来 小可爱\N{\ren}Come here, little buddy.
+Dialogue: 0,0:05:01.48,0:05:03.57,zh,,0,0,0,,来来来 我在呢\N{\ren}Come on, come on, come on, I gotcha.
+Dialogue: 0,0:05:04.39,0:05:06.31,zh,,0,0,0,,Morty 你怎么来了\N{\ren}Morty?! What are you doing here?
+Dialogue: 0,0:05:06.35,0:05:08.01,zh,,0,0,0,,嘿 你也在啊\N{\ren}Oh, hey! Y-You're here, too?
+Dialogue: 0,0:05:08.05,0:05:09.89,zh,,0,0,0,,嗯 在家听说了山火的事\N{\ren}Yeah, I heard about the wildfire back home,
+Dialogue: 0,0:05:09.93,0:05:11.37,zh,,0,0,0,,所以你懂的啦 我就路过帮个忙\N{\ren}and, you know, I stopped by to lend a hand.
+Dialogue: 0,0:05:11.41,0:05:13.63,zh,,0,0,0,,走吧 小家伙 安全了\N{\ren}H-Here you go, fella. All safe now.
+Dialogue: 0,0:05:13.67,0:05:16.32,zh,,0,0,0,,小白兔白又白 蹦蹦跳跳\N{\ren}Ahh, rabbits -- al-always hopping --
+Dialogue: 0,0:05:16.37,0:05:17.70,zh,,0,0,0,,真可爱\N{\ren}Never stoppin'.
+Dialogue: 0,0:05:17.74,0:05:19.04,zh,,0,0,0,,是啊\N{\ren}Y-Yeah.
+Dialogue: 0,0:05:19.08,0:05:20.52,zh,,0,0,0,,呃 那天\N{\ren}S-So it was, uh, great hanging --
+Dialogue: 0,0:05:20.56,0:05:22.13,zh,,0,0,0,,那天和你很开心啊\N{\ren}hanging out the other day.
+Dialogue: 0,0:05:22.17,0:05:24.04,zh,,0,0,0,,我有点儿 我觉得 咱俩\N{\ren}I-I was getting kind of a -- I mean I-I got kind of
+Dialogue: 0,0:05:24.08,0:05:25.22,zh,,0,0,0,,咱俩进展还不错\N{\ren}a p-positive vibe.
+Dialogue: 0,0:05:25.26,0:05:26.96,zh,,0,0,0,,那太好了 搞得我好紧张\N{\ren}Oh, good. I was putting one out.
+Dialogue: 0,0:05:27.00,0:05:28.09,zh,,0,0,0,,我很喜欢你\N{\ren}I-I really like you.
+Dialogue: 0,0:05:28.13,0:05:29.40,zh,,0,0,0,,卧嘞个槽\N{\ren}Holy shit.
+Dialogue: 0,0:05:29.45,0:05:31.58,zh,,0,0,0,,呃 我是想说 那真好啊\N{\ren}I-I-I mean, uh, well, oh, all right.
+Dialogue: 0,0:05:31.62,0:05:33.45,zh,,0,0,0,,那以后 你还想和我去玩吗\N{\ren}Next step, you w-want to go out again?
+Dialogue: 0,0:05:33.50,0:05:34.56,zh,,0,0,0,,想啊\N{\ren}I do!
+Dialogue: 0,0:05:34.57,0:05:37.28,zh,,0,0,0,,但是Morty 我有小孩了\N{\ren}But, uh, Morty, I have kids.
+Dialogue: 0,0:05:37.33,0:05:39.60,zh,,0,0,0,,我会和他们相处好的 我也还是小孩呢\N{\ren}Oh, I-I-I'll get along with them. I'm-I'm a kid.
+Dialogue: 0,0:05:39.64,0:05:41.77,zh,,0,0,0,,不 我说的是那四个孩子\N{\ren}No, I mean the four kids that bring me into existence
+Dialogue: 0,0:05:41.82,0:05:43.69,zh,,0,0,0,,他们通过结合元素戒指的力量创造了我\N{\ren}by combining the power of their elemental rings
+Dialogue: 0,0:05:43.73,0:05:45.60,zh,,0,0,0,,让我拯救地球于生态灾难\N{\ren}so I can save Earth from ecological disasters.
+Dialogue: 0,0:05:45.65,0:05:47.82,zh,,0,0,0,,他们啊 我知道\N{\ren}Oh, them! No, I-I know about them.
+Dialogue: 0,0:05:47.87,0:05:49.01,zh,,0,0,0,,他们很好啊\N{\ren}I-I like them.
+Dialogue: 0,0:05:49.05,0:05:51.10,zh,,0,0,0,,好啊 他们来了\N{\ren}Oh, good. Well, here they are now.
+Dialogue: 0,0:05:51.14,0:05:52.80,zh,,0,0,0,,喂 小子 你来要签名的吗\N{\ren}Hey, buddy, you want an autograph?
+Dialogue: 0,0:05:52.84,0:05:54.10,zh,,0,0,0,,二十块一张\N{\ren}That's 20 bucks a pop.
+Dialogue: 0,0:05:54.14,0:05:55.80,zh,,0,0,0,,别 Eddie 这是我朋友\N{\ren}No, Eddie, he's my friend.
+Dialogue: 0,0:05:55.84,0:05:59.42,zh,,0,0,0,,Morty 这就是我的孩子们 娜娜志愿者\N{\ren}Morty, these are my kids, The Tina-Teers.
+Dialogue: 0,0:05:59.59,0:06:00.94,zh,,0,0,0,,娜娜 你这是胖了么\N{\ren}Tina, girl, have you gained weight?
+Dialogue: 0,0:06:00.99,0:06:02.77,zh,,0,0,0,,呃 我昨天吃了个植基的甜甜圈\N{\ren}Uh, well, I had a plant-based doughnut yesterday.
+Dialogue: 0,0:06:02.82,0:06:03.99,zh,,0,0,0,,半个\N{\ren}Just a half.
+Dialogue: 0,0:06:04.03,0:06:06.12,zh,,0,0,0,,糖分可是最毁身材的 亲爱的\N{\ren}Sugar is worst thing for figure, darling.
+Dialogue: 0,0:06:06.17,0:06:07.65,zh,,0,0,0,,你想变丑吗\N{\ren}You want to be ugly?
+Dialogue: 0,0:06:07.69,0:06:09.48,zh,,0,0,0,,我还以为会是几个年轻人呢\N{\ren}Heh, I-I thought they'd be younger.
+Dialogue: 0,0:06:09.53,0:06:11.44,zh,,0,0,0,,他们从九十年代中期就开始创造我了\N{\ren}They've been manifesting me since the mid-'90s.
+Dialogue: 0,0:06:11.49,0:06:13.84,zh,,0,0,0,,发生了很多变化\N{\ren}A lot has changed since then.
+Dialogue: 0,0:06:13.88,0:06:15.23,zh,,0,0,0,,有点吓着你了吧\N{\ren}This is freaking you out, huh?
+Dialogue: 0,0:06:15.27,0:06:17.19,zh,,0,0,0,,确实有点\N{\ren}It is a lot to take in.
+Dialogue: 0,0:06:17.23,0:06:18.55,zh,,0,0,0,,我懂啦\N{\ren}I understand.
+Dialogue: 0,0:06:18.59,0:06:20.90,zh,,0,0,0,,那 我先走咯\N{\ren}Well, I guess I'd better go.
+Dialogue: 0,0:06:20.94,0:06:22.29,zh,,0,0,0,,之后见\N{\ren}See you around.
+Dialogue: 0,0:06:22.33,0:06:23.99,zh,,0,0,0,,雷猴啊 58台\N{\ren}Hi-de-ho, TV 58!
+Dialogue: 0,0:06:24.03,0:06:26.55,zh,,0,0,0,,星球娜娜 你单枪匹马救下了国家森林 不费吹灰之力\N{\ren}Planetina, you single-handily saved a National Forest with ease.
+Dialogue: 0,0:06:26.60,0:06:28.35,zh,,0,0,0,,我尽我所能 我绝不独行\N{\ren}I do what I can, but I can't do it alone!
+Dialogue: 0,0:06:28.39,0:06:30.09,zh,,0,0,0,,那么你那位朋友是谁呢\N{\ren}And who's your friend over there?
+Dialogue: 0,0:06:30.13,0:06:31.61,zh,,0,0,0,,他叫Morty Smith\N{\ren}Oh! This is Morty Smith.
+Dialogue: 0,0:06:31.66,0:06:34.40,zh,,0,0,0,,他跨越了200多里路 只为了在火中拯救一只兔子\N{\ren}He traveled 200 miles just to save a rabbit from the fire.
+Dialogue: 0,0:06:34.44,0:06:35.88,zh,,0,0,0,,真是个很特别的人\N{\ren}He's a very special guy.
+Dialogue: 0,0:06:35.92,0:06:37.01,zh,,0,0,0,,那你们两个在约会吗\N{\ren}So, are you two dating?
+Dialogue: 0,0:06:37.05,0:06:39.11,zh,,0,0,0,,呃 我\N{\ren}Oh, um, w-- I-I-I --
+Dialogue: 0,0:06:39.15,0:06:41.72,zh,,0,0,0,,是的\N{\ren}Yes, we are.
+Dialogue: 0,0:06:43.24,0:06:44.68,zh,,0,0,0,,-去你妈的爱情 -去你妈的爱情\N{\ren}-Fuck love. -Fuck love.
+Dialogue: 0,0:06:44.72,0:06:46.07,zh,,0,0,0,,好了 得定几条规矩\N{\ren}All right, time to set the rules.
+Dialogue: 0,0:06:46.12,0:06:47.07,zh,,0,0,0,,-放马过来 -不许叽歪\N{\ren}-Lay it on me. -No whining.
+Dialogue: 0,0:06:47.12,0:06:48.07,zh,,0,0,0,,-懂 -不许哭\N{\ren}Done. No crying.
+Dialogue: 0,0:06:48.12,0:06:49.43,zh,,0,0,0,,我哭过吗\N{\ren}As if.
+Dialogue: 0,0:06:49.48,0:06:51.09,zh,,0,0,0,,还有绝对 必须 不许有情感依赖\N{\ren}And absolutely, positively no getting attached.
+Dialogue: 0,0:06:51.13,0:06:53.79,zh,,0,0,0,,我们可是要去拍打无数肥臀了 先保量后保质\N{\ren}We're here to smash max ass -- quantity over quality.
+Dialogue: 0,0:06:53.83,0:06:55.18,zh,,0,0,0,,-成交吗 -成交\N{\ren}-Deal? -Deal!
+Dialogue: 0,0:06:55.22,0:06:57.22,zh,,0,0,0,,我可要好好品几副肥臀 多到把你吓出屎\N{\ren}I'm gonna eat so much ass, you're gonna shit.
+Dialogue: 0,0:06:57.27,0:06:58.93,zh,,0,0,0,,看好啦 我在派对上就会是这副德行\N{\ren}Check this out. This is gonna be me at the party --
+Dialogue: 0,0:07:00.15,0:07:01.63,zh,,0,0,0,,哇 又一对屁屁吗\N{\ren}Oh, is that another ass?
+Dialogue: 0,0:07:01.67,0:07:03.59,zh,,0,0,0,,那就别介意我\N{\ren}Don't mind if I--
+Dialogue: 0,0:07:03.63,0:07:06.42,zh,,0,0,0,,那我挤过人群的时候大概会说 打扰啊小姐\N{\ren}Ho-ho! This'll be me across the room -- "Excuse me, miss.
+Dialogue: 0,0:07:06.46,0:07:08.11,zh,,0,0,0,,你好像还有一对屁屁没有被舔过\N{\ren}It appears that you have an uneaten ass.
+Dialogue: 0,0:07:08.16,0:07:10.13,zh,,0,0,0,,要不我就\N{\ren}Allow me --
+Dialogue: 0,0:07:15.35,0:07:17.61,zh,,0,0,0,,超新星派对牛逼\N{\ren}Whoo! Fucking super nova party!
+Dialogue: 0,0:07:17.66,0:07:19.45,zh,,0,0,0,,爱都是谎言 操翻这颗星\N{\ren}Love is a lie! Hack the planet!
+Dialogue: 0,0:07:19.49,0:07:20.80,zh,,0,0,0,,世界即将终结 不知为何\N{\ren}The world's ending, and for some reason,
+Dialogue: 0,0:07:20.84,0:07:22.93,zh,,0,0,0,,我只想和你共度余期\N{\ren}I want to die with you more than anyone else.
+Dialogue: 0,0:07:24.06,0:07:25.20,zh,,0,0,0,,Rick 先别看过去\N{\ren}Yo, Rick, don't look now,
+Dialogue: 0,0:07:25.24,0:07:27.63,zh,,0,0,0,,那边有人在冲你抛媚眼哦\N{\ren}but someone's giving you the big eye.
+Dialogue: 0,0:07:29.30,0:07:30.65,zh,,0,0,0,,借光 我得去看看\N{\ren}'Scuse me. I got to see a man about
+Dialogue: 0,0:07:30.69,0:07:33.21,zh,,0,0,0,,骑马的事儿了\N{\ren}a horse I'd rather have sex with.
+Dialogue: 0,0:07:34.39,0:07:35.69,zh,,0,0,0,,-你好 -我叫Rick\N{\ren}-Hello. -I'm Rick.
+Dialogue: 0,0:07:35.74,0:07:38.17,zh,,0,0,0,,世界即将终结 不知为何\N{\ren}Hey. So, the world's ending, and for some reason,
+Dialogue: 0,0:07:38.22,0:07:40.19,zh,,0,0,0,,我只想和你共度余期\N{\ren}I want to die with you more than anyone else.
+Dialogue: 0,0:07:40.23,0:07:41.27,zh,,0,0,0,,你好哦\N{\ren}Hello.
+Dialogue: 0,0:07:41.32,0:07:42.32,zh,,0,0,0,,好好玩哦 Rick姥爷\N{\ren}Have fun, Grandpa Rick!
+Dialogue: 0,0:07:42.36,0:07:44.67,zh,,0,0,0,,不要投入太多哦\N{\ren}No commitments!
+Dialogue: 0,0:07:44.71,0:07:49.34,zh,,0,0,0,,*我乘飞机飞向你*\N{\ren}*I flew to you on an airplane*
+Dialogue: 0,0:07:51.73,0:07:57.87,zh,,0,0,0,,*我畏惧你给予的力量*\N{\ren}*I was afraid that you gave me strength*
+Dialogue: 0,0:07:57.91,0:08:04.23,zh,,0,0,0,,*鸟儿永远比翼飞*\N{\ren}*Forever, birds were soul twin loves*
+Dialogue: 0,0:08:04.27,0:08:06.23,zh,,0,0,0,,*宝贝 快回到我身边*\N{\ren}*Baby, come back to me*
+Dialogue: 0,0:08:06.28,0:08:09.42,zh,,0,0,0,,*宝贝快回来 宛如一个*\N{\ren}*Baby, come back like it was*
+Dialogue: 0,0:08:09.85,0:08:10.90,zh,,0,0,0,,惊喜\N{\ren}Surprise!
+Dialogue: 0,0:08:10.94,0:08:11.94,zh,,0,0,0,,你怎么来了\N{\ren}What are you doing here?
+Dialogue: 0,0:08:13.38,0:08:15.47,zh,,0,0,0,,我跟孩子们说我去回收电池了\N{\ren}I told my kids I went out to recycle batteries.
+Dialogue: 0,0:08:15.51,0:08:17.86,zh,,0,0,0,,不开玩笑了 所有人都该把\N{\ren}All kidding aside, everyone should discard
+Dialogue: 0,0:08:17.91,0:08:19.53,zh,,0,0,0,,用旧的电池\N{\ren}used batteries
+Dialogue: 0,0:08:19.53,0:08:20.53,zh,,0,0,0,,送进合适的\N{\ren}at proper
+Dialogue: 0,0:08:20.53,0:08:21.53,zh,,0,0,0,,回收中心\N{\ren}disposal centers
+Dialogue: 0,0:08:21.57,0:08:23.88,zh,,0,0,0,,而不是随便扔到普通的垃圾桶里去\N{\ren}instead of tossing them into a regular waste bin.
+Dialogue: 0,0:08:23.92,0:08:24.84,zh,,0,0,0,,多谢提醒\N{\ren}Thanks for the tip.
+Dialogue: 0,0:08:24.88,0:08:28.46,zh,,0,0,0,,*花儿不会常开*\N{\ren}*Flowers never last forever*
+Dialogue: 0,0:08:28.50,0:08:31.98,zh,,0,0,0,,*但我们可以让它成为永远的过去*\N{\ren}*But we can make it past forever*
+Dialogue: 0,0:08:32.07,0:08:33.42,zh,,0,0,0,,*宝贝 快回到我身边*\N{\ren}*Baby, come home to me*
+Dialogue: 0,0:08:33.46,0:08:36.73,zh,,0,0,0,,*宝贝 你我一起便是家*\N{\ren}*Baby, you're home with me*
+Dialogue: 0,0:08:40.74,0:08:43.05,zh,,0,0,0,,五zip-zops以后 Solus就要塌了\N{\ren}Solus is collapsing in five zip-zops.
+Dialogue: 0,0:08:43.09,0:08:44.35,zh,,0,0,0,,如果时间算得准\N{\ren}If we time it right,
+Dialogue: 0,0:08:44.40,0:08:46.14,zh,,0,0,0,,太阳爆炸时 我们就可以射个泥鸽飞靶了\N{\ren}we can skeet together as the sun explodes.
+Dialogue: 0,0:08:46.18,0:08:47.49,zh,,0,0,0,,听起来好棒哦\N{\ren}Sounds ah-mazing.
+Dialogue: 0,0:08:47.53,0:08:49.59,zh,,0,0,0,,说起来 我好像把包包落在吧台了\N{\ren}Say, I think I left my purse back at the bar.
+Dialogue: 0,0:08:49.63,0:08:51.37,zh,,0,0,0,,你俩都去帮我拿一下 可以吗\N{\ren}Can both of you go get it for me?
+Dialogue: 0,0:08:51.41,0:08:53.50,zh,,0,0,0,,愿意为您做任何事 奥巴马夫人\N{\ren}Anything for you, Mrs. Obama.
+Dialogue: 0,0:08:53.55,0:08:54.98,zh,,0,0,0,,是时候开溜了 Rick姥爷\N{\ren}Time to ghost, Grandpa Rick.
+Dialogue: 0,0:08:55.03,0:08:57.16,zh,,0,0,0,,好好好 车里见\N{\ren}Righty-right. Meet me at the car.
+Dialogue: 0,0:08:57.20,0:08:59.74,zh,,0,0,0,,这里总有一个是她要的吧 她去哪了\N{\ren}One of these has to be hers. Where'd she go?
+Dialogue: 0,0:08:59.78,0:09:01.35,zh,,0,0,0,,看来得我们两个先开始了\N{\ren}I guess we'll have to start without her.
+Dialogue: 0,0:09:01.39,0:09:02.44,zh,,0,0,0,,她的损失哦\N{\ren}Oh, her loss.
+Dialogue: 0,0:09:05.53,0:09:07.88,zh,,0,0,0,,二号行星 出发\N{\ren}Whoo! Planet number two, let's do it!
+Dialogue: 0,0:09:07.92,0:09:10.02,zh,,0,0,0,,抱歉 我耽误时间了 我得支开两只舔狗\N{\ren}Sorry, I took so long. I had to ditch some clingers.
+Dialogue: 0,0:09:10.06,0:09:12.37,zh,,0,0,0,,出发 各位 屁股撅好\N{\ren}Let's do it. Up the butt, y'all.
+Dialogue: 0,0:09:12.41,0:09:13.72,zh,,0,0,0,,我去 你来驾驶没问题吧\N{\ren}Geez, you okay to drive?
+Dialogue: 0,0:09:13.76,0:09:14.54,zh,,0,0,0,,当\N{\ren}Shiii!
+Dialogue: 0,0:09:14.59,0:09:16.68,zh,,0,0,0,,然了 我我我没问题\N{\ren}'Course, I-I-I'm mable.
+Dialogue: 0,0:09:16.72,0:09:18.99,zh,,0,0,0,,系好安全带\N{\ren}Buckle up.
+Dialogue: 0,0:09:24.74,0:09:27.35,zh,,0,0,0,,这是我人生最棒的一周\N{\ren}Whoo! The best week of my life!
+Dialogue: 0,0:09:27.39,0:09:28.40,zh,,0,0,0,,你好\N{\ren}Hello.
+Dialogue: 0,0:09:28.45,0:09:29.67,zh,,0,0,0,,-什么动静 -没什么\N{\ren}What was that? Nothin'.
+Dialogue: 0,0:09:29.71,0:09:31.97,zh,,0,0,0,,谁想看最炫酷的\N{\ren}Who wants to see the most radadelic
+Dialogue: 0,0:09:32.02,0:09:33.54,zh,,0,0,0,,女版超级英雄\N{\ren}lady-version of a super hero?
+Dialogue: 0,0:09:34.58,0:09:36.33,zh,,0,0,0,,-火 -水\N{\ren}-Fire! -Water!
+Dialogue: 0,0:09:36.37,0:09:38.90,zh,,0,0,0,,-气 -还有尘\N{\ren}-Air! -And Dirt!
+Dialogue: 0,0:09:42.12,0:09:44.34,zh,,0,0,0,,哦不 是粉丝会 Morty 醒醒\N{\ren}Oh, no, the convention. Morty, wake up!
+Dialogue: 0,0:09:44.39,0:09:45.56,zh,,0,0,0,,-咱们睡过头了 -怎么了\N{\ren}-We overslept. -What's happening?
+Dialogue: 0,0:09:45.61,0:09:46.82,zh,,0,0,0,,她身上有个小男孩\N{\ren}Hey, there's a little boy on her!
+Dialogue: 0,0:09:46.87,0:09:48.62,zh,,0,0,0,,放下幕布\N{\ren}Oh, d-d-drop the curtain!
+Dialogue: 0,0:09:48.66,0:09:49.62,zh,,0,0,0,,根本没有幕布\N{\ren}There is no curtain!
+Dialogue: 0,0:09:49.66,0:09:50.75,zh,,0,0,0,,白痴 把她收了\N{\ren}Idiots, zap her away!
+Dialogue: 0,0:09:50.79,0:09:52.14,zh,,0,0,0,,别别 等下 我还\N{\ren}No, no, no. Wait, I-I --
+Dialogue: 0,0:09:52.19,0:09:53.45,zh,,0,0,0,,保安\N{\ren}-Whoa! -Security!
+Dialogue: 0,0:09:53.49,0:09:54.84,zh,,0,0,0,,你做了什么 让她回来\N{\ren}What did you do? B-Bring her back!
+Dialogue: 0,0:09:54.89,0:09:56.58,zh,,0,0,0,,-抱歉了大伙儿 -放开我\N{\ren}-No! Let me go! -Sorry, folks.
+Dialogue: 0,0:09:56.63,0:09:58.29,zh,,0,0,0,,星球娜娜马上就会回来\N{\ren}Planetina will be back in a moment.
+Dialogue: 0,0:09:58.33,0:10:02.47,zh,,0,0,0,,在此之前 谁想只花五十美元 就拿到一个限量款玩偶\N{\ren}Until then, who wants a limited edition Funko for only $50?
+Dialogue: 0,0:10:03.60,0:10:05.38,zh,,0,0,0,,这很难看\N{\ren}This is very bad.
+Dialogue: 0,0:10:05.43,0:10:06.52,zh,,0,0,0,,眼看着就要成交了\N{\ren}We are about to close deal.
+Dialogue: 0,0:10:06.56,0:10:08.27,zh,,0,0,0,,眼下我们惹不起争议\N{\ren}We cannot afford controversy.
+Dialogue: 0,0:10:08.31,0:10:09.49,zh,,0,0,0,,别怕\N{\ren}Don't you worry.
+Dialogue: 0,0:10:09.53,0:10:11.75,zh,,0,0,0,,我知道怎么对付这个Morty小子\N{\ren}I know how ta deal with this Morty kid.
+Dialogue: 0,0:10:16.10,0:10:19.11,zh,,0,0,0,,哥几个准备去Hibler家\N{\ren}Hey, a bunch of us are going over to Hibler's place
+Dialogue: 0,0:10:19.16,0:10:20.51,zh,,0,0,0,,自个杀\N{\ren}to shoot ourselves.
+Dialogue: 0,0:10:20.55,0:10:22.12,zh,,0,0,0,,你想一起吗\N{\ren}Y-You want to come with?
+Dialogue: 0,0:10:22.16,0:10:24.34,zh,,0,0,0,,抱歉 今晚没人能牵制夏夏\N{\ren}Sorry, but no man's tying down Sum-Sum tonight.
+Dialogue: 0,0:10:24.38,0:10:25.34,zh,,0,0,0,,捶屌吧\N{\ren}Hit the dicks.
+Dialogue: 0,0:10:25.38,0:10:26.51,zh,,0,0,0,,你的损失哦 宝贝\N{\ren}Your loss, honey.
+Dialogue: 0,0:10:26.56,0:10:29.26,zh,,0,0,0,,本来这些都是给你的\N{\ren}You could have had allllllll this.
+Dialogue: 0,0:10:30.70,0:10:33.83,zh,,0,0,0,,快来看 老年人在跳舞呢\N{\ren}Hey, check it out! There's old people dancing!
+Dialogue: 0,0:10:42.59,0:10:44.38,zh,,0,0,0,,操 妞儿 你这舞步不输年轻人啊\N{\ren}Damn, girl. Your moves is tight.
+Dialogue: 0,0:10:44.42,0:10:45.60,zh,,0,0,0,,-你好哦 -Rick\N{\ren}-Hello. Rick!
+Dialogue: 0,0:10:45.64,0:10:48.21,zh,,0,0,0,,这他妈一个Morglutz人在搞什么鬼\N{\ren}What the WTF is that Morglutzian doing here?
+Dialogue: 0,0:10:48.26,0:10:50.04,zh,,0,0,0,,Morglutz人吗 她 她不是Morglutz人\N{\ren}Morglutzian? She's -- She's not Morglutzian.
+Dialogue: 0,0:10:50.09,0:10:52.44,zh,,0,0,0,,她是这唯一没长着三只眼的蓝人\N{\ren}She's the only blue person here without three eyes!
+Dialogue: 0,0:10:52.48,0:10:55.31,zh,,0,0,0,,好吧 被你发现了 这是 呃 Daphne\N{\ren}Okay, fine. B-Busted. Thi-Thi-This is, uh, Daphne.
+Dialogue: 0,0:10:55.35,0:10:57.01,zh,,0,0,0,,Daphne 这是Summer 我外孙女\N{\ren}Daphne, this is Summer, my granddaughter.
+Dialogue: 0,0:10:57.05,0:10:58.98,zh,,0,0,0,,外孙女啊 你好\N{\ren}Granddaughter? Hello.
+Dialogue: 0,0:10:59.02,0:11:00.59,zh,,0,0,0,,Daphne知道我们的串门派对\N{\ren}Daphne heard about our little party crawl,
+Dialogue: 0,0:11:00.63,0:11:01.72,zh,,0,0,0,,我跟她说了可以带她一个\N{\ren}and I told her she could come with.
+Dialogue: 0,0:11:01.76,0:11:02.89,zh,,0,0,0,,在在在后备箱\N{\ren}I-I-In the trunk.
+Dialogue: 0,0:11:02.94,0:11:04.46,zh,,0,0,0,,到底他妈的怎么一回事 Rick\N{\ren}What in the actual fuck, Rick?
+Dialogue: 0,0:11:04.50,0:11:05.81,zh,,0,0,0,,我们说好了不要投入真情\N{\ren}We said no commitments!
+Dialogue: 0,0:11:05.85,0:11:08.69,zh,,0,0,0,,这可是我们的末日串门派对\N{\ren}This was to be our Apocalypse Party-crawl!
+Dialogue: 0,0:11:08.74,0:11:10.26,zh,,0,0,0,,你坏了规矩\N{\ren}You broke the rules!
+Dialogue: 0,0:11:10.30,0:11:12.17,zh,,0,0,0,,呆子才守规矩 可Daphne是个怪胎\N{\ren}Squares follow rules, Summer. Daphne's down to freak.
+Dialogue: 0,0:11:12.22,0:11:14.61,zh,,0,0,0,,我想的病态肮脏的事 她都想上\N{\ren}She's up for any sick, nasty thing I want to do.
+Dialogue: 0,0:11:14.65,0:11:16.44,zh,,0,0,0,,-你好哦 -好啊宝贝\N{\ren}Hello. Oh, yeah, baby.
+Dialogue: 0,0:11:19.97,0:11:21.76,zh,,0,0,0,,可以了 小伙儿们 去歇几分钟吧\N{\ren}All right, fellas, take five.
+Dialogue: 0,0:11:21.80,0:11:23.76,zh,,0,0,0,,他对我不构成威胁\N{\ren}He ain't gonna give me any trouble.
+Dialogue: 0,0:11:23.80,0:11:25.11,zh,,0,0,0,,星球娜娜在哪\N{\ren}Where's Planetina?
+Dialogue: 0,0:11:25.15,0:11:26.94,zh,,0,0,0,,-别担心她了 -我想见她\N{\ren}-Don't you worry about her. -I want to see her!
+Dialogue: 0,0:11:26.98,0:11:29.47,zh,,0,0,0,,星球娜娜肩负太多的责任了\N{\ren}Planetina's got a lot of responsibilities.
+Dialogue: 0,0:11:29.51,0:11:30.95,zh,,0,0,0,,人们依赖她\N{\ren}People depend on her.
+Dialogue: 0,0:11:30.99,0:11:32.43,zh,,0,0,0,,而你 我的朋友\N{\ren}And you, my friend,
+Dialogue: 0,0:11:32.47,0:11:34.39,zh,,0,0,0,,我们暂时没法在你这分心\N{\ren}are a distraction we can't afford right now.
+Dialogue: 0,0:11:34.43,0:11:36.04,zh,,0,0,0,,对你们来说 她只是个商品对吗\N{\ren}She's just a product to you, isn't she?
+Dialogue: 0,0:11:36.09,0:11:37.87,zh,,0,0,0,,只是拿来赚钱的东西\N{\ren}Something to make money off of.
+Dialogue: 0,0:11:37.91,0:11:39.32,zh,,0,0,0,,可是 星球娜娜的意义远不止于此\N{\ren}W-Well, Planetina's more than that.
+Dialogue: 0,0:11:39.36,0:11:41.23,zh,,0,0,0,,她冰雪聪明 她活灵活现 而且我爱她\N{\ren}She's a brilliant, living thing, and I love her.
+Dialogue: 0,0:11:41.28,0:11:44.32,zh,,0,0,0,,你爱她是吗 你猜怎么着\N{\ren}Oh, you love her? Well, guess what.
+Dialogue: 0,0:11:44.37,0:11:45.72,zh,,0,0,0,,我们拥有她\N{\ren}We own her.
+Dialogue: 0,0:11:45.76,0:11:47.11,zh,,0,0,0,,当然也不会拥有很久了\N{\ren}But not for long, of course.
+Dialogue: 0,0:11:47.15,0:11:49.69,zh,,0,0,0,,我们要把她卖到阿拉伯了\N{\ren}We're gonna sell her to some Arab overseas.
+Dialogue: 0,0:11:49.73,0:11:51.08,zh,,0,0,0,,火\N{\ren}Fire.
+Dialogue: 0,0:11:51.12,0:11:52.86,zh,,0,0,0,,至于你 如果你漂亮的小脸蛋儿毁了\N{\ren}As for you, maybe she won't
+Dialogue: 0,0:11:52.91,0:11:55.47,zh,,0,0,0,,可能就不那么招她喜欢了呢\N{\ren}love you so much if you ain't so pretty no more.
+Dialogue: 0,0:11:55.52,0:11:56.52,zh,,0,0,0,,住手\N{\ren}Stop! Yah!
+Dialogue: 0,0:11:57.74,0:11:59.23,zh,,0,0,0,,你要招惹老子吗 要吗\N{\ren}Y-You want to fuck with me? Do you?
+Dialogue: 0,0:11:59.27,0:12:01.27,zh,,0,0,0,,臭傻逼王八蛋\N{\ren}Stupid fuckin' shit hole!
+Dialogue: 0,0:12:03.54,0:12:05.71,zh,,0,0,0,,头儿 怎么了 让我们进去\N{\ren}Boss, what's happening? Let us in!
+Dialogue: 0,0:12:06.76,0:12:08.42,zh,,0,0,0,,火\N{\ren}Fire!
+Dialogue: 0,0:12:09.81,0:12:12.16,zh,,0,0,0,,火\N{\ren}Fire!
+Dialogue: 0,0:12:13.77,0:12:15.73,zh,,0,0,0,,我们能敲定交易了吗\N{\ren}Can we conclude our business?
+Dialogue: 0,0:12:15.78,0:12:17.25,zh,,0,0,0,,我想赶紧在晚饭时\N{\ren}I'm eager to celebrate my purchase of
+Dialogue: 0,0:12:17.30,0:12:19.75,zh,,0,0,0,,庆祝买下了星球娜娜 这些宝宝海豹\N{\ren}Planetina over dinner, and these infant seals
+Dialogue: 0,0:12:19.79,0:12:21.05,zh,,0,0,0,,可越来越老了\N{\ren}aren't getting any younger.
+Dialogue: 0,0:12:21.09,0:12:22.71,zh,,0,0,0,,就要好了 同志\N{\ren}Momentarily, comrade.
+Dialogue: 0,0:12:22.75,0:12:24.88,zh,,0,0,0,,我们的合伙人马上就回来\N{\ren}Soon, our partner will return.
+Dialogue: 0,0:12:24.92,0:12:27.14,zh,,0,0,0,,Eddie怎么要那么久\N{\ren}Ugh! What is taking Eddie so long?
+Dialogue: 0,0:12:27.19,0:12:28.68,zh,,0,0,0,,打他的电话也都转到语音信箱了\N{\ren}His phone keep going to voicemail.
+Dialogue: 0,0:12:28.72,0:12:30.68,zh,,0,0,0,,*快快留言*\N{\ren}*Start leaving a message*
+Dialogue: 0,0:12:30.72,0:12:32.77,zh,,0,0,0,,*我没法接电话哦*\N{\ren}*I can't make it to the phone*
+Dialogue: 0,0:12:32.81,0:12:34.77,zh,,0,0,0,,逗你玩的 我是Eddie 操你妈滚吧\N{\ren}Just kidding. It's Eddie. Go fuck yourself.
+Dialogue: 0,0:12:35.99,0:12:37.29,zh,,0,0,0,,你们谁点披萨了\N{\ren}Which one of you ordered a pizza?
+Dialogue: 0,0:12:37.34,0:12:39.31,zh,,0,0,0,,没人点披萨 怎么回事\N{\ren}No one order pizza. What is this?
+Dialogue: 0,0:12:39.35,0:12:43.48,zh,,0,0,0,,呃 我带来了意大利奶酪 为你们特别加脆了哦\N{\ren}Well, I got a cheesy Italian, extra crispy just for you.
+Dialogue: 0,0:12:44.31,0:12:46.36,zh,,0,0,0,,我认识这头骨 和对我自己的一样熟悉\N{\ren}I know those cheek bones like they're me own!
+Dialogue: 0,0:12:46.40,0:12:47.27,zh,,0,0,0,,这是Eddie\N{\ren}It's Eddie!
+Dialogue: 0,0:12:47.31,0:12:48.80,zh,,0,0,0,,干他妈的搞死他\N{\ren}Fucking Mother! Kill him!
+Dialogue: 0,0:12:48.85,0:12:50.98,zh,,0,0,0,,-石 石 -火\N{\ren}-Stone! Stone! -Fire!
+Dialogue: 0,0:12:56.59,0:12:57.68,zh,,0,0,0,,气\N{\ren}Airs!
+Dialogue: 0,0:12:58.87,0:13:00.87,zh,,0,0,0,,冷水 冷水\N{\ren}Cold Water! Cold Water!
+Dialogue: 0,0:13:00.91,0:13:02.57,zh,,0,0,0,,尘\N{\ren}Dirt!
+Dialogue: 0,0:13:02.61,0:13:04.18,zh,,0,0,0,,火\N{\ren}Fire!
+Dialogue: 0,0:13:05.53,0:13:06.66,zh,,0,0,0,,水\N{\ren}Wa--
+Dialogue: 0,0:13:07.83,0:13:08.98,zh,,0,0,0,,气\N{\ren}Airs.
+Dialogue: 0,0:13:09.02,0:13:11.19,zh,,0,0,0,,我们终于可以在一起了 星球娜娜\N{\ren}Now we can be together, Planetina.
+Dialogue: 0,0:13:11.24,0:13:13.02,zh,,0,0,0,,我有着独立人格\N{\ren}I am an individual character.
+Dialogue: 0,0:13:13.07,0:13:14.59,zh,,0,0,0,,不代表任何团体\N{\ren}I represent no group.
+Dialogue: 0,0:13:14.63,0:13:15.68,zh,,0,0,0,,火\N{\ren}-Fire! -Aaah!
+Dialogue: 0,0:13:15.72,0:13:17.51,zh,,0,0,0,,水 尘 气\N{\ren}Water! Dirt! Airs!
+Dialogue: 0,0:13:20.78,0:13:23.30,zh,,0,0,0,,完蛋了\N{\ren}Not good!
+Dialogue: 0,0:13:25.92,0:13:27.00,zh,,0,0,0,,Blib\N{\ren}Blib...
+Dialogue: 0,0:13:27.05,0:13:28.36,zh,,0,0,0,,Naga\N{\ren}Naga...
+Dialogue: 0,0:13:28.41,0:13:29.54,zh,,0,0,0,,三\N{\ren}Threve...
+Dialogue: 0,0:13:29.58,0:13:31.54,zh,,0,0,0,,Verillex Gam\N{\ren}Verillex... Gam!
+Dialogue: 0,0:13:31.58,0:13:33.50,zh,,0,0,0,,末日快乐\N{\ren}Happy Apocalypse!
+Dialogue: 0,0:13:33.54,0:13:35.06,zh,,0,0,0,,-啊我天 -太糟啦\N{\ren}-Oh, my gaaah! -This is awful!
+Dialogue: 0,0:13:35.11,0:13:36.72,zh,,0,0,0,,我们为什么要庆祝\N{\ren}Why were we cheering?!
+Dialogue: 0,0:13:41.12,0:13:43.69,zh,,0,0,0,,你好 这有水吗\N{\ren}Hello. Got any agua around here?
+Dialogue: 0,0:13:43.74,0:13:45.00,zh,,0,0,0,,妈妈要补水\N{\ren}Mama's got to hydrate.
+Dialogue: 0,0:13:45.04,0:13:46.48,zh,,0,0,0,,手套箱\N{\ren}Glove box.
+Dialogue: 0,0:13:49.45,0:13:51.80,zh,,0,0,0,,Rick是史上最酷的家伙\N{\ren}Rick is the coolest guy ever.
+Dialogue: 0,0:13:51.84,0:13:53.23,zh,,0,0,0,,我们是彻底的灵魂伴侣\N{\ren}We're total soul mates.
+Dialogue: 0,0:13:53.28,0:13:55.67,zh,,0,0,0,,他会向我展示宇宙的诸般奇迹\N{\ren}He's gonna show me the wonders of the universe.
+Dialogue: 0,0:13:55.71,0:13:57.41,zh,,0,0,0,,呵 一到下个星球\N{\ren}Ha! Once we get to the next planet,
+Dialogue: 0,0:13:57.45,0:13:59.95,zh,,0,0,0,,姥爷就丢下你 基本是 立马\N{\ren}Grandpa Rick is gonna ditch you, like, so fast.
+Dialogue: 0,0:13:59.99,0:14:01.69,zh,,0,0,0,,是吗\N{\ren}Oh, is that so?
+Dialogue: 0,0:14:01.73,0:14:03.95,zh,,0,0,0,,没人能牵绊住他 从来没有\N{\ren}Uh-huh, nobody is tying that guy down -- ever.
+Dialogue: 0,0:14:03.99,0:14:06.91,zh,,0,0,0,,唯一和Rick看宇宙的小妞是我\N{\ren}The only chick seeing the universe with Rick is me.
+Dialogue: 0,0:14:06.95,0:14:09.92,zh,,0,0,0,,如果我把Rick的嘴塞满这个就不同了\N{\ren}Not if I keep Rick's mouth full of these.
+Dialogue: 0,0:14:10.53,0:14:12.40,zh,,0,0,0,,我 我的天\N{\ren}Oh, my -- Oh, my God.
+Dialogue: 0,0:14:12.45,0:14:14.84,zh,,0,0,0,,是的 就是这样 我的小女友\N{\ren}Oh, yeah. That's right, girlfriend.
+Dialogue: 0,0:14:14.88,0:14:16.41,zh,,0,0,0,,这就是你的对手\N{\ren}This is what you're up against.
+Dialogue: 0,0:14:16.45,0:14:18.42,zh,,0,0,0,,因为这些东西 爆发过战争\N{\ren}Wars were fought over these.
+Dialogue: 0,0:14:18.46,0:14:22.03,zh,,0,0,0,,它们毁灭过国王 鼓舞过总统\N{\ren}They've ruined kings, inspired presidents.
+Dialogue: 0,0:14:22.07,0:14:25.03,zh,,0,0,0,,百首赞歌和九首国歌\N{\ren}A hundred songs and nine national anthems
+Dialogue: 0,0:14:25.08,0:14:26.64,zh,,0,0,0,,为它们而作\N{\ren}have been written about them.
+Dialogue: 0,0:14:26.69,0:14:29.79,zh,,0,0,0,,Morglutz上最好的胳膊肘奶子\N{\ren}Best set of elbow-titties on Morglutz.
+Dialogue: 0,0:14:29.83,0:14:34.31,zh,,0,0,0,,现在 多亏了Rick 它们是整个星系最好的了\N{\ren}And now, thanks to Rick, the best in the galaxy.
+Dialogue: 0,0:14:34.36,0:14:35.84,zh,,0,0,0,,你想让我把它们收起来吗\N{\ren}You want me to put them away?
+Dialogue: 0,0:14:35.88,0:14:37.14,zh,,0,0,0,,-求求了 -行\N{\ren}Please. Sure.
+Dialogue: 0,0:14:37.19,0:14:39.59,zh,,0,0,0,,但只是看在你是Rick外孙女的份上\N{\ren}But only because you're Rick's granddaughter.
+Dialogue: 0,0:14:39.63,0:14:41.59,zh,,0,0,0,,Daph Daphne 你在哪 宝贝\N{\ren}Daph? Daphne? Where are ya, baby?
+Dialogue: 0,0:14:41.64,0:14:43.33,zh,,0,0,0,,爸爸还想要胳膊肘油油\N{\ren}Papa needs some more elbow grease.
+Dialogue: 0,0:14:43.38,0:14:46.03,zh,,0,0,0,,来啦 你最好盯紧路了\N{\ren}Comin'! Ya might want to keep your eyes on the road.
+Dialogue: 0,0:14:46.08,0:14:48.65,zh,,0,0,0,,场面即将十分凌乱\N{\ren}It's about to get sloppy.
+Dialogue: 0,0:14:48.70,0:14:50.31,zh,,0,0,0,,-来呀 -来啦\N{\ren}Hello! Hello.
+Dialogue: 0,0:14:50.35,0:14:52.53,zh,,0,0,0,,呕\N{\ren}Ugh!
+Dialogue: 0,0:14:52.57,0:14:54.79,zh,,0,0,0,,然后我戴上了太阳眼镜走了出去\N{\ren}Then I put my sunglasses on and walked out
+Dialogue: 0,0:14:54.83,0:14:55.92,zh,,0,0,0,,如同无事发生\N{\ren}like nothing happened.
+Dialogue: 0,0:14:55.96,0:14:57.44,zh,,0,0,0,,我终于自由了\N{\ren}I'm finally free.
+Dialogue: 0,0:14:57.49,0:14:58.89,zh,,0,0,0,,都是因为Morty\N{\ren}All because of Morty.
+Dialogue: 0,0:14:58.93,0:15:02.72,zh,,0,0,0,,多么浪漫的故事啊 我儿子杀了一屋子的人\N{\ren}What a romantic story about our son killing a room full of people.
+Dialogue: 0,0:15:02.76,0:15:04.20,zh,,0,0,0,,轮到你了\N{\ren}Your turn.
+Dialogue: 0,0:15:04.24,0:15:05.55,zh,,0,0,0,,呃 七\N{\ren}Uh, seven.
+Dialogue: 0,0:15:05.59,0:15:07.94,zh,,0,0,0,,一 二 三 四 五 六 七\N{\ren}One, two, three, four, five, six, seven!
+Dialogue: 0,0:15:07.99,0:15:10.17,zh,,0,0,0,,噢 不要打我的午饭\N{\ren}Oyyy, don't punch my lunch!
+Dialogue: 0,0:15:10.22,0:15:11.39,zh,,0,0,0,,啊哈 你完了\N{\ren}A-ha! Eat it!
+Dialogue: 0,0:15:11.43,0:15:12.74,zh,,0,0,0,,我没有食物卡了\N{\ren}I'm out of food cards.
+Dialogue: 0,0:15:12.78,0:15:14.83,zh,,0,0,0,,不如我借给你两个乳蛋饼 只要10%的利息\N{\ren}How 'bout I loan you two quiche at 10%?
+Dialogue: 0,0:15:14.87,0:15:16.83,zh,,0,0,0,,真大方\N{\ren}That's so generous.
+Dialogue: 0,0:15:16.87,0:15:18.41,zh,,0,0,0,,轮到我了\N{\ren}My turn!
+Dialogue: 0,0:15:18.45,0:15:19.89,zh,,0,0,0,,两个六 宝贝儿\N{\ren}Double sixes, baby!
+Dialogue: 0,0:15:19.93,0:15:22.11,zh,,0,0,0,,-一 二 三 -星球娜娜接下来什么打算\N{\ren}One, two, three... So, what's next for Planetina?
+Dialogue: 0,0:15:22.15,0:15:24.54,zh,,0,0,0,,呃 既然我不再需要做签售\N{\ren}Well, now that I'm not distracted by book signings
+Dialogue: 0,0:15:24.59,0:15:27.24,zh,,0,0,0,,也不用作秀了 Morty和我可以专注于\N{\ren}and publicity stunts, Morty and I can concentrate on
+Dialogue: 0,0:15:27.29,0:15:28.52,zh,,0,0,0,,更重要的事情了\N{\ren}more important things.
+Dialogue: 0,0:15:28.56,0:15:29.30,zh,,0,0,0,,比如上学\N{\ren}Like school.
+Dialogue: 0,0:15:29.34,0:15:30.69,zh,,0,0,0,,比如搬过来\N{\ren}Like moving in.
+Dialogue: 0,0:15:30.73,0:15:32.48,zh,,0,0,0,,星球娜娜现在还没有住的地方\N{\ren}Planetina doesn't have a place to stay now,
+Dialogue: 0,0:15:32.52,0:15:33.74,zh,,0,0,0,,所以我说她可以和我们一起住\N{\ren}so I said she could live with us.
+Dialogue: 0,0:15:33.78,0:15:35.78,zh,,0,0,0,,-天哪 Morty 不 -我好饱\N{\ren}-Holy shit. Morty, no. -I'm so full!
+Dialogue: 0,0:15:35.83,0:15:37.18,zh,,0,0,0,,-“不”是什么意思 -呜呼\N{\ren}-What do you mean, no? -Whoo!
+Dialogue: 0,0:15:37.22,0:15:38.45,zh,,0,0,0,,不要打我的午饭\N{\ren}Don't punch my lunch.
+Dialogue: 0,0:15:38.49,0:15:39.62,zh,,0,0,0,,我不会成为负担的，Smith太太\N{\ren}I wouldn't be a burden, Mrs. Smith.
+Dialogue: 0,0:15:39.67,0:15:41.36,zh,,0,0,0,,我只想和你的儿子\N{\ren}I only want to spend as much time
+Dialogue: 0,0:15:41.41,0:15:42.80,zh,,0,0,0,,尽可能多地相处\N{\ren}as possible with your son.
+Dialogue: 0,0:15:42.84,0:15:44.72,zh,,0,0,0,,我的儿子14岁 小姐\N{\ren}My son is 14, miss.
+Dialogue: 0,0:15:44.76,0:15:46.72,zh,,0,0,0,,抱歉 Morty 你还太年轻\N{\ren}I'm sorry, Morty. You're way too young.
+Dialogue: 0,0:15:46.76,0:15:48.99,zh,,0,0,0,,但 你你你被爸爸搞怀孕的时候也还是个小年轻\N{\ren}But y-y-y-you were a teenager when Dad got you pregnant.
+Dialogue: 0,0:15:49.03,0:15:50.34,zh,,0,0,0,,我那时候是17岁\N{\ren}I was 17!
+Dialogue: 0,0:15:50.38,0:15:52.17,zh,,0,0,0,,换算成男生至少26岁了\N{\ren}That's at least 26 in boy years.
+Dialogue: 0,0:15:52.21,0:15:55.17,zh,,0,0,0,,我肯定星球娜娜是个好人 但当你是个年轻人\N{\ren}I'm sure Planetina is very nice, but when you're a teenager,
+Dialogue: 0,0:15:55.21,0:15:56.69,zh,,0,0,0,,爱情最多也就是转瞬即逝\N{\ren}love is fleeting, at best.
+Dialogue: 0,0:15:56.74,0:16:00.01,zh,,0,0,0,,你小看了Morty 他是个非常成熟的年轻人\N{\ren}You underestimate Morty. He is a very mature young man.
+Dialogue: 0,0:16:00.05,0:16:01.32,zh,,0,0,0,,看到了吗 妈妈 我说了\N{\ren}See, Mom? I told you!
+Dialogue: 0,0:16:01.36,0:16:03.71,zh,,0,0,0,,这是不可能的 没得商量\N{\ren}This is not happening. End of discussion.
+Dialogue: 0,0:16:03.75,0:16:06.02,zh,,0,0,0,,星球娜娜 我认为你该离开了 请走吧\N{\ren}Planetina, I think you should leave, please.
+Dialogue: 0,0:16:06.06,0:16:07.41,zh,,0,0,0,,好吧 Smith太太\N{\ren}Okay, Mrs. Smith.
+Dialogue: 0,0:16:07.45,0:16:08.94,zh,,0,0,0,,哦 不\N{\ren}Oh, no!
+Dialogue: 0,0:16:08.99,0:16:10.21,zh,,0,0,0,,妈妈 我恨你\N{\ren}Mom, I hate you!
+Dialogue: 0,0:16:10.25,0:16:11.47,zh,,0,0,0,,-你糟透了 -嘿 好了 这只是个游戏\N{\ren}-You suck! -Hey, now, it's only a game.
+Dialogue: 0,0:16:11.51,0:16:12.51,zh,,0,0,0,,-闭嘴 -闭嘴\N{\ren}-Shut up! -Shut up!
+Dialogue: 0,0:16:12.56,0:16:13.64,zh,,0,0,0,,-好的 -在我的整个生命中\N{\ren}-Okay. -My whole life,
+Dialogue: 0,0:16:13.69,0:16:14.99,zh,,0,0,0,,我从没在任何地方融入过\N{\ren}I've never fit in anywhere.
+Dialogue: 0,0:16:15.04,0:16:17.00,zh,,0,0,0,,任何我说的东西都会被翻白眼\N{\ren}Everything I have to say is always met with an eye roll
+Dialogue: 0,0:16:17.01,0:16:19.88,zh,,0,0,0,,就好像听我说话是烦人的琐事\N{\ren}as if the act of hearing what I have to say is some exhausting chore.
+Dialogue: 0,0:16:19.92,0:16:22.05,zh,,0,0,0,,这个家里没人觉得我能说什么或者做什么正确的事\N{\ren}Nobody in this family thinks I can say or do anything right!
+Dialogue: 0,0:16:22.10,0:16:24.32,zh,,0,0,0,,我跑遍了全宇宙 遇到了几百个人\N{\ren}I've been all over the universe, met hundreds of people,
+Dialogue: 0,0:16:24.36,0:16:28.19,zh,,0,0,0,,星球娜娜是我遇到的唯一能让我感到合得来的\N{\ren}and Planetina's the only one I've ever met that makes me feel like I belong,
+Dialogue: 0,0:16:28.24,0:16:29.85,zh,,0,0,0,,而你却把她赶出了我们家\N{\ren}and you just kicked her out of our house!
+Dialogue: 0,0:16:29.90,0:16:30.94,zh,,0,0,0,,Morty 别\N{\ren}Morty, please --
+Dialogue: 0,0:16:30.99,0:16:32.90,zh,,0,0,0,,我永远不会原谅你\N{\ren}I will never forgive you for this!
+Dialogue: 0,0:16:32.94,0:16:37.64,zh,,0,0,0,,*拿起剑抛向远处*\N{\ren}*Get the sword and throw it far*
+Dialogue: 0,0:16:37.69,0:16:39.83,zh,,0,0,0,,*让它在晨星下闪耀*\N{\ren}*Let it shine under the morning star*
+Dialogue: 0,0:16:39.87,0:16:42.57,zh,,0,0,0,,Morty Morty 回来\N{\ren}Morty! Morty, come back!
+Dialogue: 0,0:16:45.58,0:16:47.14,zh,,0,0,0,,*你是谁*\N{\ren}*Who are you?*
+Dialogue: 0,0:16:47.19,0:16:51.16,zh,,0,0,0,,*我是你的谁*\N{\ren}*Who am I to you?*
+Dialogue: 0,0:16:51.20,0:16:53.33,zh,,0,0,0,,*我是你的反基督*\N{\ren}*I am the antichrist to you*
+Dialogue: 0,0:16:57.86,0:17:03.35,zh,,0,0,0,,*优雅地坠落天际*\N{\ren}*Fallen from the sky with grace*
+Dialogue: 0,0:17:03.40,0:17:09.02,zh,,0,0,0,,*坠入你的怀里*\N{\ren}*Into your arms race*
+Dialogue: 0,0:17:17.81,0:17:20.08,zh,,0,0,0,,滚出去 所有人 滚出去\N{\ren}Get out! All of you, get out of there!
+Dialogue: 0,0:17:20.13,0:17:21.74,zh,,0,0,0,,你们在杀死这个星球\N{\ren}You're killing the planet!
+Dialogue: 0,0:17:21.78,0:17:23.39,zh,,0,0,0,,你们选举输了\N{\ren}Your people didn't get the votes.
+Dialogue: 0,0:17:23.44,0:17:24.96,zh,,0,0,0,,离开 不然我叫人来逮捕你了\N{\ren}Leave, or I'll have you arrested.
+Dialogue: 0,0:17:25.00,0:17:26.83,zh,,0,0,0,,你们这群人才应该被逮捕\N{\ren}It's you people who should be arrested.
+Dialogue: 0,0:17:26.87,0:17:29.89,zh,,0,0,0,,毁坏大地 污染你们孩子呼吸的空气\N{\ren}Gutting the land, poisoning the air your children breathe?!
+Dialogue: 0,0:17:29.93,0:17:31.50,zh,,0,0,0,,你们看不见你们在做什么吗\N{\ren}Can't you see what you're doing?!
+Dialogue: 0,0:17:31.54,0:17:33.72,zh,,0,0,0,,说起来容易 你可以按你想要的方式过日子\N{\ren}Easy for you to say! You can live how you want!
+Dialogue: 0,0:17:33.76,0:17:36.02,zh,,0,0,0,,我们需要这份工作 走 伙计们\N{\ren}We need the jobs. Let's go, boys.
+Dialogue: 0,0:17:36.07,0:17:37.42,zh,,0,0,0,,她阻止不了我们\N{\ren}She can't stop us.
+Dialogue: 0,0:17:37.46,0:17:39.12,zh,,0,0,0,,我 我们下回再对付他们\N{\ren}W-We'll get them next time.
+Dialogue: 0,0:17:39.17,0:17:40.43,zh,,0,0,0,,没时间了\N{\ren}There's no time left!
+Dialogue: 0,0:17:40.47,0:17:42.47,zh,,0,0,0,,你听不到地球在尖叫吗\N{\ren}Can't you hear the Earth screaming?
+Dialogue: 0,0:17:42.52,0:17:44.00,zh,,0,0,0,,你们这些肮脏的杀人犯\N{\ren}You filthy murderers!
+Dialogue: 0,0:17:44.04,0:17:45.30,zh,,0,0,0,,星球娜娜 停下\N{\ren}Planetina, stop it!
+Dialogue: 0,0:17:45.35,0:17:49.23,zh,,0,0,0,,地球污染只有唯一解决之道\N{\ren}There's only one solution for Earth's pollution!
+Dialogue: 0,0:17:50.75,0:17:52.54,zh,,0,0,0,,啊 我的天 不\N{\ren}Oh, my God, no.
+Dialogue: 0,0:17:52.58,0:17:56.28,zh,,0,0,0,,*我是你的谁*\N{\ren}*Who am I to you?
+Dialogue: 0,0:17:56.32,0:17:59.25,zh,,0,0,0,,*我是你的反基督*\N{\ren}*I am the antichrist to you
+Dialogue: 0,0:17:59.29,0:18:01.17,zh,,0,0,0,,不\N{\ren}No!
+Dialogue: 0,0:18:04.21,0:18:06.43,zh,,0,0,0,,无法相信我睡了我同事\N{\ren}I can't believe I'm banging my co-workers.
+Dialogue: 0,0:18:06.48,0:18:07.74,zh,,0,0,0,,我还是老板\N{\ren}And I'm the boss!
+Dialogue: 0,0:18:07.78,0:18:10.27,zh,,0,0,0,,和我爸的同性做爱太棒了\N{\ren}This gay sex with my Dad is terrific!
+Dialogue: 0,0:18:10.31,0:18:11.75,zh,,0,0,0,,我在想啥呀\N{\ren}What was I thinking?
+Dialogue: 0,0:18:11.79,0:18:13.49,zh,,0,0,0,,很快一切都要完了\N{\ren}It'll all be over soon!
+Dialogue: 0,0:18:13.54,0:18:15.58,zh,,0,0,0,,朝着我尿尿的最后机会啦 有人要来吗\N{\ren}Last chance to pee on me! Anyone?!
+Dialogue: 0,0:18:15.62,0:18:17.45,zh,,0,0,0,,好了 姥爷 陨石马上要来了\N{\ren}Okay, Grandpa, the meteor's almost here.
+Dialogue: 0,0:18:17.50,0:18:19.77,zh,,0,0,0,,-我们可以走了 -啊 不 我们还有时间\N{\ren}-We can go now. -Ah, nah, we still got time.
+Dialogue: 0,0:18:19.81,0:18:22.16,zh,,0,0,0,,那就不要恋爱 开始享乐\N{\ren}Well, then stop being in love and start having fun.
+Dialogue: 0,0:18:22.21,0:18:24.77,zh,,0,0,0,,啊 爱情很有意思的 Summer 试一试嘛\N{\ren}Ah, love's pretty fun, Summer. Just give it a chance.
+Dialogue: 0,0:18:24.82,0:18:26.30,zh,,0,0,0,,这甚至都不是真的爱情\N{\ren}It's not even real love!
+Dialogue: 0,0:18:26.34,0:18:28.79,zh,,0,0,0,,Daphne和你在一起只是为了活命\N{\ren}Daphne's just with you so she can keep surviving!
+Dialogue: 0,0:18:28.83,0:18:31.23,zh,,0,0,0,,啊 年轻人 如此天真\N{\ren}Ah, the young -- so naive.
+Dialogue: 0,0:18:37.36,0:18:39.07,zh,,0,0,0,,呕 恶心\N{\ren}Eww, gross.
+Dialogue: 0,0:18:52.57,0:18:54.01,zh,,0,0,0,,祝贺 Ferkus人\N{\ren}Congratulations, Ferkisians!
+Dialogue: 0,0:18:54.05,0:18:55.79,zh,,0,0,0,,你们的末日中止了\N{\ren}Your apocalypse is aborted.
+Dialogue: 0,0:18:55.84,0:18:57.49,zh,,0,0,0,,然后 姥爷 你和我可以回家了\N{\ren}And, Grandpa, you and I can go home.
+Dialogue: 0,0:18:57.53,0:18:58.67,zh,,0,0,0,,Daphne你可以一起来\N{\ren}Daphne, you may come with.
+Dialogue: 0,0:18:58.72,0:19:00.76,zh,,0,0,0,,如果你不必来但还想来的话\N{\ren}If you want to and don't have to.
+Dialogue: 0,0:19:00.81,0:19:02.07,zh,,0,0,0,,我不知道你想搞什么 Summer\N{\ren}I don't know what you're getting at, Summer.
+Dialogue: 0,0:19:02.11,0:19:04.68,zh,,0,0,0,,显然 Daphne想\N{\ren}Obviously, Daphne wants to --
+Dialogue: 0,0:19:04.72,0:19:08.03,zh,,0,0,0,,哇 你这冰冷的婊子 你好\N{\ren}Aw, you cold bitch. Hello?
+Dialogue: 0,0:19:08.07,0:19:09.74,zh,,0,0,0,,再见\N{\ren}Goodbye.
+Dialogue: 0,0:19:10.09,0:19:12.57,zh,,0,0,0,,嘿 她就是那个拯救世界的人\N{\ren}Hey, she's the one that saved the world!
+Dialogue: 0,0:19:12.61,0:19:14.40,zh,,0,0,0,,这下我们明天又得工作了\N{\ren}Now we got to go to work tomorrow!
+Dialogue: 0,0:19:16.31,0:19:17.62,zh,,0,0,0,,你个混蛋\N{\ren}You fucker!
+Dialogue: 0,0:19:19.11,0:19:21.02,zh,,0,0,0,,抱歉我把你和Daphne的事搞砸了\N{\ren}Sorry I messed things up with Daphne.
+Dialogue: 0,0:19:21.06,0:19:22.89,zh,,0,0,0,,闭嘴 我知道是什么情况\N{\ren}Just shut up. I get it.
+Dialogue: 0,0:19:22.94,0:19:25.50,zh,,0,0,0,,-是吗 你不气吗 -我气炸了\N{\ren}-Really? You're not mad? -I'm furious.
+Dialogue: 0,0:19:26.46,0:19:29.08,zh,,0,0,0,,但我不得不承认你挺有Rick味儿的\N{\ren}But I have to admit, it was pretty Rick of you
+Dialogue: 0,0:19:29.13,0:19:31.30,zh,,0,0,0,,发了个玩世不恭的脾气 逆转一场末日\N{\ren}to avert an apocalypse in a tantrum of cynicism
+Dialogue: 0,0:19:31.35,0:19:33.78,zh,,0,0,0,,只为毁掉一段愚蠢的关系\N{\ren}just to destroy one dumb relationship.
+Dialogue: 0,0:19:33.83,0:19:36.05,zh,,0,0,0,,还是 抱歉\N{\ren}Still, sorry.
+Dialogue: 0,0:19:36.09,0:19:38.49,zh,,0,0,0,,啊 我也会为你做同样的事的\N{\ren}Eh, I would've done the same for you.
+Dialogue: 0,0:19:38.54,0:19:40.58,zh,,0,0,0,,保证\N{\ren}Promise?
+Dialogue: 0,0:19:40.63,0:19:41.58,zh,,0,0,0,,爱你 Rick姥爷\N{\ren}Love you, Grandpa Rick.
+Dialogue: 0,0:19:41.63,0:19:43.32,zh,,0,0,0,,别搞得很奇怪\N{\ren}Don't make it weird.
+Dialogue: 0,0:19:57.04,0:19:59.80,zh,,0,0,0,,求你走吧 我不能再和你交往了\N{\ren}Please go. I-I-I can't see you anymore.
+Dialogue: 0,0:19:59.84,0:20:01.93,zh,,0,0,0,,你甚至都不想试着解决吗\N{\ren}Don't you even want to try to make it work?
+Dialogue: 0,0:20:01.97,0:20:02.93,zh,,0,0,0,,我们曾经那么亲密\N{\ren}We were so close.
+Dialogue: 0,0:20:02.97,0:20:05.02,zh,,0,0,0,,你谋杀了300人\N{\ren}You murdered 300 people.
+Dialogue: 0,0:20:05.06,0:20:06.28,zh,,0,0,0,,你也杀了我的孩子们啊\N{\ren}And you murdered my kids.
+Dialogue: 0,0:20:06.32,0:20:08.68,zh,,0,0,0,,他们准备把你永远卖了\N{\ren}They were gonna sell you away forever.
+Dialogue: 0,0:20:08.73,0:20:10.03,zh,,0,0,0,,Eddie要杀我\N{\ren}Eddie was trying to kill me!
+Dialogue: 0,0:20:10.08,0:20:12.03,zh,,0,0,0,,那 那些矿工是无辜的\N{\ren}Th-Those miners were innocent.
+Dialogue: 0,0:20:12.08,0:20:15.30,zh,,0,0,0,,那些无辜的矿工 投票投给了\N{\ren}Those innocent miners voted men into power to protect
+Dialogue: 0,0:20:15.34,0:20:17.00,zh,,0,0,0,,可以保住他们饭碗的人 这样他们就能\N{\ren}their precious jobs so they can buy more
+Dialogue: 0,0:20:17.04,0:20:19.23,zh,,0,0,0,,买更多的塑料垃圾 食用被虐待动物的尸体\N{\ren}plastic garbage and eat the corpses of tortured animals.
+Dialogue: 0,0:20:19.27,0:20:21.10,zh,,0,0,0,,这个体制已经坏掉了 Morty\N{\ren}The system is broken, Morty.
+Dialogue: 0,0:20:21.14,0:20:24.71,zh,,0,0,0,,这是我唯一可以拯救地球的办法\N{\ren}This is the only way I can save Earth,
+Dialogue: 0,0:20:24.75,0:20:26.28,zh,,0,0,0,,我唯一可以拯救你的办法\N{\ren}the only way I can save you.
+Dialogue: 0,0:20:26.32,0:20:29.33,zh,,0,0,0,,如果这是唯一的办法 我 我不想被拯救\N{\ren}If that's the only way, I-I don't want to be saved.
+Dialogue: 0,0:20:29.38,0:20:30.73,zh,,0,0,0,,你走吧\N{\ren}Please, go.
+Dialogue: 0,0:20:30.77,0:20:33.99,zh,,0,0,0,,但 我爱你\N{\ren}But... I love you.
+Dialogue: 0,0:20:34.03,0:20:36.47,zh,,0,0,0,,我我我做不到 我没法爱你\N{\ren}I-I-I can't -- I-I can't love you.
+Dialogue: 0,0:20:36.51,0:20:37.95,zh,,0,0,0,,我 我就是做不到\N{\ren}I-I just can't.
+Dialogue: 0,0:20:37.99,0:20:39.00,zh,,0,0,0,,请你理解我\N{\ren}Please understand.
+Dialogue: 0,0:20:39.05,0:20:40.53,zh,,0,0,0,,不\N{\ren}No.
+Dialogue: 0,0:20:40.57,0:20:44.75,zh,,0,0,0,,我会离开 但你别指望我会理解\N{\ren}I'll go, but don't you dare ask me to understand.
+Dialogue: 0,0:20:44.79,0:20:48.59,zh,,0,0,0,,星球娜娜 我 我很抱歉\N{\ren}Planetina, I-I'm so sorry.
+Dialogue: 0,0:20:48.63,0:20:50.59,zh,,0,0,0,,操你的\N{\ren}Fuck you.
+Dialogue: 0,0:21:00.92,0:21:03.01,zh,,0,0,0,,Morty 你还好吗\N{\ren}Morty? Are you all right?
+Dialogue: 0,0:21:03.05,0:21:05.36,zh,,0,0,0,,她走了 妈妈 她走了\N{\ren}She's gone, Mom! She's gone!
+Dialogue: 0,0:21:05.40,0:21:07.44,zh,,0,0,0,,我曾是如此爱她\N{\ren}I loved her so much!
+Dialogue: 0,0:21:07.49,0:21:09.02,zh,,0,0,0,,我知道 亲爱的\N{\ren}I know you did, honey.
+Dialogue: 0,0:21:09.06,0:21:11.55,zh,,0,0,0,,嘘 妈妈在呢\N{\ren}Shh, Mommy's here.
+Dialogue: 0,0:21:11.59,0:21:19.48,zh,,0,0,0,,*让它在晨星下闪耀*\N{\ren}*Let it shine under the morning star*
+Dialogue: 0,0:21:19.52,0:21:20.83,zh,,0,0,0,,*你是谁*\N{\ren}*Who are you?*
+Dialogue: 0,0:21:20.87,0:21:24.09,zh,,0,0,0,,*我是你的谁*\N{\ren}*Who am I to you?*
+Dialogue: 0,0:21:25.26,0:21:29.54,zh,,0,0,0,,*我是你的反基督*\N{\ren}*I am the antichrist to you*
+Dialogue: 0,0:21:32.02,0:21:37.07,zh,,0,0,0,,*优雅地坠落天际*\N{\ren}*Fallen from the sky with grace*
+Dialogue: 0,0:21:38.69,0:21:43.26,zh,,0,0,0,,*坠入你的怀里*\N{\ren}*Into your arms*
+Dialogue: 0,0:21:57.63,0:21:58.99,zh,,0,0,0,,早上好\N{\ren}Good morning.
+Dialogue: 0,0:21:59.03,0:22:01.73,zh,,0,0,0,,早\N{\ren}'Morning.
+Dialogue: 0,0:22:01.78,0:22:02.91,zh,,0,0,0,,今天时间好慢 哈\N{\ren}Slow day, huh?
+Dialogue: 0,0:22:02.95,0:22:04.21,zh,,0,0,0,,是\N{\ren}Yep.
+Dialogue: 0,0:22:04.26,0:22:06.52,zh,,0,0,0,,可能是因为人人都认为\N{\ren}Probably because everybody thought
+Dialogue: 0,0:22:06.56,0:22:11.40,zh,,0,0,0,,这世界今天不会 嗯 还在这\N{\ren}the world wouldn't be, you know, like, here today.
+Dialogue: 0,0:22:11.45,0:22:13.23,zh,,0,0,0,,妈妈在后面吗\N{\ren}Mm-hmm. Mom in back?
+Dialogue: 0,0:22:13.28,0:22:14.80,zh,,0,0,0,,妈妈不和我们说话了\N{\ren}Mom's not talking to us.
+Dialogue: 0,0:22:14.84,0:22:16.06,zh,,0,0,0,,因为我们做爱了\N{\ren}Because we had sex?
+Dialogue: 0,0:22:16.10,0:22:17.80,zh,,0,0,0,,-是的 -呃 是了\N{\ren}Yes. Uh, yeah.
+Dialogue: 0,0:22:17.85,0:22:20.08,zh,,0,0,0,,那就说得通了\N{\ren}That makes sense.
+Dialogue: 0,0:22:20.12,0:22:23.56,zh,,0,0,0,,对了 生日快乐\N{\ren}Happy birthday, by the way.

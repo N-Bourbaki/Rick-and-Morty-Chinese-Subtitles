@@ -1,0 +1,534 @@
+[Script Info]
+Title: S05E07 by Nicolas Bourbaki
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: zh,微软雅黑,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: en,Comic Sans MS,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: top,微软雅黑,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: git,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.25,0:00:04.75,top,,0,0,0,,本字幕第一版由Nicolas Bourbaki制作 同时发布于GitHub和SubHD 参与的成员有
+Dialogue: 0,0:00:05.25,0:00:09.75,top,,0,0,0,,T-9000    ToddPacker
+Dialogue: 0,0:00:10.25,0:00:14.75,top,,0,0,0,,转载请务必保留字幕信息 Nicolas Bourbaki不对任何利用本字幕生成的视频负责
+Dialogue: 0,0:00:15.25,0:00:19.75,top,,0,0,0,,如果在观看中遇到任何错误翻译 诚邀您前往GitHub参与改错 该项目的地址是
+Dialogue: 0,0:00:20.25,0:00:24.75,top,,0,0,0,,{\rgit}https://github.com/N-Bourbaki/Rick-and-Morty-Chinese-Subtitles {\rtop}期待您的参与
+Dialogue: 0,0:00:45.50,0:00:51.63,top,,0,0,0,,注：GoTron一词是战神金刚Voltron和百兽王GoLion的融合。在日语中Go是“五”的意思，指组合成机器人的五只机器狮及对应驾驶员，故译作“五创”
+Dialogue: 0,0:00:07.36,0:00:09.93,zh,,0,0,0,,奶子世界 奶子世界\N{\ren}Boob world, boob world.
+Dialogue: 0,0:00:09.96,0:00:13.16,zh,,0,0,0,,一个全新的世界 不对 是两个耶\N{\ren}It's a world for you, but it's actually two.
+Dialogue: 0,0:00:13.30,0:00:16.00,zh,,0,0,0,,奶子世界\N{\ren}Boob World!
+Dialogue: 0,0:00:16.40,0:00:18.70,zh,,0,0,0,,说真的 Morty 你让我一起去的想法有点儿奇怪\N{\ren}I gotta say, Morty, it's weird that you wanted me to come,
+Dialogue: 0,0:00:18.83,0:00:20.60,zh,,0,0,0,,不过我真的可兴激亢了\N{\ren}but I'm actually exstyched about it --
+Dialogue: 0,0:00:20.73,0:00:21.80,zh,,0,0,0,,兴奋 + 激动 + 亢奋\N{\ren}that's excited, stoked, and psyched.
+Dialogue: 0,0:00:21.93,0:00:23.26,zh,,0,0,0,,我才没想让你来 跟Rick讲去\N{\ren}I didn't want you to come. Talk to Rick.
+Dialogue: 0,0:00:23.40,0:00:27.46,zh,,0,0,0,,其实呢 Summer 过去30年里 奶子世界一直处在多起抗议的漩涡中心\N{\ren}Truth is, Summer, Boob World's been at the center of a few protests every day for 30 years,
+Dialogue: 0,0:00:27.60,0:00:30.70,zh,,0,0,0,,所以那边开始把品牌重塑成奶子赋权体验了\N{\ren}so they've recently rebranded as a boob empowerment experience,
+Dialogue: 0,0:00:30.83,0:00:32.36,zh,,0,0,0,,如果有女性同行 就可以免费入场\N{\ren}and if we bring a female, we get in for free.
+Dialogue: 0,0:00:32.50,0:00:34.80,zh,,0,0,0,,那要是你们去六面旗乐园 我就是用来换折扣的可乐罐呗\N{\ren}So, I'm, like, what, a Coke can you're taking to Six Flags?
+Dialogue: 0,0:00:34.93,0:00:36.53,zh,,0,0,0,,并不 毕竟一进六面旗的大门\N{\ren}No, 'cause once you get into Six Flags,
+Dialogue: 0,0:00:36.66,0:00:38.03,zh,,0,0,0,,就可以扔掉可乐罐了\N{\ren}you can throw your Coke can away.
+Dialogue: 0,0:00:38.16,0:00:39.36,zh,,0,0,0,,妈的不是吧\N{\ren}No fucking way.
+Dialogue: 0,0:00:39.50,0:00:40.90,zh,,0,0,0,,怎么可能\N{\ren}It can't be.
+Dialogue: 0,0:00:43.00,0:00:45.36,zh,,0,0,0,,-啊操操操操 -快看啊\N{\ren}- Holy shit, holy shit, holy shit. - Oh, look at that.
+Dialogue: 0,0:00:45.50,0:00:46.76,zh,,0,0,0,,-看什么 -某只五创神貂\N{\ren}-What is it? -It's a GoTron ferret.
+Dialogue: 0,0:00:46.90,0:00:48.70,zh,,0,0,0,,这可不是某只五创神貂 Morty\N{\ren}It's not a GoTron ferret, Morty.
+Dialogue: 0,0:00:48.83,0:00:51.63,zh,,0,0,0,,这是独一无二的五创蓝貂\N{\ren}It's the blue GoTron ferret.
+Dialogue: 0,0:00:53.00,0:00:55.00,zh,,0,0,0,,-奶子欢乐行取消 -别啊Rick\N{\ren}-Boob World is canceled. -No, Rick, no.
+Dialogue: 0,0:00:55.13,0:00:56.83,zh,,0,0,0,,你保证过的 怎么总这样啊\N{\ren}You promised. You always do this.
+Dialogue: 0,0:00:56.96,0:00:58.50,zh,,0,0,0,,这样吧 Morty 我让你来选\N{\ren}Tell you what, Morty, I'll let you choose.
+Dialogue: 0,0:00:58.63,0:00:59.70,zh,,0,0,0,,你真的觉得奶子世界\N{\ren}Do you really think Boob World -
+Dialogue: 0,0:00:59.83,0:01:01.10,zh,,0,0,0,,-对 -听我说完\N{\ren}-Yes! -Let me finish.
+Dialogue: 0,0:01:01.13,0:01:02.16,zh,,0,0,0,,-能比拥有 -对\N{\ren}-Is more important -- -Yes.
+Dialogue: 0,0:01:02.20,0:01:06.43,zh,,0,0,0,,听我说完 比拥有全宇宙仅有的五只五创神貂更重要吗\N{\ren}Let me finish! Than have all five of the only five GoTron ferrets in the universe?
+Dialogue: 0,0:01:06.56,0:01:08.30,zh,,0,0,0,,屁放完了么 对 还不快走\N{\ren}Are you finished? Yes. So, let's go.
+Dialogue: 0,0:01:08.43,0:01:10.20,zh,,0,0,0,,Summer 帮我把神貂挂上绞盘\N{\ren}Summer, help me hook the winch up to the ferret.
+Dialogue: 0,0:01:10.33,0:01:11.43,zh,,0,0,0,,-好呀 -什么玩意\N{\ren}-Sure. -What the hell?!
+Dialogue: 0,0:01:11.56,0:01:12.76,zh,,0,0,0,,你说了让我来选的\N{\ren}You said you were letting me choose.
+Dialogue: 0,0:01:12.90,0:01:14.90,zh,,0,0,0,,可不 我让你选要不要伤老子的心\N{\ren}Yeah, whether to break my fucking heart.
+Dialogue: 0,0:01:15.03,0:01:16.43,zh,,0,0,0,,你选错了\N{\ren}You chose badly.
+Dialogue: 0,0:01:16.56,0:01:17.96,zh,,0,0,0,,故事就这样开始了\N{\ren}That's how it all began.
+Dialogue: 0,0:01:18.10,0:01:19.96,zh,,0,0,0,,在我姐看来 这不过是又一场游戏\N{\ren}To my sister, it was just another game.
+Dialogue: 0,0:01:20.10,0:01:21.63,zh,,0,0,0,,但她不知道的是\N{\ren}But what she didn't know --
+Dialogue: 0,0:01:21.76,0:01:23.20,zh,,0,0,0,,从这一刻起一切都变了\N{\ren}That was the moment everything changed.
+Dialogue: 0,0:01:23.33,0:01:24.33,zh,,0,0,0,,等会 怎么回事\N{\ren}Wait. What?
+Dialogue: 0,0:01:24.36,0:01:26.93,zh,,0,0,0,,我第一次品尝到了受尊重的滋味 第一次拥有了自己的画外音\N{\ren}I had gotten my first taste of respect and my first voiceover.
+Dialogue: 0,0:01:27.06,0:01:28.60,zh,,0,0,0,,我听得见你 你听得见我吗\N{\ren}I can hear you. Can you hear me?
+Dialogue: 0,0:01:28.73,0:01:30.86,zh,,0,0,0,,也意识到 被尊重和画外音还远不能让我满足\N{\ren}And I knew then and there I wanted more of both.
+Dialogue: 0,0:01:31.00,0:01:32.06,zh,,0,0,0,,喂\N{\ren}Hello?
+Dialogue: 0,0:02:04.36,0:02:06.06,zh,,0,0,0,,Beth Jerry 一块去找点乐子吧\N{\ren}Beth, Jerry, do something fun with us.
+Dialogue: 0,0:02:06.20,0:02:08.10,zh,,0,0,0,,Nibblenug星系受到了巨型怪兽的攻击\N{\ren}A giant monster is attacking in the Nibblenug system.
+Dialogue: 0,0:02:08.23,0:02:09.50,zh,,0,0,0,,你们的战服在厕所呢\N{\ren}Your suits are in the bathroom.
+Dialogue: 0,0:02:09.63,0:02:10.73,zh,,0,0,0,,我这件一股腐尸味\N{\ren}Mine smells skeletony.
+Dialogue: 0,0:02:10.86,0:02:12.06,zh,,0,0,0,,我预约了脊椎正骨\N{\ren}I have a chiropractor appointment.
+Dialogue: 0,0:02:12.20,0:02:13.33,zh,,0,0,0,,你又要带我们趟什么浑水\N{\ren}What are you involving us in?
+Dialogue: 0,0:02:13.46,0:02:15.16,zh,,0,0,0,,Rick在收集五创神貂\N{\ren}Rick's been collecting GoTron ferrets,
+Dialogue: 0,0:02:15.30,0:02:17.00,zh,,0,0,0,,现在五个都集齐了 我们可以合体来个\N{\ren}and now that he has all five, we can combine them into --
+Dialogue: 0,0:02:17.13,0:02:18.40,zh,,0,0,0,,Morty 你他妈又剧透\N{\ren}Morty, for Christ's sake spoilers.
+Dialogue: 0,0:02:18.53,0:02:19.63,zh,,0,0,0,,不许剧透 Morty\N{\ren}Spoilers, Morty.
+Dialogue: 0,0:02:19.76,0:02:20.90,zh,,0,0,0,,这么酷的事 根本不需要卖力推销\N{\ren}WE don't need to sell this to anyone.
+Dialogue: 0,0:02:21.03,0:02:22.46,zh,,0,0,0,,知道有巨型怪兽来袭就好\N{\ren}There's a giant monster attacking.
+Dialogue: 0,0:02:22.60,0:02:24.40,zh,,0,0,0,,在Nibblenug星系诶\N{\ren}In the Nibblenug system.
+Dialogue: 0,0:02:24.53,0:02:26.40,zh,,0,0,0,,这家啥时候关心起外星人的性命了\N{\ren}Since when does this house care about alien lives.
+Dialogue: 0,0:02:26.53,0:02:28.23,zh,,0,0,0,,咱们连英国电视都懒得看的\N{\ren}We don't even watch British television.
+Dialogue: 0,0:02:28.36,0:02:31.66,zh,,0,0,0,,-说什么来着 我们去找隔壁的Gene再拉上个流浪汉吧 -不 稍等\N{\ren}-Told you. Let's just get Gene from next door and a homeless guy. -No. Hold on.
+Dialogue: 0,0:02:31.80,0:02:33.06,zh,,0,0,0,,去他娘的Gene 去他娘的流浪汉\N{\ren}Fuck Gene. Fuck the homeless.
+Dialogue: 0,0:02:33.20,0:02:36.46,zh,,0,0,0,,你俩的孩子和他们姥爷求你们一起去家庭活动\N{\ren}Your kids and their grandpa are asking you to do an activity with them.
+Dialogue: 0,0:02:36.60,0:02:38.06,zh,,0,0,0,,这种家长们梦到都会湿的机会 你俩咋没点兴趣\N{\ren}When did that stop being a parent's wettest dream?
+Dialogue: 0,0:02:38.20,0:02:40.00,zh,,0,0,0,,怕是因为咱家搞出了一个\N{\ren}I guess around the time our family created
+Dialogue: 0,0:02:40.13,0:02:41.93,zh,,0,0,0,,巨型乱伦婴儿 还被政府\N{\ren}a giant incest baby, and the government
+Dialogue: 0,0:02:42.06,0:02:43.23,zh,,0,0,0,,发射上天了吧\N{\ren}launched it into space.
+Dialogue: 0,0:02:43.36,0:02:45.06,zh,,0,0,0,,啊天呐 我们搞出了一个巨型乱伦婴儿\N{\ren}Oh my God, we made a giant incest baby.
+Dialogue: 0,0:02:45.20,0:02:46.73,zh,,0,0,0,,啊天呐 你搞不好是克隆人\N{\ren}Oh my God, you might be a clone.
+Dialogue: 0,0:02:46.86,0:02:48.66,zh,,0,0,0,,我活在世上就是你俩没敢去打胎\N{\ren}I exist because you guys failed to abort me.
+Dialogue: 0,0:02:48.80,0:02:50.73,zh,,0,0,0,,摊上什么家人就是什么家人 没得挑\N{\ren}We get the family we get, not the one we want.
+Dialogue: 0,0:02:50.86,0:02:52.13,zh,,0,0,0,,但是你俩要是还想有家人\N{\ren}And if you want to keep the one you got,
+Dialogue: 0,0:02:52.26,0:02:54.80,zh,,0,0,0,,就赶紧给你们的肥臀来套动漫制服诱惑\N{\ren}get your asses into some anime spacesuits.
+Dialogue: 0,0:02:55.83,0:02:56.60,zh,,0,0,0,,-有理 -好嘞\N{\ren}-Fair enough. -Okay.
+Dialogue: 0,0:02:56.63,0:02:57.73,zh,,0,0,0,,说得好 夏夏令营\N{\ren}Good work, Summer Camp. Yeah.
+Dialogue: 0,0:02:57.86,0:02:59.83,zh,,0,0,0,,我可兴激了\N{\ren}I'm exci-toked about this.
+Dialogue: 0,0:02:59.96,0:03:01.66,zh,,0,0,0,,哟 才来劲啊\N{\ren}Sure you are -- now.
+Dialogue: 0,0:03:02.30,0:03:04.90,zh,,0,0,0,,风暴正在酝酿 而我正在乌云之下\N{\ren}Something new was forming, and I was at the bottom of it.
+Dialogue: 0,0:03:05.03,0:03:08.00,zh,,0,0,0,,我让Morty也有了他的画外音 他也就剩下这点东西了\N{\ren}I let Morty have his voiceover. It's really all he had left.
+Dialogue: 0,0:03:08.13,0:03:09.36,zh,,0,0,0,,好吧 你能听到我吗\N{\ren}Okay, can you hear me or not?
+Dialogue: 0,0:03:09.50,0:03:11.00,zh,,0,0,0,,你是想问本小姐Summer能听到你吗\N{\ren}Do you mean can I, Summer, hear you?
+Dialogue: 0,0:03:11.13,0:03:12.86,zh,,0,0,0,,不 是我的画外音能听到你的画外音\N{\ren}No. My voiceover can hear your voiceover.
+Dialogue: 0,0:03:13.00,0:03:14.06,zh,,0,0,0,,有区别吗\N{\ren}What's the difference?
+Dialogue: 0,0:03:14.20,0:03:15.66,zh,,0,0,0,,有一种是心电感应啊 二逼\N{\ren}One would be telepathy, dumbass.
+Dialogue: 0,0:03:15.70,0:03:17.03,zh,,0,0,0,,现在干嘛\N{\ren}Now what?
+Dialogue: 0,0:03:17.16,0:03:18.30,zh,,0,0,0,,现在我们\N{\ren}Now, we --
+Dialogue: 0,0:03:18.43,0:03:20.03,zh,,0,0,0,,五创小队出击\N{\ren}Go, Team GoTron!
+Dialogue: 0,0:03:25.80,0:03:29.20,zh,,0,0,0,,我们要沿着这未来感十足的金属通道滑去哪儿啊\N{\ren}Where are we zip-lining through futuristic metallic tunnels to?
+Dialogue: 0,0:03:29.33,0:03:31.33,zh,,0,0,0,,神貂机甲在地球上都有各自的藏身处\N{\ren}Each robot ferret is at a different location on Earth.
+Dialogue: 0,0:03:31.46,0:03:33.50,zh,,0,0,0,,你要进到火山深处\N{\ren}You're going to the center of a volcano.
+Dialogue: 0,0:03:33.63,0:03:34.73,zh,,0,0,0,,那谢谢您呗\N{\ren}Thank you?
+Dialogue: 0,0:04:05.30,0:04:07.33,zh,,0,0,0,,好吧 也没那么无聊\N{\ren}Okay, well, this isn't not fun.
+Dialogue: 0,0:04:07.46,0:04:08.33,zh,,0,0,0,,跟我合体\N{\ren}Regroup on me.
+Dialogue: 0,0:04:08.46,0:04:09.40,zh,,0,0,0,,我向Nibblenug开一个传送门\N{\ren}I'll shoot a portal to Nibblenug.
+Dialogue: 0,0:04:09.43,0:04:11.56,zh,,0,0,0,,我刚刚从我家厨房坐单轨电车到了夏威夷\N{\ren}Did I just monorail from my kitchen to Hawaii
+Dialogue: 0,0:04:11.70,0:04:13.70,zh,,0,0,0,,就为了在厨房上方的外太空跟你合体吗\N{\ren}just to regroup in outer space above my kitchen?
+Dialogue: 0,0:04:13.83,0:04:15.53,zh,,0,0,0,,-呃 Summer -这很酷的 老爹 闭嘴吧\N{\ren}-Uh, Summer? -It's cool, Dad. Shut up.
+Dialogue: 0,0:04:23.86,0:04:24.96,zh,,0,0,0,,各位 逐一出击\N{\ren}Everybody, attack one at a time!
+Dialogue: 0,0:04:25.10,0:04:26.26,zh,,0,0,0,,这样真的能\N{\ren}Is that the best way to --
+Dialogue: 0,0:04:26.40,0:04:29.06,zh,,0,0,0,,给出漂亮一击吗 没错 跟上我\N{\ren}Tee up something awesome? Yes. Follow me.
+Dialogue: 0,0:04:32.20,0:04:34.50,zh,,0,0,0,,家人们 我们尽力了 现在只剩一线希望\N{\ren}Guys, we did our best, but there's only one hope.
+Dialogue: 0,0:04:34.63,0:04:35.96,zh,,0,0,0,,启动对接\N{\ren}Activating link-dock.
+Dialogue: 0,0:04:36.10,0:04:39.00,zh,,0,0,0,,互联变形 最酷化 合体程度 最大化\N{\ren}Inter-Morphs -- rad-ified. PostiTrinos -- maximized.
+Dialogue: 0,0:04:47.86,0:04:49.90,zh,,0,0,0,,妈的 没想到真的能行啊\N{\ren}Holy shit, I-I can't believe this is working.
+Dialogue: 0,0:04:50.03,0:04:52.10,zh,,0,0,0,,全体出击 五创来袭\N{\ren}Go, go, team! It's GoTron time!
+Dialogue: 0,0:04:56.63,0:04:59.13,zh,,0,0,0,,天啊 牛逼\N{\ren}Oh, my God. Hell yes!
+Dialogue: 0,0:04:59.26,0:05:00.30,zh,,0,0,0,,爽\N{\ren}This is amazing!
+Dialogue: 0,0:05:00.43,0:05:01.90,zh,,0,0,0,,可以踢踢打打一番了\N{\ren}Okay, now we can knock it around a little bit,
+Dialogue: 0,0:05:02.03,0:05:03.06,zh,,0,0,0,,不过听好了 我们尚在渐入佳境\N{\ren}but trust me, we're still building to something.
+Dialogue: 0,0:05:03.20,0:05:04.43,zh,,0,0,0,,-怎么操作 -摁按钮就行了\N{\ren}-How do we -- -Just hit buttons.
+Dialogue: 0,0:05:04.56,0:05:05.63,zh,,0,0,0,,我们现在坚不可摧\N{\ren}We're too big to fail.
+Dialogue: 0,0:05:08.96,0:05:10.50,zh,,0,0,0,,我踢到他了 是我踢的吧\N{\ren}I kicked him! That was me, right?
+Dialogue: 0,0:05:10.63,0:05:11.96,zh,,0,0,0,,上勾拳\N{\ren}Uppercut!
+Dialogue: 0,0:05:12.10,0:05:14.06,zh,,0,0,0,,不敢相信我差点就去做正骨了\N{\ren}I can't believe I almost went to the chiropractor!
+Dialogue: 0,0:05:14.20,0:05:15.90,zh,,0,0,0,,这一刻我等太久啦\N{\ren}I've been waiting a long time for this.
+Dialogue: 0,0:05:16.03,0:05:19.06,zh,,0,0,0,,组成光能神剑\N{\ren}Form Luminous Energy Sword!
+Dialogue: 0,0:05:19.20,0:05:21.83,zh,,0,0,0,,去死吧 珈玛老妈\N{\ren}That's your ass, Mamma Jamma.
+Dialogue: 0,0:05:26.90,0:05:28.50,zh,,0,0,0,,-太牛逼了 姥爷 -牛逼\N{\ren}-So tits, grandpa. - So tits.
+Dialogue: 0,0:05:30.96,0:05:34.90,zh,,0,0,0,,-我是五创的一只脚 -太过瘾了\N{\ren}-I was a foot! I was a GoTron foot! - I feel so alive!
+Dialogue: 0,0:05:35.06,0:05:36.40,zh,,0,0,0,,真是美好的时光啊\N{\ren}These were the good times,
+Dialogue: 0,0:05:36.53,0:05:38.43,zh,,0,0,0,,那一刻我们感觉自己无所不能\N{\ren}when we felt like we could do anything.
+Dialogue: 0,0:05:38.56,0:05:41.26,zh,,0,0,0,,但其实并没有那么“无所不能”\N{\ren}But anything is never quite everything.
+Dialogue: 0,0:05:41.40,0:05:42.66,zh,,0,0,0,,没过多久\N{\ren}And pretty soon...
+Dialogue: 0,0:05:43.00,0:05:45.36,zh,,0,0,0,,这个相比于我们能达到的成就简直微不足道\N{\ren}That was nothing -- nothing compared to what we can do.
+Dialogue: 0,0:05:45.50,0:05:48.43,zh,,0,0,0,,还有无限多个宇宙里的我没有集齐五创神貂\N{\ren}There are infinite universes where I still don't have all five ferrets.
+Dialogue: 0,0:05:48.56,0:05:51.80,zh,,0,0,0,,那些宇宙的我也会为了完成收集无所不用其极\N{\ren}Th-th-those versions of me would do anything to complete their collections.
+Dialogue: 0,0:05:51.93,0:05:54.03,zh,,0,0,0,,好吧 但是Rick 忘了你让我提醒你的话吗\N{\ren}Okay, but Rick, remember what you told me to remind you?
+Dialogue: 0,0:05:54.16,0:05:55.43,zh,,0,0,0,,有时候 得适可\N{\ren}Sometimes, enough is...
+Dialogue: 0,0:05:55.56,0:05:57.20,zh,,0,0,0,,有时候 得适可而止\N{\ren}Sometimes, enough is enough.
+Dialogue: 0,0:05:57.33,0:05:58.60,zh,,0,0,0,,Morty 你想干嘛\N{\ren}Morty, what are you doing?
+Dialogue: 0,0:05:58.73,0:05:59.90,zh,,0,0,0,,他上瘾了 Summer\N{\ren}He gets obsessed, Summer -
+Dialogue: 0,0:06:00.03,0:06:01.10,zh,,0,0,0,,你几时能意识到自己有多讨厌啊\N{\ren}When are you going to find your shame?
+Dialogue: 0,0:06:01.23,0:06:04.43,zh,,0,0,0,,-还能讨厌过你吗 -姥爷刚让一家人体验人生的高光\N{\ren}-I have more? -Grandpa just gave everybody the high point of their lives,
+Dialogue: 0,0:06:04.56,0:06:07.93,zh,,0,0,0,,而且出发前 你们都在劝他不要这么搞\N{\ren}and before he did, every single one of you was trying to talk him out of it.
+Dialogue: 0,0:06:08.06,0:06:09.43,zh,,0,0,0,,等会 是啊 什么鬼\N{\ren}Wait. Yeah. Wha-wha-what the fuck!
+Dialogue: 0,0:06:09.56,0:06:12.10,zh,,0,0,0,,现在他说我们还能玩得更嗨 结果真意想不到呢\N{\ren}Now, he says we can go higher, and big surprise,
+Dialogue: 0,0:06:12.23,0:06:13.26,zh,,0,0,0,,又开始劝他收手了\N{\ren}it's time to drag him down again.
+Dialogue: 0,0:06:13.40,0:06:14.70,zh,,0,0,0,,-我要投票 -投个头\N{\ren}-Well, I vote -- -No voting.
+Dialogue: 0,0:06:14.83,0:06:16.16,zh,,0,0,0,,讨论个屁 去他娘的民主\N{\ren}No debate. It's not a democracy.
+Dialogue: 0,0:06:16.30,0:06:18.03,zh,,0,0,0,,瑞式共和 不同意就滚蛋\N{\ren}It's a Rickpublic. You're in or you're out.
+Dialogue: 0,0:06:18.16,0:06:20.00,zh,,0,0,0,,显然我同意啊 我可没说不同意\N{\ren}Obviously, I'm in. I never said I wasn't in.
+Dialogue: 0,0:06:20.13,0:06:22.00,zh,,0,0,0,,我也加入 说说下一步做什么吧\N{\ren}Me, neither. Tell us what we're doing next.
+Dialogue: 0,0:06:22.13,0:06:23.60,zh,,0,0,0,,我想来一次露天烧烤\N{\ren}Uh, I want to put together a cookout.
+Dialogue: 0,0:06:23.73,0:06:26.13,zh,,0,0,0,,就这 讲真我都准备好炸个谁了\N{\ren}That's it? I was honestly prepared to blow someone.
+Dialogue: 0,0:06:26.26,0:06:28.93,zh,,0,0,0,,-Jerry -我说的是“准备”和“谁”\N{\ren}-Jerry. -I said "prepared" and "someone."
+Dialogue: 0,0:06:35.13,0:06:39.43,zh,,0,0,0,,Rick从不同宇宙邀请了我们家的五个版本 每家都没集齐五创\N{\ren}Rick invited five versions of our family from different universes, each with incomplete GoTrons.
+Dialogue: 0,0:06:39.56,0:06:41.20,zh,,0,0,0,,我没人可说话\N{\ren}I didn't have anyone to talk to,
+Dialogue: 0,0:06:41.33,0:06:43.26,zh,,0,0,0,,因为那四个Morty都去过奶子世界\N{\ren}since the other four Mortys had been to Boob World.
+Dialogue: 0,0:06:43.40,0:06:44.70,zh,,0,0,0,,你去海滩漫步了吗\N{\ren}Did you walk on the beach?
+Dialogue: 0,0:06:44.83,0:06:45.93,zh,,0,0,0,,那个全是奶子的海滩吗\N{\ren}The beach that's all boobs?
+Dialogue: 0,0:06:46.06,0:06:47.33,zh,,0,0,0,,没 那个全是沙子的海滩\N{\ren}No, the beach that's all sand.
+Dialogue: 0,0:06:47.46,0:06:48.86,zh,,0,0,0,,是不是傻 当然是奶子的那个呀\N{\ren}Yes, the boob one!
+Dialogue: 0,0:06:49.00,0:06:51.33,zh,,0,0,0,,Rick和五个家庭的头头在车库里\N{\ren}Rick was in the garage with the heads of the five families.
+Dialogue: 0,0:06:51.46,0:06:52.76,zh,,0,0,0,,呕 还有Summer\N{\ren}Ugh, and Summer.
+Dialogue: 0,0:06:53.10,0:06:54.20,zh,,0,0,0,,第一次会面中\N{\ren}In that first sit-down,
+Dialogue: 0,0:06:54.33,0:06:55.40,zh,,0,0,0,,有大胖Rick\N{\ren}it was Big Fat Rick,
+Dialogue: 0,0:06:55.53,0:06:57.20,zh,,0,0,0,,蒙大拿Rick 暴躁Rick\N{\ren}Ricardo Montaya, Hot Head Rick --
+Dialogue: 0,0:06:57.33,0:06:59.80,zh,,0,0,0,,他叫这名字是因为他很容易戏剧化地爆发\N{\ren}he got that name because he was prone to dramatic outbursts -
+Dialogue: 0,0:06:59.93,0:07:02.80,zh,,0,0,0,,还有收工居士小小Ricky 会议结尾时他总是超赞\N{\ren}and Lil' Ricky Wrap-it-Up, who was always great at the end of a meeting.
+Dialogue: 0,0:07:02.93,0:07:05.06,zh,,0,0,0,,而核心人物就是 我和Rick姥爷\N{\ren}At the head of it all, me and Grandpa Rick.
+Dialogue: 0,0:07:05.20,0:07:07.23,zh,,0,0,0,,别误会我了 C-137\N{\ren}Now, don't get me wrong, C-137,
+Dialogue: 0,0:07:07.36,0:07:08.80,zh,,0,0,0,,你发迹了 我们替你高兴\N{\ren}we're happy for your good fortune.
+Dialogue: 0,0:07:08.93,0:07:12.20,zh,,0,0,0,,但是我们来你的宇宙 不是为了让你在我们脸前炫耀的\N{\ren}But we did not travel to your universe just to have it rubbed in our faces.
+Dialogue: 0,0:07:12.33,0:07:15.33,zh,,0,0,0,,别介啊 大胖Rick 你的脸那么小 没法在你脸前炫耀\N{\ren}Come on, Big Fat Rick, you know your face is too small to rub anything on.
+Dialogue: 0,0:07:15.46,0:07:17.63,zh,,0,0,0,,我的脸和你的脸一样大\N{\ren}My face is the same size as yours.
+Dialogue: 0,0:07:17.76,0:07:19.70,zh,,0,0,0,,哇哦 等下\N{\ren}Wow. Huh. Hold on.
+Dialogue: 0,0:07:19.83,0:07:20.96,zh,,0,0,0,,我勒个去\N{\ren}I'll be damned.
+Dialogue: 0,0:07:21.10,0:07:22.80,zh,,0,0,0,,你都胖出光学幻觉了\N{\ren}You're so fat you're an optical illusion.
+Dialogue: 0,0:07:22.93,0:07:24.16,zh,,0,0,0,,Summer 给他们讲讲\N{\ren}Summer, give 'em the pitch.
+Dialogue: 0,0:07:24.30,0:07:28.03,zh,,0,0,0,,我们想要帮助你们每一家集齐自己的五创\N{\ren}We're offering to help each of your families complete their full GoTrons.
+Dialogue: 0,0:07:28.16,0:07:29.70,zh,,0,0,0,,而你们也需要做一点让步\N{\ren}In exchange for some concessions.
+Dialogue: 0,0:07:29.83,0:07:32.13,zh,,0,0,0,,我还是贫民窟的小男孩时\N{\ren}Ever since I was a little boy in the slums,
+Dialogue: 0,0:07:32.26,0:07:34.06,zh,,0,0,0,,就梦想着集齐五创\N{\ren}I have dreamed of having a complete GoTron.
+Dialogue: 0,0:07:34.20,0:07:35.33,zh,,0,0,0,,但是让步\N{\ren}But concessions?
+Dialogue: 0,0:07:35.46,0:07:37.46,zh,,0,0,0,,你说的是买东西打折的那种让步吧\N{\ren}I hope you mean the kind from a counter.
+Dialogue: 0,0:07:37.60,0:07:39.36,zh,,0,0,0,,她是想买冰激凌吗\N{\ren}I hope she means ice cream!
+Dialogue: 0,0:07:39.50,0:07:42.83,zh,,0,0,0,,我们希望你们把家安到这个宇宙来 然后让我\N{\ren}We'd like you to relocate your families to this universe, and let me make some
+Dialogue: 0,0:07:42.96,0:07:46.30,zh,,0,0,0,,对五创做一些改动 我们就能合作了\N{\ren}modifications to the GoTrons -- in the interest of us all working together.
+Dialogue: 0,0:07:46.43,0:07:47.83,zh,,0,0,0,,想知道我怎么想的吗\N{\ren}Want to know what I think?
+Dialogue: 0,0:07:47.96,0:07:50.00,zh,,0,0,0,,当然了 暴躁Rick 只要别莫名其妙发脾气就行\N{\ren}Sure, Hothead Rick, just don't unexpectedly fly off the handle.
+Dialogue: 0,0:07:50.13,0:07:53.03,zh,,0,0,0,,我觉得你们的优越感实在是太胆大包天了\N{\ren}I think you guys got a lot of nerve acting better than us!
+Dialogue: 0,0:07:53.16,0:07:55.20,zh,,0,0,0,,就是这家人弄出个巨型乱伦婴儿\N{\ren}This is the family that made a giant incest baby!
+Dialogue: 0,0:07:55.33,0:07:56.90,zh,,0,0,0,,搞得政府把它发射进太空\N{\ren}Had the government launch it into space!
+Dialogue: 0,0:07:57.03,0:07:58.76,zh,,0,0,0,,还在哪儿飘着呢\N{\ren}It's still floatin' around out there somewhere!
+Dialogue: 0,0:07:58.90,0:08:00.53,zh,,0,0,0,,这事儿什么时候能翻篇啊\N{\ren}Are we ever gonna live that down?
+Dialogue: 0,0:08:00.66,0:08:02.70,zh,,0,0,0,,要是我集齐了五创 也绝不是拍你马屁换来的\N{\ren}If I get a full GoTron, it won't be by kissing your ass,
+Dialogue: 0,0:08:02.83,0:08:05.80,zh,,0,0,0,,一定是我堂堂正正抢来的 抢你的\N{\ren}it'll be by taking what's mine -- yours!
+Dialogue: 0,0:08:05.93,0:08:07.63,zh,,0,0,0,,嘿 恶心 何必呢\N{\ren}Hey! Gross! No need.
+Dialogue: 0,0:08:07.76,0:08:09.86,zh,,0,0,0,,你开的是 貂吗\N{\ren}And you were driving... a ferret?
+Dialogue: 0,0:08:10.00,0:08:12.30,zh,,0,0,0,,大家都开的貂 二货 把钥匙给我\N{\ren}We all are, moron! Give me key!
+Dialogue: 0,0:08:14.80,0:08:17.43,zh,,0,0,0,,你们会后悔的 一群冷静的蠢货\N{\ren}You'll regret this, you level-headed fucks.
+Dialogue: 0,0:08:21.93,0:08:23.63,zh,,0,0,0,,我们当然猜到可能会发生这种情况\N{\ren}Obviously, we predicted that might happen,
+Dialogue: 0,0:08:23.76,0:08:25.56,zh,,0,0,0,,所以我们找了悠悠Rick候补\N{\ren}which is why we have Yo-Yo Rick on standby.
+Dialogue: 0,0:08:25.70,0:08:26.96,zh,,0,0,0,,有人和悠悠有过节嘛\N{\ren}Anybody got beef with Yo-Yo?
+Dialogue: 0,0:08:28.33,0:08:29.53,zh,,0,0,0,,有些人觉得他很逊 但是在我看来\N{\ren}Some people think he's lame, but to me,
+Dialogue: 0,0:08:29.66,0:08:31.46,zh,,0,0,0,,他逊得很酷 因为他即使逊也很骄傲\N{\ren}he's lame in a cool way because he owns it.
+Dialogue: 0,0:08:31.60,0:08:34.20,zh,,0,0,0,,酷 那事儿就谈妥了 小小Ricky 收工吧\N{\ren}Cool. That concludes business. Lil' Ricky Wrap it Up?
+Dialogue: 0,0:08:34.33,0:08:36.66,zh,,0,0,0,,走一个 哥几个 噢帕\N{\ren}Raise 'em up, boys! Oh-pah!
+Dialogue: 0,0:08:36.80,0:08:39.50,zh,,0,0,0,,就这样 我们帮这些伙伴定位到神貂\N{\ren}And so, we helped our people find their ferrets.
+Dialogue: 0,0:08:39.63,0:08:42.03,zh,,0,0,0,,至于怎么抢到手的 我们不关心\N{\ren}How they got them, not our problem.
+Dialogue: 0,0:08:42.16,0:08:43.40,zh,,0,0,0,,之后就可以开工了\N{\ren}Then, we got down to business.
+Dialogue: 0,0:08:43.53,0:08:44.86,zh,,0,0,0,,大概是这样运作的\N{\ren}Here's how it worked --
+Dialogue: 0,0:08:45.00,0:08:46.83,zh,,0,0,0,,如果有巨型怪兽袭击你的星球\N{\ren}if a giant monster attacked your planet,
+Dialogue: 0,0:08:46.96,0:08:48.23,zh,,0,0,0,,我们都会收到警报\N{\ren}we all got the alert.
+Dialogue: 0,0:08:48.36,0:08:52.50,zh,,0,0,0,,*妈妈咪亚 要打包一份意面*\N{\ren}*Hey, hey, Mama Mia's Got a plate of spaghetti for the takin'*
+Dialogue: 0,0:08:52.63,0:08:56.63,zh,,0,0,0,,*爸爸比亚 造了只巨大机甲*\N{\ren}*Papa pia's got a great big robot that he's makin'*
+Dialogue: 0,0:08:56.76,0:08:59.93,zh,,0,0,0,,*我双眼映出两轮明月*\N{\ren}*I got the moon in both my eyes*
+Dialogue: 0,0:09:00.06,0:09:02.53,zh,,0,0,0,,*你抱着一整碗披萨派*\N{\ren}*You got a bowl of pizza pie, hey!*
+Dialogue: 0,0:09:02.66,0:09:06.63,zh,,0,0,0,,*来点意面 加点日漫*\N{\ren}*A bit of pasta with some anime combined, yeah*
+Dialogue: 0,0:09:06.76,0:09:08.80,zh,,0,0,0,,我们组成了五个五创\N{\ren}We formed five GoTrons.
+Dialogue: 0,0:09:08.93,0:09:11.30,zh,,0,0,0,,这些五创再组成五五创\N{\ren}And those GoTrons formed the GoGoTron.
+Dialogue: 0,0:09:11.43,0:09:13.06,zh,,0,0,0,,五五创 出击\N{\ren}Go, GoGoTron!
+Dialogue: 0,0:09:15.20,0:09:16.30,zh,,0,0,0,,*开动了 哥几个*\N{\ren}*Take it away, boys!*
+Dialogue: 0,0:09:16.43,0:09:18.03,zh,,0,0,0,,老子永远玩不腻\N{\ren}I will never get sick of this!
+Dialogue: 0,0:09:18.16,0:09:21.06,zh,,0,0,0,,如果你刚巧是一只巨型怪兽 出现在我们的宇宙里\N{\ren}If you were a giant monster at that time, in our universe,
+Dialogue: 0,0:09:21.20,0:09:22.66,zh,,0,0,0,,你就别想活了\N{\ren}you never had a chance.
+Dialogue: 0,0:09:22.80,0:09:26.80,zh,,0,0,0,,*来点意面 加点日漫*\N{\ren}*A bit of pasta with some anime combined*
+Dialogue: 0,0:09:26.93,0:09:30.06,zh,,0,0,0,,*我们风格迥异 却也交织缠绕*\N{\ren}*'Cause we're two genres, but each one is intertwined, yeah*
+Dialogue: 0,0:09:30.20,0:09:31.46,zh,,0,0,0,,我的座驾需要一个悠悠球似的武器\N{\ren}Mine needs a weapon like a Yo-Yo.
+Dialogue: 0,0:09:31.60,0:09:33.66,zh,,0,0,0,,胸前画个悠悠球 你有在听吗\N{\ren}And a Yo-Yo on the chest. Are you listening to me?
+Dialogue: 0,0:09:33.80,0:09:35.46,zh,,0,0,0,,我需要你尊重彼此的合作\N{\ren}I-I need you to respect this partnership.
+Dialogue: 0,0:09:35.60,0:09:37.06,zh,,0,0,0,,我替Rick搞定那些见不得光的活\N{\ren}I kept Rick removed from the ugly stuff.
+Dialogue: 0,0:09:37.20,0:09:40.46,zh,,0,0,0,,如果你挡他的道了 我会把你清走\N{\ren}If you got in his way, I got you out of the way.
+Dialogue: 0,0:09:40.60,0:09:42.30,zh,,0,0,0,,这也就创造了更多上升空间\N{\ren}And that made more room to move up.
+Dialogue: 0,0:09:42.43,0:09:45.06,zh,,0,0,0,,我左臂的头领\N{\ren}The head of my right arm.
+Dialogue: 0,0:09:45.20,0:09:47.66,zh,,0,0,0,,我呢 我流落到了左脚的左脚位置\N{\ren}Me? I ended up the left foot of the left foot --
+Dialogue: 0,0:09:47.80,0:09:50.23,zh,,0,0,0,,可能因为我们的机甲没有大屁眼子吧\N{\ren}I guess because our robot didn't have an asshole.
+Dialogue: 0,0:09:50.36,0:09:51.63,zh,,0,0,0,,你不就是个大屁眼子吗\N{\ren}Well, it had one.
+Dialogue: 0,0:09:51.76,0:09:53.80,zh,,0,0,0,,贱人 你能不能不要坏我好事了\N{\ren}Bitch! When are you gonna stop breaking my balls?
+Dialogue: 0,0:09:53.93,0:09:54.83,zh,,0,0,0,,你已经赢了好吧\N{\ren}You win, okay?
+Dialogue: 0,0:09:54.86,0:09:56.90,zh,,0,0,0,,又不是在跟你竞争 Morty 我就这么说吧\N{\ren}We're not competing, Morty. And there's your answer.
+Dialogue: 0,0:09:56.93,0:09:59.36,zh,,0,0,0,,你要是能把家庭放在第一位 我就给你晋升\N{\ren}I could move you up if I could trust you to put family first.
+Dialogue: 0,0:09:59.50,0:10:01.10,zh,,0,0,0,,这算哪门子家庭第一\N{\ren}H-how is that putting family first?
+Dialogue: 0,0:10:01.23,0:10:03.50,zh,,0,0,0,,把所有蓝图都给我 把所有蓝图都给我\N{\ren}Show me all the blueprints! Show me all the blueprints!
+Dialogue: 0,0:10:03.53,0:10:05.33,zh,,0,0,0,,有道理 这是个问题\N{\ren}I agree. That's an issue.
+Dialogue: 0,0:10:05.46,0:10:08.26,zh,,0,0,0,,大胖Rick 把他酒瓶子满上 不然就卷铺盖走人吧 多谢\N{\ren}Big Fat Rick, his flask stays full or your locker gets empty. Thanks.
+Dialogue: 0,0:10:08.40,0:10:09.90,zh,,0,0,0,,我知道招他喜欢是种什么感受\N{\ren}I know it feels good when he likes you,
+Dialogue: 0,0:10:10.03,0:10:12.16,zh,,0,0,0,,但不代表那能让你变得更好\N{\ren}but that doesn't mean him liking you makes you good.
+Dialogue: 0,0:10:12.30,0:10:15.23,zh,,0,0,0,,Morty 你逼逼得有理 听着像波拉特写出来的饼干幸运签\N{\ren}Solid babble, Morty -- like a fortune cookie written by Borat.
+Dialogue: 0,0:10:15.36,0:10:16.56,zh,,0,0,0,,是 我不像你那么聪明\N{\ren}Yeah, I'm not as smart as you.
+Dialogue: 0,0:10:16.70,0:10:17.90,zh,,0,0,0,,所以我知道你懂我什么意思\N{\ren}That's why I know you know what I mean.
+Dialogue: 0,0:10:18.03,0:10:19.73,zh,,0,0,0,,你的意思是 如果我真的爱家人\N{\ren}You mean, if I really loved my family,
+Dialogue: 0,0:10:19.86,0:10:22.00,zh,,0,0,0,,我会把控制权交还到你这个吃醋精手里\N{\ren}I'd give control of it back to your jealous ass.
+Dialogue: 0,0:10:22.13,0:10:24.60,zh,,0,0,0,,绿貂四号需要清洗 我们的清洁剂用完了\N{\ren}Green Ferret Four needs a wash, and we're out of detergent.
+Dialogue: 0,0:10:24.73,0:10:25.96,zh,,0,0,0,,我刚买了一箱\N{\ren}I just bought a box.
+Dialogue: 0,0:10:26.10,0:10:28.80,zh,,0,0,0,,姥爷把那一箱都吸了 因为你让他觉得被孤立了\N{\ren}And Grandpa snorted it because you make him feel fenced in.
+Dialogue: 0,0:10:28.93,0:10:30.53,zh,,0,0,0,,小夏夏\N{\ren}Sum-Sum?
+Dialogue: 0,0:10:31.90,0:10:33.26,zh,,0,0,0,,买两箱\N{\ren}Get two boxes.
+Dialogue: 0,0:10:35.30,0:10:37.33,zh,,0,0,0,,我们疏散了所拯救的一个星球\N{\ren}We evacuated one of the planets we saved,
+Dialogue: 0,0:10:37.47,0:10:38.63,zh,,0,0,0,,并在那建立了一家私密夜总会\N{\ren}and built a secret nightclub on it,
+Dialogue: 0,0:10:38.77,0:10:40.07,zh,,0,0,0,,在这儿敌人找不上门\N{\ren}a place no enemies could find us --
+Dialogue: 0,0:10:40.20,0:10:41.57,zh,,0,0,0,,除非你把我老弟也算作敌人\N{\ren}unless you count my brother.
+Dialogue: 0,0:10:41.70,0:10:43.70,zh,,0,0,0,,我已经没有自己的神貂了\N{\ren}I didn't even have my own ferret anymore.
+Dialogue: 0,0:10:43.83,0:10:45.10,zh,,0,0,0,,Summer让我当个莫名其妙的\N{\ren}Summer made me something called
+Dialogue: 0,0:10:45.23,0:10:46.60,zh,,0,0,0,,副安全总管\N{\ren}an "associate security chief" --
+Dialogue: 0,0:10:46.73,0:10:47.83,zh,,0,0,0,,鬼知道那是什么意思\N{\ren}whatever the hell that means.
+Dialogue: 0,0:10:48.27,0:10:49.63,zh,,0,0,0,,瞧瞧这货\N{\ren}Look at this guy.
+Dialogue: 0,0:10:49.77,0:10:51.97,zh,,0,0,0,,还有这货 都好好瞧瞧这货\N{\ren}And look at this guy. Look-look at this guy over here.
+Dialogue: 0,0:10:54.87,0:10:57.17,zh,,0,0,0,,哇 她在这里 我的公主小宝贝\N{\ren}Oh, there she is! My Baby Princess!
+Dialogue: 0,0:10:57.30,0:10:59.27,zh,,0,0,0,,快上来 别奏乐了\N{\ren}Get up here. Stop the music.
+Dialogue: 0,0:10:59.40,0:11:03.30,zh,,0,0,0,,她就是我们的女娲 女女王\N{\ren}This. Is. Our. Queef -- O-our Queen.
+Dialogue: 0,0:11:03.43,0:11:05.77,zh,,0,0,0,,她拯救了我 让我重返自由\N{\ren}She saved my life. She-she set me free.
+Dialogue: 0,0:11:05.90,0:11:08.63,zh,,0,0,0,,没有这个疯婆子 我们谁都无法拥有现在的一切\N{\ren}We wouldn't have what we have without this crazy bitch.
+Dialogue: 0,0:11:08.77,0:11:10.30,zh,,0,0,0,,现在她有一项特别通告\N{\ren}And she's got a special announcement.
+Dialogue: 0,0:11:10.43,0:11:12.17,zh,,0,0,0,,Summer 跟各各位讲讲是什么事\N{\ren}Summer, tell 'em wha-what we talked about.
+Dialogue: 0,0:11:12.30,0:11:13.37,zh,,0,0,0,,现在么 我感觉不太\N{\ren}Now? I don't think --
+Dialogue: 0,0:11:13.50,0:11:14.87,zh,,0,0,0,,行吧我来 妈蛋\N{\ren}Okay, I'll do it. God damn.
+Dialogue: 0,0:11:15.00,0:11:16.70,zh,,0,0,0,,新职位也确实提供了些许好处\N{\ren}The new job did have some perks --
+Dialogue: 0,0:11:16.83,0:11:20.60,zh,,0,0,0,,比如 我能亲眼目睹到 Summer意识到自己做过头了\N{\ren}like, I got to be around the night Summer realized she was in over her head.
+Dialogue: 0,0:11:20.73,0:11:23.80,zh,,0,0,0,,我多出来了90只神貂 所以还需要再找到10只\N{\ren}Okay, I've got 90 extra ferrets, which means I need 10 more,
+Dialogue: 0,0:11:23.93,0:11:27.00,zh,,0,0,0,,这样你们其中四人就可以驾驶五五创\N{\ren}and then four of you get your own GoGoTron,
+Dialogue: 0,0:11:27.13,0:11:29.27,zh,,0,0,0,,20%的人会分到一台五创\N{\ren}and 20% of you get a GoTron,
+Dialogue: 0,0:11:29.40,0:11:33.67,zh,,0,0,0,,这样我们就可以拥有一台神他妈五五五创\N{\ren}'cause we're all gonna have a fucking GoGoGoTron.
+Dialogue: 0,0:11:33.80,0:11:36.10,zh,,0,0,0,,他太激动了 咳\N{\ren}He's very excited. Um...
+Dialogue: 0,0:11:40.47,0:11:41.87,zh,,0,0,0,,恨死我家人\N{\ren}I hate my family.
+Dialogue: 0,0:11:42.00,0:11:43.70,zh,,0,0,0,,应该的\N{\ren}You should.
+Dialogue: 0,0:11:43.83,0:11:45.00,zh,,0,0,0,,上车\N{\ren}Get in.
+Dialogue: 0,0:11:45.13,0:11:47.27,zh,,0,0,0,,你姥爷的强迫症行为怎么样了\N{\ren}How's it going with your grandpa's compulsiveness?
+Dialogue: 0,0:11:47.40,0:11:49.80,zh,,0,0,0,,你姐还在纵容么 哈\N{\ren}Is your sister still enabling it? Huh?
+Dialogue: 0,0:11:49.93,0:11:51.53,zh,,0,0,0,,你们谁啊\N{\ren}Who are you people?
+Dialogue: 0,0:11:51.67,0:11:53.47,zh,,0,0,0,,知道我们是神貂的合法拥有者就好\N{\ren}Let's just say we're the rightful owners of these ferrets.
+Dialogue: 0,0:11:53.60,0:11:55.87,zh,,0,0,0,,那为什么那些机甲都破破烂烂地掩藏在了宇宙深处\N{\ren}Then, why were they scattered, and buried across the universe?
+Dialogue: 0,0:11:56.00,0:11:58.87,zh,,0,0,0,,我们说的是更广义 更文化层面的拥有 啊\N{\ren}We mean in a more general, cultural sense. Arrrgh!
+Dialogue: 0,0:11:59.00,0:12:01.20,zh,,0,0,0,,你姥爷这行为叫“文化挪用”\N{\ren}What your Grandpa did is called "appropriation."
+Dialogue: 0,0:12:01.33,0:12:03.13,zh,,0,0,0,,垃圾 哈\N{\ren}Not cool! Hunnnnngh!
+Dialogue: 0,0:12:03.27,0:12:04.47,zh,,0,0,0,,听着Morty 我们一直在关注你们\N{\ren}Look, Morty, we've been watching.
+Dialogue: 0,0:12:04.60,0:12:06.33,zh,,0,0,0,,知道你才是最有是非观的人\N{\ren}We know you're the one that knows what's best.
+Dialogue: 0,0:12:06.47,0:12:08.10,zh,,0,0,0,,给我们当间谍吧\N{\ren}Work with us from the inside.
+Dialogue: 0,0:12:08.23,0:12:09.80,zh,,0,0,0,,帮我们夺回这一切\N{\ren}Help us take over this operation.
+Dialogue: 0,0:12:09.93,0:12:12.37,zh,,0,0,0,,我们的设定本就是机甲驾驶者 哼\N{\ren}We're literally designed for it. Mm-hmmmmmm!
+Dialogue: 0,0:12:12.50,0:12:13.67,zh,,0,0,0,,没人会发现内鬼是你\N{\ren}Nobody will know it was you.
+Dialogue: 0,0:12:13.80,0:12:16.27,zh,,0,0,0,,之后 你就能重新专注于要事了\N{\ren}Then, you can get back to what's important.
+Dialogue: 0,0:12:16.40,0:12:17.70,zh,,0,0,0,,这些是奶子币么\N{\ren}Are those Boob Bucks?
+Dialogue: 0,0:12:17.83,0:12:22.13,zh,,0,0,0,,每个售货亭和游乐设施都可使用 哼\N{\ren}Legal tender at every kiosk and ride! Huuunh!
+Dialogue: 0,0:12:22.27,0:12:23.77,zh,,0,0,0,,不行\N{\ren}I can't.
+Dialogue: 0,0:12:23.90,0:12:26.03,zh,,0,0,0,,Summer待我如敝履 但终究是我姐\N{\ren}Summer's treating me like shit, but she's still my sister.
+Dialogue: 0,0:12:26.17,0:12:27.67,zh,,0,0,0,,还真是高尚呢 Morty\N{\ren}That's really noble, Morty.
+Dialogue: 0,0:12:27.80,0:12:29.67,zh,,0,0,0,,你若是我们家庭中的一员 必会奖赏你的忠诚\N{\ren}If you were in our family, your loyalty would be rewarded.
+Dialogue: 0,0:12:29.80,0:12:32.60,zh,,0,0,0,,但你不是 所以我们大可以宰了你\N{\ren}But you're not in our family, which means we can kill you.
+Dialogue: 0,0:12:32.73,0:12:33.93,zh,,0,0,0,,是吗\N{\ren}Oh, yeah?
+Dialogue: 0,0:12:41.67,0:12:47.30,zh,,0,0,0,,没错 就在我为了家人们出头反击时 我被迎头痛击了\N{\ren}And sure enough, just when I stuck my neck out for the family, it got stomped on anyway.
+Dialogue: 0,0:12:48.43,0:12:50.37,zh,,0,0,0,,-爸 -妈 爸\N{\ren}-Dad! -Mom! Dad!
+Dialogue: 0,0:12:55.23,0:12:57.10,zh,,0,0,0,,俺暴躁Rick去也\N{\ren}Hothead Rick, baby!
+Dialogue: 0,0:12:58.47,0:12:59.83,zh,,0,0,0,,我真是自找的\N{\ren}I set myself up for that!
+Dialogue: 0,0:13:00.93,0:13:02.50,zh,,0,0,0,,-妈的出了什么事 -暴躁Rick来了\N{\ren}-What the hell happened?! -Hothead Rick.
+Dialogue: 0,0:13:02.63,0:13:03.77,zh,,0,0,0,,他怎么找到这里的\N{\ren}How did he get so close to us?
+Dialogue: 0,0:13:03.90,0:13:05.27,zh,,0,0,0,,Morty不是该负责安保吗\N{\ren}Morty was supposed to be security!
+Dialogue: 0,0:13:05.40,0:13:07.37,zh,,0,0,0,,-Morty -我我我我溜了 好吧\N{\ren}-Morty? -I-I-I stepped away, alright?
+Dialogue: 0,0:13:07.50,0:13:08.67,zh,,0,0,0,,但不是为了放他进来\N{\ren}But-but not to let that happen!
+Dialogue: 0,0:13:08.80,0:13:12.13,zh,,0,0,0,,Morty 我们不是什么坐在你飞往巴黎的航班上\N{\ren}Morty, we're not attractive strangers next to you on a flight to Paris,
+Dialogue: 0,0:13:12.27,0:13:13.97,zh,,0,0,0,,排解失恋之苦的邻座帅哥美女\N{\ren}traveling alone to get over a breakup,
+Dialogue: 0,0:13:14.10,0:13:15.53,zh,,0,0,0,,少在这扭扭捏捏的\N{\ren}so this is no time to be coy!
+Dialogue: 0,0:13:15.67,0:13:17.97,zh,,0,0,0,,小小Ricky\N{\ren}Lil' Ricky.
+Dialogue: 0,0:13:18.10,0:13:19.47,zh,,0,0,0,,我全部收工了 Summer\N{\ren}I'm all wrapped up, Summer.
+Dialogue: 0,0:13:19.60,0:13:22.53,zh,,0,0,0,,家人们 我知道你们不信任我 但我们都变成什么人了\N{\ren}Guys, I know you don't trust me, but what have we become?
+Dialogue: 0,0:13:22.67,0:13:24.00,zh,,0,0,0,,为什么我们还在继续这项行动\N{\ren}Why are we doing this anymore?
+Dialogue: 0,0:13:24.13,0:13:25.70,zh,,0,0,0,,因为好玩啊 你个臭内鬼\N{\ren}Because it's fun, you little rat.
+Dialogue: 0,0:13:25.83,0:13:29.00,zh,,0,0,0,,回家玩电游去吧 我们来给他们收尸\N{\ren}Now go home, and play video games while we clean up these bodies,
+Dialogue: 0,0:13:29.13,0:13:30.70,zh,,0,0,0,,不然我和你妈就雇人打断你的腿\N{\ren}or your mother and I will hire people to break your knees!
+Dialogue: 0,0:13:30.83,0:13:34.87,zh,,0,0,0,,这是我们踩坏了房车营地之后从影子政府那拿到的16000块钱\N{\ren}This is $16,000 we got from the deep state for stepping on that trailer park.
+Dialogue: 0,0:13:35.00,0:13:36.93,zh,,0,0,0,,应该够你学校伙食和家里装修的费用了\N{\ren}That should be enough for school lunch and home repairs.
+Dialogue: 0,0:13:37.07,0:13:38.63,zh,,0,0,0,,现在我要背弃你了\N{\ren}Now, I gotta turn my back on you.
+Dialogue: 0,0:13:38.77,0:13:40.27,zh,,0,0,0,,不要啊\N{\ren}No!
+Dialogue: 0,0:13:40.30,0:13:42.90,zh,,0,0,0,,Morty出局后 一切看起来蒸蒸日上\N{\ren}With Morty out of the way, things were looking up.
+Dialogue: 0,0:13:43.03,0:13:44.83,zh,,0,0,0,,但眼看不一定为实\N{\ren}But looks aren't everything.
+Dialogue: 0,0:13:46.87,0:13:49.83,zh,,0,0,0,,Summer 我的驾驶舱接不到Wi-Fi\N{\ren}Hi, Summer. Um, my cockpit's not getting Wi-Fi.
+Dialogue: 0,0:13:49.97,0:13:51.60,zh,,0,0,0,,老爹 你明知道我不管这档子事\N{\ren}Dad, you know that's not what I do around here.
+Dialogue: 0,0:13:51.73,0:13:53.67,zh,,0,0,0,,呃 我不是你亲爹 只是其中一个爹\N{\ren}Oh, I'm not your Dad. I'm a version of him.
+Dialogue: 0,0:13:53.80,0:13:55.03,zh,,0,0,0,,这是我第一天过来\N{\ren}This is my first day here,
+Dialogue: 0,0:13:55.17,0:13:56.80,zh,,0,0,0,,我也不清楚你负责哪些事情\N{\ren}and I-I'm not sure what you do around here.
+Dialogue: 0,0:13:56.93,0:13:58.97,zh,,0,0,0,,-那就死开 -去死吧你\N{\ren}-Then fuck off. -Oh, fuck you.
+Dialogue: 0,0:13:59.10,0:14:01.10,zh,,0,0,0,,你说什么 我要看你的身份证明\N{\ren}Excuse me? I want your ID.
+Dialogue: 0,0:14:02.97,0:14:05.83,zh,,0,0,0,,老妈 是你吗老妈 你能去管一下你那个新手Jerry么\N{\ren}Mom. Are you Mom? Can you control your rookie Jerrys?
+Dialogue: 0,0:14:05.97,0:14:07.93,zh,,0,0,0,,亲爱的 我们都很忙的\N{\ren}Sweetie, we're all a little overwhelmed -
+Dialogue: 0,0:14:08.07,0:14:10.00,zh,,0,0,0,,有理 你不是那种战备老妈\N{\ren}Good point. You're not a war-time Mom.
+Dialogue: 0,0:14:10.13,0:14:11.67,zh,,0,0,0,,那不如带上你那个世界的我爹\N{\ren}Why don't you find your version of Dad,
+Dialogue: 0,0:14:11.80,0:14:14.30,zh,,0,0,0,,休息休息 放个长假咯\N{\ren}and take a break, take a holiday.
+Dialogue: 0,0:14:14.43,0:14:16.23,zh,,0,0,0,,我没空等你确认回复\N{\ren}I don't have time to wait for your confirmation,
+Dialogue: 0,0:14:16.37,0:14:18.10,zh,,0,0,0,,我把话撂这 你要是十分钟内还不走\N{\ren}so let's just say, if you're here in 10 minutes,
+Dialogue: 0,0:14:18.23,0:14:19.83,zh,,0,0,0,,我就轰你走\N{\ren}I'll have you removed.
+Dialogue: 0,0:14:19.97,0:14:21.77,zh,,0,0,0,,然后五创合成五创\N{\ren}And then, the GoTrons make the GoTrons,
+Dialogue: 0,0:14:21.90,0:14:24.10,zh,,0,0,0,,再合成五创 再合成五创\N{\ren}make the GoTrons, make the GoTrons.
+Dialogue: 0,0:14:25.23,0:14:28.00,zh,,0,0,0,,出了点岔子 但我知道怎样可以加快进度了\N{\ren}Couple of snags, but I know how to speed things up.
+Dialogue: 0,0:14:28.13,0:14:30.17,zh,,0,0,0,,还记得有一次我们说过能最大程度\N{\ren}Remember when we talked about how the best thing we could do
+Dialogue: 0,0:14:30.30,0:14:32.50,zh,,0,0,0,,帮助家人的方法就是招募外人么\N{\ren}for the family is to recruit outside the family?
+Dialogue: 0,0:14:32.63,0:14:33.73,zh,,0,0,0,,记得 我已经执行了\N{\ren}Yes. Way ahead of you.
+Dialogue: 0,0:14:33.87,0:14:35.27,zh,,0,0,0,,Summer 这位是Kendra\N{\ren}Summer, I want you to meet Kendra.
+Dialogue: 0,0:14:35.40,0:14:36.73,zh,,0,0,0,,她来自一家临时工中介\N{\ren}She's from a temp agency.
+Dialogue: 0,0:14:36.87,0:14:38.73,zh,,0,0,0,,拥有一支随时待命的队伍\N{\ren}She's got an entire workforce ready to go,
+Dialogue: 0,0:14:38.87,0:14:41.60,zh,,0,0,0,,而且所有人都有驾驶巨型机甲的经验\N{\ren}and all of them have previous giant robot pilot experience.
+Dialogue: 0,0:14:41.73,0:14:43.50,zh,,0,0,0,,这样进度就可以加快了\N{\ren}So, we'll be ready to go ahead of schedule.
+Dialogue: 0,0:14:43.63,0:14:45.23,zh,,0,0,0,,呃 我也不是很确定这样\N{\ren}Well, I don't know about that but --
+Dialogue: 0,0:14:45.37,0:14:47.40,zh,,0,0,0,,Kendra很确定 那就\N{\ren}Well, Kendra knows. So...
+Dialogue: 0,0:14:47.53,0:14:49.00,zh,,0,0,0,,那就\N{\ren}So....
+Dialogue: 0,0:14:53.40,0:14:54.67,zh,,0,0,0,,你是来打断我的腿的么\N{\ren}You here to break my legs?
+Dialogue: 0,0:14:54.80,0:14:56.80,zh,,0,0,0,,我们是来说你老姐坏话的\N{\ren}No. We're here to talk shit about your sister,
+Dialogue: 0,0:14:56.93,0:14:58.03,zh,,0,0,0,,她刚刚把我俩炒鱿鱼了\N{\ren}because she just fired us.
+Dialogue: 0,0:14:58.17,0:14:59.80,zh,,0,0,0,,-说笑的吧 -膨胀的小贱畜\N{\ren}-You're kidding. -Arrogant little bitch.
+Dialogue: 0,0:14:59.93,0:15:01.77,zh,,0,0,0,,-我们要不要把她做掉 -不了 不值得为她吃牢饭\N{\ren}-Should we clip her? -No. She's not worth doing time.
+Dialogue: 0,0:15:01.90,0:15:04.47,zh,,0,0,0,,你不会吃牢饭的呀 是你生的她\N{\ren}You wouldn't do time. You brought her into the world.
+Dialogue: 0,0:15:04.60,0:15:05.73,zh,,0,0,0,,所以我就能杀了她吗\N{\ren}So, I can take her out.
+Dialogue: 0,0:15:05.87,0:15:06.93,zh,,0,0,0,,你真以为有这么条法律啊\N{\ren}You thought there was an actual law?
+Dialogue: 0,0:15:07.07,0:15:08.63,zh,,0,0,0,,那是妈妈们的玩笑话\N{\ren}It's a joke mothers say.
+Dialogue: 0,0:15:08.77,0:15:10.57,zh,,0,0,0,,你都生活在什么操蛋世界里啊\N{\ren}What kind of fucked up world have you been living in?
+Dialogue: 0,0:15:10.70,0:15:13.80,zh,,0,0,0,,不会把妈妈杀孩子当笑话讲的世界 好吗\N{\ren}Uh, one where your mother murdering you isn't a comedic premise?
+Dialogue: 0,0:15:13.93,0:15:15.63,zh,,0,0,0,,爸妈 现在你们需要时间适应\N{\ren}Guys, there's a little adjustment period,
+Dialogue: 0,0:15:15.77,0:15:17.17,zh,,0,0,0,,但很快都会回归正轨的\N{\ren}but pretty soon, you're gonna to return to normal,
+Dialogue: 0,0:15:17.30,0:15:18.63,zh,,0,0,0,,你也不会想宰了Summer\N{\ren}and you're not going to want to kill Summer.
+Dialogue: 0,0:15:18.77,0:15:19.83,zh,,0,0,0,,连冲她发火都不会\N{\ren}You're not even gonna be mad at her.
+Dialogue: 0,0:15:19.97,0:15:21.40,zh,,0,0,0,,拉她奶奶的倒吧 我要与她为敌\N{\ren}Nah, fuck her. She's my enemy.
+Dialogue: 0,0:15:21.53,0:15:23.57,zh,,0,0,0,,要不要我们先自杀下地狱\N{\ren}Should we kill ourselves, so we can get to hell before her,
+Dialogue: 0,0:15:23.70,0:15:25.07,zh,,0,0,0,,然后躲在大门口伏击\N{\ren}and hide near the entrance?
+Dialogue: 0,0:15:25.20,0:15:27.27,zh,,0,0,0,,好主意\N{\ren}I like that.
+Dialogue: 0,0:15:27.40,0:15:29.40,zh,,0,0,0,,Rick把我炒了\N{\ren}Rick fired me.
+Dialogue: 0,0:15:31.23,0:15:32.50,zh,,0,0,0,,-天哪宝贝 -对不起\N{\ren}-Oh, sweetie. -I'm sorry.
+Dialogue: 0,0:15:32.63,0:15:34.67,zh,,0,0,0,,你还好吗闺女 我们都怎么了啊\N{\ren}Are you okay, baby? What happened to us?
+Dialogue: 0,0:15:34.80,0:15:36.13,zh,,0,0,0,,完全失去理智了\N{\ren}We lost our minds.
+Dialogue: 0,0:15:36.27,0:15:37.73,zh,,0,0,0,,是的 Morty说得很对\N{\ren}I did it. Morty was right.
+Dialogue: 0,0:15:37.87,0:15:39.77,zh,,0,0,0,,我哄姥爷开心上瘾了\N{\ren}I got addicted to making Grandpa happy.
+Dialogue: 0,0:15:39.90,0:15:42.67,zh,,0,0,0,,因为你姥爷一直在鼓吹他开心的价值\N{\ren}It's only because your Grandpa inflates the value of his happiness.
+Dialogue: 0,0:15:42.80,0:15:44.13,zh,,0,0,0,,说得好啊 不像我\N{\ren}That's a good point. I mean, look at me.
+Dialogue: 0,0:15:44.27,0:15:46.40,zh,,0,0,0,,我可好哄了 所以\N{\ren}I'm easy to make happy, which is why
+Dialogue: 0,0:15:46.53,0:15:48.00,zh,,0,0,0,,我开心了也没人在意\N{\ren}nobody gives a shit if I am.
+Dialogue: 0,0:15:48.13,0:15:50.73,zh,,0,0,0,,谢谢大伙 还有另一件事\N{\ren}I appreciate it, but there's something else too.
+Dialogue: 0,0:15:50.87,0:15:53.13,zh,,0,0,0,,我最近对家庭这个点特别敏感\N{\ren}I've been really sensitive about family lately
+Dialogue: 0,0:15:53.27,0:15:55.63,zh,,0,0,0,,因为有件事我一直在跟你们保密\N{\ren}because of something I've been keeping secret.
+Dialogue: 0,0:15:55.77,0:15:56.90,zh,,0,0,0,,好吧 谁继任最高大法官来着\N{\ren}Okay. Who's on the Supreme Court,
+Dialogue: 0,0:15:57.03,0:15:58.30,zh,,0,0,0,,我们这是哪个州\N{\ren}and what state do we live in?
+Dialogue: 0,0:15:58.43,0:15:59.70,zh,,0,0,0,,这事我好多年没想过了\N{\ren}It's been years since I've thought about this.
+Dialogue: 0,0:15:59.83,0:16:01.30,zh,,0,0,0,,不是我怀孕了啦\N{\ren}No, I'm not pregnant.
+Dialogue: 0,0:16:01.43,0:16:03.90,zh,,0,0,0,,但你们应该记得 毕竟总有人在我们耳边叨逼叨\N{\ren}But as you guys recall, and as a lot of people keep bringing up,
+Dialogue: 0,0:16:04.03,0:16:06.93,zh,,0,0,0,,我和Morty意外造出了一个巨型乱伦婴儿\N{\ren}Morty and I did accidentally create a giant incest baby,
+Dialogue: 0,0:16:07.07,0:16:08.80,zh,,0,0,0,,还被政府发射上了太空\N{\ren}which the government did launch into space.
+Dialogue: 0,0:16:08.93,0:16:10.93,zh,,0,0,0,,但这事我真不知道该如何启齿\N{\ren}And I'm not sure how to tell you this,
+Dialogue: 0,0:16:11.07,0:16:14.57,zh,,0,0,0,,那个巨婴还活着 我和他一直有接触\N{\ren}but it is still alive, and I have been in contact with it.
+Dialogue: 0,0:16:14.70,0:16:17.13,zh,,0,0,0,,上个月有几个当兵的跑到学校找我\N{\ren}There were soldiers waiting for me outside school last month.
+Dialogue: 0,0:16:17.27,0:16:19.23,zh,,0,0,0,,带我去了五角大楼 做了简报\N{\ren}They took me to the Pentagon, and briefed me.
+Dialogue: 0,0:16:19.37,0:16:21.73,zh,,0,0,0,,然后我坐上了一架穿梭机去了火星上的一处秘密基地\N{\ren}And from there, I was shuttled to a secret base on Mars.
+Dialogue: 0,0:16:21.87,0:16:23.73,zh,,0,0,0,,政府抓到了他 想看看\N{\ren}They had captured him, and wanted to see
+Dialogue: 0,0:16:23.87,0:16:26.97,zh,,0,0,0,,会不会对我 他的母亲 做出本能的回应\N{\ren}if he'd respond to me, instinctively, being his mother.
+Dialogue: 0,0:16:27.10,0:16:28.40,zh,,0,0,0,,他也确实有反应\N{\ren}And he sure did.
+Dialogue: 0,0:16:28.53,0:16:30.67,zh,,0,0,0,,但他们没料到的是我的反应\N{\ren}But what they didn't expect was that I'd respond to him.
+Dialogue: 0,0:16:30.80,0:16:32.17,zh,,0,0,0,,我是被叫去训诫他\N{\ren}I was supposed to help discipline him,
+Dialogue: 0,0:16:32.30,0:16:34.33,zh,,0,0,0,,帮助政府把他培养成终极武器的\N{\ren}so they could turn him into the ultimate weapon.
+Dialogue: 0,0:16:34.47,0:16:37.93,zh,,0,0,0,,然而我教他什么是爱 教他相信自己\N{\ren}Instead, I trained him to love, to believe in himself,
+Dialogue: 0,0:16:38.07,0:16:40.07,zh,,0,0,0,,好有朝一日逃脱\N{\ren}and finally, to escape.
+Dialogue: 0,0:16:40.20,0:16:42.90,zh,,0,0,0,,政府想掩盖这件事\N{\ren}The government doesn't want anyone to know it happened,
+Dialogue: 0,0:16:43.03,0:16:45.50,zh,,0,0,0,,但真相大白是早晚的事\N{\ren}but it's only a matter of time before the story comes out.
+Dialogue: 0,0:16:45.63,0:16:48.23,zh,,0,0,0,,若真有这么一天 我们就只能依靠彼此了\N{\ren}And when it does, all we're going to have is each other.
+Dialogue: 0,0:16:48.37,0:16:51.23,zh,,0,0,0,,你们两个是爱人 Rick可以依靠Morty\N{\ren}And you guys are a couple, and Rick has Morty,
+Dialogue: 0,0:16:51.37,0:16:52.73,zh,,0,0,0,,我却只能打光棍\N{\ren}but I'm the odd one out.
+Dialogue: 0,0:16:52.87,0:16:55.47,zh,,0,0,0,,所以我要想方设法让一家五口团结在一起\N{\ren}So, I wanted to make sure we stuck together.
+Dialogue: 0,0:16:55.60,0:16:58.80,zh,,0,0,0,,但事与愿违 我让彼此渐行渐远 Rick还找到一个\N{\ren}But instead, I drove us apart, and Rick replaced me
+Dialogue: 0,0:16:58.93,0:17:01.90,zh,,0,0,0,,动画风妹子顶替我 现在我只剩下我自己\N{\ren}with an anime girl, so all I've got is myself
+Dialogue: 0,0:17:02.03,0:17:04.73,zh,,0,0,0,,和我那巨大 被政府训练和折磨的 叛逃的\N{\ren}and my giant, tortured, government-trained rogue
+Dialogue: 0,0:17:04.87,0:17:08.43,zh,,0,0,0,,飘在宇宙间某处的乱伦怪物婴儿可以依靠了\N{\ren}incest monster baby out there in space somewhere.
+Dialogue: 0,0:17:08.57,0:17:10.43,zh,,0,0,0,,闺女啊 苦了你了\N{\ren}Oh, baby. What the fuck.
+Dialogue: 0,0:17:10.57,0:17:13.57,zh,,0,0,0,,这样一来 你也不禁好奇 政府都拿着我们的税款搞了些什么鬼\N{\ren}And then, you have to wonder, what else are they doing with our taxes?
+Dialogue: 0,0:17:13.70,0:17:15.30,zh,,0,0,0,,等下 Summer 你说什么\N{\ren}Wait. Summer, what did you just say?
+Dialogue: 0,0:17:15.43,0:17:16.50,zh,,0,0,0,,好多事啊 Morty\N{\ren}Morty, a lot.
+Dialogue: 0,0:17:16.63,0:17:17.93,zh,,0,0,0,,他找了个动画风女孩顶替你\N{\ren}He replaced you with an anime girl?
+Dialogue: 0,0:17:18.07,0:17:19.67,zh,,0,0,0,,大眼睛 牙缝是一排加号\N{\ren}Big eyes? Plus signs for teeth?
+Dialogue: 0,0:17:19.80,0:17:21.73,zh,,0,0,0,,一句话说完还有奇奇怪怪的语气词\N{\ren}Ends sentences with weird sounds that don't fit?
+Dialogue: 0,0:17:21.87,0:17:23.40,zh,,0,0,0,,没错 他的队伍现在全是这种人了\N{\ren}Yeah. That's going to be his whole crew now.
+Dialogue: 0,0:17:23.53,0:17:26.07,zh,,0,0,0,,而且马上就要进行五五五创的第一次试驾\N{\ren}And they're about to run their first test on the GoGoGoTron.
+Dialogue: 0,0:17:26.20,0:17:27.90,zh,,0,0,0,,那些人是来抢机甲的\N{\ren}Those people want to steal the robots.
+Dialogue: 0,0:17:28.03,0:17:29.90,zh,,0,0,0,,Rick孤立无援 他们会害死他的\N{\ren}Th-they're gonna kill Rick. He's all alone.
+Dialogue: 0,0:17:30.03,0:17:31.40,zh,,0,0,0,,我我我们必须去救他\N{\ren}We-we-we've got to go save him.
+Dialogue: 0,0:17:31.53,0:17:33.10,zh,,0,0,0,,对 或者 让他去死吧\N{\ren}Right. Or... you know, fuck him.
+Dialogue: 0,0:17:33.23,0:17:34.97,zh,,0,0,0,,-我没意见 -嗯 去死吧\N{\ren}-I'm good with that. -Yeah, fuck him.
+Dialogue: 0,0:17:35.10,0:17:38.60,zh,,0,0,0,,家人们 一个伟大的领导者曾告诉我 摊上什么家人就是什么家人\N{\ren}Guys, a great leader once told me you get the family you get.
+Dialogue: 0,0:17:44.37,0:17:47.50,zh,,0,0,0,,好的 成功了 现在只需要找到个巨型怪兽\N{\ren}Alright. It works. Now, we just got to find a giant monster.
+Dialogue: 0,0:17:47.63,0:17:49.40,zh,,0,0,0,,我的感应器搜索到了一只 Rick\N{\ren}My sensors have picked one up, Rick.
+Dialogue: 0,0:17:49.53,0:17:50.90,zh,,0,0,0,,好好好 锁定坐标\N{\ren}Okay. Okay Lock onto its location.
+Dialogue: 0,0:17:51.03,0:17:52.10,zh,,0,0,0,,收到\N{\ren}Yeah, got it.
+Dialogue: 0,0:17:52.23,0:17:53.33,zh,,0,0,0,,唔 是你啊\N{\ren}Oh, it's you!
+Dialogue: 0,0:17:53.47,0:17:55.67,zh,,0,0,0,,蛤\N{\ren}Huh?
+Dialogue: 0,0:17:55.80,0:17:57.07,zh,,0,0,0,,你们他妈要干嘛\N{\ren}What the hell is this?
+Dialogue: 0,0:17:57.20,0:17:59.37,zh,,0,0,0,,谢谢你造出这个史上最大的机甲 Rick\N{\ren}Thanks for making the biggest robot ever, Rick.
+Dialogue: 0,0:17:59.50,0:18:01.43,zh,,0,0,0,,后边就交给我们吧\N{\ren}We'll take it from here.
+Dialogue: 0,0:18:01.57,0:18:04.17,zh,,0,0,0,,你们这帮大屁眼子\N{\ren}You little assholes!
+Dialogue: 0,0:18:04.30,0:18:05.80,zh,,0,0,0,,老不死的\N{\ren}You son of a bitch!
+Dialogue: 0,0:18:10.63,0:18:12.70,zh,,0,0,0,,子弹上膛啦 铁子们\N{\ren}Lock 'n load, boys.
+Dialogue: 0,0:18:16.47,0:18:18.07,zh,,0,0,0,,都来认识下小号的我啊\N{\ren}Say "hello" to my little me.
+Dialogue: 0,0:18:25.03,0:18:27.80,zh,,0,0,0,,投降吧老东西 五三是我们的了\N{\ren}Give up, old man. The G3 is ours.
+Dialogue: 0,0:18:27.93,0:18:29.97,zh,,0,0,0,,没记错的话 你的“家人们”\N{\ren}And last I checked, your "family"
+Dialogue: 0,0:18:30.10,0:18:31.83,zh,,0,0,0,,可不会来救你了 哈\N{\ren}wasn't coming to save you, hmm?
+Dialogue: 0,0:18:31.97,0:18:34.60,zh,,0,0,0,,购购 顾顾\N{\ren}Go go goo goo.
+Dialogue: 0,0:18:34.73,0:18:37.40,zh,,0,0,0,,仁慈圣母啊\N{\ren}Holy mother of mercy!
+Dialogue: 0,0:18:37.53,0:18:39.50,zh,,0,0,0,,天呐 真壮观\N{\ren}My God. It's beautiful.
+Dialogue: 0,0:18:44.73,0:18:47.37,zh,,0,0,0,,耶 家人们来咯\N{\ren}Yeah! Family!
+Dialogue: 0,0:18:47.50,0:18:49.27,zh,,0,0,0,,-那是 -你没看错 就是他\N{\ren}-Is that -- -It's exactly what it looks like. Yes.
+Dialogue: 0,0:18:49.40,0:18:51.27,zh,,0,0,0,,恭喜啊老东西 长得真像你\N{\ren}Congrats, man. I see the resemblance.
+Dialogue: 0,0:18:51.40,0:18:55.50,zh,,0,0,0,,组成光能神剑 快他妈启动神剑\N{\ren}Form the Energy Sword! Activate the Goddamn sword!
+Dialogue: 0,0:18:55.63,0:18:57.73,zh,,0,0,0,,天呐 拔剑了 咱们好像考虑得不太周到啊\N{\ren}Oh, man, the sword. Maybe we didn't think this through.
+Dialogue: 0,0:18:57.87,0:19:00.17,zh,,0,0,0,,他们不会对太空婴儿下手的吧\N{\ren}They're not actually gonna attack a space baby, are they?
+Dialogue: 0,0:19:00.30,0:19:01.77,zh,,0,0,0,,真想不到我会说出这种话来\N{\ren}I never thought I'd be the one to say this,
+Dialogue: 0,0:19:01.90,0:19:03.67,zh,,0,0,0,,你得多看点动画片了老妈\N{\ren}but you need to watch more anime, Mom.
+Dialogue: 0,0:19:03.80,0:19:06.60,zh,,0,0,0,,喔 慢点 鸣人\N{\ren}Whoa, easy now, Naruto.
+Dialogue: 0,0:19:09.53,0:19:12.77,zh,,0,0,0,,拜拜咯\N{\ren}Bahbah go bye-bye!
+Dialogue: 0,0:19:16.43,0:19:18.30,zh,,0,0,0,,你们都是些什么妖魔鬼怪\N{\ren}What the hell is wrong with you people?!
+Dialogue: 0,0:19:18.43,0:19:21.80,zh,,0,0,0,,随手就能掏出个乱伦太空怪兽吗 哈\N{\ren}You just have an incest space monster in your back pocket, huh?
+Dialogue: 0,0:19:21.93,0:19:24.27,zh,,0,0,0,,Smith一家欢迎您\N{\ren}Welcome to the Smith family.
+Dialogue: 0,0:19:25.77,0:19:27.97,zh,,0,0,0,,啊靠 鸣人快放手 你曾外祖父在里头\N{\ren}Shit. Put that down, Naruto. Your great-grandpa is in there.
+Dialogue: 0,0:19:28.10,0:19:30.37,zh,,0,0,0,,玩最后一把吊索 如何\N{\ren}What do you say? One last zipline?
+Dialogue: 0,0:19:38.40,0:19:42.03,zh,,0,0,0,,乱伦太空婴儿 干得漂亮\N{\ren}Incest space baby. Nicely done.
+Dialogue: 0,0:19:42.17,0:19:44.97,zh,,0,0,0,,自那之后 一切基本都恢复如常\N{\ren}After that, things pretty much went back to normal --
+Dialogue: 0,0:19:45.10,0:19:46.50,zh,,0,0,0,,某种程度上的正常吧\N{\ren}some version of it, anyway.
+Dialogue: 0,0:19:46.63,0:19:49.10,zh,,0,0,0,,Rick说五创不过是骗小孩的无聊把戏\N{\ren}Rick said GoTrons were lame little kid bullshit,
+Dialogue: 0,0:19:49.23,0:19:51.13,zh,,0,0,0,,所以我们自此绝口不提\N{\ren}and we never talked about them again.
+Dialogue: 0,0:19:51.27,0:19:53.53,zh,,0,0,0,,依旧有星际巨兽在各处为非作歹\N{\ren}Except all those gigantic space bugs were still runnin' loose,
+Dialogue: 0,0:19:53.67,0:19:56.17,zh,,0,0,0,,但已经没有五创去和它们作战了\N{\ren}and there were no GoTrons left to fight them.
+Dialogue: 0,0:19:56.30,0:19:58.43,zh,,0,0,0,,嗯 每天都会死伤上百万人\N{\ren}Yeah, millions die every day.
+Dialogue: 0,0:19:58.57,0:20:00.63,zh,,0,0,0,,但你知道它们抹杀不了什么吗\N{\ren}But you want to know what they could never kill?
+Dialogue: 0,0:20:00.77,0:20:01.83,zh,,0,0,0,,家庭\N{\ren}Family.
+Dialogue: 0,0:20:01.97,0:20:03.37,zh,,0,0,0,,-Jerry在哪 -救命啊\N{\ren}-Where's Jerry? -Help!
+Dialogue: 0,0:20:03.50,0:20:05.67,zh,,0,0,0,,救命啊 我还在外头呐\N{\ren}Help! I'm still out here!
+Dialogue: 0,0:20:07.30,0:20:08.83,zh,,0,0,0,,嗯 没有比这更重要的事了\N{\ren}Yep, nothing's more important than--
+Dialogue: 0,0:20:08.97,0:20:10.63,zh,,0,0,0,,嘿 悠着点\N{\ren}Hey! Hey! Whoa-whoa-whoa!
+Dialogue: 0,0:20:10.77,0:20:13.00,zh,,0,0,0,,哕\N{\ren}Ugh!
+Dialogue: 0,0:20:13.13,0:20:16.77,zh,,0,0,0,,就这样 我知道我们免不了一\N{\ren}And just like that, I knew our goose was as cooked as --
+Dialogue: 0,0:20:16.90,0:20:20.17,zh,,0,0,0,,旁白星人 呕\N{\ren}Voiceovarians. Ugh.
+Dialogue: 0,0:20:20.30,0:20:23.10,zh,,0,0,0,,*壮观的景象 振奋的声响*\N{\ren}*Magic sights, exciting sounds*
+Dialogue: 0,0:20:23.23,0:20:26.60,zh,,0,0,0,,*无论日夜 都来看看*\N{\ren}*Come day or night, and feel around*
+Dialogue: 0,0:20:26.73,0:20:29.37,zh,,0,0,0,,*这是为你创造的世界*\N{\ren}*This is the world for you*
+Dialogue: 0,0:20:31.10,0:20:34.27,zh,,0,0,0,,*无论你去过哪里*\N{\ren}*No matter where you've ever been*
+Dialogue: 0,0:20:34.40,0:20:39.77,zh,,0,0,0,,*这都是你新生的起点*\N{\ren}*This is the place your life begiii-i-ins*
+Dialogue: 0,0:20:39.90,0:20:41.43,zh,,0,0,0,,*奶子世界*\N{\ren}*Boob World*
+Dialogue: 0,0:20:41.57,0:20:43.00,zh,,0,0,0,,*奶子世界*\N{\ren}*Boob World*
+Dialogue: 0,0:20:43.13,0:20:46.37,zh,,0,0,0,,*一个全新的世界 不对 是两个耶*\N{\ren}*It's a world for you, but it's actually two*
+Dialogue: 0,0:20:46.50,0:20:49.40,zh,,0,0,0,,*奶子世界*\N{\ren}*Boob Wo-o-orld*
+Dialogue: 0,0:20:50.63,0:20:51.70,zh,,0,0,0,,Samansky 你迟到了\N{\ren}Samansky, you're late!
+Dialogue: 0,0:20:51.83,0:20:52.93,zh,,0,0,0,,我不会再犯了 长官\N{\ren}Won't happen again, sir!
+Dialogue: 0,0:20:54.47,0:20:56.90,zh,,0,0,0,,虫子们 看看你们的左边 然后看看你们的右边\N{\ren}Bugs, Look to your left. Now, look to your right.
+Dialogue: 0,0:20:57.03,0:20:59.33,zh,,0,0,0,,你们不会再回来了 谁都不会\N{\ren}None of you are coming back. Not one.
+Dialogue: 0,0:20:59.47,0:21:01.50,zh,,0,0,0,,本项目有史以来\N{\ren}In the entire history of this program,
+Dialogue: 0,0:21:01.63,0:21:02.87,zh,,0,0,0,,没有一只虫子回来过\N{\ren}not a single bug has returned.
+Dialogue: 0,0:21:03.00,0:21:04.27,zh,,0,0,0,,行了 大家聚过来\N{\ren}Alright. Bring it in!
+Dialogue: 0,0:21:04.40,0:21:06.17,zh,,0,0,0,,- 我们是什么 - 正常大小的虫子\N{\ren}-What are we? -Normal-sized bugs!
+Dialogue: 0,0:21:06.30,0:21:10.20,zh,,0,0,0,,- 我们要做什么 - 穿越跨维度入口抵达迷你人的星球\N{\ren}-What do we do? -Travel through an interdimensional gateway to a planet with tiny people!
+Dialogue: 0,0:21:10.33,0:21:12.97,zh,,0,0,0,,- 我们为什么要这样做 - 传播艾滋病的治愈方法\N{\ren}-Why do we do it? -To spread the cure for AIDS!
+Dialogue: 0,0:21:13.10,0:21:16.30,zh,,0,0,0,,中士 我们怎么知道那些小人能不能理解我们呢\N{\ren}Hey, Sarge, how do we know if these little people can understand us?
+Dialogue: 0,0:21:16.43,0:21:18.20,zh,,0,0,0,,他们要是不说虫子语咋办\N{\ren}I mean, do these even speak Buganese?
+Dialogue: 0,0:21:18.33,0:21:21.33,zh,,0,0,0,,真幽默 Palicki 这就是为什么我们要大声说\N{\ren}Funny, Palicki. That's why we say it very loud.
+Dialogue: 0,0:21:21.47,0:21:24.77,zh,,0,0,0,,伙计们 过去之后你们仍然是文明的虫子\N{\ren}Guys, you'll still be the same civilized bug on their side.
+Dialogue: 0,0:21:24.90,0:21:26.27,zh,,0,0,0,,跨维度穿越又不会\N{\ren}It's not like interdimensional travel
+Dialogue: 0,0:21:26.40,0:21:29.03,zh,,0,0,0,,让我们的衣服消失 让我们像是大叫的怪物一样\N{\ren}strips us of our clothes, and makes us screaming monsters.
+Dialogue: 0,0:21:29.17,0:21:31.17,zh,,0,0,0,,也或许会呢 没法知道\N{\ren}Or maybe it does. It's impossible to know.
+Dialogue: 0,0:21:31.30,0:21:32.73,zh,,0,0,0,,快去吧\N{\ren}Now, get out of here!
+Dialogue: 0,0:21:36.47,0:21:39.13,zh,,0,0,0,,我的衣服呢 怎么不见了\N{\ren}My clothes -- where'd they go?
+Dialogue: 0,0:21:40.82,0:21:42.37,zh,,0,0,0,,啊 别打我了啊\N\N\N
+Dialogue: 0,0:21:42.82,0:21:44.12,zh,,0,0,0,,行吧 听好了\N\N\N
+Dialogue: 0,0:21:44.67,0:21:45.77,zh,,0,0,0,,一份柠檬汁\N\N\N
+Dialogue: 0,0:21:46.17,0:21:47.52,zh,,0,0,0,,四片月桂叶\N\N\N
+Dialogue: 0,0:21:47.97,0:21:49.77,zh,,0,0,0,,一撮海盐\N\N\N

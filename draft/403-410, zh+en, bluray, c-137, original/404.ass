@@ -1,0 +1,549 @@
+﻿[Script Info]
+Title: RM S04E04 by Community-137
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,微软雅黑,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Git,Comic Sans MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Chn,微软雅黑,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
+Style: Eng,Comic Sans MS,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.25,0:00:04.75,Top,,0,0,0,,本字幕第一版由Community-137制作 同时发布于GitHub和SubHD 参与的成员有
+Dialogue: 0,0:00:05.25,0:00:09.75,Top,,0,0,0,,[翻译] Ng   yjz   fuga   热心粉丝   季叽馥疾己   走吃元   [校对] fuga   se9fault
+Dialogue: 0,0:00:10.25,0:00:14.75,Top,,0,0,0,,转载请务必保留字幕信息 Community-137不对任何利用本字幕生成的视频负责
+Dialogue: 0,0:00:15.25,0:00:19.75,Top,,0,0,0,,本字幕是翻译习作的副产品 仅供学习、研究之用 欢迎RM爱好者交流完善译文
+Dialogue: 0,0:00:20.25,0:00:24.75,Top,,0,0,0,,如果在观看中遇到任何错误翻译 诚邀您前往GitHub参与改错 该项目的地址是
+Dialogue: 0,0:00:25.25,0:00:29.75,Top,,0,0,0,,{\rGit}https://github.com/Community-137/Rick-and-Morty-Chinese-Subtitles {\rTop}非常 非常 非常 期待您的参与
+Dialogue: 0,0:00:04.41,0:00:05.75,Chn,,0,0,0,,Rick 我们成功了 我们拿到了\N{\rEng}Rick, we did it! We -- We got it!
+Dialogue: 0,0:00:05.79,0:00:07.44,Chn,,0,0,0,,快点 Morty 进来\N{\rEng}Hurry up, Morty. Get in!
+Dialogue: 0,0:00:07.48,0:00:08.86,Chn,,0,0,0,,- Chachi - 别管Chachi了 Morty\N{\rEng}Chachi! Fuck Chachi, Morty.
+Dialogue: 0,0:00:08.89,0:00:10.93,Chn,,0,0,0,,- 你拿到了吗 - 是他帮我越狱的\N{\rEng}Did you get it? He helped me escape prison.
+Dialogue: 0,0:00:10.96,0:00:13.45,Chn,,0,0,0,,我问你有没有拿到终极魔方\N{\rEng}Did you get the Ultimate Cube?
+Dialogue: 0,0:00:13.48,0:00:14.76,Chn,,0,0,0,,行吧 是紫色的\N{\rEng}Oh, it's purple.
+Dialogue: 0,0:00:14.80,0:00:16.21,Chn,,0,0,0,,你说过它是紫色的\N{\rEng}Y-You said it was purple.
+Dialogue: 0,0:00:16.25,0:00:17.59,Chn,,0,0,0,,我是说我的那个是紫的\N{\rEng}I said mine was.
+Dialogue: 0,0:00:17.63,0:00:19.25,Chn,,0,0,0,,我不知道都是紫的\N{\rEng}I didn't know they all were.
+Dialogue: 0,0:00:19.28,0:00:21.42,Chn,,0,0,0,,现在知道了 感谢Chichi\N{\rEng}And now we do, thanks to Chichi.
+Dialogue: 0,0:00:21.46,0:00:22.80,Chn,,0,0,0,,是Chachi\N{\rEng}Chachi.
+Dialogue: 0,0:00:24.46,0:00:26.43,Chn,,0,0,0,,所以 呃 什什什么时候能给我\N{\rEng}So, uh, w-w-when do I get it?
+Dialogue: 0,0:00:26.46,0:00:27.88,Chn,,0,0,0,,给你啥 一个拥抱吗\N{\rEng}Get what, a hug?
+Dialogue: 0,0:00:27.91,0:00:29.60,Chn,,0,0,0,,等我们找到有园艺橡胶管的星球再说吧\N{\rEng}Let's find a planet with a garden hose first.
+Dialogue: 0,0:00:29.64,0:00:30.78,Chn,,0,0,0,,要龙啊 龙啊\N{\rEng}A dragon. A dragon.
+Dialogue: 0,0:00:30.82,0:00:33.03,Chn,,0,0,0,,是你让我翘课去帮你打机器人的\N{\rEng}You asked me to cut class and fight robots with you.
+Dialogue: 0,0:00:33.06,0:00:34.34,Chn,,0,0,0,,我说 “不”\N{\rEng}I said, "No."
+Dialogue: 0,0:00:34.37,0:00:35.58,Chn,,0,0,0,,你说 “几百万条生命就在此一战了”\N{\rEng}You said, "Millions of lives depend on it."
+Dialogue: 0,0:00:35.62,0:00:37.24,Chn,,0,0,0,,我说 “给我龙我就干”\N{\rEng}I said, "I'll do it for a dragon."
+Dialogue: 0,0:00:37.27,0:00:38.93,Chn,,0,0,0,,你说 “啥都行”\N{\rEng}You said, "Whatever."
+Dialogue: 0,0:00:38.96,0:00:40.28,Chn,,0,0,0,,我要我的龙\N{\rEng}I want my dragon.
+Dialogue: 0,0:00:40.51,0:00:41.89,Chn,,0,0,0,,Morty 你知道什么人才喜欢龙吗\N{\rEng}You know who's into dragons, Morty?
+Dialogue: 0,0:00:41.93,0:00:43.99,Chn,,0,0,0,,拒绝承认自己信基督的书呆子们\N{\rEng}Nerds that refuse to admit they're Christian.
+Dialogue: 0,0:00:44.02,0:00:45.90,Chn,,0,0,0,,- 我要龙 - 给你双火箭鞋怎么样\N{\rEng}I want my dragon. Let me give you rocket shoes.
+Dialogue: 0,0:00:45.93,0:00:47.38,Chn,,0,0,0,,金刚狼的爪子呢\N{\rEng}Let me give you Wolverine claws.
+Dialogue: 0,0:00:47.41,0:00:49.00,Chn,,0,0,0,,要不来一顶他妈的火箭帽吧\N{\rEng}Let me give you a fucking rocket hat.
+Dialogue: 0,0:00:49.04,0:00:50.56,Chn,,0,0,0,,记得和火箭鞋配套使用\N{\rEng}Just be sure to use it with the rocket shoes,
+Dialogue: 0,0:00:50.59,0:00:51.83,Chn,,0,0,0,,不然你的头会被甩掉\N{\rEng}or it'll rip your head off.
+Dialogue: 0,0:00:51.87,0:00:53.90,Chn,,0,0,0,,我要我的龙 我要我的龙\N{\rEng}I want my dragon! I want my dragon!
+Dialogue: 0,0:00:53.94,0:00:55.25,Chn,,0,0,0,,我要我的龙\N{\rEng}I want my dragon!
+Dialogue: 0,0:00:57.01,0:00:58.25,Chn,,0,0,0,,哦 操\N{\rEng}Oh, crap.
+Dialogue: 0,0:00:58.29,0:01:00.01,Chn,,0,0,0,,完犊子了\N{\rEng}Crap.
+Dialogue: 0,0:01:02.43,0:01:04.33,Chn,,0,0,0,,爸 你还好吗\N{\rEng}Dad, are you okay?
+Dialogue: 0,0:01:04.36,0:01:06.19,Chn,,0,0,0,,你的飞船在马耳他坠毁了\N{\rEng}Your ship crashed in Malta.
+Dialogue: 0,0:01:06.23,0:01:07.78,Chn,,0,0,0,,我没事儿\N{\rEng}I'm okay.
+Dialogue: 0,0:01:07.81,0:01:10.40,Chn,,0,0,0,,谢天谢地\N{\rEng}Oh, thank God.
+Dialogue: 0,0:01:10.44,0:01:12.30,Chn,,0,0,0,,爸 你是不答应Morty要给他条龙\N{\rEng}Dad, did you promise Morty a dragon?
+Dialogue: 0,0:01:12.34,0:01:13.85,Chn,,0,0,0,,次奥奥奥\N{\rEng}Fuuuuuuu--
+Dialogue: 0,0:01:46.72,0:01:48.93,Chn,,0,0,0,,把血滴在这儿 还有这儿\N{\rEng}Bleed here and here.
+Dialogue: 0,0:01:48.97,0:01:50.11,Chn,,0,0,0,,我才不掺和\N{\rEng}I'm not co-bleeding.
+Dialogue: 0,0:01:50.14,0:01:51.69,Chn,,0,0,0,,基于以下条约所述之协定\N{\rEng}Under authority of our treaty
+Dialogue: 0,0:01:51.73,0:01:53.80,Chn,,0,0,0,,“在人类世界与龙的王国之间”\N{\rEng}'twixt the realms of dragon and man...
+Dialogue: 0,0:01:53.83,0:01:55.18,Chn,,0,0,0,,哦天 我还是头一回参加同志婚礼\N{\rEng}Oh, my God, it's my first gay wedding.
+Dialogue: 0,0:01:55.21,0:01:56.53,Chn,,0,0,0,,Summer\N{\rEng}Summer!
+Dialogue: 0,0:01:56.56,0:01:58.70,Chn,,0,0,0,,在此 我将这条高贵的龙与他的驾驭者\N{\rEng}...I hereby bind this noble serpent and rider
+Dialogue: 0,0:01:58.73,0:02:00.36,Chn,,0,0,0,,进行灵魂绑定\N{\rEng}at the soul.
+Dialogue: 0,0:02:00.39,0:02:03.36,Chn,,0,0,0,,这本书上写了和龙有关的咒语以及其他知识\N{\rEng}Here's your tome of dragon spells and lore.
+Dialogue: 0,0:02:03.39,0:02:04.71,Chn,,0,0,0,,上面有你需要的一切\N{\rEng}That'll have everything you need.
+Dialogue: 0,0:02:04.74,0:02:05.98,Chn,,0,0,0,,和你的龙好好玩儿吧\N{\rEng}Enjoy your dragon.
+Dialogue: 0,0:02:06.02,0:02:07.61,Chn,,0,0,0,,听着 龙 这个房子里有如下规则\N{\rEng}Okay, dragon, here's the house rules.
+Dialogue: 0,0:02:07.64,0:02:10.54,Chn,,0,0,0,,吾名茅彻\N{\rEng}My name is Balthromaw,
+Dialogue: 0,0:02:10.57,0:02:13.30,Chn,,0,0,0,,天之破坏者 山之戮徒\N{\rEng}breaker of sky, slayer of mountain.
+Dialogue: 0,0:02:13.34,0:02:15.96,Chn,,0,0,0,,第一条 自己铲屎\N{\rEng}Rule one -- You are now scooper of your own poops,
+Dialogue: 0,0:02:15.99,0:02:19.17,Chn,,0,0,0,,不然我会像拆掉黑光海报一样对待你\N{\rEng}or I will take you down like the black-light poster you are.
+Dialogue: 0,0:02:19.20,0:02:20.96,Chn,,0,0,0,,其他没了 就这一条\N{\rEng}I don't got any more rules. That's it.
+Dialogue: 0,0:02:22.34,0:02:24.17,Chn,,0,0,0,,你应该不想在照片里被圈出来吧\N{\rEng}I'm guessing you'd rather not be tagged in this.
+Dialogue: 0,0:02:24.41,0:02:26.34,Chn,,0,0,0,,好吧 我上钩了\N{\rEng}Okay, I'll bite.
+Dialogue: 0,0:02:26.38,0:02:27.65,Chn,,0,0,0,,那只会说话的猫是什么情况\N{\rEng}What's with the talking cat?
+Dialogue: 0,0:02:27.69,0:02:29.27,Chn,,0,0,0,,是龙 你个二货\N{\rEng}It's a dragon, dip knob.
+Dialogue: 0,0:02:29.31,0:02:30.76,Chn,,0,0,0,,我知道屋外的是龙\N{\rEng}I know that's a dragon.
+Dialogue: 0,0:02:30.79,0:02:33.59,Chn,,0,0,0,,我说的是我房间里的说话猫\N{\rEng}I'm talking about the talking cat in my bedroom.
+Dialogue: 0,0:02:33.62,0:02:37.35,Chn,,0,0,0,,Jerry 为什么我在给Morty一条会说话的龙的同时 又给你一只会说话的猫呢\N{\rEng}Jerry, why would I give Morty a talking dragon and you a talking cat at the same time?
+Dialogue: 0,0:02:37.39,0:02:38.84,Chn,,0,0,0,,那岂不是撞车了\N{\rEng}Those concepts bump.
+Dialogue: 0,0:02:38.87,0:02:40.60,Chn,,0,0,0,,如果你和猫对话了 这事儿确实不正常\N{\rEng}If you're talking to a cat, it's an abnormal event
+Dialogue: 0,0:02:40.63,0:02:43.05,Chn,,0,0,0,,但与我无关 就像你去冥王星\N{\rEng}unrelated to me like when you went to Pluto
+Dialogue: 0,0:02:43.08,0:02:44.60,Chn,,0,0,0,,或者干我女儿\N{\rEng}or fucked my daughter.
+Dialogue: 0,0:02:44.64,0:02:47.33,Chn,,0,0,0,,好吧 也没必要这么乱咬人\N{\rEng}Okay, there's really no need to get savage.
+Dialogue: 0,0:02:48.81,0:02:49.95,Chn,,0,0,0,,所以呢\N{\rEng}So?
+Dialogue: 0,0:02:49.99,0:02:51.68,Chn,,0,0,0,,他说你能说话跟他没啥关系\N{\rEng}Eh, he says he has nothing to do with your talking.
+Dialogue: 0,0:02:51.71,0:02:53.95,Chn,,0,0,0,,- 跟你说过喽 - 所以你为什么会说话呢\N{\rEng}Told you. So then why are you talking?
+Dialogue: 0,0:02:53.99,0:02:56.44,Chn,,0,0,0,,- 这有什么要紧的呢 - 难道不要紧吗\N{\rEng}Why should that matter? Why should it not matter?
+Dialogue: 0,0:02:56.47,0:03:00.55,Chn,,0,0,0,,我怎么能分清是不是我出幻觉了 Rick说这事儿不正常\N{\rEng}How do I know I'm not hallucinating? Rick said this is an abnormal event.
+Dialogue: 0,0:03:00.58,0:03:02.58,Chn,,0,0,0,,你总是需要Rick来告诉你发生什么了吗\N{\rEng}Do you always need Rick to tell you what's going on?
+Dialogue: 0,0:03:02.62,0:03:04.69,Chn,,0,0,0,,也许你该停止发问了\N{\rEng}Maybe it's time you stopped asking questions
+Dialogue: 0,0:03:04.72,0:03:07.04,Chn,,0,0,0,,然后开始去找点儿乐子\N{\rEng}and started having fun.
+Dialogue: 0,0:03:08.25,0:03:11.19,Chn,,0,0,0,,哇哦 行吧\N{\rEng}Wow, okay.
+Dialogue: 0,0:03:11.72,0:03:14.34,Chn,,0,0,0,,- 那 你想要什么呢 - 我想要你带我去机场\N{\rEng}So, what do you want? I want you to take us to the airport
+Dialogue: 0,0:03:14.38,0:03:16.90,Chn,,0,0,0,,然后买两张去佛罗里达的头等舱机票\N{\rEng}and get us two first-class tickets to Florida.
+Dialogue: 0,0:03:16.93,0:03:20.35,Chn,,0,0,0,,为什 我 我可以的\N{\rEng}Why, I -- I can do that.
+Dialogue: 0,0:03:24.91,0:03:27.56,Chn,,0,0,0,,这也太酷了吧\N{\rEng}Oh, this is so cool!
+Dialogue: 0,0:03:31.60,0:03:34.02,Chn,,0,0,0,,恭候您的下个命令\N{\rEng}I await your next command.
+Dialogue: 0,0:03:34.05,0:03:36.37,Chn,,0,0,0,,别别别 没有谁命令谁\N{\rEng}Whoa, whoa, whoa. Nobody is commanding anybody.
+Dialogue: 0,0:03:36.40,0:03:41.27,Chn,,0,0,0,,我更喜欢你我平等相处 共同翱翔天际 那 那你现在想做什么呢\N{\rEng}I love soaring through the sky with you as equals. W-What do you want to do?
+Dialogue: 0,0:03:41.30,0:03:44.55,Chn,,0,0,0,,我想回我的龙窝 趴在我的私家收藏上\N{\rEng}I want to enter my lair and sleep upon my hoard
+Dialogue: 0,0:03:44.58,0:03:47.38,Chn,,0,0,0,,一觉睡到人类灭绝\N{\rEng}until the Age of Man expires.
+Dialogue: 0,0:03:47.41,0:03:48.45,Chn,,0,0,0,,好吧\N{\rEng}Okay.
+Dialogue: 0,0:03:48.48,0:03:50.03,Chn,,0,0,0,,要不咱们取个折中\N{\rEng}Split the diff?
+Dialogue: 0,0:03:50.07,0:03:53.21,Chn,,0,0,0,,你睡20分钟起来 然后咱们继续上天\N{\rEng}20-minute nap and soar through the sky?
+Dialogue: 0,0:03:54.63,0:03:56.42,Chn,,0,0,0,,悉听尊便\N{\rEng}As you command.
+Dialogue: 0,0:03:56.45,0:03:58.08,Chn,,0,0,0,,好嘞 一会儿见\N{\rEng}Okay, see you soon.
+Dialogue: 0,0:03:58.11,0:03:59.42,Chn,,0,0,0,,这 这还是挺有意思的\N{\rEng}T-This is fun.
+Dialogue: 0,0:03:59.46,0:04:01.77,Chn,,0,0,0,,对 可不是嘛\N{\rEng}Yeah, right.
+Dialogue: 0,0:04:01.81,0:04:04.05,Chn,,0,0,0,,这是啥剧来着 《识股寻凶》么\N{\rEng}What's this show called, "Ass"?
+Dialogue: 0,0:04:04.08,0:04:06.74,Chn,,0,0,0,,对 和《识骨寻踪》差不多 区别在于这剧破的是屁股谜案\N{\rEng}Yeah, it's like "Bones," but they solve ass crimes.
+Dialogue: 0,0:04:06.78,0:04:07.88,Chn,,0,0,0,,这个屁股是条线索\N{\rEng}This ass is a clue.
+Dialogue: 0,0:04:07.91,0:04:09.05,Chn,,0,0,0,,这一对儿后来会搞上吗\N{\rEng}Are these two gonna hook up?
+Dialogue: 0,0:04:09.09,0:04:11.40,Chn,,0,0,0,,不会 脑残粉才这样想\N{\rEng}No, and only the lame fans want that.
+Dialogue: 0,0:04:11.44,0:04:12.89,Chn,,0,0,0,,轮不到你教我怎么追剧\N{\rEng}Don't tell me how to enjoy things.
+Dialogue: 0,0:04:12.92,0:04:14.75,Chn,,0,0,0,,- 和她在一起吧 Ass - 人家叫Brenner\N{\rEng}Go to her ass. That's Brenner.
+Dialogue: 0,0:04:14.78,0:04:17.65,Chn,,0,0,0,,和Brenner在一起吧 Ass\N{\rEng}Go to Brenner Ass.
+Dialogue: 0,0:04:17.68,0:04:18.89,Chn,,0,0,0,,蜜月期结束了吗\N{\rEng}Honeymoon over already?
+Dialogue: 0,0:04:18.93,0:04:19.96,Chn,,0,0,0,,你到底想表达什么\N{\rEng}What's that supposed to mean?
+Dialogue: 0,0:04:20.00,0:04:21.79,Chn,,0,0,0,,你就承认吧Morty 龙太没劲了\N{\rEng}Admit it, Morty. Dragons suck.
+Dialogue: 0,0:04:21.83,0:04:23.79,Chn,,0,0,0,,为什么不是你承认自己是个操蛋的臭老头\N{\rEng}Why don't you admit you don't anyone else to be happy
+Dialogue: 0,0:04:23.83,0:04:26.80,Chn,,0,0,0,,不希望别人过得爽呢\N{\rEng}because you're a sad old fart?
+Dialogue: 0,0:04:26.83,0:04:28.49,Chn,,0,0,0,,我有点好奇是怎么操到蛋的\N{\rEng}How do you saddle a fart?
+Dialogue: 0,0:04:28.52,0:04:29.90,Chn,,0,0,0,,我操 快看\N{\rEng}Holy shit. Look!
+Dialogue: 0,0:04:29.94,0:04:32.25,Chn,,0,0,0,,- 我爱你 Ass - 我也爱你 Brenner\N{\rEng}-I love you, Ass. -I love you, Brenner.
+Dialogue: 0,0:04:32.28,0:04:33.42,Chn,,0,0,0,,- 不是吧 - 嘘\N{\rEng}No. Shh.
+Dialogue: 0,0:04:35.31,0:04:37.80,Chn,,0,0,0,,《Morty驯龙记》这出戏肯定是没得再唱了\N{\rEng}And that's the end of the "Morty Gets a Dragon" episode.
+Dialogue: 0,0:04:37.83,0:04:38.97,Chn,,0,0,0,,你是准备大杀四方吗\N{\rEng}Are you gonna slay it?
+Dialogue: 0,0:04:39.01,0:04:41.29,Chn,,0,0,0,,首先 小妞 哥的气场一向是大杀四方\N{\rEng}First off, I always slay it, queen.
+Dialogue: 0,0:04:41.32,0:04:43.29,Chn,,0,0,0,,- 其次 你说得对 - 要我暂停《识股寻凶》吗\N{\rEng}Secondly, yes. Should I pause "Ass"?
+Dialogue: 0,0:04:43.32,0:04:46.36,Chn,,0,0,0,,算了吧 他们已经在一起了 后面没啥意思了\N{\rEng}Nah, it's kind of boring now that they're together.
+Dialogue: 0,0:04:51.74,0:04:53.02,Chn,,0,0,0,,嗨 屌毛\N{\rEng}Hey, fuckface.
+Dialogue: 0,0:04:53.06,0:04:55.89,Chn,,0,0,0,,你他妈能小声点吗 翻个身也行啊\N{\rEng}Will you shut the fuck up or at least roll over?
+Dialogue: 0,0:04:55.92,0:04:57.99,Chn,,0,0,0,,不要啊 烧得我好疼呀\N{\rEng}Oh, no, it burns.
+Dialogue: 0,0:04:58.03,0:05:00.30,Chn,,0,0,0,,我的天呐 这些火啊什么的也太可怕了吧\N{\rEng}Oh, my God. Oh, the fire of -- of it all.
+Dialogue: 0,0:05:00.34,0:05:02.31,Chn,,0,0,0,,要是我能想起来\N{\rEng}Ah, if only I had prepared better
+Dialogue: 0,0:05:02.34,0:05:04.14,Chn,,0,0,0,,龙唯一广为人知的特点\N{\rEng}for this terrifying battle by remembering
+Dialogue: 0,0:05:04.17,0:05:06.41,Chn,,0,0,0,,我就能更好地为这场恶战做准备了\N{\rEng}the only thing dragons are known for.
+Dialogue: 0,0:05:13.35,0:05:15.15,Chn,,0,0,0,,小心点儿别灼伤了肠胃哦\N{\rEng}Careful you don't get heartburn.
+Dialogue: 0,0:05:15.18,0:05:17.22,Chn,,0,0,0,,我用了好多C4炸药来做那个机器人呢\N{\rEng}I made that android with a lot of C4.
+Dialogue: 0,0:05:17.25,0:05:19.01,Chn,,0,0,0,,啊 抱歉 改用你的文法\N{\rEng}Oh, I'm sorry. I imbued it with
+Dialogue: 0,0:05:19.05,0:05:21.77,Chn,,0,0,0,,遥制火药既充于内 （里面装了遥控炸药）\N{\rEng}a remote-controlled explode-y potion.
+Dialogue: 0,0:05:21.81,0:05:23.57,Chn,,0,0,0,,你征服了我\N{\rEng}You have bested me.
+Dialogue: 0,0:05:23.60,0:05:25.23,Chn,,0,0,0,,现在起我为你效劳\N{\rEng}I am at your service.
+Dialogue: 0,0:05:25.26,0:05:26.92,Chn,,0,0,0,,能与汝至于所同 乐甚 （很高兴和你达成一致）\N{\rEng}Good to be on the same parchment.
+Dialogue: 0,0:05:26.95,0:05:31.61,Chn,,0,0,0,,现在 在我告诉我外孙你跟一架低飞的747私奔了之前 赶紧收拾好你的\N{\rEng}Now, I'm gonna tell my grandson you ran off with a low-flying 747 while you pack up your --
+Dialogue: 0,0:05:31.65,0:05:34.03,Chn,,0,0,0,,等等 这是 你为什么会有\N{\rEng}Wait, is this -- Why do you have an original
+Dialogue: 0,0:05:34.06,0:05:36.93,Chn,,0,0,0,,1989年原版的Ecto Cooler果汁包装盒\N{\rEng}Ecto Cooler juice box from 1989?
+Dialogue: 0,0:05:36.96,0:05:39.59,Chn,,0,0,0,,吾尽藏汝辈觊觎之物\N{\rEng}I hoard that which your kind covets.
+Dialogue: 0,0:05:39.62,0:05:42.59,Chn,,0,0,0,,- 20刀卖不 - 想得美\N{\rEng}Give you 20 bucks for it. Nice try.
+Dialogue: 0,0:05:42.62,0:05:44.25,Chn,,0,0,0,,你这到底还囤了些什么鬼\N{\rEng}What the hell else are you hoarding down here?
+Dialogue: 0,0:05:44.28,0:05:46.80,Chn,,0,0,0,,发财咯 这是《魔幻小战士》系列棒棒糖吗\N{\rEng}Cha-ching. "Small Soldiers" Spin Pops?
+Dialogue: 0,0:05:46.83,0:05:48.42,Chn,,0,0,0,,- 别把它给拆了 - 你当我白痴吗\N{\rEng}Don't open that. I'm not an idiot.
+Dialogue: 0,0:05:48.46,0:05:51.70,Chn,,0,0,0,,你怎么会有未来小子的同名黑胶唱片\N{\rEng}Hey, why do you have Future's self-titled album on vinyl?
+Dialogue: 0,0:05:51.74,0:05:53.19,Chn,,0,0,0,,再仔细看清楚点\N{\rEng}Look closer.
+Dialogue: 0,0:05:53.22,0:05:55.19,Chn,,0,0,0,,我擦 有他的亲笔签名诶\N{\rEng}Oh, shit. He signed it.
+Dialogue: 0,0:05:55.22,0:05:56.88,Chn,,0,0,0,,再仔细点儿\N{\rEng}Closer.
+Dialogue: 0,0:05:56.91,0:05:58.95,Chn,,0,0,0,,他还是用摇头丸和扑热息痛签的吗\N{\rEng}He signed it in molly and Percocet?
+Dialogue: 0,0:05:58.98,0:06:00.26,Chn,,0,0,0,,我可以一整晚都在这浪了\N{\rEng}I could spend all night down here.
+Dialogue: 0,0:06:00.30,0:06:03.13,Chn,,0,0,0,,你要整点火山灰吗\N{\rEng}Do you indulge in volcanic fumes?
+Dialogue: 0,0:06:03.16,0:06:05.82,Chn,,0,0,0,,这能让我嗨起来吗\N{\rEng}Is it gonna fuck up my brain?
+Dialogue: 0,0:06:05.85,0:06:08.48,Chn,,0,0,0,,- 并不能 - 那我也要\N{\rEng}No. I'll do it anyway.
+Dialogue: 0,0:06:08.51,0:06:11.65,Chn,,0,0,0,,这机票还不便宜呢\N{\rEng}Hoo, those were not cheap tickets,
+Dialogue: 0,0:06:11.69,0:06:15.31,Chn,,0,0,0,,但也都无所谓了哈\N{\rEng}but, um, I'm down to clown.
+Dialogue: 0,0:06:15.35,0:06:18.07,Chn,,0,0,0,,呃 还是想问 为为为什么你会说话呢\N{\rEng}Uh, w-w-w-why can you talk again, uh?
+Dialogue: 0,0:06:18.11,0:06:19.49,Chn,,0,0,0,,这不重要 Jerry\N{\rEng}It's not important, Jerry.
+Dialogue: 0,0:06:19.52,0:06:20.90,Chn,,0,0,0,,好吧 那为什么要去佛罗里达\N{\rEng}Okay, but why Florida?
+Dialogue: 0,0:06:20.94,0:06:22.49,Chn,,0,0,0,,因为那的人不问问题\N{\rEng}Because they don't ask questions.
+Dialogue: 0,0:06:22.52,0:06:24.94,Chn,,0,0,0,,他们打排球 他们开派对 他们还能乐在其中\N{\rEng}They play volleyball, they party, and they have fun.
+Dialogue: 0,0:06:24.98,0:06:26.67,Chn,,0,0,0,,好吧好吧\N{\rEng}Right, right.
+Dialogue: 0,0:06:26.70,0:06:27.91,Chn,,0,0,0,,你也可以的 Jerry\N{\rEng}You can do this, Jerry.
+Dialogue: 0,0:06:27.94,0:06:29.74,Chn,,0,0,0,,我也可以\N{\rEng}I can do this.
+Dialogue: 0,0:06:29.77,0:06:31.40,Chn,,0,0,0,,我也可以\N{\rEng}I can do this.
+Dialogue: 0,0:06:36.78,0:06:38.40,Chn,,0,0,0,,Jerry 打完这个\N{\rEng}Hey, Jerry, after this game,
+Dialogue: 0,0:06:38.44,0:06:40.34,Chn,,0,0,0,,去我的游艇上转转吧 把你的猫也带上\N{\rEng}come to my yacht and bring your cat.
+Dialogue: 0,0:06:40.37,0:06:41.85,Chn,,0,0,0,,听你的 Jipe\N{\rEng}You got it, Jipe.
+Dialogue: 0,0:06:41.89,0:06:43.51,Chn,,0,0,0,,我得承认 你说得对\N{\rEng}I got to admit, you were right.
+Dialogue: 0,0:06:43.55,0:06:45.27,Chn,,0,0,0,,我还得跟你说点事儿 Jerry\N{\rEng}I've got to tell you something, Jerry.
+Dialogue: 0,0:06:45.31,0:06:48.10,Chn,,0,0,0,,这是我一生中最快乐的时光\N{\rEng}This is the happiest I've ever been in my entire life.
+Dialogue: 0,0:06:48.14,0:06:50.76,Chn,,0,0,0,,好恶心 谁在这拉屎了\N{\rEng}Oh, gross! Who shit in the sand?
+Dialogue: 0,0:06:50.79,0:06:53.18,Chn,,0,0,0,,有人在这沙子里拉了小小的一坨\N{\rEng}Someone took a small shit in the sand
+Dialogue: 0,0:06:53.21,0:06:55.18,Chn,,0,0,0,,然后随便蹬两脚就当埋起来了\N{\rEng}and buried it with, like, two little kicks
+Dialogue: 0,0:06:55.21,0:06:57.59,Chn,,0,0,0,,搞得像个地雷似的\N{\rEng}and just left it here like a land mine.
+Dialogue: 0,0:06:57.63,0:06:59.77,Chn,,0,0,0,,这图的是什么 到底是谁干的\N{\rEng}Why and who?
+Dialogue: 0,0:06:59.80,0:07:01.94,Chn,,0,0,0,,他拉的\N{\rEng}It was him.
+Dialogue: 0,0:07:03.39,0:07:04.88,Chn,,0,0,0,,救命\N{\rEng}Help!
+Dialogue: 0,0:07:04.91,0:07:05.95,Chn,,0,0,0,,*哟*\N{\rEng}♪ Yo ♪
+Dialogue: 0,0:07:05.98,0:07:09.16,Chn,,0,0,0,,*扑热息痛 耶 摇头丸 扑热息痛 扑热息痛*\N{\rEng}♪ Percocets, yeah, molly, Percocets, Percocets ♪
+Dialogue: 0,0:07:09.19,0:07:12.26,Chn,,0,0,0,,*扑热息痛 耶 摇头丸 扑热息痛 扑热息痛*\N{\rEng}♪ Percocets, yeah, molly, Percocets, Percocets ♪
+Dialogue: 0,0:07:12.30,0:07:15.54,Chn,,0,0,0,,*戴上面具 妈的摘下*\N{\rEng}♪ Mask on. Fuck it, mask off ♪
+Dialogue: 0,0:07:15.58,0:07:17.92,Chn,,0,0,0,,*毒气已散 不要瞌睡*\N{\rEng}♪ Gas gone, Never nod off ♪
+Dialogue: 0,0:07:21.93,0:07:24.83,Chn,,0,0,0,,Morty在召唤我\N{\rEng}I'm being summoned by Morty.
+Dialogue: 0,0:07:24.86,0:07:26.73,Chn,,0,0,0,,啊 是啊 他正发消息跟我说\N{\rEng}Yeah. He's, uh, texting me.
+Dialogue: 0,0:07:26.76,0:07:28.90,Chn,,0,0,0,,那你准备怎么回\N{\rEng}Hmm. How are you responding?
+Dialogue: 0,0:07:28.94,0:07:30.21,Chn,,0,0,0,,我不太想回\N{\rEng}Ugh, I tend not to,
+Dialogue: 0,0:07:30.25,0:07:32.66,Chn,,0,0,0,,或者就发个比较常用的表情包\N{\rEng}or maybe I'll send, like, a popular animated GIF
+Dialogue: 0,0:07:32.70,0:07:36.01,Chn,,0,0,0,,- 用来回啥都能说得通的那种 - 聪明\N{\rEng}that could be interpreted in almost any way. Brilliant.
+Dialogue: 0,0:07:36.05,0:07:37.98,Chn,,0,0,0,,吾召唤汝\N{\rEng}I summon thee.
+Dialogue: 0,0:07:38.01,0:07:41.74,Chn,,0,0,0,,吾召唤汝 茅彻\N{\rEng}I summon thee, Balthromaw.
+Dialogue: 0,0:07:41.78,0:07:43.02,Chn,,0,0,0,,这他妈是啥\N{\rEng}What the hell?
+Dialogue: 0,0:07:43.05,0:07:45.09,Chn,,0,0,0,,泰勒·斯威夫特手怼空气\N{\rEng}Taylor Swift pumping her hands in the air?
+Dialogue: 0,0:07:45.12,0:07:46.33,Chn,,0,0,0,,- 这是啥意思 - 就是你很菜的意思\N{\rEng}What does it mean when --It means you're lame.
+Dialogue: 0,0:07:46.35,0:07:46.92,Chn,,0,0,0,,*哟*\N{\rEng}♪ Yo ♪
+Dialogue: 0,0:07:46.99,0:07:50.13,Chn,,0,0,0,,*扑热息痛 耶 摇头丸 扑热息痛 扑热息痛*\N{\rEng}♪ Percocets, yeah, molly, Percocets, Percocets ♪
+Dialogue: 0,0:07:50.17,0:07:53.31,Chn,,0,0,0,,*扑热息痛 耶 摇头丸 扑热息痛 扑热息痛*\N{\rEng}♪ Percocets, yeah, molly, Percocets, Percocets ♪
+Dialogue: 0,0:07:53.34,0:07:55.93,Chn,,0,0,0,,*戴上面具 妈的摘下*\N{\rEng}♪ Mask on. Fuck it, mask off ♪
+Dialogue: 0,0:07:56.79,0:07:58.93,Chn,,0,0,0,,*毒气已散 不要瞌睡*\N{\rEng}♪ Gas gone, Never nod off ♪
+Dialogue: 0,0:08:02.80,0:08:04.22,Chn,,0,0,0,,老话是怎么讲的来着\N{\rEng}What's the saying?
+Dialogue: 0,0:08:04.25,0:08:08.12,Chn,,0,0,0,,“兽人为活下去而工作 矮人为了工作而活着”\N{\rEng}"Orcs work to live. Dwarves live to work."
+Dialogue: 0,0:08:08.15,0:08:09.08,Chn,,0,0,0,,真有病\N{\rEng}So dumb.
+Dialogue: 0,0:08:09.12,0:08:12.78,Chn,,0,0,0,,要是也能有句老话是说我的 我他妈能上天\N{\rEng}If there's ever a saying about me, I'll fly into the fucking Sun.
+Dialogue: 0,0:08:15.50,0:08:18.13,Chn,,0,0,0,,在我们龙看来 你好小哦 Rick\N{\rEng}Oh, you're small for a dragon, Rick.
+Dialogue: 0,0:08:18.16,0:08:20.78,Chn,,0,0,0,,呃 小小的我睡在大大的高贵的屎上\N{\rEng}Well, I sleep on an extra big pile of awesome shit.
+Dialogue: 0,0:08:20.82,0:08:23.10,Chn,,0,0,0,,然后就一定会有说你的老话了\N{\rEng}Then there will be sayings about you.
+Dialogue: 0,0:08:23.13,0:08:25.75,Chn,,0,0,0,,你也会被比你小的物种抓住\N{\rEng}Your lessers will hunt you down,
+Dialogue: 0,0:08:25.79,0:08:28.93,Chn,,0,0,0,,他们要么驯服你 要么杀死你\N{\rEng}and you will be owned or slain.
+Dialogue: 0,0:08:28.96,0:08:31.80,Chn,,0,0,0,,这就是大家管这叫濒危物种的原因 老哥\N{\rEng}That's why they call it a dying breed, brother.
+Dialogue: 0,0:08:36.48,0:08:38.14,Chn,,0,0,0,,噢 天哪\N{\rEng}Oh, God, ugh.
+Dialogue: 0,0:08:38.17,0:08:39.62,Chn,,0,0,0,,我的灵魂\N{\rEng}My soul. Oh!
+Dialogue: 0,0:08:39.66,0:08:41.49,Chn,,0,0,0,,好棒 我是\N{\rEng}Oh, yeah. I'm --
+Dialogue: 0,0:08:41.52,0:08:43.01,Chn,,0,0,0,,我是一条龙\N{\rEng}I'm -- I'm a dragon.
+Dialogue: 0,0:08:43.04,0:08:44.53,Chn,,0,0,0,,我爽起来了\N{\rEng}Oh! Ugh, I'm bonding.
+Dialogue: 0,0:08:44.56,0:08:45.87,Chn,,0,0,0,,我也好爽\N{\rEng}I'm bonding too.
+Dialogue: 0,0:08:48.53,0:08:49.81,Chn,,0,0,0,,这他妈什么鬼\N{\rEng}What the fuck?
+Dialogue: 0,0:08:49.84,0:08:50.98,Chn,,0,0,0,,Morty 听我解释\N{\rEng}Morty, I can explain.
+Dialogue: 0,0:08:51.01,0:08:52.05,Chn,,0,0,0,,够了\N{\rEng}Stop!
+Dialogue: 0,0:08:52.08,0:08:53.36,Chn,,0,0,0,,你俩为什么还不停下来\N{\rEng}Why are you still doing it?
+Dialogue: 0,0:08:53.40,0:08:55.33,Chn,,0,0,0,,怎么现在反倒更爽了\N{\rEng}Why does it feel better now?
+Dialogue: 0,0:08:55.36,0:08:57.50,Chn,,0,0,0,,最好别是因为我们被你看着 你站住了哪都别去\N{\rEng}I hope it's not because you're watching but don't go anywhere.
+Dialogue: 0,0:08:57.54,0:08:59.37,Chn,,0,0,0,,你们怎么找到我俩的\N{\rEng}How did you find us?
+Dialogue: 0,0:08:59.40,0:09:03.48,Chn,,0,0,0,,我们循着硫磺味和各种臭味一路找来的\N{\rEng}We followed the smell of sulfur and skankery.
+Dialogue: 0,0:09:05.75,0:09:08.00,Chn,,0,0,0,,- 啊 老哥 啊 - 操你们妈\N{\rEng}Oh, man, ugh. Fuck this.
+Dialogue: 0,0:09:08.03,0:09:10.34,Chn,,0,0,0,,把这不算数的傻逼灵魂绑定契约还给你\N{\rEng}You can take this stupid fake soul-bond contract,
+Dialogue: 0,0:09:10.38,0:09:13.35,Chn,,0,0,0,,然后你们就可以\N{\rEng}and you can -- Mm! Ah!
+Dialogue: 0,0:09:13.58,0:09:14.58,Chn,,0,0,0,,不退不换\N{\rEng}No refunds.
+Dialogue: 0,0:09:14.62,0:09:17.10,Chn,,0,0,0,,你的龙和我姥爷灵魂相绑了\N{\rEng}Your dragon soul-bonded with my grandpa.
+Dialogue: 0,0:09:17.14,0:09:19.55,Chn,,0,0,0,,啊 我去 非常抱歉\N{\rEng}Oh, my! I am so sorry.
+Dialogue: 0,0:09:19.59,0:09:21.28,Chn,,0,0,0,,这是严重的违约行为\N{\rEng}That is a total violation.
+Dialogue: 0,0:09:21.31,0:09:22.38,Chn,,0,0,0,,对 用你说\N{\rEng}Yeah, no shit.
+Dialogue: 0,0:09:22.42,0:09:24.21,Chn,,0,0,0,,这种逼事儿 我立刻就给你处理好\N{\rEng}I'll take care of this at once.
+Dialogue: 0,0:09:24.25,0:09:25.46,Chn,,0,0,0,,你这骚龙\N{\rEng}You slut dragon!
+Dialogue: 0,0:09:25.49,0:09:26.70,Chn,,0,0,0,,你他妈的是怎么回事\N{\rEng}What the fuck? You slut.
+Dialogue: 0,0:09:26.73,0:09:27.60,Chn,,0,0,0,,- 冷静点儿 兄弟 - 骚龙\N{\rEng}Chill out, dude. Slut!
+Dialogue: 0,0:09:27.63,0:09:28.94,Chn,,0,0,0,,- 呃 其实 - 骚龙\N{\rEng}Okay, that's --You slut!
+Dialogue: 0,0:09:28.98,0:09:30.22,Chn,,0,0,0,,- 也犯不着 - 骚龙\N{\rEng}Y-You don't have to --Slut!
+Dialogue: 0,0:09:30.25,0:09:31.46,Chn,,0,0,0,,真他妈丢脸\N{\rEng}Shame on you!
+Dialogue: 0,0:09:31.50,0:09:32.95,Chn,,0,0,0,,丢脸 你这骚龙 大骚逼\N{\rEng}Shame, you slut! You slutty, slutty slut!
+Dialogue: 0,0:09:32.98,0:09:34.88,Chn,,0,0,0,,为啥我他妈的感觉也像在挨你的鞭子\N{\rEng}Ow! Why the fuck does it feel like you're whipping me?
+Dialogue: 0,0:09:34.91,0:09:38.78,Chn,,0,0,0,,因为你的灵魂绑上了这条又脏\N{\rEng}Because your soul got tangled in a dirty.... Ah!
+Dialogue: 0,0:09:38.81,0:09:39.88,Chn,,0,0,0,,又骚\N{\rEng}...slutty... Ow!
+Dialogue: 0,0:09:39.92,0:09:41.23,Chn,,0,0,0,,又贱的灵魂\N{\rEng}...slut soul! Ow!
+Dialogue: 0,0:09:41.26,0:09:42.30,Chn,,0,0,0,,跟我回去\N{\rEng}Let's go! Ow! Ow!
+Dialogue: 0,0:09:42.33,0:09:43.72,Chn,,0,0,0,,滚去传送门 你个骚龙\N{\rEng}Get to that portal, you slut.
+Dialogue: 0,0:09:43.75,0:09:46.03,Chn,,0,0,0,,姥爷 快干点啥 不然我可要发推了\N{\rEng}Grandpa, do something, or I will tweet,
+Dialogue: 0,0:09:46.07,0:09:48.04,Chn,,0,0,0,,人设一崩 集体取关\N{\rEng}and you will be canceled.
+Dialogue: 0,0:09:48.27,0:09:51.79,Chn,,0,0,0,,屑巫师甘豆夫 放轻松 把龙还给孩子\N{\rEng}Hey, Dandruff the Great, lighten up and give the kid his dragon.
+Dialogue: 0,0:09:51.83,0:09:53.07,Chn,,0,0,0,,谁在发号施令\N{\rEng}By whose command?
+Dialogue: 0,0:09:53.10,0:09:54.24,Chn,,0,0,0,,你连魔法都不会\N{\rEng}You have no magic.
+Dialogue: 0,0:09:54.28,0:09:56.24,Chn,,0,0,0,,是啊我知道 但我有更实在的力量\N{\rEng}Yeah, I know. I have actual power.
+Dialogue: 0,0:09:56.28,0:09:57.49,Chn,,0,0,0,,不 在这儿不算数\N{\rEng}Not here, you don't.
+Dialogue: 0,0:09:57.52,0:10:00.63,Chn,,0,0,0,,真正的力量得像这样\N{\rEng}True power looks like this --
+Dialogue: 0,0:10:00.66,0:10:02.63,Chn,,0,0,0,,石头怪\N{\rEng}stone monster.
+Dialogue: 0,0:10:02.67,0:10:05.08,Chn,,0,0,0,,- 尝尝被它爆菊 - 哦 你说完了吗\N{\rEng}Stick that up your ass. Oh, you're done?
+Dialogue: 0,0:10:05.12,0:10:08.53,Chn,,0,0,0,,我还以为这岩石怪物是要引见某位物理学家\N{\rEng}I thought the rock monster was here to introduce a physicist.
+Dialogue: 0,0:10:10.78,0:10:14.09,Chn,,0,0,0,,脊髓 呃 释放吗啡\N{\rEng}Spinal cord, uh, activate morphine.
+Dialogue: 0,0:10:14.12,0:10:16.33,Chn,,0,0,0,,我可能要完球了\N{\rEng}Oh, I might be fucked.
+Dialogue: 0,0:10:16.37,0:10:18.37,Chn,,0,0,0,,闪电桥\N{\rEng}Lightning bridge!
+Dialogue: 0,0:10:20.48,0:10:21.65,Chn,,0,0,0,,好了 他撤了 听着\N{\rEng}Okay, he's gone. Listen up.
+Dialogue: 0,0:10:21.68,0:10:23.34,Chn,,0,0,0,,这山上应该还有其他动物\N{\rEng}There's probably animals in these hills.
+Dialogue: 0,0:10:23.38,0:10:25.65,Chn,,0,0,0,,如果你放过我 我可以把你的裆部变成盐碱地给它们舔\N{\rEng}If you spare me, I can make your crotch a salt lick.
+Dialogue: 0,0:10:31.97,0:10:33.35,Chn,,0,0,0,,谢谢你 Morty\N{\rEng}Thank you, Morty.
+Dialogue: 0,0:10:33.39,0:10:35.63,Chn,,0,0,0,,你应该能在这个垃圾世界里谋到高位\N{\rEng}Figures you'd be higher status in Lame World.
+Dialogue: 0,0:10:35.66,0:10:37.53,Chn,,0,0,0,,别犯神经了 巢穴破坏者\N{\rEng}Get your shit together, Lair Wrecker.
+Dialogue: 0,0:10:37.56,0:10:39.12,Chn,,0,0,0,,咱们得把茅彻救出来\N{\rEng}We need to rescue Balthromaw.
+Dialogue: 0,0:10:39.15,0:10:42.29,Chn,,0,0,0,,Morty 这个故事的主旨是手足情深重过巨龙\N{\rEng}Morty, the moral of this story is bros before dragons.
+Dialogue: 0,0:10:42.33,0:10:43.78,Chn,,0,0,0,,你明白我的意思吧\N{\rEng}You know what I'm talking about?
+Dialogue: 0,0:10:43.81,0:10:46.54,Chn,,0,0,0,,懂 但你俩灵魂相绑 他死了你也会死\N{\rEng}Yeah, if he dies while you're soul bonded, you die too.
+Dialogue: 0,0:10:46.57,0:10:50.40,Chn,,0,0,0,,Morty 故事的主旨其实是兄弟协力救龙\N{\rEng}Morty, the moral of this story is bros rescue dragons.
+Dialogue: 0,0:10:51.38,0:10:55.06,Chn,,0,0,0,,茅彻 你与多位驾驭者灵魂相绑\N{\rEng}Balthromaw, by soul bonding with multiple riders,
+Dialogue: 0,0:10:55.10,0:10:58.69,Chn,,0,0,0,,违背了龙与人类的契约\N{\rEng}you have violated the treaty between dragon and mankind.
+Dialogue: 0,0:10:58.72,0:11:03.17,Chn,,0,0,0,,龙君判你被吊着脖子 直到吊死\N{\rEng}The Dragonarchy sentences you to hang by the neck until dead.
+Dialogue: 0,0:11:03.21,0:11:05.00,Chn,,0,0,0,,数到三就执行\N{\rEng}On the count of three.
+Dialogue: 0,0:11:05.04,0:11:07.01,Chn,,0,0,0,,一龙君\N{\rEng}One Dragonarchy,
+Dialogue: 0,0:11:07.04,0:11:08.90,Chn,,0,0,0,,二龙君\N{\rEng}two Dragonarchy,
+Dialogue: 0,0:11:08.94,0:11:11.70,Chn,,0,0,0,,二点五 我只是想确定\N{\rEng}2 1/2 -- I just wanted to make sure --
+Dialogue: 0,0:11:11.74,0:11:13.53,Chn,,0,0,0,,三\N{\rEng}three!
+Dialogue: 0,0:11:13.56,0:11:15.70,Chn,,0,0,0,,Rick姥爷 你怎么了\N{\rEng}Grandpa Rick, what's wrong?
+Dialogue: 0,0:11:15.74,0:11:18.53,Chn,,0,0,0,,我的天 巫师肯定是把茅彻给吊起来了\N{\rEng}Oh, God. The wizard must have hung Balthromaw!
+Dialogue: 0,0:11:18.57,0:11:20.23,Chn,,0,0,0,,啊 行吧 咱们能回家了吗\N{\rEng}Well, fuck it. Can we go back then?
+Dialogue: 0,0:11:20.26,0:11:22.23,Chn,,0,0,0,,呃 不 不 要吊死一条龙\N{\rEng}W-Well, no, no. It takes, like, 78 years
+Dialogue: 0,0:11:22.26,0:11:23.61,Chn,,0,0,0,,需要78年的时间 就是说\N{\rEng}to hang a dragon to death, so...
+Dialogue: 0,0:11:23.64,0:11:25.37,Chn,,0,0,0,,啊我去 那也太烦人了\N{\rEng}Aw, man. It's so annoying.
+Dialogue: 0,0:11:25.40,0:11:27.92,Chn,,0,0,0,,你有没有过 比如说 试着吞下一颗巨大的维生素片\N{\rEng}You ever, like, try to swallow a really big vitamin
+Dialogue: 0,0:11:27.96,0:11:29.37,Chn,,0,0,0,,一口水也不喝\N{\rEng}with no water? Ugh!
+Dialogue: 0,0:11:29.41,0:11:30.72,Chn,,0,0,0,,你懂的 就好像\N{\rEng}You know, like
+Dialogue: 0,0:11:30.75,0:11:32.55,Chn,,0,0,0,,真的 就像 特别大的那种 知道吗\N{\rEng}really, like, big one, you know,
+Dialogue: 0,0:11:32.58,0:11:35.59,Chn,,0,0,0,,感觉还挺硌着喉咙的\N{\rEng}and it kind of gets, ugh, stuck in your throat?
+Dialogue: 0,0:11:35.62,0:11:36.86,Chn,,0,0,0,,这这也太烦人了吧 行吧\N{\rEng}It's -- It's annoying. All right.
+Dialogue: 0,0:11:36.90,0:11:39.38,Chn,,0,0,0,,Morty 去启动这个泥巴机器\N{\rEng}Morty, go ahead and activate this golem.
+Dialogue: 0,0:11:54.43,0:11:56.23,Chn,,0,0,0,,真够傻逼的 就这么着吧\N{\rEng}Fucking dumb. All right.
+Dialogue: 0,0:11:56.26,0:11:58.85,Chn,,0,0,0,,谁想被注入点儿 呃 怎么说呢 不合常理的力量吗\N{\rEng}Who wants to be infused with, like, uh, unreasonable power?
+Dialogue: 0,0:11:58.89,0:12:01.47,Chn,,0,0,0,,那我能变成性感弓箭手吗\N{\rEng}Oh, can I be, like, a sexy arrow-shooty lady?
+Dialogue: 0,0:12:01.51,0:12:04.30,Chn,,0,0,0,,当然 啥都行 没啥规矩 我不在意\N{\rEng}Yeah, whatever. There's no rules. I don't care.
+Dialogue: 0,0:12:04.34,0:12:06.27,Chn,,0,0,0,,Morty 你要超能力吗\N{\rEng}Morty, you want superpowers?
+Dialogue: 0,0:12:06.31,0:12:08.27,Chn,,0,0,0,,不用了 我有我的书在\N{\rEng}No, thanks. I'm fine. I've got my book.
+Dialogue: 0,0:12:08.31,0:12:09.93,Chn,,0,0,0,,行吧 那就祝你平安吧\N{\rEng}All right. Good luck with that.
+Dialogue: 0,0:12:09.97,0:12:11.45,Chn,,0,0,0,,咱们走\N{\rEng}Let's go.
+Dialogue: 0,0:12:12.76,0:12:14.28,Chn,,0,0,0,,我靠 这简直就像\N{\rEng}God, it's like --
+Dialogue: 0,0:12:14.31,0:12:15.49,Chn,,0,0,0,,你们有没有被一大口橙汁呛住\N{\rEng}Have you ever had too much orange juice,
+Dialogue: 0,0:12:15.52,0:12:16.94,Chn,,0,0,0,,或者是被蛋黄之类的\N{\rEng}or, like, you know how egg yolk
+Dialogue: 0,0:12:16.97,0:12:18.80,Chn,,0,0,0,,噎住的经历\N{\rEng}kind of, like, gets in your throat?
+Dialogue: 0,0:12:18.84,0:12:19.87,Chn,,0,0,0,,当然 我们懂\N{\rEng}Yeah, we get it.
+Dialogue: 0,0:12:19.91,0:12:20.80,Chn,,0,0,0,,快点\N{\rEng}Come on and hurry.
+Dialogue: 0,0:12:20.84,0:12:22.88,Chn,,0,0,0,,我们还要救茅彻呢\N{\rEng}W-We got to free Balthromaw.
+Dialogue: 0,0:12:22.91,0:12:24.50,Chn,,0,0,0,,我来\N{\rEng}Upsulu --I got this.
+Dialogue: 0,0:12:28.26,0:12:30.12,Chn,,0,0,0,,Morty 那本书帮了你什么忙\N{\rEng}Morty, how's that book working out for you,
+Dialogue: 0,0:12:30.16,0:12:32.33,Chn,,0,0,0,,你个傻逼\N{\rEng}you fucking d-d-dumbass?
+Dialogue: 0,0:12:35.16,0:12:36.89,Chn,,0,0,0,,还真别说 让你们给说中了\N{\rEng}Huh. You know what? You're right.
+Dialogue: 0,0:12:36.92,0:12:38.82,Chn,,0,0,0,,我觉得我能适应这些魔法玩意儿\N{\rEng}I could get used to this magic stuff.
+Dialogue: 0,0:12:47.45,0:12:49.25,Chn,,0,0,0,,茅彻在那儿\N{\rEng}There's Balthromaw.
+Dialogue: 0,0:12:49.28,0:12:50.59,Chn,,0,0,0,,来看这个 看我表演\N{\rEng}Check this shit out. Watch this.
+Dialogue: 0,0:12:50.63,0:12:51.66,Chn,,0,0,0,,对 对 瞄都别瞄\N{\rEng}Oh, yeah, yeah. Don't even look.
+Dialogue: 0,0:12:51.70,0:12:52.84,Chn,,0,0,0,,不要浪费时间瞄准\N{\rEng}Don't even bother looking.
+Dialogue: 0,0:12:52.87,0:12:54.77,Chn,,0,0,0,,让魔法来制导\N{\rEng}Just fucking let magic guide your arrow.
+Dialogue: 0,0:12:54.80,0:12:56.70,Chn,,0,0,0,,Summer 你他妈干啥呢\N{\rEng}Summer, what the hell are you doing?
+Dialogue: 0,0:12:56.74,0:12:59.15,Chn,,0,0,0,,- 严肃点儿啊 - 闭嘴 Morty\N{\rEng}Take this seriously. Shut the fuck up, Morty.
+Dialogue: 0,0:12:59.19,0:13:01.50,Chn,,0,0,0,,别说得好像魔法跟能力还有思想有关\N{\rEng}Stop trying to pretend like magic involves skill or thought.
+Dialogue: 0,0:13:01.53,0:13:03.81,Chn,,0,0,0,,Summer 让箭看起来就像从你屁眼儿里射出的一样\N{\rEng}Summer, make it look like it's coming out of your butthole.
+Dialogue: 0,0:13:03.85,0:13:05.19,Chn,,0,0,0,,对对对\N{\rEng}Yeah, yeah.
+Dialogue: 0,0:13:07.23,0:13:09.78,Chn,,0,0,0,,操 我的眼睛啊\N{\rEng}Oh, fuck, my fucking eye, oh!
+Dialogue: 0,0:13:09.82,0:13:12.86,Chn,,0,0,0,,在中世纪 “烦死我了”要怎么说来着\N{\rEng}What in the Medieval equivalent of tarnation --
+Dialogue: 0,0:13:12.89,0:13:15.00,Chn,,0,0,0,,老天啊\N{\rEng}Jesus Christ!
+Dialogue: 0,0:13:15.03,0:13:16.51,Chn,,0,0,0,,Summer 你这个大傻逼\N{\rEng}Summer, you fucking idiot!
+Dialogue: 0,0:13:16.55,0:13:18.69,Chn,,0,0,0,,十二足之力\N{\rEng}Power of 12 feet.
+Dialogue: 0,0:13:18.72,0:13:19.55,Chn,,0,0,0,,操 疼死我了\N{\rEng}Uh, ow, fuck!
+Dialogue: 0,0:13:19.59,0:13:21.11,Chn,,0,0,0,,我收回我说的话\N{\rEng}I take it all back!
+Dialogue: 0,0:13:21.14,0:13:23.25,Chn,,0,0,0,,我讨厌魔法\N{\rEng}I fucking hate magic!
+Dialogue: 0,0:13:27.87,0:13:29.11,Chn,,0,0,0,,骚贱臭贼\N{\rEng}Slut thief!
+Dialogue: 0,0:13:29.15,0:13:31.01,Chn,,0,0,0,,你这个骚贱的贼\N{\rEng}You're a slut thief!
+Dialogue: 0,0:13:33.67,0:13:36.02,Chn,,0,0,0,,有趣的船 有趣的人\N{\rEng}Pretty fun boat, fun people.
+Dialogue: 0,0:13:36.05,0:13:39.54,Chn,,0,0,0,,很好 没人问我为什么能说话\N{\rEng}That's great, not being asked why I can talk.
+Dialogue: 0,0:13:39.57,0:13:43.02,Chn,,0,0,0,,我会说话 但“管它为什么”才是我想要的\N{\rEng}I'm a talking cat, but "Who cares why?" is my point.
+Dialogue: 0,0:13:43.06,0:13:46.58,Chn,,0,0,0,,很高兴和你不为了什么理由说话\N{\rEng}Well, nice talking to you for no reason.
+Dialogue: 0,0:13:48.44,0:13:49.75,Chn,,0,0,0,,Jorge 那个确实棒\N{\rEng}Jorge, that was a good one,
+Dialogue: 0,0:13:49.79,0:13:51.55,Chn,,0,0,0,,但你知道花生酱滴水兽是什么吗\N{\rEng}but do you know what a peanut butter gargoyle is?
+Dialogue: 0,0:13:51.58,0:13:52.83,Chn,,0,0,0,,不知道 那是个啥\N{\rEng}Nah, what's that?
+Dialogue: 0,0:13:52.86,0:13:54.83,Chn,,0,0,0,,老哥 就是你带着妞儿\N{\rEng}Dude, it's when you take the chick,
+Dialogue: 0,0:13:54.86,0:13:56.83,Chn,,0,0,0,,- 让她的脚抵着教堂 - 抱歉打扰 各位\N{\rEng}put her feet on a cathedral --Sorry to interrupt, guys.
+Dialogue: 0,0:13:56.87,0:13:59.83,Chn,,0,0,0,,我就是想确认一下 你们说的都是性爱体位吗\N{\rEng}Just want to clarify, are these real sex positions?
+Dialogue: 0,0:13:59.87,0:14:01.08,Chn,,0,0,0,,因为如果真的是\N{\rEng}Because if they are,
+Dialogue: 0,0:14:01.11,0:14:03.70,Chn,,0,0,0,,那这些姿势为什么能让男性爽起来呢\N{\rEng}how are they gratifying to the male at all?
+Dialogue: 0,0:14:03.73,0:14:05.60,Chn,,0,0,0,,如果都是瞎编的\N{\rEng}And if the goal is to make something up,
+Dialogue: 0,0:14:05.63,0:14:09.67,Chn,,0,0,0,,那为什么不编一些 更有趣的呢\N{\rEng}why not make up something...funnier?
+Dialogue: 0,0:14:09.71,0:14:12.99,Chn,,0,0,0,,我是不是问太多问题了\N{\rEng}I'm asking too many questions, aren't I?
+Dialogue: 0,0:14:13.02,0:14:14.26,Chn,,0,0,0,,真讽刺\N{\rEng}How ironic.
+Dialogue: 0,0:14:14.30,0:14:16.16,Chn,,0,0,0,,从佛罗里达滚远点 你这钻牛角尖儿的猫\N{\rEng}Get out of Florida, you overthinking cat.
+Dialogue: 0,0:14:16.20,0:14:18.44,Chn,,0,0,0,,为什么你不北上去佐治亚慢慢想\N{\rEng}Why don't you go overthink shit up north in Georgia?
+Dialogue: 0,0:14:18.47,0:14:19.85,Chn,,0,0,0,,惹人嫌的猫\N{\rEng}Hate that cat.
+Dialogue: 0,0:14:29.48,0:14:31.18,Chn,,0,0,0,,你有钱打车吗\N{\rEng}You got any money for a cab?
+Dialogue: 0,0:14:31.21,0:14:32.80,Chn,,0,0,0,,为什么开口提问了\N{\rEng}Why ask questions?
+Dialogue: 0,0:14:32.83,0:14:34.35,Chn,,0,0,0,,说好的乐在其中呢\N{\rEng}Why not just have fun?
+Dialogue: 0,0:14:34.39,0:14:35.73,Chn,,0,0,0,,我活该\N{\rEng}I deserve that.
+Dialogue: 0,0:14:35.77,0:14:38.53,Chn,,0,0,0,,注意听好 大龙城居民们\N{\rEng}Attention, citizens of Draygon,
+Dialogue: 0,0:14:38.56,0:14:41.36,Chn,,0,0,0,,一条骚龙逃走了\N{\rEng}a slut dragon has escaped.
+Dialogue: 0,0:14:41.39,0:14:44.64,Chn,,0,0,0,,谁敢包庇 谁就骚贱\N{\rEng}Anyone caught harboring it is also a slut.
+Dialogue: 0,0:14:44.67,0:14:46.29,Chn,,0,0,0,,- 这就是规矩 - 我的眼睛啊\N{\rEng}That's how it goes. Ow, my eye.
+Dialogue: 0,0:14:46.33,0:14:49.23,Chn,,0,0,0,,我好心疼你能感同身受\N{\rEng}It pains me that you can feel my pain.
+Dialogue: 0,0:14:49.26,0:14:50.54,Chn,,0,0,0,,那你为什么不自舔\N{\rEng}Yeah, how about you suck your dick,
+Dialogue: 0,0:14:50.57,0:14:52.20,Chn,,0,0,0,,正好也当给我舔屌了\N{\rEng}which is also somehow my dick?
+Dialogue: 0,0:14:52.23,0:14:55.75,Chn,,0,0,0,,为什么出轨的情侣不能有个快乐的结局啊\N{\rEng}Aw, why can't couples that start out cheating ever end up happy?
+Dialogue: 0,0:14:55.79,0:14:59.31,Chn,,0,0,0,,也许我能在书中找到巫师用来开启传送门的咒语 然后咱们就能回家\N{\rEng}M-Maybe I can find that wizard's portal spell in here and g-get us home.
+Dialogue: 0,0:14:59.34,0:15:00.96,Chn,,0,0,0,,为什么不找找有没有咒语\N{\rEng}How about finding the spell that unbinds me
+Dialogue: 0,0:15:01.00,0:15:02.31,Chn,,0,0,0,,可以让我和你的逼龙解绑\N{\rEng}from your fucking dragon?
+Dialogue: 0,0:15:02.34,0:15:04.31,Chn,,0,0,0,,没有咒语能做到\N{\rEng}No spells can do that.
+Dialogue: 0,0:15:04.35,0:15:06.42,Chn,,0,0,0,,只有巫师能解除\N{\rEng}Only the wizard can unbind soul bonds.
+Dialogue: 0,0:15:06.45,0:15:07.66,Chn,,0,0,0,,你他妈是谁啊\N{\rEng}Uh, who the fuck are you?
+Dialogue: 0,0:15:07.69,0:15:09.49,Chn,,0,0,0,,你还问我 你算老几 骚货\N{\rEng}Who are we? Who the fuck are you, bitch?
+Dialogue: 0,0:15:09.52,0:15:11.84,Chn,,0,0,0,,Debrah 行了 我们是骚龙\N{\rEng}Debrah, stop. We are the slut dragons.
+Dialogue: 0,0:15:11.87,0:15:13.94,Chn,,0,0,0,,我们住在这淫穴 我们在这里交媾\N{\rEng}We live in these slut caves where we fuck,
+Dialogue: 0,0:15:13.98,0:15:16.95,Chn,,0,0,0,,吸屌 舔菊 同时我们真诚地希望你们离开\N{\rEng}suck, and eat butt, and we kindly ask that you leave.
+Dialogue: 0,0:15:16.98,0:15:19.43,Chn,,0,0,0,,如果巫师知道了我们在这 他会把我们关起来\N{\rEng}If the wizard knows we are here, he will imprison us.
+Dialogue: 0,0:15:19.47,0:15:20.85,Chn,,0,0,0,,说得对 我们就爱在这儿\N{\rEng}Yeah! We like it down here
+Dialogue: 0,0:15:20.88,0:15:23.16,Chn,,0,0,0,,因为可以操到毛绒绒的猛犸象 快滚吧\N{\rEng}'cause we can fuck woolly mammoths. Get out!
+Dialogue: 0,0:15:23.19,0:15:24.78,Chn,,0,0,0,,- 滚开 Michael - 闭嘴 Michael\N{\rEng}Get the fuck out of here, Michael! Shut up, Michael!
+Dialogue: 0,0:15:24.82,0:15:26.27,Chn,,0,0,0,,只有你操那玩意儿\N{\rEng}You're the only one that fucks that thing.
+Dialogue: 0,0:15:26.30,0:15:27.61,Chn,,0,0,0,,快滚吧\N{\rEng}Get the fuck out of here.
+Dialogue: 0,0:15:27.65,0:15:29.27,Chn,,0,0,0,,好吧 至少我不玩屎\N{\rEng}Well, at least I'm not into shit play.
+Dialogue: 0,0:15:29.30,0:15:30.51,Chn,,0,0,0,,- 滚你大爷的 - 别吵了\N{\rEng}-Fuck you! -Hey, wait!
+Dialogue: 0,0:15:30.55,0:15:32.17,Chn,,0,0,0,,都别吵吵啦\N{\rEng}Everybody stop, stop!
+Dialogue: 0,0:15:32.20,0:15:33.79,Chn,,0,0,0,,听着 这都是我造成的\N{\rEng}Listen, this is all my fault.
+Dialogue: 0,0:15:33.82,0:15:36.45,Chn,,0,0,0,,起因是我想驾驭茅彻 才搞得这么乱套\N{\rEng}I started all this when I tried to control Balthromaw,
+Dialogue: 0,0:15:36.48,0:15:37.62,Chn,,0,0,0,,这样太操蛋了\N{\rEng}and that was fucked up.
+Dialogue: 0,0:15:37.66,0:15:39.28,Chn,,0,0,0,,没有谁该驾驭谁\N{\rEng}Nobody should control anyone,
+Dialogue: 0,0:15:39.31,0:15:40.69,Chn,,0,0,0,,尤其不该驾驭上边那货\N{\rEng}especially that guy up there.
+Dialogue: 0,0:15:40.73,0:15:43.35,Chn,,0,0,0,,还有 你们爱舔菊就舔吧 随意\N{\rEng}And, um, you can eat butt if you want, I guess.
+Dialogue: 0,0:15:43.39,0:15:44.52,Chn,,0,0,0,,- 我 - 我替你说吧 Morty\N{\rEng}I, uh --I got this, Morty.
+Dialogue: 0,0:15:44.56,0:15:46.29,Chn,,0,0,0,,行啦 竖起耳朵挺好 各位骚龙\N{\rEng}Okay, listen up, slut dragons!
+Dialogue: 0,0:15:46.32,0:15:48.01,Chn,,0,0,0,,你们难道就不想去骚浪贱吗\N{\rEng}Wouldn't you rather be sluts up there,
+Dialogue: 0,0:15:48.05,0:15:50.53,Chn,,0,0,0,,宁可蜗居烂屌洞穴也不坐享爽逼世界\N{\rEng}have a fuck world instead of a fuck cave?
+Dialogue: 0,0:15:50.57,0:15:51.88,Chn,,0,0,0,,脑子有泡吗\N{\rEng}What's wrong with you?
+Dialogue: 0,0:15:51.91,0:15:54.02,Chn,,0,0,0,,这个马尾辫男子说得有理\N{\rEng}This man with a ponytail makes a valid point.
+Dialogue: 0,0:15:54.05,0:15:56.88,Chn,,0,0,0,,骚浪贱是龙的本性 上面那些龙也都一样\N{\rEng}All dragons are sluts deep down, even the ones up above,
+Dialogue: 0,0:15:56.92,0:15:59.02,Chn,,0,0,0,,但要获得自由就必须杀死巫师\N{\rEng}but we would have to kill the wizard to be free.
+Dialogue: 0,0:15:59.06,0:16:00.30,Chn,,0,0,0,,他的力量太过强大\N{\rEng}He is too powerful.
+Dialogue: 0,0:16:00.33,0:16:02.89,Chn,,0,0,0,,有一种可以杀死巫师的办法\N{\rEng}There is a way to kill the wizard.
+Dialogue: 0,0:16:02.92,0:16:04.54,Chn,,0,0,0,,哟呵 这是哪个神秘角色\N{\rEng}Whoa. Who's this mysterious character?
+Dialogue: 0,0:16:04.58,0:16:06.31,Chn,,0,0,0,,幻影杰克 你已经在你的\N{\rEng}Shadow Jacker, you haven't come out
+Dialogue: 0,0:16:06.34,0:16:08.00,Chn,,0,0,0,,自慰专用洞里呆了上亿年了\N{\rEng}of your masturbation cave in eons.
+Dialogue: 0,0:16:08.03,0:16:11.38,Chn,,0,0,0,,我也该从那个安乐茧里 出来走走了\N{\rEng}It's high time I emerge from my cum cocoon.
+Dialogue: 0,0:16:11.41,0:16:13.66,Chn,,0,0,0,,老这么一边偷听你们制造的噪音一边自慰\N{\rEng}I grow tired of eavesdropping and masturbating
+Dialogue: 0,0:16:13.69,0:16:15.04,Chn,,0,0,0,,真是累死个龙\N{\rEng}to the sounds you all make.
+Dialogue: 0,0:16:15.07,0:16:16.32,Chn,,0,0,0,,我的天啊 可别说了\N{\rEng}Jesus Christ. All right.
+Dialogue: 0,0:16:16.35,0:16:17.39,Chn,,0,0,0,,就不能保持点儿神秘感吗\N{\rEng}C-Could use a little more mystery.
+Dialogue: 0,0:16:17.42,0:16:19.01,Chn,,0,0,0,,嚯 才看清那个大玩意儿\N{\rEng}Oh, oh, just now seeing the staff.
+Dialogue: 0,0:16:19.04,0:16:22.39,Chn,,0,0,0,,我们一直凑不够能对抗巫师的骚货\N{\rEng}We've never had enough sluts to defeat the wizard.
+Dialogue: 0,0:16:22.42,0:16:28.40,Chn,,0,0,0,,现在刚好来了四个新鲜柔软的骚货 正出现在家门口 终于能有个机会了\N{\rEng}Now, with the four fresh, wet sluts that just landed on our doorstep, we finally have a chance.
+Dialogue: 0,0:16:28.43,0:16:30.57,Chn,,0,0,0,,所以杀死巫师就能让灵魂解绑是吗\N{\rEng}So killing the wizard will break my soul bond.
+Dialogue: 0,0:16:30.61,0:16:32.85,Chn,,0,0,0,,没错 这样能解决所有问题\N{\rEng}Yes, it solves all of our problems.
+Dialogue: 0,0:16:32.88,0:16:35.16,Chn,,0,0,0,,我们要来一场十骚魂交\N{\rEng}We must begin a 10-slut soul orgy...
+Dialogue: 0,0:16:35.20,0:16:36.68,Chn,,0,0,0,,等等等一下 你说啥\N{\rEng}Wait, wait, what?
+Dialogue: 0,0:16:36.71,0:16:39.23,Chn,,0,0,0,,来组成一只全骚骚凤巨龙 骚货们\N{\rEng}...and become the all-slut slut phoenix dragon, Slut.
+Dialogue: 0,0:16:39.27,0:16:40.58,Chn,,0,0,0,,等下啊 慢点 慢点\N{\rEng}Wait, wait, wait, wait. Hold on. Hold on.
+Dialogue: 0,0:16:40.62,0:16:42.07,Chn,,0,0,0,,书里肯定有还有别的内容\N{\rEng}There's got to be something else in here.
+Dialogue: 0,0:16:42.10,0:16:43.72,Chn,,0,0,0,,肯定还有别的办法 等我找一下啊\N{\rEng}There's got to be another way. Just give me a second.
+Dialogue: 0,0:16:43.76,0:16:45.72,Chn,,0,0,0,,好多内容我还没看过呢\N{\rEng}I haven't read all this yet.
+Dialogue: 0,0:16:49.07,0:16:51.04,Chn,,0,0,0,,就不要和你们爸妈说起这档子事了吧\N{\rEng}Maybe don't tell your parents we did this?
+Dialogue: 0,0:17:15.44,0:17:18.10,Chn,,0,0,0,,求放过啊\N{\rEng}Oh, oh, no. Oh -- Wait, please, no!
+Dialogue: 0,0:17:18.14,0:17:19.62,Chn,,0,0,0,,冰咒 冰咒\N{\rEng}Ice spell! Ice spell!
+Dialogue: 0,0:17:19.65,0:17:21.45,Chn,,0,0,0,,天呐\N{\rEng}Oh, God!
+Dialogue: 0,0:17:21.48,0:17:23.18,Chn,,0,0,0,,冰咒让火更持久了\N{\rEng}That just made it last longer.
+Dialogue: 0,0:17:23.21,0:17:24.94,Chn,,0,0,0,,烧得更慢了啊\N{\rEng}Ah, it burns longer!
+Dialogue: 0,0:17:24.97,0:17:26.90,Chn,,0,0,0,,本来能死痛快点儿啊\N{\rEng}Ah, I could have died fast!
+Dialogue: 0,0:17:30.84,0:17:32.12,Chn,,0,0,0,,谢谢你们 陌生人\N{\rEng}Thank you, strangers.
+Dialogue: 0,0:17:32.15,0:17:33.81,Chn,,0,0,0,,这上边如今是你们的世界了 赋权快乐\N{\rEng}Well, it's your world now. Have fun with empowerment.
+Dialogue: 0,0:17:33.84,0:17:35.77,Chn,,0,0,0,,貌似大家都挺享受的是吧\N{\rEng}It seems to make everyone that gets it really happy.
+Dialogue: 0,0:17:35.81,0:17:39.05,Chn,,0,0,0,,走了 各位 我要用这个开一扇传送门\N{\rEng}All right, guys. I'll use this to open a portal.
+Dialogue: 0,0:17:39.09,0:17:41.61,Chn,,0,0,0,,通往地球的传送门 开\N{\rEng}Uh, open a portal to Earth.
+Dialogue: 0,0:17:41.64,0:17:43.44,Chn,,0,0,0,,赶紧他妈的撤吧\N{\rEng}Let's get the hell out of here fast.
+Dialogue: 0,0:17:43.47,0:17:44.99,Chn,,0,0,0,,我的天 瞅瞅这啥破玩意\N{\rEng}God, look at this piece of shit.
+Dialogue: 0,0:17:45.02,0:17:47.68,Chn,,0,0,0,,怎么还有符文 谁会在传送门上写符文\N{\rEng}Why is there writing on it? Who writes on a portal?
+Dialogue: 0,0:17:49.99,0:17:52.45,Chn,,0,0,0,,早知道就要金刚狼爪子了吧 Morty\N{\rEng}Should've taken me up on those Wolverine claws instead, Morty.
+Dialogue: 0,0:17:52.48,0:17:54.10,Chn,,0,0,0,,等会 龙怎么也跟来了\N{\rEng}Wait, why did the dragon come?
+Dialogue: 0,0:17:54.14,0:17:56.31,Chn,,0,0,0,,我寻思咱们是不是还能一起玩耍\N{\rEng}I was thinking we could hang out?
+Dialogue: 0,0:17:56.35,0:17:58.31,Chn,,0,0,0,,啊 是哈 嚯 老天\N{\rEng}Oh, yeah. Whoa, Jesus.
+Dialogue: 0,0:17:58.35,0:18:00.14,Chn,,0,0,0,,你们老爸一直在给我发消息\N{\rEng}Your dad's been texting me this whole time?
+Dialogue: 0,0:18:00.18,0:18:02.08,Chn,,0,0,0,,他和一只猫在机场\N{\rEng}Uh, he's at an airport with a cat.
+Dialogue: 0,0:18:02.11,0:18:03.96,Chn,,0,0,0,,好吧 这就比较 哇哦\N{\rEng}Okay, that -- that sounds -- Wow.
+Dialogue: 0,0:18:03.99,0:18:05.23,Chn,,0,0,0,,这样吧 我最好还是去接他\N{\rEng}You know, I better check on him.
+Dialogue: 0,0:18:05.27,0:18:06.96,Chn,,0,0,0,,闹出了个季终集一样的好戏 懂吗\N{\rEng}Big season finale right there, you know?
+Dialogue: 0,0:18:06.99,0:18:08.48,Chn,,0,0,0,,我最好 这就走\N{\rEng}Better, uh -- Better go right now.
+Dialogue: 0,0:18:08.51,0:18:10.41,Chn,,0,0,0,,还有我告诉过你别要龙 Morty\N{\rEng}Also, I told you not to get a dragon, Morty.
+Dialogue: 0,0:18:10.45,0:18:12.48,Chn,,0,0,0,,都他妈怪你 傻屌 最差劲的冒险\N{\rEng}This is your fault. Fuck you, worst adventure ever.
+Dialogue: 0,0:18:12.52,0:18:13.77,Chn,,0,0,0,,最差劲的冒险\N{\rEng}Worst adventure ever.
+Dialogue: 0,0:18:13.80,0:18:16.70,Chn,,0,0,0,,我觉得你也该上自己的路了 茅彻\N{\rEng}Yeah, uh, I guess you better be on your way too, Balthromaw.
+Dialogue: 0,0:18:16.74,0:18:18.43,Chn,,0,0,0,,我一直在寻思着\N{\rEng}Well, I've been thinking.
+Dialogue: 0,0:18:18.46,0:18:22.29,Chn,,0,0,0,,你在龙穴里说的那番话让我很有共鸣\N{\rEng}What you said back there in the cave really resonated with me.
+Dialogue: 0,0:18:22.33,0:18:23.88,Chn,,0,0,0,,我们是不是可以重新来过\N{\rEng}Maybe we could try again?
+Dialogue: 0,0:18:23.91,0:18:27.64,Chn,,0,0,0,,实话实说 发觉世间万物究其内核 都会回到性 这让我恶心坏了\N{\rEng}Look, to be honest, I'm kind of grossed out with the sexual nature of how everything unfolded.
+Dialogue: 0,0:18:27.68,0:18:29.40,Chn,,0,0,0,,真没想到龙还有这么强的性欲\N{\rEng}I didn't know how sexual dragons were.
+Dialogue: 0,0:18:29.44,0:18:31.89,Chn,,0,0,0,,我顶多是想来一次类似《龙与地下城》的冒险 懂吗\N{\rEng}I kind of just wanted to do some D&D stuff, you know?
+Dialogue: 0,0:18:31.92,0:18:34.13,Chn,,0,0,0,,并和自己的姐姐 姥爷\N{\rEng}And have a soul orgy with your sister and grandpa
+Dialogue: 0,0:18:34.17,0:18:35.89,Chn,,0,0,0,,还有遇到的所有龙来一发魂交 对吗\N{\rEng}and every dragon we could find, yeah?
+Dialogue: 0,0:18:35.93,0:18:37.89,Chn,,0,0,0,,才没有 你就不能快点走吗\N{\rEng}No, look, can you please just go?
+Dialogue: 0,0:18:37.93,0:18:39.48,Chn,,0,0,0,,我我我非常想洗个澡\N{\rEng}I-I-I really want to shower.
+Dialogue: 0,0:18:39.52,0:18:41.42,Chn,,0,0,0,,那就趁我还没走 体验一把快速魂勃\N{\rEng}Maybe a quick soul bone before I go.
+Dialogue: 0,0:18:41.45,0:18:42.62,Chn,,0,0,0,,不不不用了\N{\rEng}I-I-I-I'm good.
+Dialogue: 0,0:18:42.66,0:18:43.90,Chn,,0,0,0,,我只想一个人静静\N{\rEng}I think I just need to be alone
+Dialogue: 0,0:18:43.93,0:18:46.07,Chn,,0,0,0,,卸下这些心理负担\N{\rEng}and sort of un-- unpack all this.
+Dialogue: 0,0:18:46.11,0:18:47.14,Chn,,0,0,0,,那你姥爷呢\N{\rEng}What about your grandpa?
+Dialogue: 0,0:18:47.18,0:18:48.66,Chn,,0,0,0,,他会想来一发吗 我可以等他\N{\rEng}Would he want to? I can wait.
+Dialogue: 0,0:18:48.70,0:18:50.01,Chn,,0,0,0,,不会的 你还是走吧\N{\rEng}No, I think you better go.
+Dialogue: 0,0:18:50.04,0:18:51.80,Chn,,0,0,0,,我想赶紧把澡洗了\N{\rEng}I-I'm gonna take that shower.
+Dialogue: 0,0:18:51.84,0:18:54.46,Chn,,0,0,0,,如果你是为了体验温热液体在身上流动\N{\rEng}If it's just warm liquid you want trickled over your body,
+Dialogue: 0,0:18:54.50,0:18:55.74,Chn,,0,0,0,,- 没准我可以 - 不用 听着\N{\rEng}I could maybe -- No, no, look.
+Dialogue: 0,0:18:55.77,0:18:57.15,Chn,,0,0,0,,我只是为了让自己干净\N{\rEng}I just want to be clean!
+Dialogue: 0,0:18:57.19,0:18:59.36,Chn,,0,0,0,,今天的经历让让让我觉得自己脏死了\N{\rEng}I-I-I feel dirty after everything that's happened.
+Dialogue: 0,0:18:59.40,0:19:02.09,Chn,,0,0,0,,那就来个快速手冲好了\N{\rEng}How about a quick hand bond?
+Dialogue: 0,0:19:02.13,0:19:05.75,Chn,,0,0,0,,- 我可喜欢了 - 给自己留个台阶下吧 我我我可关门了啊\N{\rEng}I like doing it. You're embarrassing yourself. I-I-I'm closing the door.
+Dialogue: 0,0:19:05.78,0:19:08.75,Chn,,0,0,0,,玩弄灵魂的垃圾\N{\rEng}Fucking soul teasers.
+Dialogue: 0,0:19:08.79,0:19:10.93,Chn,,0,0,0,,这车挺酷 我喜欢找乐子\N{\rEng}This is a cool car. I like having fun.
+Dialogue: 0,0:19:10.96,0:19:12.86,Chn,,0,0,0,,就是这样 一直开\N{\rEng}That's what I'm talking about. Keep it moving.
+Dialogue: 0,0:19:12.89,0:19:14.38,Chn,,0,0,0,,别问我为什么能说话\N{\rEng}Don't ask why I can talk.
+Dialogue: 0,0:19:16.14,0:19:18.52,Chn,,0,0,0,,当然 当然\N{\rEng}For sure. For sure.
+Dialogue: 0,0:19:18.56,0:19:19.97,Chn,,0,0,0,,咱们要去哪儿\N{\rEng}Where are we going?
+Dialogue: 0,0:19:20.01,0:19:22.39,Chn,,0,0,0,,得往量子水箱里加一点儿纳米水了\N{\rEng}Quantum radiator might need some nanowater.
+Dialogue: 0,0:19:22.42,0:19:24.49,Chn,,0,0,0,,我 我们可以舒展下双腿\N{\rEng}We -- We can stretch our legs.
+Dialogue: 0,0:19:29.84,0:19:33.16,Chn,,0,0,0,,所以 你为什么能说话\N{\rEng}So, uh, why can you talk?
+Dialogue: 0,0:19:33.19,0:19:34.54,Chn,,0,0,0,,这是什么\N{\rEng}What is this?
+Dialogue: 0,0:19:34.57,0:19:36.88,Chn,,0,0,0,,我要你定住别动来做个规整的思维扫描\N{\rEng}I need you in one spot for a clean mind scan.
+Dialogue: 0,0:19:36.92,0:19:39.06,Chn,,0,0,0,,思维扫描 听着 是你想太多了\N{\rEng}Mind scan? Look, you're overthinking it.
+Dialogue: 0,0:19:39.09,0:19:40.99,Chn,,0,0,0,,有一只会说话的猫出现 意义就在于让你学会找乐子\N{\rEng}The point of a talking cat is to have fun.
+Dialogue: 0,0:19:41.03,0:19:43.48,Chn,,0,0,0,,我发现你在暗示我不能问你问题\N{\rEng}I find the insinuation that I can't ask questions
+Dialogue: 0,0:19:43.51,0:19:45.00,Chn,,0,0,0,,还从这种居高临下中找到了乐子\N{\rEng}andhave fun condescending.
+Dialogue: 0,0:19:45.03,0:19:47.79,Chn,,0,0,0,,- 你感受到居高临下了吗 Jerry - 确实\N{\rEng}Y-You find it condescending, Jerry? Yes.
+Dialogue: 0,0:19:47.83,0:19:50.62,Chn,,0,0,0,,- 好吧 我来自外太空 满意了吗 - 不\N{\rEng}All right. I'm from outer space. Happy? No.
+Dialogue: 0,0:19:50.66,0:19:52.83,Chn,,0,0,0,,你看就是这样 没有一个答案会让人满意的\N{\rEng}Exactly, because no answer would be satisfying.
+Dialogue: 0,0:19:52.87,0:19:54.14,Chn,,0,0,0,,因为你在说谎\N{\rEng}Because it's a lie.
+Dialogue: 0,0:19:54.18,0:19:56.49,Chn,,0,0,0,,咱们来看看真相\N{\rEng}Let's see the truth.
+Dialogue: 0,0:19:56.52,0:19:57.56,Chn,,0,0,0,,这里面是\N{\rEng}What in the...
+Dialogue: 0,0:20:00.53,0:20:02.50,Chn,,0,0,0,,狗娘养的\N{\rEng}Oh, son of a bitch.
+Dialogue: 0,0:20:02.53,0:20:04.08,Chn,,0,0,0,,- Jerry 别 - 我想看\N{\rEng}Jerry, don't. I want to see.
+Dialogue: 0,0:20:04.12,0:20:06.05,Chn,,0,0,0,,不 你不想\N{\rEng}No, you do not.
+Dialogue: 0,0:20:08.19,0:20:11.33,Chn,,0,0,0,,不 不 不 不 不 不 不 不 不 不\N{\rEng}No, no, no, no, no, no, no, no, no, no!
+Dialogue: 0,0:20:11.37,0:20:13.58,Chn,,0,0,0,,事到如今 也许\N{\rEng}At least now maybe --
+Dialogue: 0,0:20:13.61,0:20:14.68,Chn,,0,0,0,,快给老子滚啊\N{\rEng}Get the hell out of here!
+Dialogue: 0,0:20:14.72,0:20:15.68,Chn,,0,0,0,,但我没地方可去了啊\N{\rEng}But I've got nowhere to go.
+Dialogue: 0,0:20:15.72,0:20:17.03,Chn,,0,0,0,,- 快滚 - 快滚\N{\rEng}Get out! Get out!
+Dialogue: 0,0:20:17.06,0:20:18.03,Chn,,0,0,0,,滚啊\N{\rEng}Get out!
+Dialogue: 0,0:20:25.94,0:20:30.35,Chn,,0,0,0,,我居然让他在放了我父母照片的房间里待着\N{\rEng}He was in my home where I keep photos of my parents.
+Dialogue: 0,0:20:30.39,0:20:31.49,Chn,,0,0,0,,Jerry 我有个装置\N{\rEng}Jerry, I have a device.
+Dialogue: 0,0:20:31.53,0:20:32.84,Chn,,0,0,0,,能让咱们忘了这些\N{\rEng}I-It can make us forget.
+Dialogue: 0,0:20:32.87,0:20:35.84,Chn,,0,0,0,,不 我认为我们不该忘\N{\rEng}No, I don't think we should forget,
+Dialogue: 0,0:20:35.88,0:20:37.29,Chn,,0,0,0,,这个不该忘\N{\rEng}not this.
+Dialogue: 0,0:20:37.33,0:20:39.43,Chn,,0,0,0,,总得有个人来记着\N{\rEng}Someone has to remember.
+Dialogue: 0,0:20:39.47,0:20:41.16,Chn,,0,0,0,,会有的\N{\rEng}Someone will.
+Dialogue: 0,0:20:43.23,0:20:44.44,Chn,,0,0,0,,咱们的飞船坠毁了吗\N{\rEng}Did we crash?
+Dialogue: 0,0:20:44.47,0:20:45.47,Chn,,0,0,0,,那只猫哪儿去了呢\N{\rEng}Where's the cat?
+Dialogue: 0,0:20:45.51,0:20:47.44,Chn,,0,0,0,,他啊 呃 跑了\N{\rEng}He, uh, ran away.
+Dialogue: 0,0:20:47.48,0:20:49.51,Chn,,0,0,0,,- 你给他做思维扫描了吗 - 做了\N{\rEng}Did you scan his brain? Yeah.
+Dialogue: 0,0:20:49.55,0:20:51.03,Chn,,0,0,0,,你弄清楚他为什么会说话了吗\N{\rEng}Did you find out why he can talk?
+Dialogue: 0,0:20:51.07,0:20:52.93,Chn,,0,0,0,,他是外太空来的\N{\rEng}He's from outer space.
+Dialogue: 0,0:20:52.96,0:20:54.79,Chn,,0,0,0,,外太空吗\N{\rEng}Outer space?
+Dialogue: 0,0:20:54.83,0:20:56.52,Chn,,0,0,0,,那只小\N{\rEng}That little --
+Dialogue: 0,0:20:56.55,0:20:59.97,Chn,,0,0,0,,是哦 可真他妈操脑啊\N{\rEng}Of course, total mind fuck.
+Dialogue: 0,0:21:35.59,0:21:37.73,Chn,,0,0,0,,看 这不就是传说中的拽梗吗\N{\rEng}Now, that's what I call draggin'.
+Dialogue: 0,0:21:37.77,0:21:39.08,Chn,,0,0,0,,- 什么 - 拽个梗而已\N{\rEng}What? It's a joke.
+Dialogue: 0,0:21:39.11,0:21:41.53,Chn,,0,0,0,,拽梗就是你们龙 龙拽着个什么玩意儿\N{\rEng}You're a dragon draggin' your stuff.
+Dialogue: 0,0:21:41.56,0:21:43.01,Chn,,0,0,0,,我懂\N{\rEng}I understand.
+Dialogue: 0,0:21:43.05,0:21:44.57,Chn,,0,0,0,,那请问 你过得怎么样啊\N{\rEng}So, how you doing?
+Dialogue: 0,0:21:44.60,0:21:46.57,Chn,,0,0,0,,我对你们人类累觉不爱\N{\rEng}I grow weary of you humans.
+Dialogue: 0,0:21:46.80,0:21:49.12,Chn,,0,0,0,,50块钱呢 你对50块钱也累觉不爱吗\N{\rEng}How about 50 bucks? You weary of 50 bucks?
+Dialogue: 0,0:21:49.15,0:21:50.57,Chn,,0,0,0,,我正想背着老婆偷腥\N{\rEng}I'm trying to cheat on my wife.
+Dialogue: 0,0:21:50.60,0:21:52.78,Chn,,0,0,0,,想找点魔幻的 奇妙的\N{\rEng}I'm looking for a little magic, a little fantasy.
+Dialogue: 0,0:21:52.81,0:21:54.78,Chn,,0,0,0,,你一定帮得上忙 我们互相帮助吧 怎么样\N{\rEng}You could use some help. Let's help each other, huh?
+Dialogue: 0,0:21:54.81,0:21:56.12,Chn,,0,0,0,,50块哦\N{\rEng}50 bucks.
+Dialogue: 0,0:21:59.67,0:22:01.29,Chn,,0,0,0,,- 骚货 - 棒\N{\rEng}Slut! Nice.
+Dialogue: 0,0:22:01.92,0:22:03.65,Chn,,0,0,0,,你能说人话是有原因的吗\N{\rEng}Is there a reason you can speak?
+Dialogue: 0,0:22:03.68,0:22:06.13,Chn,,0,0,0,,是的 而且我对此感到羞耻\N{\rEng}Yeah, and I'm ashamed of it.
+Dialogue: 0,0:22:06.17,0:22:08.76,Chn,,0,0,0,,那就不提它了\N{\rEng}Then speak of it no more.
+Dialogue: 0,0:22:08.79,0:22:11.76,Chn,,0,0,0,,你想吃点东西吗 也许还想稍微来一炮\N{\rEng}Do you wish to eat, maybe bond a little?
+Dialogue: 0,0:22:11.79,0:22:13.76,Chn,,0,0,0,,好啊 我可以来一炮的\N{\rEng}Yeah, I could bond.
+Dialogue: 0,0:22:13.80,0:22:15.94,Chn,,0,0,0,,你去佛罗里达要飞多久来着\N{\rEng}How long does it take you to fly to Florida?
+Dialogue: 0,0:22:17.35,0:22:18.94,Chn,,0,0,0,,看懂了么\N{\rEng}Did you get any of that?
