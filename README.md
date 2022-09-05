@@ -4,6 +4,8 @@
 
 > 在 [SubHD](https://subhd.tv/u/N-Bourbaki) 下载时建议开启广告拦截，如 Chrome 的 uBlock Origin、iOS 的 AdGuard 等。另外，使用境外 IP 下载 SubHD 的字幕，似乎可以规避扫码验证（我们仅仅友好地提供这一信息）。
 
+> [S06E01](https://subhd.tv/a/540095)
+
 > 下载字幕请点击右上方绿色 Code 按钮，再点 Download Zip 字样。或直接 [点这里](https://github.com/N-Bourbaki/Rick-and-Morty-Chinese-Subtitles/archive/refs/heads/master.zip)。
 
 这里是 Nicolas Bourbaki 的作品发布页。我们是专注于 *Rick and Morty* 中文字幕的非营利性团体，秉承开源、分享的互联网精神，为有溯源精神和搜索能力的观众提供服务，志在集众人力量输出最高质量的 *Rick and Morty* 双语外挂字幕。
