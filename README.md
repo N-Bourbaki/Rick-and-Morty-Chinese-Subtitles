@@ -6,7 +6,7 @@
 
 > [S06E01](https://subhd.tv/a/540095)
 
-突发：电波字幕组回归，**即日起我们暂停周更性的产出**。但此仓库的维护不会终止，即外挂字幕不会断档。详情请见上面 [S06E01](https://subhd.tv/a/540095) 的字幕说明区和评论区。
+突发：电波字幕组回归，**即日起我们暂停周更性的产出**。但此仓库的维护不会终止，即风格一致的外挂字幕不会永久断档。详情请见上面 [S06E01](https://subhd.tv/a/540095) 的字幕说明区和评论区。
 
 > 下载字幕请点击右上方绿色 Code 按钮，再点 Download Zip 字样。或直接 [点这里](https://github.com/N-Bourbaki/Rick-and-Morty-Chinese-Subtitles/archive/refs/heads/master.zip)。
 
