@@ -68,6 +68,7 @@
 * S04E03：[aboolou](https://github.com/aboolou)，一处语义修正；
 * S04E09：[Ntrv777](https://github.com/Ntrv777)，一处语义修正；
 * S05E03：[qianbinbin](https://github.com/qianbinbin)，一处语义修正。
+* S05E04：[FleTimePro](https://github.com/FleTimePro)，一处中文错字修正；
 
 wubba lubba dub dub
 
