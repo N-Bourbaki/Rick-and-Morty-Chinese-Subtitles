@@ -65,6 +65,7 @@
 * S01E05：[geeklihui](https://github.com/geeklihui)，一处中文错字修正；
 * S01E06：[geeklihui](https://github.com/geeklihui)，一处时间轴修正；
 * S01E07：[xzf525](https://github.com/xzf525)，一处中文错字修正；
+* S01E07：[aceliuchanghong](https://github.com/aceliuchanghong)，一处英文拼写修正；
 * S04E03：[aboolou](https://github.com/aboolou)，一处语义修正；
 * S04E09：[Ntrv777](https://github.com/Ntrv777)，一处语义修正；
 * S05E03：[qianbinbin](https://github.com/qianbinbin)，一处语义修正。
